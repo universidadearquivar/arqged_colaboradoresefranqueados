@@ -1,0 +1,2 @@
+# 🟩 Parâmetros Gerais
+
