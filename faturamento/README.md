@@ -2,7 +2,4 @@
 
 No menu Faturamento são apresentadas informações referentes ao faturamento das unidades Arquivar. O menu Faturamento é composto pelos seguintes submenus:
 
-1. [Índice de Reajuste](indice-de-reajuste.md)
-2. [Reajustar os Contratos](reajustar-os-contratos.md)
-3. [Serviços](servicos.md)
-4. [Relatório](relatorio.md)
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><mark style="color:green;"><strong>Índice de Reajuste</strong></mark> </td><td><a href="indice-de-reajuste.md">indice-de-reajuste.md</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Reajustar os Contratos</strong></mark></td><td><a href="reajustar-os-contratos.md">reajustar-os-contratos.md</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Serviços</strong></mark></td><td><a href="servicos.md">servicos.md</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Relatório</strong></mark></td><td><a href="relatorio.md">relatorio.md</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Parâmetros Gerais</strong></mark></td><td><a href="parametros-gerais.md">parametros-gerais.md</a></td></tr></tbody></table>
