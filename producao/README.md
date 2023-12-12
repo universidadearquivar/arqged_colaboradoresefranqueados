@@ -14,6 +14,4 @@ O menu Produção refere-se ao módulo ArqIndex do ArqGED. Quando os documentos 
 
 O menu Produção é composto pelos seguintes submenus:&#x20;
 
-1. [Cadastrar ](cadastrar.md)
-2. [Configurações ](configuracoes.md)
-3. [Correção do XML](correcao-do-xml.md)
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><mark style="color:green;"><strong>Cadastrar</strong></mark></td><td><a href="cadastrar.md">cadastrar.md</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Configurações</strong></mark></td><td><a href="configuracoes.md">configuracoes.md</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Correção do XML</strong></mark></td><td><a href="correcao-do-xml.md">correcao-do-xml.md</a></td></tr></tbody></table>
