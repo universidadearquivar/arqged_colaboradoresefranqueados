@@ -30,4 +30,8 @@ Neste menu são criados todos os tipos de estrutura possíveis dentro de uma Ár
 
 Clique no ícone “Adicionar”.&#x20;
 
-Informe o nome do tipo de estrutura. Deverá ser informado o nome nos idiomas Português (BR), Inglês (EUA) e Espanhol (ES).&#x20;
+<figure><img src="../.gitbook/assets/arvoredoc02.png" alt=""><figcaption></figcaption></figure>
+
+Informe o nome do tipo de estrutura. Deverá ser informado o nome nos idiomas Português (BR), Inglês (EUA) e Espanhol (ES). Clique em Salvar para concluir.
+
+<figure><img src="../.gitbook/assets/arvoredoc01.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
