@@ -7,5 +7,5 @@ Ao se decidir criar um tipo documental é preciso ​definir quais campos vão c
 <figure><img src="../.gitbook/assets/arvore8.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 {% hint style="info" %}
-<mark style="color:blue;">Ao criar o tipo documental Nota Fiscal, os campos “Número” e “Data” serão alguns dos</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**campos customizados**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">que deverão compor o documento e serão utilizados como indexadores para a localização das notas fiscais no sistema.</mark>
+<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Ao criar o tipo documental Nota Fiscal, os campos “Número” e “Data” serão alguns dos</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**campos customizados**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">que deverão compor o documento e serão utilizados como indexadores para a localização das notas fiscais no sistema.</mark>
 {% endhint %}

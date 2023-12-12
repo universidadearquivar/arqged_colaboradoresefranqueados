@@ -11,7 +11,7 @@ A estrutura organizacional deve ser cadastrada uma única vez, mesmo sendo utili
 <figure><img src="../.gitbook/assets/arvore5.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 {% hint style="info" %}
-<mark style="color:blue;">Uma empresa possui três filiais. Sua</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**estrutura do cliente**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">é composta pelos</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**tipos de estrutura:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Filial, Departamento e Documentos. Sua</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**estrutura organizacional**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">é composta pela Filial Belo Horizonte, Filial Salvador e Filial São Paulo, pelos Departamentos RH, Comercial e Financeiro e pelos Documentos Contrato, Ficha de Funcionário e Nota Fiscal.</mark>
+<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Uma empresa possui três filiais. Sua</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**estrutura do cliente**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">é composta pelos</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**tipos de estrutura:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Filial, Departamento e Documentos. Sua</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**estrutura organizacional**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">é composta pela Filial Belo Horizonte, Filial Salvador e Filial São Paulo, pelos Departamentos RH, Comercial e Financeiro e pelos Documentos Contrato, Ficha de Funcionário e Nota Fiscal.</mark>
 {% endhint %}
 
 ***
@@ -49,7 +49,7 @@ Selecione o Tipo de Estrutura que será utilizado. Os tipos de estrutura apresen
 Informe o nome da Estrutura Organizacional.
 
 {% hint style="info" %}
-<mark style="color:blue;">Se selecionado o tipo de estrutura “Filial”, informe o nome da cidade da filial: Belo Horizonte, São Paulo etc. Se selecionado o tipo de estrutura “Setor”, informe o nome do setor que está sendo cadastrado: RH, Comercial, Financeiro etc.</mark>
+<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Se selecionado o tipo de estrutura “Filial”, informe o nome da cidade da filial: Belo Horizonte, São Paulo etc. Se selecionado o tipo de estrutura “Setor”, informe o nome do setor que está sendo cadastrado: RH, Comercial, Financeiro etc.</mark>
 {% endhint %}
 
 Se no momento da criação da [Estrutura do Cliente](estrutura-do-cliente.md) tiver sido definido que será usada codificação para identificar a estrutura, o campo “Código” será mostrado. Informe um código numérico para identificar o item da estrutura organizacional que está sendo cadastrado.
