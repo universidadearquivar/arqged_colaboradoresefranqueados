@@ -1,6 +1,6 @@
 # 🟩 Estrutura do Cliente
 
-Ao se criar a Estrutura do Cliente estamos determinando quais Tipos de Estrutura serão utilizadas na sua árvore documental específica. &#x20;
+Ao se criar a Estrutura do Cliente estamos determinando quais [Tipos de Estrutura](tipo-de-estrutura.md) serão utilizadas na sua árvore documental específica. &#x20;
 
 Para exibir a estrutura de um cliente, selecione-o no campo “Cliente”.&#x20;
 
@@ -42,7 +42,7 @@ Para exibir a estrutura de um cliente, selecione-o no campo “Cliente”.&#x20;
 
 <figure><img src="../.gitbook/assets/arvoredoc03.png" alt=""><figcaption></figcaption></figure>
 
-Selecione o tipo de estrutura que deseja cadastrar na árvore do cliente selecionado. Os tipos de estrutura apresentados aqui foram criados anteriormente no menu Tipo de Estrutura.  &#x20;
+Selecione o tipo de estrutura que deseja cadastrar na árvore do cliente selecionado. Os tipos de estrutura apresentados aqui foram criados anteriormente no menu [Tipo de Estrutura](tipo-de-estrutura.md).  &#x20;
 
 Informe se o tipo de estrutura selecionado terá controle de Tabela de Temporalidade Documental (TTD). O controle de TTD é utilizado para definir o prazo em que um documento que for inserido na estrutura que está sendo criada pode ser expurgado ou eliminado. &#x20;
 
