@@ -21,6 +21,4 @@ Existem dois tipos de lista no sistema: &#x20;
 
 O menu Lista é composto pelos seguintes submenus:
 
-1. [Criar Listas](criar-listas.md)
-2. [Configurar](configurar.md)
-
+<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><mark style="color:green;"><strong>Criar Listas</strong></mark></td><td><a href="criar-listas.md">criar-listas.md</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Configurar</strong></mark></td><td><a href="configurar.md">configurar.md</a></td></tr></tbody></table>
