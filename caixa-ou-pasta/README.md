@@ -2,9 +2,4 @@
 
 No menu Caixa ou Pasta são criadas as caixas e pastas disponibilizadas aos clientes e unidades franqueadas da Arquivar. O menu Caixa ou Pasta é composto pelos seguintes submenus:
 
-1. [Tipo de Caixa ou Pasta](tipo-de-caixa-ou-pasta.md)
-2. [Configurar](../lista/configurar.md)
-3. [Pesquisar](pesquisar.md)
-4. [Criar](criar.md)
-5. [Alocar e Desalocar](alocar-e-desalocar.md)
-6. [Excluir](excluir.md)
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><mark style="color:green;"><strong>Tipo de Caixa ou Pasta</strong></mark></td><td><a href="tipo-de-caixa-ou-pasta.md">tipo-de-caixa-ou-pasta.md</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Configurar</strong></mark></td><td><a href="configurar.md">configurar.md</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Pesquisar</strong></mark></td><td><a href="pesquisar.md">pesquisar.md</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Criar</strong></mark></td><td><a href="criar.md">criar.md</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Alocar e Desalocar</strong></mark></td><td><a href="alocar-e-desalocar.md">alocar-e-desalocar.md</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Excluir</strong></mark></td><td><a href="excluir.md">excluir.md</a></td></tr></tbody></table>
