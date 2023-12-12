@@ -56,3 +56,9 @@ O menu Árvore Documental é composto pelos seguintes submenus:
 4. [Campo Customizado](campo-customizado.md)
 5. [Árvore Organizacional](arvore-organizacional.md)
 6. [Ordenação Campos](ordenacao-campos.md)
+
+
+
+
+
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><mark style="color:green;"><strong>Tipo de Estrutura</strong></mark></td><td><a href="tipo-de-estrutura.md">tipo-de-estrutura.md</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Estrutura do Cliente</strong></mark></td><td><a href="estrutura-do-cliente.md">estrutura-do-cliente.md</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Estrutura Organizacional</strong></mark></td><td><a href="estrutura-organizacional.md">estrutura-organizacional.md</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Campo Customizado</strong></mark></td><td><a href="campo-customizado.md">campo-customizado.md</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Árvore Organizacional</strong></mark></td><td><a href="arvore-organizacional.md">arvore-organizacional.md</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Ordenação Campos</strong></mark></td><td><a href="ordenacao-campos.md">ordenacao-campos.md</a></td></tr></tbody></table>
