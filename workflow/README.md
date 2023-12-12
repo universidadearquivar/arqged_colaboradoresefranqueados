@@ -18,13 +18,9 @@ O Workflow é um módulo integrado do ArqGED que possibilita a criação de flux
 
 O menu WorkFlow é utilizado para realizar o mapeamento dos fluxos de trabalho. Neste menu são elaborados os fluxogramas dos processos da empresa. O menu WorkFlow é composto pelos seguintes submenus:
 
-1. [Atividades](atividades/)
-2. [Calendários](calendarios.md)
-3. [Horários de Trabalho](horarios-de-trabalho.md)
-4. [Grupos de Usuários](grupo-de-usuarios.md)
-5. [Formulário](formulario.md)
-6. [Desenho do Fluxo](desenho-do-fluxo/)
-7. [Substituição de Pessoas](substituicao-de-pessoas.md)
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><mark style="color:green;"><strong>Atividades</strong></mark></td><td><a href="atividades/">atividades</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Calendários</strong></mark></td><td><a href="calendarios.md">calendarios.md</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Horários de Trabalho</strong></mark></td><td><a href="horarios-de-trabalho.md">horarios-de-trabalho.md</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Grupo de Usuários</strong></mark></td><td><a href="grupo-de-usuarios.md">grupo-de-usuarios.md</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Formulário</strong></mark></td><td><a href="formulario.md">formulario.md</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Desenho do Fluxo</strong></mark></td><td><a href="desenho-do-fluxo/">desenho-do-fluxo</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Substituição de Pessoas</strong></mark></td><td><a href="substituicao-de-pessoas.md">substituicao-de-pessoas.md</a></td></tr></tbody></table>
+
+***
 
 ## Workflow - Pré-requisitos <a href="#workflow-pre-requisitos" id="workflow-pre-requisitos"></a>
 
