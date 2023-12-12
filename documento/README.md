@@ -4,8 +4,4 @@ No menu Documento são cadastrados, gerenciados e disponibilizados todos os docu
 
 O menu Documento é composto pelos seguintes submenus: &#x20;
 
-1. [Cadastrar](cadastrar.md)
-2. [Explorar](explorar.md)
-3. [Localização Simples](localizacao-simples.md)
-4. [Localização Avançada](localizacao-avancada.md)
-5. [Download em Massa](download-em-massa.md)
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><mark style="color:green;"><strong>Cadastrar</strong></mark></td><td><a href="cadastrar.md">cadastrar.md</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Explorar</strong></mark></td><td><a href="explorar.md">explorar.md</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Localização Simples</strong></mark></td><td><a href="localizacao-simples.md">localizacao-simples.md</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Localização Avançada</strong></mark></td><td><a href="localizacao-avancada.md">localizacao-avancada.md</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Download em Massa</strong></mark></td><td><a href="download-em-massa.md">download-em-massa.md</a></td></tr></tbody></table>
