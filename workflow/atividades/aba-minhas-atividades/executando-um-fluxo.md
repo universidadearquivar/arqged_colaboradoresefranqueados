@@ -432,7 +432,7 @@ Os nomes das obrigatoriedades serão exibidos de forma diferente da maneira apre
 
 2\. Na tela de assinatura, selecione se o documento será assinado por Assinatura Eletrônica ou por Certificado Digital.&#x20;
 
-3\. Se a assinatura for digital e for a primeira vez que o usuário estiver assinando um documento usando a plataforma, será solicitado que o usuário informe seus dados pessoais e crie uma senha para assinar o documento. Se não for a primeira vez, será solicitado apenas o e-mail e senha do usuário.&#x20;
+3\. Se a assinatura for eletrônica e for a primeira vez que o usuário estiver assinando um documento usando a plataforma, será solicitado que o usuário informe seus dados pessoais e crie uma senha para assinar o documento. Se não for a primeira vez, será solicitado apenas o e-mail e senha do usuário.&#x20;
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Os dados solicitados variam de acordo com a escolha do usuário entre assinar como pessoa  física ou pessoa jurídica.**</mark>&#x20;
