@@ -38,7 +38,7 @@ Na aba Dados Cadastrais são cadastradas as informações do cliente, como nome,
 
 **Idioma:** Nesta tela o usuário deve definir o idioma do cliente, que pode ser Português, Inglês ou Espanhol.&#x20;
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="color:orange;">**A definição do idioma realizada aqui irá interferir no idioma das telas mostradas aos signatários em**</mark> [<mark style="color:blue;">**ações externas de assinatura de documentos do Workflow**</mark><mark style="color:orange;">**.**</mark> ](../workflow/atividades/aba-minhas-atividades/executando-um-fluxo.md#5.-acoes-de-assinatura)

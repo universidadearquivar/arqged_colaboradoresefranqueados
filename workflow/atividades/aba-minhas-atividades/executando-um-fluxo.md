@@ -432,15 +432,23 @@ Os nomes das obrigatoriedades serão exibidos de forma diferente da maneira apre
 
 2\. Na tela de assinatura, selecione se o documento será assinado por Assinatura Eletrônica ou por Certificado Digital.&#x20;
 
-3\. Se for Assinatura Digital e for a primeira vez que o usuário estiver assinando um documento usando a plataforma, será solicitado que o usuário informe seus dados pessoais e crie uma senha para assinar o documento. Se não for a primeira vez, será solicitado apenas o e-mail e senha do usuário.&#x20;
+3\. Se a assinatura for digital e for a primeira vez que o usuário estiver assinando um documento usando a plataforma, será solicitado que o usuário informe seus dados pessoais e crie uma senha para assinar o documento. Se não for a primeira vez, será solicitado apenas o e-mail e senha do usuário.&#x20;
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Os dados solicitados variam de acordo com a escolha do usuário entre assinar como pessoa  física ou pessoa jurídica.**</mark>&#x20;
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-4\. Se for assinatura via Certificado Digital, será necessário selecionar o certificado que será utilizado para a assinatura. &#x20;
+É importante destacar que a tela de assinatura apresentada ao usuário externo acompanha o idioma escolhido pelo cliente detentor do documento no menu [Cliente > Dados Cadastrais > Aba Dados Cadastrais](../../../cliente/dados-cadastrais.md#aba-dados-cadastrais). Caso o idioma escolhido seja Espanhol, a tela será apresentada nesse idioma e será solicitado o NIT do signatário.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Caso o idioma escolhido seja Inglês, a tela será apresentada nesse idioma e será solicitado o número do seguro social do signatário e, no caso de pessoas jurídicas, outras informações específicas.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+4\. Se a assinatura for via Certificado Digital, será necessário selecionar o certificado que será utilizado para a assinatura. &#x20;
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Só será possível realizar a assinatura via Certificado Digital se o aplicativo ArqClient estiver devidamente instalado e configurado no computador do usuário.**</mark>
