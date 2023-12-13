@@ -27,3 +27,19 @@ No menu Dados Cadastrais são exibidas todas as informações dos clientes da un
 **Ícone Excluir:** Utilizado para excluir o cliente selecionado.&#x20;
 
 <figure><img src="../.gitbook/assets/clientes2 (1).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+## Cadastro de Cliente
+
+### Aba Dados Cadastrais
+
+Na aba Dados Cadastrais são cadastradas as informações do cliente, como nome, razão social, CPF/CNPJ etc.
+
+**Idioma:** Nesta tela o usuário deve definir o idioma do cliente, que pode ser Português, Inglês ou Espanhol.&#x20;
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+<mark style="color:orange;">**A definição do idioma realizada aqui irá interferir no idioma das telas mostradas aos signatários em**</mark> [<mark style="color:blue;">**ações externas de assinatura de documentos do Workflow**</mark><mark style="color:orange;">**.**</mark> ](../workflow/atividades/aba-minhas-atividades/executando-um-fluxo.md#5.-acoes-de-assinatura)
+{% endhint %}
