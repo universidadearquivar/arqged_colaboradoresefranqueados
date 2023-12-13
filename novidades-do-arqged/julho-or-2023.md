@@ -14,7 +14,7 @@ Anteriormente, esse Tipo de Responsável somente era avançado com 100% das exec
 
 Os detalhes dessas funcionalidades estão na página [Workflow > Desenho do Fluxo > Configurações da Tarefa](../workflow/desenho-do-fluxo/aba-fluxograma.md#configuracoes-da-tarefa).
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 </details>
 

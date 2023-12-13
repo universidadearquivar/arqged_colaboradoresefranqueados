@@ -434,7 +434,11 @@ Os nomes das obrigatoriedades serão exibidos de forma diferente da maneira apre
 
 3\. Se for Assinatura Digital e for a primeira vez que o usuário estiver assinando um documento usando a plataforma, será solicitado que o usuário informe seus dados pessoais e crie uma senha para assinar o documento. Se não for a primeira vez, será solicitado apenas o e-mail e senha do usuário.&#x20;
 
-<figure><img src="../../../.gitbook/assets/obrig36.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+{% hint style="warning" %}
+<mark style="color:orange;">**Os dados solicitados variam de acordo com a escolha do usuário entre assinar como pessoa  física ou pessoa jurídica.**</mark>&#x20;
+{% endhint %}
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 4\. Se for assinatura via Certificado Digital, será necessário selecionar o certificado que será utilizado para a assinatura. &#x20;
 
