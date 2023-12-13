@@ -448,7 +448,7 @@ Os nomes das obrigatoriedades serão exibidos de forma diferente da maneira apre
 
 </div>
 
-É importante destacar que a tela de assinatura apresentada ao usuário externo acompanha o idioma escolhido pelo cliente detentor do documento no menu [Cliente > Dados Cadastrais > Aba Dados Cadastrais](../../../cliente/dados-cadastrais.md#aba-dados-cadastrais). Caso o idioma escolhido seja Espanhol, a tela será apresentada nesse idioma e será solicitado o NIT do signatário.&#x20;
+É importante destacar que a tela de assinatura apresentada ao usuário externo acompanha o idioma escolhido pelo cliente detentor do documento no menu [Cliente > Dados Cadastrais > Aba Dados Cadastrais](../../../cliente/dados-cadastrais.md#aba-dados-cadastrais). Caso o idioma escolhido seja Espanhol, a tela será apresentada nesse idioma e será solicitado o NIT do signatário e, no caso de pessoas jurídicas, outras informações específicas.
 
 <div>
 
