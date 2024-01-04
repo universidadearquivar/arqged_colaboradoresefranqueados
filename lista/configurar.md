@@ -64,7 +64,7 @@ Clicando no ícone “Campos da lista” serão exibidos todos os campos que com
 
 <figure><img src="../.gitbook/assets/lista24.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-Serão exibidos todos os campos que foram definidos como importação obrigatória na tela Lista > Criar Listas. Para editar as configurações de um campo, clique no ícone “Editar”.
+Serão exibidos todos os campos que foram definidos como importação obrigatória na tela [Lista > Criar Listas. ](criar-listas.md)Para editar as configurações de um campo, clique no ícone “Editar”.
 
 <figure><img src="../.gitbook/assets/lista25.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
