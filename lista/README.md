@@ -16,7 +16,7 @@ Ao se criar uma lista associa-se a ela uma série de campos. Na criação da ár
 
 Existem dois tipos de lista no sistema: &#x20;
 
-* **Consolidação:** A lista de Consolidação permite a inclusão de informações durante a indexação, ou seja, se no momento de cadastrar um documento composto por uma lista eu informar um dado de pessoa ou empresa ainda não informado anteriormente, o sistema permitirá que eu insira os dados manualmente naquele momento e a partir daí, nas próximas vezes que utilizar um documento com essa mesma lista, ele extrairá as informações automaticamente. A lista de Consolidação é utilizada para auditoria dentro do sistema &#x20;
+* **Consolidação:** A lista de Consolidação permite a inclusão de informações durante a indexação, ou seja, se no momento de cadastrar um documento composto por uma lista eu informar um dado de pessoa ou empresa ainda não informado anteriormente, o sistema permitirá que eu insira os dados manualmente naquele momento. A partir daí, nas próximas vezes que utilizar um documento com essa mesma lista, ele extrairá as informações automaticamente. A lista de Consolidação é utilizada para auditoria dentro do sistema &#x20;
 * **Auto Complete:** Na lista Auto Complete só é permitido incluir informações antes da indexação, como itens de lista. A lista de Auto Complete não pode ser utilizada para auditoria. &#x20;
 
 O menu Lista é composto pelos seguintes submenus:
