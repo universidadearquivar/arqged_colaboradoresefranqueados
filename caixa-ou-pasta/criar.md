@@ -38,7 +38,7 @@ Para criar uma caixa do cliente, selecione-o no campo “Cliente” e clique no 
 
 Selecione o “Tipo de Caixa” e a quantidade de caixas ou pastas que estão sendo criadas. Informe também se deseja criar subcaixas associadas à caixa que está sendo criada.&#x20;
 
-<figure><img src="../.gitbook/assets/caixa12.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/caixa12 (1).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Os tipos de caixa exibidos aqui para seleção aqui devem ter sido anteriormente vinculados à unidade no menu**</mark> [<mark style="color:blue;">**Caixa ou Pasta > Configurar**</mark>](configurar.md)<mark style="color:blue;">**.**</mark>
