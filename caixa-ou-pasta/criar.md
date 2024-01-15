@@ -26,7 +26,7 @@ Informe quantas caixas estão sendo criadas e a que serviço de guarda serão as
 
 Nesta tela deve ser definido também o local de armazenamento das caixas que estão sendo criadas dentro do galpão da unidade.&#x20;
 
-<figure><img src="../.gitbook/assets/caixa10.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/caixa10 (1).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 ***
 
@@ -34,7 +34,7 @@ Nesta tela deve ser definido também o local de armazenamento das caixas que est
 
 Para criar uma caixa do cliente, selecione-o no campo “Cliente” e clique no ícone “Adicionar”.&#x20;
 
-<figure><img src="../.gitbook/assets/caixa11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/caixa11 (1).png" alt=""><figcaption></figcaption></figure>
 
 Selecione o “Tipo de Caixa” e a quantidade de caixas ou pastas que estão sendo criadas. Informe também se deseja criar subcaixas associadas à caixa que está sendo criada.&#x20;
 
