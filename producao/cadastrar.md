@@ -9,3 +9,8 @@ Ao clicar em um deles é aberta a imagem para que os campos indexadores sejam ca
 Na parte esquerda da tela é exibida a imagem escaneada do documento. Na parte direita são apresentados os campos que devem ser preenchidos pelo operador de produção. &#x20;
 
 <figure><img src="../.gitbook/assets/producao2.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
+
+```
+Tags: #arqindex
+```
+
