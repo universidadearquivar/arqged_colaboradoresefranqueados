@@ -11,6 +11,6 @@ Na parte esquerda da tela é exibida a imagem escaneada do documento. Na parte d
 <figure><img src="../.gitbook/assets/producao2.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 ```
-Tags: #arqindex
+Tags: ArqIndex
 ```
 
