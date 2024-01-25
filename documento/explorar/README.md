@@ -100,7 +100,7 @@ Para exibir uma coluna, selecione-a no campo à esquerda e clique no ícone “>
 
 ### Digitalizar documento&#x20;
 
-Ao clicar neste ícone o usuário será direcionado para o [módulo ArqScan](arqscan.md) para que seja feita a indexação do registro selecionado. &#x20;
+Ao clicar neste ícone o usuário será direcionado para o [módulo ArqScan](modulo-arqscan.md) para que seja feita a indexação do registro selecionado. &#x20;
 
 <figure><img src="../../.gitbook/assets/doc31.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 

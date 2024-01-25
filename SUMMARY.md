@@ -36,7 +36,7 @@
 * [📓 Documento](documento/README.md)
   * [🟩 Cadastrar](documento/cadastrar.md)
   * [🟩 Explorar](documento/explorar/README.md)
-    * [🔹 ArqScan](documento/explorar/arqscan.md)
+    * [🔹 Módulo ArqScan](documento/explorar/modulo-arqscan.md)
   * [🟩 Localização Simples](documento/localizacao-simples.md)
   * [🟩 Localização Avançada](documento/localizacao-avancada.md)
   * [🟩 Download em Massa](documento/download-em-massa.md)
