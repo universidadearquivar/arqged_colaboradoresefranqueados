@@ -65,4 +65,15 @@ Ao clicar em uma imagem digitalizada será possível expandi-la para visualizaç
 
 Voltando à tela inicial do ArqScan, clicando com o botão direito do mouse sobre uma imagem será possível:&#x20;
 
-Excluir: Exclui a página selecionada.
+**Excluir:** Exclui a página selecionada.
+
+<figure><img src="../../.gitbook/assets/arqscan10.png" alt=""><figcaption></figcaption></figure>
+
+**Girar:** Permite girar a página selecionada em 90° à direita ou à esquerda e em 180°.&#x20;
+
+<figure><img src="../../.gitbook/assets/arqscan11.png" alt=""><figcaption></figcaption></figure>
+
+**Ordenação:** Alterar a ordenação da imagem selecionada, enviando a para o início, para o fim ou para uma posição específica entre as páginas digitalizadas.&#x20;
+
+<figure><img src="../../.gitbook/assets/arqscan12.png" alt=""><figcaption></figcaption></figure>
+
