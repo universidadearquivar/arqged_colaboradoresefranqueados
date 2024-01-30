@@ -51,3 +51,18 @@ O acesso ao módulo ArqScan deve ser feito na tela Documento > Explorar, clicand
 
 ***
 
+## Digitalizando documentos&#x20;
+
+Para iniciar a digitalização de um documento, insira-o no aparelho de scanner e na tela do ArqScan clique no ícone “Digitalizar”. As páginas serão digitalizadas e exibidas na tela.&#x20;
+
+<figure><img src="../../.gitbook/assets/arqscan07.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/arqscan08.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
+
+Ao clicar em uma imagem digitalizada será possível expandi-la para visualização. Na tela de visualização da imagem também será possível rotacioná-la para a direita e esquerda, girá-la 180° e mover a imagem. Na paginação na parte inferior será possível navegar entre as imagens digitalizadas.&#x20;
+
+\[arqscan09]&#x20;
+
+Voltando à tela inicial do ArqScan, clicando com o botão direito do mouse sobre uma imagem será possível:&#x20;
+
+Excluir: Exclui a página selecionada.
