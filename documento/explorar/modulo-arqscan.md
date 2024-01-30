@@ -59,9 +59,9 @@ Para iniciar a digitalização de um documento, insira-o no aparelho de scanner 
 
 <figure><img src="../../.gitbook/assets/arqscan08.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-Ao clicar em uma imagem digitalizada será possível expandi-la para visualização. Na tela de visualização da imagem também será possível rotacioná-la para a direita e esquerda, girá-la 180° e mover a imagem. Na paginação na parte inferior será possível navegar entre as imagens digitalizadas.&#x20;
+Ao clicar em uma imagem digitalizada será possível expandi-la para visualização. Na tela de visualização da imagem também será possível rotaciona-la para a direita e esquerda, girá-la 180° e mover a imagem. Na paginação na parte inferior será possível navegar entre as imagens digitalizadas.&#x20;
 
-\[arqscan09]&#x20;
+<figure><img src="../../.gitbook/assets/arqscan09.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 Voltando à tela inicial do ArqScan, clicando com o botão direito do mouse sobre uma imagem será possível:&#x20;
 
