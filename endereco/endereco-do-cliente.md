@@ -42,7 +42,7 @@ Para criar um espaço de armazenamento siga os passos a seguir: &#x20;
 
 <figure><img src="../.gitbook/assets/endereco20.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-3\. Definir os níveis de armazenamento usando códigos e números ou somente números. Os níveis de armazenamento são uma forma de dividir e organizar os locais que receberão as caixas, como armários, prateleiras, estantes, gavetas, posições etc. É preciso também informar a quantidade de posições de cada um dos níveis de armazenamento.&#x20;
+3\. Defina os níveis de armazenamento usando códigos e números ou somente números. Os níveis de armazenamento são uma forma de dividir e organizar os locais que receberão as caixas, como armários, prateleiras, estantes, gavetas, posições etc. É preciso também informar a quantidade de posições de cada um dos níveis de armazenamento.&#x20;
 
 <figure><img src="../.gitbook/assets/endereco21.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
