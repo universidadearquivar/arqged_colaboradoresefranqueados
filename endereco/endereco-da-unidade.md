@@ -87,3 +87,51 @@ Nesta aba também é possível baixar uma lista com todos os endereços automát
 <figure><img src="../.gitbook/assets/endereco11.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 </div>
+
+***
+
+### Aba Reserva&#x20;
+
+Na aba Reserva é possível bloquear ou direcionar o endereçamento de um galpão, rua, estante ou prateleira. &#x20;
+
+Na parte direita da tela, na sub aba Reserva/Bloqueio selecione se o endereçamento que está sendo reservado será:&#x20;
+
+**Automático:** permite apenas o endereçamento de posições criadas como automáticas na aba Criação. &#x20;
+
+**Bloqueado:** Ao selecionar essa opção, o endereço reservado será bloqueado, não podendo receber caixas. Essa opção pode ser utilizada para que um espaço com limitações estruturais ou que estiver interditado não seja reservado erroneamente.&#x20;
+
+**Livre:** Selecionando essa opção o endereçamento será feito de forma livre, ou seja, poderão ser alocadas caixas em posições criadas manualmente ou de forma automática.&#x20;
+
+**Manual:** Selecionando essa opção o endereçamento será feito de forma manual, devendo ser informado o galpão, rua, estante e prateleira que será reservado. Só poderão ser alocadas caixas em posições criadas manualmente. &#x20;
+
+<figure><img src="../.gitbook/assets/endereco12.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+É possível reservar um endereço para um cliente específico ou para determinado tipo de caixa. Se feitas essas seleções, aquele endereço reservado só receberá caixas do cliente selecionado ou do tipo de caixa definido.&#x20;
+
+Selecione se a reserva será exclusiva ou de priorização. Se for exclusiva, a reserva será feita exclusivamente para o cliente selecionado, ou seja, o endereço não poderá receber caixas de outros clientes e as caixas do cliente selecionado não poderão ser alocadas em outros endereços. Se a reserva for de priorização será dada prioridade ao cliente selecionado, mas se não houver espaço disponível as caixas dele poderão ser alocadas em outros endereços. Clique em “Salvar” para concluir a reserva.&#x20;
+
+<figure><img src="../.gitbook/assets/endereco13.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Na sub aba Visualizar Reserva é possível visualizar as reservas de endereço feitas. Par isso, basta navegar pelas posições no lado esquerdo da tela. Se houver reservas feitas elas serão exibidas. &#x20;
+
+<figure><img src="../.gitbook/assets/endereco14.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+***
+
+### Aba Ordem&#x20;
+
+Na aba Ordem é possível definir a ordem de preenchimento dos espaços de armazenamento e informar quais são os endereços de fácil acesso dentro do galpão. Para fazer essas definições, selecione o galpão.&#x20;
+
+<figure><img src="../.gitbook/assets/endereco15.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Endereços definidos como de fácil acesso são aqueles onde é mais fácil acessar as caixas de documentos para consulta, como prateleiras mais baixas que não precisam de escada para acesso, na parte dianteira da estante e mais próximas da porta do galpão. Para definir um endereço de fácil acesso, selecione o galpão e informe os endereços desejados, de acordo com a posição e clique no ícone “Adicionar”.&#x20;
+
+<figure><img src="../.gitbook/assets/endereco16.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Ordenação do endereçamento é a definição da melhor forma de preencher o galpão, de baixo para cima. Essa definição é utilizada para informar ao sistema a ordem de como os locais de armazenamento devem ser preenchidos, independente do endereço, levando em consideração a estrutura física do galpão.&#x20;
+
+{% hint style="warning" %}
+<mark style="color:orange;">**O ideal é que a ordem de endereçamento comece pela prateleira, já que assim o sistema vai verificar primeiramente qual a prateleira mais baixa disponível para receber um volume. Depois, a posição ou quadrante.  Em seguida, a estante e por último a rua. Dessa forma, o galpão será preenchido de baixo para cima sem o risco, por exemplo, de caixas serem alocadas nas prateleiras mais altas de uma estante, mesmo com prateleiras mais baixas disponíveis em outras estantes e ruas do galpão.**</mark> &#x20;
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/endereco17.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
