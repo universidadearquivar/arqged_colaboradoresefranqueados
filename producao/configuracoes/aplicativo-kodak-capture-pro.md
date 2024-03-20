@@ -2,13 +2,17 @@
 
 Depois de instalado o aplicativo ArqIndex, é preciso configurar o aplicativo do scanner que irá realizar a digitalização dos documentos. &#x20;
 
-IMPORTANTE: Essa configuração deverá ser feita em todas as máquinas indexadoras e varia de acordo com a marca e modelo do scanner que será utilizado. A seguir, vamos apresentar as configurações feitas para scanners da marca Kodak, que é a usualmente utilizadas nas unidades Arquivar. Essas configurações devem ser feitas a cada novo cliente da unidade.&#x20;
+{% hint style="warning" %}
+<mark style="color:orange;">**Essa configuração deverá ser feita em todas as máquinas indexadoras e varia de acordo com a marca e modelo do scanner que será utilizado. A seguir, vamos apresentar as configurações feitas para scanners da marca Kodak, que é a usualmente utilizadas nas unidades Arquivar. Essas configurações devem ser feitas a cada novo cliente da unidade.**</mark>&#x20;
+{% endhint %}
 
-Configuração de trabalho&#x20;
+***
+
+## Configuração de trabalho
 
 Esta é a configuração da estrutura de saída do arquivo, ou seja, a estrutura de pastas onde as imagens que serão digitalizadas pelo scanner ficarão armazenadas. Para iniciar, clique em Arquivo > Configuração de trabalho.&#x20;
 
-\[app13]&#x20;
+<figure><img src="../../.gitbook/assets/app13.png" alt=""><figcaption></figcaption></figure>
 
 Selecione o “Nome do trabalho”, que é a configuração feita o cliente específico. Geralmente é o nome do próprio cliente.&#x20;
 
