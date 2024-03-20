@@ -12,6 +12,21 @@ O menu Produção refere-se ao módulo ArqIndex do ArqGED. Quando os documentos 
 <mark style="color:blue;">**4º -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">É feito o cadastro das informações de cada um dos documentos no sistema a partir da imagem, ou seja, o operador visualiza a imagem do documento físico para cadastrar os metadados que aquele documento contém, como nome, matrícula, CPF ou CNPJ, entre outros. Também é cadastrado no sistema o código da caixa em que a versão física daquele documento está arquivada.</mark> &#x20;
 {% endhint %}
 
+***
+
+## Pré-requisitos para a utilização do ArqIndex&#x20;
+
+1. Serviço ArqIndex no contrato da unidade/cliente, devidamente cadastrado no menu Cliente > Contratos (esse serviço é necessário para que se consiga fazer as configurações necessárias à utilização e acesso do robô responsável pela leitura, gravação e importação do XML). &#x20;
+2. Serviço ArqStorage Total ou ArqStorage Ativo no contrato da unidade/cliente, devidamente cadastrado no menu Cliente > Contratos (esse serviço é necessário para que se consiga fazer o processo de exportação dos documentos indexados para o ArqGED).&#x20;
+3. Local de trabalho configurado para a unidade ou o cliente. O local de trabalho é onde são configuradas as pastas de entrada, processo e exportação utilizadas pelo ArqIndex e onde são visualizados os logs de indexação, conversão e exportação. Essa configuração é realizada no menu Produção > Configurações > Parâmetros Gerais.&#x20;
+4. Fluxo de trabalho criado para a unidade ou cliente, para definir as etapas que o robô deve executar para concluir a indexação. Essa criação é feita no menu Produção > Configurações > Fluxo de Trabalho. &#x20;
+5. Criação de um usuário cliente ou unidade com a permissão ArqIndex devidamente parametrizada na tela Administração > Usuários > Aba Permissões I > Perfil de acesso: Gestão ArqINDEX.&#x20;
+6. Definição das árvores organizacionais que serão utilizadas com os respectivos campos customizados ou lista que serão digitalizados definidos.&#x20;
+7. Definição dos Ids da Unidade, do Cliente, dos campos customizados e das árvores organizacionais que serão utilizados para indexação.&#x20;
+8. Códigos de caixa já definidos caso sejam indexações de guarda. &#x20;
+
+
+
 O menu Produção é composto pelos seguintes submenus:&#x20;
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><mark style="color:green;"><strong>Cadastrar</strong></mark></td><td><a href="cadastrar.md">cadastrar.md</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Configurações</strong></mark></td><td><a href="configuracoes.md">configuracoes.md</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Correção do XML</strong></mark></td><td><a href="correcao-do-xml.md">correcao-do-xml.md</a></td></tr></tbody></table>
