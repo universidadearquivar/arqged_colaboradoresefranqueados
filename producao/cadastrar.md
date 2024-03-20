@@ -25,7 +25,7 @@ Serão exibidos todos os arquivos daquele local de trabalho que estão aguardand
 <figure><img src="../.gitbook/assets/cad05.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Antes de começar a indexação é preciso dar o play no “Host das Imagens” e em “Todos os processos” no aplicativo ArqIndex.**</mark>&#x20;
+<mark style="color:orange;">**Antes de começar a indexação é preciso**</mark> [<mark style="color:blue;">**dar o play no “Host das Imagens” e em “Todos os processos” no aplicativo ArqIndex.**</mark> ](configuracoes/aplicativo-arqindex.md)
 
 <img src="../.gitbook/assets/cad06.png" alt="" data-size="original">
 {% endhint %}
