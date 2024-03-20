@@ -44,7 +44,7 @@ Ao longo do processo de indexação um arquivo de documento fica hospedado em di
 
 **Host/IP:** Endereço da máquina onde o robô do ArqIndex está instalado.&#x20;
 
-Esses campos ficam desabilitados nessa tela porque a sua configuração deve ser feita quando o aplicativo (robô) for instalado. As configurações feitas durante a instalação do aplicativo ArqIndex são espelhadas nessa tela.  &#x20;
+Esses campos ficam desabilitados nessa tela porque a sua configuração deve ser feita quando o aplicativo (robô) for instalado. As configurações feitas durante a [instalação do aplicativo ArqIndex](aplicativo-arqindex.md#instalacao-do-aplicativo-arqindex) são espelhadas nessa tela.  &#x20;
 
 <figure><img src="../../.gitbook/assets/conf03.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
