@@ -68,7 +68,7 @@ Ao clicar em “Bloquear” o XML é bloqueado, ou seja, caso outros usuários t
 
 <figure><img src="../.gitbook/assets/conf21.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-No campo “Conteúdo do XML para visualização” é exibido um grid com os Ids de todos os documentos daquele lote, a identificação da caixa em que os documentos estão armazenados e o caminho no servidor onde as imagens relacionadas a esses documentos estão gravadas (pasta de entrada configurada no local de trabalho).    &#x20;
+No campo “Conteúdo do XML para visualização” é exibido um grid com os Ids de todos os documentos daquele lote, a identificação da caixa em que os documentos estão armazenados e o caminho no servidor onde as imagens relacionadas a esses documentos estão gravadas[ (pasta de entrada configurada no local de trabalho).     ](configuracoes/aplicativo-arqindex.md#configurar-parametros)
 
 <figure><img src="../.gitbook/assets/conf22.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
