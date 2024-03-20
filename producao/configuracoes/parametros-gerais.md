@@ -18,7 +18,7 @@ No menu Parâmetros Gerais são configurados os locais de trabalho do servidor p
 
 **Coluna Local de Trabalho:** Mostra o nome dado ao local de trabalho.    &#x20;
 
-<figure><img src="../../.gitbook/assets/conf01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conf01.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 ***
 
@@ -26,13 +26,13 @@ No menu Parâmetros Gerais são configurados os locais de trabalho do servidor p
 
 Para iniciar a configuração de um local de trabalho, selecione a "Empresa" e clique no ícone "Adicionar".
 
-<figure><img src="../../.gitbook/assets/conf27.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conf27.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 ### Aba Dados Gerais&#x20;
 
 Na tela “Adicionar Registro”, informe um nome para o local de trabalho que está sendo configurado.  &#x20;
 
-<figure><img src="../../.gitbook/assets/conf02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conf02.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 Ao longo do processo de indexação um arquivo de documento fica hospedado em diferentes locais do servidor, chamados de “Diretório para Armazenamento”.
 
@@ -46,7 +46,7 @@ Ao longo do processo de indexação um arquivo de documento fica hospedado em di
 
 Esses campos ficam desabilitados nessa tela porque a sua configuração deve ser feita quando o aplicativo (robô) for instalado. As configurações feitas durante a instalação do aplicativo ArqIndex são espelhadas nessa tela.  &#x20;
 
-<figure><img src="../../.gitbook/assets/conf03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conf03.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 Em “Programação do processamento do Robô” é definida a periodicidade da leitura dos arquivos XML, da indexação automática, da conversão e da exportação dos arquivos do cliente, que são as rotinas do processo de indexação de um documento executadas pelo próprio sistema.  &#x20;
 
@@ -56,7 +56,7 @@ Esses campos definem a periodicidade em que cada um dos processos deve ocorrer, 
 <mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">É possível que o usuário queira definir que os processos do robô sejam executados em um horário em que não há concorrência no uso da máquina. Neste caso, pode ser definido, por exemplo, o horário pré-definido 17:00 às 08:00.</mark>   &#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/conf04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conf04.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 ***
 
@@ -66,7 +66,7 @@ Depois de configurado um local de trabalho, clicando no ícone “Visualizar” 
 
 No campo “Processo” selecione a etapa do fluxo de trabalho da qual deseja visualizar os logs executados.&#x20;
 
-<figure><img src="../../.gitbook/assets/conf05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conf05.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 **Coluna Tipo:** Nesta coluna é apresentado o ícone que representa o tipo de log, que pode ser de informação ou de erro.&#x20;
 
@@ -78,4 +78,4 @@ No campo “Processo” selecione a etapa do fluxo de trabalho da qual deseja vi
 
 **Coluna Descrição:** Apresenta informações do log ou os erros encontrados no processamento do arquivo, se houverem.&#x20;
 
-<figure><img src="../../.gitbook/assets/conf06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conf06.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
