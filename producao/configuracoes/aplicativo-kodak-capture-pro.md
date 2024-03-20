@@ -18,7 +18,7 @@ Selecione o “Nome do trabalho”, que é a configuração feita o cliente espe
 
 <figure><img src="../../.gitbook/assets/app14.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-Na aba “Captura”, por padrão o “Local da digitalização temporária” é a pasta C:\ScanPro\\. Selecione o “Local do processamento das imagens”, que deve ser a pasta “Entrada” do local de trabalho, anteriormente criada durante as configurações dos parâmetros do aplicativo ArqIndex. Clique em “Aplicar” para concluir&#x20;
+Na aba “Captura”, por padrão o “Local da digitalização temporária” é a pasta C:\ScanPro\\. Selecione o “Local do processamento das imagens”, que deve ser a [pasta “Entrada” do local de trabalho, anteriormente criada durante as configurações dos parâmetros do aplicativo ArqIndex](aplicativo-arqindex.md#configurar-parametros). Clique em “Aplicar” para concluir&#x20;
 
 <figure><img src="../../.gitbook/assets/app15.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
