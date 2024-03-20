@@ -16,7 +16,7 @@ Esta é a configuração da estrutura de saída do arquivo, ou seja, a estrutura
 
 Selecione o “Nome do trabalho”, que é a configuração feita o cliente específico. Geralmente é o nome do próprio cliente.&#x20;
 
-\[app14]&#x20;
+<figure><img src="../../.gitbook/assets/app14.png" alt=""><figcaption></figcaption></figure>
 
 Na aba “Captura”, por padrão o “Local da digitalização temporária” é a pasta C:\ScanPro\\. Selecione o “Local do processamento das imagens”, que deve ser a pasta “Entrada” do local de trabalho, anteriormente criada durante as configurações dos parâmetros do aplicativo ArqIndex. Clique em “Aplicar” para concluir&#x20;
 
