@@ -75,5 +75,5 @@ Depois de concluir o preenchimento dos campos, clique em “Indexar”. Atente-s
 <figure><img src="../.gitbook/assets/cad16.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Depois de indexado, não será possível visualizar o arquivo novamente. Somente será possível verificar o log acessando o menu**</mark> [<mark style="color:blue;">**Configurações > Parâmetros Gerais > Visualizar > Aba Log**</mark>](configuracoes/#parametros-gerais)<mark style="color:orange;">**, onde deverá ser selecionada a etapa seguinte à indexação definida no**</mark>[ <mark style="color:blue;">**Fluxo de Trabalho.**</mark> ](configuracoes/#fluxo-de-trabalho)
+<mark style="color:orange;">**Depois de indexado, não será possível visualizar o arquivo novamente. Somente será possível verificar o log acessando o menu**</mark> [<mark style="color:blue;">**Configurações > Parâmetros Gerais > Visualizar > Aba Log**</mark>](configuracoes.md#parametros-gerais)<mark style="color:orange;">**, onde deverá ser selecionada a etapa seguinte à indexação definida no**</mark>[ <mark style="color:blue;">**Fluxo de Trabalho.**</mark> ](configuracoes.md#fluxo-de-trabalho)
 {% endhint %}

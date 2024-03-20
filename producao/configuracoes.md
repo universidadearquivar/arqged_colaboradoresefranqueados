@@ -16,11 +16,11 @@ No menu Parâmetros Gerais são configurados os caminhos do servidor para o clie
 
 Neste menu é definida também a periodicidade da leitura dos arquivos XML, da indexação automática, da conversão e da exportação dos arquivos do cliente, que são as rotinas do processo de indexação de um documento executadas pelo próprio sistema. &#x20;
 
-<figure><img src="../../.gitbook/assets/producao3.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/producao3.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 Na aba Log são apresentados os logs do robô de processamento, ou seja, as informações de todas as movimentações dos processos que foram realizados nos arquivos escaneados e indexados. &#x20;
 
-<figure><img src="../../.gitbook/assets/producao4.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/producao4.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 ***
 
@@ -28,12 +28,12 @@ Na aba Log são apresentados os logs do robô de processamento, ou seja, as info
 
 Neste menu é configurado o processo de trabalho de indexação de cada cliente, ou seja, o passo a passo para que a indexação de documentos daquele cliente seja feita. Para isso, é preciso selecionar a Empresa cliente.
 
-<figure><img src="../../.gitbook/assets/producao5.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/producao5.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 Na aba Dados Gerais, depois de selecionar a empresa é possível editar os fluxos criados ou desenhar um novo fluxo.&#x20;
 
-<figure><img src="../../.gitbook/assets/producao6.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/producao6.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 Na aba Fluxo é possível definir quais etapas irão compor o processo de indexação do cliente.  &#x20;
 
-<figure><img src="../../.gitbook/assets/producao7.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/producao7.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
