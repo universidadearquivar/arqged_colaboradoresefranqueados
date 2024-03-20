@@ -127,7 +127,7 @@ cx="Codigo da Caixa
 
 ***
 
-## Criação do nome de XML&#x20;
+### Criação do nome de XML&#x20;
 
 Na aba Saída deve ser configurado o nome do XML que será gerado para cada documento digitalizado. Selecione a opção “Arquivo de índice do documento” e clique em “Configurar”.&#x20;
 
