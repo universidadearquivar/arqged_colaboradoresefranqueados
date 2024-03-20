@@ -20,7 +20,7 @@ Neste menu é configurado o processo de trabalho de indexação de cada cliente,
 
 **Coluna Nome do Fluxo:** Mostra o nome dado ao fluxo de trabalho criado.&#x20;
 
-<figure><img src="../../.gitbook/assets/conf07.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conf07.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 ***
 
@@ -28,7 +28,7 @@ Neste menu é configurado o processo de trabalho de indexação de cada cliente,
 
 Para iniciar a configuração de um novo fluxo de trabalho, selecione o cliente no campo “Empresa” e clique no ícone “Adicionar”.&#x20;
 
-<figure><img src="../../.gitbook/assets/conf08.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conf08.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 ### Aba Dados Gerais&#x20;
 
@@ -36,17 +36,17 @@ Na aba Dados Gerais os campos “Unidade” e “Cliente” serão preenchidos a
 
 Selecione o local de trabalho onde o fluxo será configurado. Os locais de trabalho exibidos aqui foram anteriormente cadastrados no menu [Produção > Configurações > Parâmetros Gerais](parametros-gerais.md).  &#x20;
 
-<figure><img src="../../.gitbook/assets/conf09.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conf09.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 No campo “Nome do Fluxo” informe o nome que será dado ao fluxo de trabalho que está sendo criado. Clique em “Salvar” para concluir.&#x20;
 
-<figure><img src="../../.gitbook/assets/conf10.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conf10.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 Depois de salvar o fluxo será habilitado o campo “Combinações de Estrutura para Fluxos de Exceção”, que deverá ser utilizado caso haja mais de um fluxo para o mesmo cliente. &#x20;
 
-<figure><img src="../../.gitbook/assets/conf11.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conf11.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/conf12.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conf12.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 Se houver apenas um fluxo cadastrado para o cliente, toda a sua árvore organizacional utilizará o mesmo fluxo para indexação, mas se houver mais de um fluxo cadastrado para o cliente é possível definir em que nível da árvore do cliente aquele fluxo será utilizado. &#x20;
 
@@ -64,7 +64,7 @@ Na aba Fluxo é possível definir quais etapas irão compor o processo de indexa
 
 Por padrão as etapas de “Leitura do XML” e “Indexação Manual” já vêm selecionadas para compor as etapas do processo do robô, não podendo ser desmarcadas. É possível apenas selecionar ou desmarcar as demais etapas apresentadas.   &#x20;
 
-<figure><img src="../../.gitbook/assets/conf13.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conf13.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 **Leitura de XML:** Etapa de leitura dos documentos inseridos no scanner. O robô faz a leitura dos documentos transformando-os em arquivos XML e de imagem na ferramenta.&#x20;
 
@@ -96,7 +96,7 @@ Se marcada a opção “Pular Indexação Manual” essa etapa poderá deixar de
 <mark style="color:orange;">**Para que seja possível pular a etapa de indexação manual é preciso que os campos dos documentos que estão sendo digitalizados tenham sido preenchidos de forma correta. Caso haja erros no preenchimento de qualquer um dos campos, o processo não irá pular a etapa, devendo ser feita a indexação manual pelo usuário.**</mark>&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/conf15.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conf15.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 Se marcada a opção “Deletar os “Arquivos em Processo” após a etapa de conversão”, será feita a exclusão dos arquivos convertidos com sucesso para a etapa de exportação. Isso significa que os arquivos convertidos ficarão disponíveis apenas na pasta de exportação e, após a exportação para o ArqGED ser concluída, serão excluídos definitivamente, ficando disponíveis para consulta apenas no ArqGED.&#x20;
 
@@ -104,4 +104,4 @@ Se marcada a opção “Deletar os “Arquivos em Processo” após a etapa de c
 <mark style="color:orange;">**Se essa opção não for habilitada, o arquivo será mantido na pasta de processo mesmo após ser convertido e exportado para o ArqGED, o que pode comprometer a disponibilidade de espaço em disco.**</mark>&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/conf16.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conf16.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
