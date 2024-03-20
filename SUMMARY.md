@@ -46,6 +46,7 @@
     * [🔹 Parâmetros Gerais](producao/configuracoes/parametros-gerais.md)
     * [🔹 Fluxo de Trabalho](producao/configuracoes/fluxo-de-trabalho.md)
     * [🔹 Aplicativo ArqIndex](producao/configuracoes/aplicativo-arqindex.md)
+    * [🔹 Aplicativo Kodak Capture Pro](producao/configuracoes/aplicativo-kodak-capture-pro.md)
   * [🟩 Correção do XML](producao/correcao-do-xml.md)
 * [📦 Caixa ou Pasta](caixa-ou-pasta/README.md)
   * [🟩 Tipo de Caixa ou Pasta](caixa-ou-pasta/tipo-de-caixa-ou-pasta.md)
