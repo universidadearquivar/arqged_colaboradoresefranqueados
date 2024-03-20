@@ -16,7 +16,7 @@ Também pode ocorrer, por exemplo, uma falha de conexão ou de rede durante o pr
 
 Depois de selecionar o Local de Trabalho e a Empresa, são exibidos todos os arquivos XML com erro que não puderam ser processados. Caso seja escolhida uma unidade Arquivar, serão exibidos todos os arquivos de clientes com erro. &#x20;
 
-<figure><img src="../.gitbook/assets/conf17.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/conf17.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 ***
 
@@ -40,7 +40,7 @@ Depois de selecionar o Local de Trabalho e a Empresa, são exibidos todos os arq
 * _Parcialmente processado:_ Arquivo que foi processado parcialmente. &#x20;
 * _Bloqueado:_ Arquivo bloqueado para novas tentativas de processamento. &#x20;
 
-<figure><img src="../.gitbook/assets/conf18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/conf18.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 **Exibir os Lotes em Processamento:** Essa opção deve ser marcada para que sejam exibidos arquivos com os status “Em processamento” e “Parcialmente processado”.&#x20;
 
@@ -54,7 +54,7 @@ Depois de selecionar o Local de Trabalho e a Empresa, são exibidos todos os arq
 
 **Ícone Excluir:** Utilizado para excluir o arquivo. &#x20;
 
-<figure><img src="../.gitbook/assets/conf19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/conf19.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 ***
 
@@ -62,26 +62,26 @@ Depois de selecionar o Local de Trabalho e a Empresa, são exibidos todos os arq
 
 Ao clicar no ícone “Visualizar” é exibida a tela Dados Gerais do XML, na qual é possível ver todas as informações do lote de arquivos XML (Local de Trabalho), Unidade, Cliente e Nome XML). &#x20;
 
-<figure><img src="../.gitbook/assets/conf20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/conf20.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 Ao clicar em “Bloquear” o XML é bloqueado, ou seja, caso outros usuários também estejam executando correções de XML, serão informados de que aquele lote está impedido de ser processado novamente. &#x20;
 
-<figure><img src="../.gitbook/assets/conf21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/conf21.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 No campo “Conteúdo do XML para visualização” é exibido um grid com os Ids de todos os documentos daquele lote, a identificação da caixa em que os documentos estão armazenados e o caminho no servidor onde as imagens relacionadas a esses documentos estão gravadas (pasta de entrada configurada no local de trabalho).    &#x20;
 
-<figure><img src="../.gitbook/assets/conf22.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/conf22.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 Ao clicar em “Erros do Lote” são exibidos todos os erros encontrados no arquivo XML dos documentos. Como um arquivo XML é composto por um lote de documentos, podem ser encontrados diversos tipos de erros em um mesmo arquivo. &#x20;
 
-<figure><img src="../.gitbook/assets/conf24 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/conf24 (1).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/conf23 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/conf23 (1).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 Quando o XML está bloqueado, os campos “Campos a Alterar”, “De” e “Para” são habilitados. Para proceder a correção é preciso verificar qual o erro do lote que se deseja corrigir e em “Campos a Alterar” selecionar o campo que deve ser corrigido. No campo “De” será exibida a informação atual que consta no XML. No campo “Para” deve-se inserir a informação correta que deve substituir a atual. Para concluir a correção, clique em “Alterar” e confirme clicando em “Sim”.&#x20;
 
-<figure><img src="../.gitbook/assets/conf25.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/conf25.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 Depois de executar a mudança, clique em “Desbloquear”. O lote que estava com status “Com erro” será alterado para “Aguardando”, ou seja, entrará novamente na fila de trabalho para que seja novamente processado pelo robô.&#x20;
 
-<figure><img src="../.gitbook/assets/conf26.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/conf26.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
