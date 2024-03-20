@@ -3,7 +3,7 @@
 Na tela Endereço da Unidade são mostradas todas as unidades Arquivar.
 
 {% hint style="warning" %}
-<mark style="color:orange;">**As unidades mostradas nesta tela foram anteriormente cadastradas no**</mark> [<mark style="color:orange;">**menu Unidade**</mark>](../)<mark style="color:orange;">**.**</mark>
+<mark style="color:orange;">**As unidades mostradas nesta tela foram anteriormente cadastradas no**</mark> [<mark style="color:orange;">**menu Unidade**</mark>](<../README (1).md>)<mark style="color:orange;">**.**</mark>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/endereco01.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>

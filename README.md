@@ -1,5 +1,7 @@
-# 🏛 Unidade
+# 🟢 Página inicial
 
-No menu Unidades são exibidas todas as unidades franqueadas da Arquivar. Todo serviço que será realizado para os clientes deve ser executado por alguma unidade, logo o objetivo deste menu é exibir os dados cadastrais de todas as unidades franqueadas. O menu Unidades é composto pelos seguintes submenus:&#x20;
+Bem-vindo(a) ao manual do sistema ArqGED da Arquivar!
 
-<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><mark style="color:green;"><strong>Dados Cadastrais</strong></mark></td><td><a href="unidade/dados-cadastrais.md">dados-cadastrais.md</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Endereços</strong></mark></td><td><a href="unidade/enderecos.md">enderecos.md</a></td></tr></tbody></table>
+O software ArqGED é um BPM (Business Process Management), desenvolvido pela Arquivar que **possibilita a digitalização, gerenciamento e armazenamento de documentos** importantes em um ambiente virtual seguro, acessível apenas por usuários autorizados.
+
+Neste manual você encontrará diversos conteúdos que te ajudarão a utilizar nossa ferramenta da melhor forma. Utilize a navegação à esquerda para conhecer as funcionalidades de cada menu do software ArqGED.
