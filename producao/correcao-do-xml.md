@@ -49,32 +49,40 @@ Depois de selecionar o Local de Trabalho e a Empresa, são exibidos todos os arq
 **Ícone Atualizar status para Aguardando:** Caso o arquivo não contenha erros em sua estrutura, deve-se clicar neste botão para atualizar seu status para “Aguardando”.&#x20;
 
 {% hint style="info" %}
-EXEMPLO: Durante o processamento de um lote de arquivos houve uma falha na conexão com o servidor, e parte desses arquivos não pôde ser processada. Os arquivos foram para a tela de Correção do XML com o status “Com erro”, mas neste caso não precisam ser corrigidos pois não há erros em sua estrutura. Basta que se execute um novo processamento mudando o status dos arquivos para “Aguardando” para que eles entrem na fila do robô e sejam novamente processados.  &#x20;
+<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Durante o processamento de um lote de arquivos houve uma falha na conexão com o servidor, e parte desses arquivos não pôde ser processada. Os arquivos foram para a tela de Correção do XML com o status “Com erro”, mas neste caso não precisam ser corrigidos pois não há erros em sua estrutura. Basta que se execute um novo processamento mudando o status dos arquivos para “Aguardando” para que eles entrem na fila do robô e sejam novamente processados.</mark>  &#x20;
 {% endhint %}
 
+**Ícone Excluir:** Utilizado para excluir o arquivo. &#x20;
 
+<figure><img src="../.gitbook/assets/conf19.png" alt=""><figcaption></figcaption></figure>
 
-Ícone Excluir: Utilizado para excluir o arquivo o arquivo. &#x20;
+***
 
-\[conf19]&#x20;
-
-Dados Gerais do XML&#x20;
+## Dados Gerais do XML&#x20;
 
 Ao clicar no ícone “Visualizar” é exibida a tela Dados Gerais do XML, na qual é possível ver todas as informações do lote de arquivos XML (Local de Trabalho), Unidade, Cliente e Nome XML). &#x20;
 
-\[conf20]&#x20;
+<figure><img src="../.gitbook/assets/conf20.png" alt=""><figcaption></figcaption></figure>
 
 Ao clicar em “Bloquear” o XML é bloqueado, ou seja, caso outros usuários também estejam executando correções de XML, serão informados de que aquele lote está impedido de ser processado novamente. &#x20;
 
-\[conf21]&#x20;
+<figure><img src="../.gitbook/assets/conf21.png" alt=""><figcaption></figcaption></figure>
 
 No campo “Conteúdo do XML para visualização” é exibido um grid com os Ids de todos os documentos daquele lote, a identificação da caixa em que os documentos estão armazenados e o caminho no servidor onde as imagens relacionadas a esses documentos estão gravadas (pasta de entrada configurada no local de trabalho).    &#x20;
 
-\[conf22]&#x20;
+<figure><img src="../.gitbook/assets/conf22.png" alt=""><figcaption></figcaption></figure>
 
 Ao clicar em “Erros do Lote” são exibidos todos os erros encontrados no arquivo XML dos documentos. Como um arquivo XML é composto por um lote de documentos, podem ser encontrados diversos tipos de erros em um mesmo arquivo. &#x20;
 
-\[conf24] \[conf23]&#x20;
+<div>
+
+<figure><img src="../.gitbook/assets/conf23.png" alt="" width="563"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/conf24 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Quando o XML está bloqueado, os campos “Campos a Alterar”, “De” e “Para” são habilitados. Para proceder a correção é preciso verificar qual o erro do lote que se deseja corrigir e em “Campos a Alterar” selecionar o campo que deve ser corrigido. No campo “De” será exibida a informação atual que consta no XML. No campo “Para” deve-se inserir a informação correta que deve substituir a atual. Para concluir a correção, clique em “Alterar” e confirme clicando em “Sim”.&#x20;
 
