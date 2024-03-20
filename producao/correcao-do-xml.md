@@ -74,20 +74,14 @@ No campo “Conteúdo do XML para visualização” é exibido um grid com os Id
 
 Ao clicar em “Erros do Lote” são exibidos todos os erros encontrados no arquivo XML dos documentos. Como um arquivo XML é composto por um lote de documentos, podem ser encontrados diversos tipos de erros em um mesmo arquivo. &#x20;
 
-<div>
-
-<figure><img src="../.gitbook/assets/conf23.png" alt="" width="563"><figcaption></figcaption></figure>
-
- 
-
 <figure><img src="../.gitbook/assets/conf24 (1).png" alt=""><figcaption></figcaption></figure>
 
-</div>
+<figure><img src="../.gitbook/assets/conf23 (1).png" alt=""><figcaption></figcaption></figure>
 
 Quando o XML está bloqueado, os campos “Campos a Alterar”, “De” e “Para” são habilitados. Para proceder a correção é preciso verificar qual o erro do lote que se deseja corrigir e em “Campos a Alterar” selecionar o campo que deve ser corrigido. No campo “De” será exibida a informação atual que consta no XML. No campo “Para” deve-se inserir a informação correta que deve substituir a atual. Para concluir a correção, clique em “Alterar” e confirme clicando em “Sim”.&#x20;
 
-\[conf25]&#x20;
+<figure><img src="../.gitbook/assets/conf25.png" alt=""><figcaption></figcaption></figure>
 
 Depois de executar a mudança, clique em “Desbloquear”. O lote que estava com status “Com erro” será alterado para “Aguardando”, ou seja, entrará novamente na fila de trabalho para que seja novamente processado pelo robô.&#x20;
 
-\[conf26]&#x20;
+<figure><img src="../.gitbook/assets/conf26.png" alt=""><figcaption></figcaption></figure>
