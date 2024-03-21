@@ -16,6 +16,8 @@ Um mesmo modelo de caixa física pode ser utilizado por diferentes tipos de caix
 <mark style="color:blue;">Devido à estrutura física, algumas prateleiras do galpão recebem apenas caixas totalmente fechadas. Outras conseguem alocar caixas com a tampa suspensa que ocupam maior espaço. Quando for feita a criação e endereçamento de um Tipo de Caixa ou Pasta, apesar de ambas utilizarem o material “caixa de papelão 20 kg”, deverá ser criado no sistema o tipo adequado ao espaço que será ocupado.</mark>&#x20;
 {% endhint %}
 
+***
+
 ### Configuração - Tela inicial
 
 <figure><img src="../.gitbook/assets/est03.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
@@ -39,6 +41,8 @@ Um mesmo modelo de caixa física pode ser utilizado por diferentes tipos de caix
 **Coluna Nome do Estoque:** Exibe o nome dado ao tipo de caixa física.
 
 <figure><img src="../.gitbook/assets/est02.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+***
 
 ### &#x20;Criação de uma Caixa de Estoque
 
@@ -90,6 +94,8 @@ No menu Movimentação são lançadas as movimentações de entrada (compra) e s
 
 <figure><img src="../.gitbook/assets/est09.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
+***
+
 ### Movimentação - Tela inicial
 
 **Campo Unidade:** Exibe a Unidade Arquivar.
@@ -115,6 +121,8 @@ No menu Movimentação são lançadas as movimentações de entrada (compra) e s
 **Coluna Cliente:** Exibe o nome do cliente para o qual aquela movimentação de caixa física foi realizada.
 
 <figure><img src="../.gitbook/assets/est11.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+***
 
 ### Registro de Movimentação de Caixa de Estoque
 
