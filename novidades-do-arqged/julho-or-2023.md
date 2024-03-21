@@ -1,4 +1,4 @@
-# ▫ Julho | 2023
+# ▫️ Julho | 2023
 
 
 
@@ -33,7 +33,7 @@ Anteriormente, esta coluna era exibida somente em etapa com obrigatoriedade de s
 
 Os detalhes dessas funcionalidades estão na página [Workflow > Atividades > Aba Minhas Atividades > Executando um fluxo](../workflow/atividades/aba-minhas-atividades/executando-um-fluxo.md).&#x20;
 
-![](<../.gitbook/assets/image (4) (1).png>)
+![](<../.gitbook/assets/image (9).png>)
 
 </details>
 

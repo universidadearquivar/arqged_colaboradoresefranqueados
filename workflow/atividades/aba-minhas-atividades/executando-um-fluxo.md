@@ -1,4 +1,4 @@
-# ➡ Executando um fluxo
+# ➡️ Executando um fluxo
 
 ## Ativar Novo Fluxo
 
@@ -444,7 +444,7 @@ Os nomes das obrigatoriedades serão exibidos de forma diferente da maneira apre
 
  
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Assinatura de pessoa jurídica. Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Assinatura de pessoa jurídica. Clique na imagem para ampliar.</p></figcaption></figure>
 
 </div>
 
@@ -456,7 +456,7 @@ Os nomes das obrigatoriedades serão exibidos de forma diferente da maneira apre
 
  
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Assinatura de pessoa jurídica em Espanhol. Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Assinatura de pessoa jurídica em Espanhol. Clique na imagem para ampliar.</p></figcaption></figure>
 
 </div>
 
@@ -464,11 +464,11 @@ Caso o idioma escolhido seja Inglês, a tela será apresentada nesse idioma e se
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Assinatura de pessoa física em Inglês. Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Assinatura de pessoa física em Inglês. Clique na imagem para ampliar.</p></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Assinatura de pessoa jurídica em Inglês. Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption><p>Assinatura de pessoa jurídica em Inglês. Clique na imagem para ampliar.</p></figcaption></figure>
 
 </div>
 

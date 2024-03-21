@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🟢 Página inicial](README.md)
-* [🏛️ Unidade](<README (1).md>)
+* [🏛️ Unidade](unidade/README.md)
   * [🟩 Dados Cadastrais](unidade/dados-cadastrais.md)
   * [🟩 Endereços](unidade/enderecos.md)
 * [🏬 Cliente](cliente/README.md)
@@ -43,7 +43,7 @@
   * [🟩 Download em Massa](documento/download-em-massa.md)
 * [🏭 Produção](producao/README.md)
   * [🟩 Cadastrar](producao/cadastrar.md)
-  * [🟩 Configurações](producao/configuracoes.md)
+  * [🟩 Configurações](producao/configuracoes/README.md)
     * [🔹 Parâmetros Gerais](producao/configuracoes/parametros-gerais.md)
     * [🔹 Fluxo de Trabalho](producao/configuracoes/fluxo-de-trabalho.md)
     * [🔹 Aplicativo ArqIndex](producao/configuracoes/aplicativo-arqindex.md)
