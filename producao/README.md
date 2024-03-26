@@ -9,11 +9,11 @@ A indexação é o processo de cadastrar os metadados de identificação de um d
 {% hint style="info" %}
 <mark style="color:blue;">**1º -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Para cada documento digitalizado é gerada uma imagem em um arquivo XML conforme a configuração do scanner. O arquivo XML pode conter um ou mais documentos digitalizados. Esses arquivos gerados são armazenados em uma pasta configurada na aplicação ArqIndex como "Local dos Arquivos de Entrada".</mark>   &#x20;
 
-<mark style="color:blue;">**2º -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">O ArqIndex lê o arquivo XML e envia o documento para a fila de trabalho.</mark>&#x20;
+<mark style="color:blue;">**2º -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">A aplicação ArqIndex por meio do processo de Leitura do XMLencontra o arquivo XML, realiza a validação e o processamento dos documentos e os envia para a fila de indexação conforme a configuração do fluxo.</mark>&#x20;
 
-<mark style="color:blue;">**3º -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">O operador de produção da unidade Arquivar acessa as imagens dos documentos escaneados.</mark>&#x20;
+<mark style="color:blue;">**3º -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Por meio do menu Produção um colaborador da Unidade terá acesso aos documentos criados e suas respectivas imagens para indexação.</mark>&#x20;
 
-<mark style="color:blue;">**4º -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">É feito o cadastro das informações de cada um dos documentos no sistema a partir da imagem, ou seja, o operador visualiza a imagem do documento físico para cadastrar os metadados que aquele documento contém, como nome, matrícula, CPF ou CNPJ, entre outros. Também é cadastrado no sistema o código da caixa em que a versão física daquele documento está arquivada.</mark> &#x20;
+<mark style="color:blue;">**4º -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">No processo de indexação é feito o cadastro dos dados de cada um dos documentos a partir das informações da imagem, ou seja, o operador abre um documento, visualiza sua imagem e preenche os metadados conforme os campos configurados para a árvore documental, como por exemplo nome, matrícula, CPF ou CNPJ, entre outros.</mark> &#x20;
 {% endhint %}
 
 ***
