@@ -6,7 +6,7 @@ No menu Parâmetros Gerais são configurados os locais de trabalho que serão po
 <mark style="color:blue;">**Local de trabalho**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">é o termo utilizado para configuração criada com os parâmetros de execução da aplicação ArqIndex. Por exemplo, a Unidade Arquivar Qualidade possui um local de trabalho chamado "Documentos de Funcionários".</mark>
 {% endhint %}
 
-O nome do local de trabalho pode ser aquele que o usuário desejar. Posteriormente esse local criado será relacionado a um fluxo de trabalho e associado à aplicação ArquIndex.&#x20;
+O nome do local de trabalho pode ser aquele que o usuário desejar. Posteriormente esse local criado será relacionado a um fluxo de trabalho e associado à aplicação ArqIndex.&#x20;
 
 ## Parâmetros Gerais – Tela inicial&#x20;
 
