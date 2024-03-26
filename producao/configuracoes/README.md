@@ -1,6 +1,6 @@
 # 🟩 Configurações
 
-No menu Configurações é configurado o robô do ArqIndex no servidor que está armazenando as imagens do cliente em processamento e definido o fluxo do processo de indexação de cada cliente.
+No menu Configurações são cadastrados os parâmetros para utilização da aplicação ArqIndex e definidas as etapas de fluxo do processo de indexação para cada cliente.
 
 O menu Configurações é composto pelos seguintes submenus:
 
