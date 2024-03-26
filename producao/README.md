@@ -1,9 +1,13 @@
 # 🏭 Produção
 
-O menu Produção refere-se ao módulo ArqIndex do ArqGED. Quando os documentos de um cliente são digitalizados, são adicionados a uma fila de trabalho, que posteriormente é acessada pelos operadores do setor de produção da unidade Arquivar que atende a esse cliente para indexação. A indexação é o processo de cadastrar os metadados de identificação de um documento a partir de sua imagem escaneada, e esse processo é feito por meio do menu Produção.
+O menu Produção refere-se ao módulo ArqIndex do ArqGED. Este menu refere-se à configuração do processo de indexação dos documentos, como controle de filas de trabalho, configuração das etapas de indexação e possíveis correções de documentos digitalizados.&#x20;
+
+Quando os documentos de um cliente são digitalizados por este menu, é possível acompanhar todo o processo de digitalização, desde a criação dos documentos, indexação dos metadados e sua exportação para a aplicação ArqGED.&#x20;
+
+A indexação é o processo de cadastrar os metadados de identificação de um documento a partir de sua imagem escaneada. Essa indexação é realizada pelos operadores do setor de produção por meio de uma tela deste menu, possibilitando controle das filas de indexação dos documentos por árvore documental, cliente, código de caixa ou algum outro controle específico do gestor por meio de filtros de campos existentes na tela.&#x20;
 
 {% hint style="info" %}
-<mark style="color:blue;">**1º -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Os documentos são digitalizados e é gerada a imagem e o arquivo XML de cada. Esses arquivos são armazenados no servidor, em um local de entrada.</mark>   &#x20;
+<mark style="color:blue;">**1º -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Para cada documento digitalizado é gerada uma imagem em um arquivo XML conforme a configuração do scanner. O arquivo XML pode conter um ou mais documentos digitalizados. Esses arquivos gerados são armazenados em uma pasta configurada na aplicação ArqIndex como "Local dos Arquivos de Entrada".</mark>   &#x20;
 
 <mark style="color:blue;">**2º -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">O ArqIndex lê o arquivo XML e envia o documento para a fila de trabalho.</mark>&#x20;
 
