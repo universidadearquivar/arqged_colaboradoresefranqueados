@@ -1,6 +1,10 @@
 # 🟩 Cadastrar
 
-No menu Cadastrar é realizado o cadastro dos metadados dos documentos do cliente que estão na fila de trabalho do ArqIndex. Depois de selecionar o Local de Trabalho e o Cliente, é apresentada a lista de arquivos que estão na fila de trabalho.&#x20;
+Por meio do menu Cadastrar é possível visualizar todos os documentos processados e validados pela aplicação ArqIndex.&#x20;
+
+Nesta tela, quando o usuário seleciona o local de trabalho (que é a configuração de [Parâmetros Gerais](configuracoes/parametros-gerais.md) relacionada na aplicação ArqIndex), o campo "Cliente" é habilitado para que seja selecionado em qual cliente serão realizadas as indexações. Após selecionados o local de trabalho e o cliente, o botão "Pesquisar" é habilitado e, quando acionado na tela, são exibidos todos os documentos do cliente em questão para indexação.
+
+Nesta tela são exibidos apenas mil documentos por vez e à medida que são realizadas as indexações, a tela vai atualizando a quantidade de documentos, enquanto houver documentos para serem indexados. Veja abaixo os detalhes da tela.
 
 <figure><img src="../.gitbook/assets/cad01.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
