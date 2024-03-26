@@ -1,6 +1,12 @@
 # 🔹 Parâmetros Gerais
 
-No menu Parâmetros Gerais são configurados os locais de trabalho do servidor para o cliente, ou seja, os locais de armazenamento dos arquivos do cliente no servidor. &#x20;
+No menu Parâmetros Gerais são configurados os locais de trabalho que serão posteriormente associados à aplicação ArqIndex. Cada Unidade ou cliente pode ter um ou mais locais de trabalho configurados, mas a aplicação ArquIndex pode ter relacionado apenas um local de trabalho.
+
+{% hint style="info" %}
+<mark style="color:blue;">**Local de trabalho**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">é o termo utilizado para configuração criada com os parâmetros de execução da aplicação ArqIndex. Por exemplo, a Unidade Arquivar Qualidade possui um local de trabalho chamado "Documentos de Funcionários".</mark>
+{% endhint %}
+
+O nome do local de trabalho pode ser aquele que o usuário desejar. Posteriormente esse local criado será relacionado a um fluxo de trabalho e associado à aplicação ArquIndex.&#x20;
 
 ## Parâmetros Gerais – Tela inicial&#x20;
 
@@ -14,9 +20,9 @@ No menu Parâmetros Gerais são configurados os locais de trabalho do servidor p
 
 **Ícone Excluir:** Utilizado para excluir o local de trabalho selecionado.&#x20;
 
-**Coluna Empresa:** Mostra o cliente ou unidade Arquivar selecionado.&#x20;
+**Coluna Empresa:** Exibe o cliente ou unidade Arquivar selecionado.&#x20;
 
-**Coluna Local de Trabalho:** Mostra o nome dado ao local de trabalho.    &#x20;
+**Coluna Local de Trabalho:** Exibe o nome dado ao local de trabalho.    &#x20;
 
 <figure><img src="../../.gitbook/assets/conf01.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
