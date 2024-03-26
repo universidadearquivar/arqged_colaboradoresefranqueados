@@ -36,7 +36,7 @@ A máquina onde o aplicativo ArqIndex será instalado deve ter, no mínimo:&#x20
 
 ### Instalação
 
-Depois de realizar o download do do aplicativo instalador, clique duas vezes sobre o arquivo. Selecione o idioma desejado e clique em “OK”. Nas próximas telas, clique em “Próximo”. &#x20;
+Depois de realizar o download do aplicativo instalador, clique duas vezes sobre o arquivo. Selecione o idioma desejado e clique em “OK”. Nas próximas telas, clique em “Próximo”. &#x20;
 
 <figure><img src="../../.gitbook/assets/app01.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
