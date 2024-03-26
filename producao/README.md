@@ -9,7 +9,7 @@ A indexação é o processo de cadastrar os metadados de identificação de um d
 {% hint style="info" %}
 <mark style="color:blue;">**1º -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Para cada documento digitalizado é gerada uma imagem em um arquivo XML conforme a configuração do scanner. O arquivo XML pode conter um ou mais documentos digitalizados. Esses arquivos gerados são armazenados em uma pasta configurada na aplicação ArqIndex como "Local dos Arquivos de Entrada".</mark>   &#x20;
 
-<mark style="color:blue;">**2º -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">A aplicação ArqIndex por meio do processo de Leitura do XMLencontra o arquivo XML, realiza a validação e o processamento dos documentos e os envia para a fila de indexação conforme a configuração do fluxo.</mark>&#x20;
+<mark style="color:blue;">**2º -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">A aplicação ArqIndex por meio do processo de Leitura do XML encontra o arquivo XML, realiza a validação e o processamento dos documentos e os envia para a fila de indexação conforme a configuração do fluxo.</mark>&#x20;
 
 <mark style="color:blue;">**3º -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Por meio do menu Produção um colaborador da Unidade terá acesso aos documentos criados e suas respectivas imagens para indexação.</mark>&#x20;
 
