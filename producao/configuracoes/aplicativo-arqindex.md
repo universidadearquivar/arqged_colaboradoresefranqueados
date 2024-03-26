@@ -1,6 +1,6 @@
 # 🔹 Aplicativo ArqIndex
 
-O aplicativo ArqIndex é necessário para o trabalho de digitalização e indexação dos documentos, seja na unidade ou no cliente. Este aplicativo deve ser instalado em todas as máquinas que farão a digitalização e indexação de documentos. &#x20;
+O aplicativo ArqIndex é necessário para o trabalho de digitalização e indexação dos documentos, seja na unidade ou no cliente. Este aplicativo deve ser instalado na máquina que será utilizada como servidor, na qual ocorrerão os processos. &#x20;
 
 ## Instalação do aplicativo ArqIndex&#x20;
 
@@ -66,7 +66,7 @@ Nesta tela são definidos os locais de trabalho para armazenamento das imagens d
 
 Em “Local de Trabalho” selecione a unidade ou cliente. &#x20;
 
-Para definir os locais de arquivos de entrada, em processo e em exportação é preciso primeiro criar essas pastas na máquina. Para isso, acesse o local onde o aplicativo foi instalado (por padrão a pasta C:\Program Files (x86)\Arquivar\ArqIndex) e crie três pastas nesse local: “Entrada”, “Processo” e “Exportação”.&#x20;
+Para definir os locais de arquivos de entrada, em processo e em exportação é preciso primeiro criar essas pastas na máquina. Para isso, acesse o C: da máquina onde o aplicativo foi instalado e crie três pastas nesse local: “Entrada”, “Processo” e “Exportação”.&#x20;
 
 * _Pasta "Entrada"_: Local onde o XML e os arquivos de imagens serão depositados.
 * _Pasta "Processo"_: Local onde as imagens que estão sendo processadas ficam armazenadas.
