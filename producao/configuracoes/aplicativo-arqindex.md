@@ -66,7 +66,11 @@ Nesta tela são definidos os locais de trabalho para armazenamento das imagens d
 
 Em “Local de Trabalho” selecione a unidade ou cliente. &#x20;
 
-Para definir os locais de arquivos de entrada, em processo e em exportação é preciso primeiro criar essas pastas na máquina. Para isso, acesse o local onde o aplicativo foi instalado (por padrão a pasta C:\Program Files (x86)\Arquivar\ArqIndex) e crie três pastas nesse local: “Entrada”, “Exportação” e “Processo”.&#x20;
+Para definir os locais de arquivos de entrada, em processo e em exportação é preciso primeiro criar essas pastas na máquina. Para isso, acesse o local onde o aplicativo foi instalado (por padrão a pasta C:\Program Files (x86)\Arquivar\ArqIndex) e crie três pastas nesse local: “Entrada”, “Processo” e “Exportação”.&#x20;
+
+* _Pasta "Entrada"_: Local onde o XML e os arquivos de imagens serão depositados.
+* _Pasta "Processo"_: Local onde as imagens que estão sendo processadas ficam armazenadas.
+* _Pasta "Exportação_": Local onde as imagens que estão prontas ficam aguardando o envio para o ArqGED.
 
 <figure><img src="../../.gitbook/assets/app05.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
