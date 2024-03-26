@@ -30,7 +30,7 @@ A máquina onde o aplicativo ArqIndex será instalado deve ter, no mínimo:&#x20
 
 * Processador de quatro núcleos;&#x20;
 * 8 GB de memória RAM;&#x20;
-* Espaço de armazenamento em disco de acordo com a demanda de processamento, sendo o mínimo de 250 GB. Caso a unidade ou cliente demande um espaço maior de armazenamento, é recomendável utilizar uma máquina de 500 GB ou 1 TB.
+* Espaço de armazenamento em disco de acordo com a demanda de processamento, sendo o mínimo de 250 GB. Caso a unidade ou cliente demande um espaço maior de armazenamento, é recomendável utilizar uma máquina de 500 GB ou mais de armazenamento interno.
 
 ***
 
