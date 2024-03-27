@@ -102,9 +102,21 @@ O campo “HOST/IP” é preenchido automaticamente com o endereço de rede onde
 
 ## &#x20;Processos&#x20;
 
-Nesta tela são iniciadas as etapas do fluxo de indexação do cliente. As etapas mostradas aqui foram definidas anteriormente na tela [Produção > Configurações > Fluxo de Trabalho](fluxo-de-trabalho.md) para o cliente ou unidade.&#x20;
+Após salvar as configurações, na aba Processos são exibidos as etapas de execução da aplicação, que serão executadas conforme definidas no menu [Produção > Configurações > Fluxo de Trabalho](fluxo-de-trabalho.md).
 
-A primeira etapa a ser executada é o “Host das Imagens”, que deverá criar os certificados de segurança da máquina onde o robô está instalado e das máquinas indexadoras. Clique no ícone “Play”.  &#x20;
+Inicialmente, sugerimos que seja iniciado o processo de Host das Imagens, clicando-se no ícone “Play”. Quando iniciado, serão criados um certificado para utilização da aplicação ArqIndex na máquina onde foi instalado e outro para ser instalado nas maquinas indexadoras, ou seja, as máquinas onde os usuários irão realizar a indexação dos documentos. Esses certificados são importantes para a comunicação entre a máquina servidor e as máquinas indexadoras.
+
+&#x20;Os certificados serão criados na pasta onde o aplicativo está instalado (por padrão, na pasta C:\Program Files (x86)\Arquivar\ArqIndex\Certificados).
+
+{% hint style="warning" %}
+<mark style="color:orange;">**A máquina de instalação da aplicação ArqIndex precisa ter permissão de Administrador, pois serão criados os certificados automaticamente. Além disso, é necessário:**</mark>
+
+* <mark style="color:orange;">**Liberar a porta 8087 para uso do ArqIndex;**</mark>
+* <mark style="color:orange;">**Verificar o firewall, para que não bloqueie o acesso;**</mark>
+* <mark style="color:orange;">**Verificar bloqueios de antivírus à aplicação.**</mark>
+{% endhint %}
+
+
 
 <figure><img src="../../.gitbook/assets/app10.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
