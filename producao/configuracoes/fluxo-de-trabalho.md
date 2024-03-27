@@ -68,27 +68,27 @@ Por padrão as etapas de “Leitura do XML” e “Indexação Manual” já vê
 
 **Indexação Automática:** Etapa utilizada para indexação automática dos documentos. Neste caso é utilizada a ferramenta OCR para identificar e preencher automaticamente os campos indexadores de um arquivo padrão. &#x20;
 
-**Indexação Manual:** Etapa de realização da indexação dos documentos gerados via tela Cadastrar. Caso o arquivo seja um PDF é possível definir quantas páginas serão exibidas para o usuário na tela para indexação manual, preenchendo o campo “Páginas (PDF)”. Essa funcionalidade é útil, por exemplo, quando o arquivo possui muitas páginas, mas só apresenta campos indexadores em algumas delas.&#x20;
+**Indexação Manual:** Etapa de realização da indexação dos documentos gerados via tela Cadastrar. Caso o arquivo seja um PDF é possível definir quantas páginas serão exibidas para o usuário na tela para indexação, preenchendo o campo “Páginas (PDF)” com a quantidade de páginas a serem exibidas. Essa funcionalidade é útil, por exemplo, quando o arquivo possui muitas páginas, mas só é preciso visualizar as dez primeiras, por exemplo.&#x20;
 
-**Conversão e Gravação - PDF MultiPage:** Etapa que deve ser realizada quando o arquivo for digitalizado em formato TIFF e precisar ser convertido para o formato PDF. Neste caso deve ser informada a resolução que se deseja para o arquivo e se o os arquivos deverão ser convertidos para preto e branco (binarizar). &#x20;
+**Conversão e Gravação - PDF MultiPage:** Etapa utilizada para digitalização de arquivos em formato TIFF e precisa ser convertido para o formato PDF. Neste caso deve ser informada a resolução (qualidade) que se deseja para o arquivo e se o os arquivos deverão ser convertidos para preto e branco (binarizar). &#x20;
 
-**Conversão e Gravação - PDF MultiPage Pesquisável:** Etapa que deve ser realizada quando o arquivo for digitalizado PDF mas não for pesquisável (imagem). O robô fará a leitura do arquivo e utilizará a ferramenta OCR para identificar o texto que estiver contido naquele PDF, tornando-o pesquisável dentro do ArqGED. Neste caso deve ser informada a resolução que se deseja para o arquivo e se o os arquivos deverão ser convertidos para preto e branco (binarizar). &#x20;
-
-{% hint style="warning" %}
-<mark style="color:orange;">**Para aplicar o OCR nos arquivos e torná-los pesquisáveis, o cliente precisa ter contratado e ativo o serviço**</mark> [<mark style="color:blue;">**ArqSEARCH**</mark>](../../cliente/contratos/aba-servico/regras-de-faturamento-por-tipo-de-servico.md#arqsearch)<mark style="color:orange;">**.**</mark> &#x20;
-{% endhint %}
-
-**Conversão e Gravação - TIFF MultiPage:** Etapa que deve ser realizada quando o arquivo for digitalizado em formato TIFF e for necessário agrupar os arquivos em uma página. Neste caso deve ser informada a resolução que se deseja para o arquivo e se o os arquivos deverão ser convertidos para preto e branco (binarizar).&#x20;
-
-**Conversão e Gravação - Gravação:** Esta etapa é feita quando não é necessária nenhuma manipulação do arquivo. O robô fará apenas a transferência do arquivo da pasta de processo para a pasta de exportação para o ArqGED. Essa etapa é muito utilizada quando o formato do arquivo digitalizado já é PDF pesquisável. &#x20;
+**Conversão e Gravação - PDF MultiPage Pesquisável:** Etapa utilizada quando o arquivo for digitalizado como PDF mas não for pesquisável. A aplicação ArqIndex realizará a conversão do arquivo identificando e extraindo o texto, tornando-o pesquisável dentro do ArqGED. Neste caso deve ser informada a resolução (qualidade) que se deseja para o arquivo e se o os arquivos deverão ser convertidos para preto e branco (binarizar). &#x20;
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Para aplicar o OCR nos arquivos e torná-los pesquisáveis, o cliente precisa ter contratado e ativo o serviço**</mark> [<mark style="color:blue;">**ArqSEARCH**</mark>](../../cliente/contratos/aba-servico/regras-de-faturamento-por-tipo-de-servico.md#arqsearch)<mark style="color:orange;">**.**</mark> &#x20;
+<mark style="color:orange;">**Esta conversão demanda muito processamento do servidor. O ideal é que, se possível, o arquivo já seja gerado como pesquisável pelo scanner.**</mark>
 {% endhint %}
 
-**Exportação:** Etapa de exportação do arquivo já indexado para o ArqGED, onde poderá ser consultado via [Localização Simples](../../documento/localizacao-simples.md), [Localização Avançada](../../documento/localizacao-avancada.md) e tela [Explorar](../../documento/explorar/).&#x20;
+**Conversão e Gravação - TIFF MultiPage:** Etapa utilizada quando o arquivo for digitalizado em formato TIFF e for necessário agrupar os arquivos em um arquivo único. Neste caso deve ser informada a resolução (qualidade) que se deseja para o arquivo e se o os arquivos deverão ser convertidos para preto e branco (binarizar).&#x20;
 
-Se marcada a opção “Pular Indexação Manual” essa etapa poderá deixar de ser executada quando todos os campos obrigatórios estiverem preenchidos após a indexação automática ou quando todos os campos, sendo obrigatórios ou não, estiverem preenchidos após a indexação automática. Neste caso o fluxo de trabalho vai da etapa “Leitura do XML” direto para a etapa “Conversão e Gravação”. &#x20;
+**Conversão e Gravação - Gravação:** Esta etapa não é realizada nenhuma manipulação do arquivo. A aplicação ArqIndex apenas transfere o arquivo da pasta "Processo" para a pasta "Expportação". Essa etapa é muito utilizada quando o formato do arquivo digitalizado já é PDF pesquisável. &#x20;
+
+**Exportação:** Nesta etapa os documentos já foram validados e indexados e estão prontos para serem enviados ao ArqGED. Após a exportação os documentos poderão ser consultados via [Localização Simples](../../documento/localizacao-simples.md), [Localização Avançada](../../documento/localizacao-avancada.md) e tela [Explorar](../../documento/explorar/).&#x20;
+
+Se marcada a opção “Pular Indexação Manual”  - "Quando todos os campos obrigatórios estiverem preenchidos": Após a Leitura do XML a aplicação ArqIndex&#x20;
+
+
+
+essa etapa poderá deixar de ser executada quando todos os campos obrigatórios estiverem preenchidos após a indexação automática ou quando todos os campos, sendo obrigatórios ou não, estiverem preenchidos após a indexação automática. Neste caso o fluxo de trabalho vai da etapa “Leitura do XML” direto para a etapa “Conversão e Gravação”. &#x20;
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Para que seja possível pular a etapa de indexação manual é preciso que os campos dos documentos que estão sendo digitalizados tenham sido preenchidos de forma correta. Caso haja erros no preenchimento de qualquer um dos campos, o processo não irá pular a etapa, devendo ser feita a indexação manual pelo usuário.**</mark>&#x20;
