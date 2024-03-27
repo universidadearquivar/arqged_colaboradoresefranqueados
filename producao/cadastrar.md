@@ -52,11 +52,23 @@ Selecionando a opção “Usar dados do JSon para preencher os campos não valid
 
 <figure><img src="../.gitbook/assets/cad08.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-Ao clicar no ícone “Abrir documento” de um arquivo, será aberta a imagem para que os campos indexadores sejam cadastrados.&#x20;
+Para abrir um documento para indexação, cada documento exibido na tela possui o ícone "Abrir documento" ao lado do status. Ao clicar no ícone e com o ["Host das Imagens" iniciado na aplicação ArqIndex](configuracoes/aplicativo-arqindex.md#processos), o documento será aberto, exibindo sua imagem ou arquivo para indexação, bem como sua árvore e os campos customizados ou de lista serão exibidos para preenchimento.&#x20;
 
 <figure><img src="../.gitbook/assets/cad09.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-Na parte esquerda da tela é exibida a imagem escaneada do documento. Na parte direita são apresentados os campos que devem ser preenchidos pelo operador de indexação. Se o arquivo tiver o campo chave preenchido durante a digitalização, alguns campos com autocomplete serão apresentados já preenchidos.&#x20;
+Quando um documento é aberto para indexação, na parte esquerda da tela é exibida a imagem digitalizada do documento. Na parte direita são apresentados o código do documento, o código da caixa (se houver), o agrupador (se houver), o cliente e a unidade. Logo abaixo, ainda na parte direita, são exibidos a árvore documental e seus campos customizados e/ou de lista para indexação.
+
+{% hint style="warning" %}
+<mark style="color:orange;">**Um documento pode ser digitalizado sem árvore documental. Neste caso, ao abri-lo o campo "Universo de Trabalho" e "Árvore Organizacional" virão vazios para que o usuário possa escolher em qual nível de árvore este documento será indexado.**</mark>&#x20;
+{% endhint %}
+
+Se o arquivo tiver o campo chave preenchido durante a digitalização, alguns campos com autocomplete serão apresentados já preenchidos.&#x20;
+
+O campo "Agrupador" exibido no canto superior direito da tela refere-se a um campo customizado cuja informação será utilizada para agrupar vários documentos, ou seja, na tela principal um usuário poderá filtrar pelo valor do campo agrupador e indexar todos os documentos que possuírem este valor filtrado.&#x20;
+
+{% hint style="warning" %}
+<mark style="color:orange;">**Para utilização deste controle é preciso que na árvore documental exista um campo chamado "Agrupador", e na digitalização este campo seja preenchido com o valor desejado para algum tipo de controle do usuário gestor.**</mark>&#x20;
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/cad10.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
