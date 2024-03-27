@@ -48,7 +48,7 @@ Caso haja alguma inconsistência no arquivo gerado pela digitalização, ao ler 
 <mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Durante o processamento de um lote de arquivos houve uma falha na conexão com o servidor, e parte desses arquivos não pôde ser processada. Os arquivos foram para a tela de Correção do XML com o status “Com erro”, mas neste caso não precisam ser corrigidos pois não há erros em sua estrutura. Basta que se execute um novo processamento mudando o status dos arquivos para “Aguardando” para que eles entrem na fila e sejam novamente processados.</mark>  &#x20;
 {% endhint %}
 
-**Ícone Excluir:** Utilizado para excluir o arquivo. &#x20;
+**Ícone Excluir:** Utilizado para excluir um lote de documentos. Há casos em que é mais eficiente excluir o lote de documentos e refazer a digitalização.
 
 <figure><img src="../.gitbook/assets/conf19.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
