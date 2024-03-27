@@ -42,15 +42,15 @@ Na tela “Adicionar Registro”, informe um nome para o local de trabalho que e
 
 Ao longo do processo de indexação um arquivo de documento fica hospedado em diferentes locais do servidor, chamados de “Diretório para Armazenamento”.
 
-**Local dos arquivos de Entrada:** Quando um documento é digitalizado ele gera dois arquivos: um XML e um PDF (imagem), que ficam hospedados nesse local. Quando o robô do ArqIndex inicia o processo de leitura dos arquivos XML e verifica se todas as informações estão corretas.&#x20;
+**Local dos arquivos de Entrada:** Quando um documento é digitalizado ele gera dois arquivos: um XML e um PDF ou TIFF (imagem), que ficam hospedados nesse local (pasta).&#x20;
 
-**Local dos arquivos em Processo:** Local para onde os arquivos são enviados após a leitura inicial do XML pelo robô. Os arquivos dessa pasta ficam em uma fila de trabalho aguardando que sejam indexados. &#x20;
+**Local dos arquivos em Processo:** Quando é realizada a leitura do XML e os documentos gerados são validados e processados corretamente, seus arquivos são enviados para este local (pasta). Neste momento os documentos podem ser consultados para indexação.
 
-**Local dos arquivos em Exportação:** Local em que os arquivos ficam hospedados quando já foram indexados e estão prontos para serem exportados para o ArqGED. Quando a exportação é executada, os documentos são gravados na base de dados do sistema e podem ser consultados por meio da [Localização Simples](../../documento/localizacao-simples.md), [Localização Avançada](../../documento/localizacao-avancada.md) ou tela [Explorar](../../documento/explorar/). &#x20;
+**Local dos arquivos em Exportação:** Quando é realizada a indexação dos documentos e são processados corretamente, seus arquivos ficam hospedados neste local (pasta) prontos para serem exportados para o sistema ArqGED. Quando a exportação é executada, os documentos com seus respectivos arquivos são gravados na base de dados do sistema e podem ser consultados por meio da [Localização Simples](../../documento/localizacao-simples.md), [Localização Avançada](../../documento/localizacao-avancada.md) ou tela [Explorar](../../documento/explorar/). &#x20;
 
-**Host/IP:** Endereço da máquina onde o robô do ArqIndex está instalado.&#x20;
+**Host/IP:** Endereço da máquina de instalação da aplicação ArqIndex.&#x20;
 
-Esses campos ficam desabilitados nessa tela porque a sua configuração deve ser feita quando o aplicativo (robô) for instalado. As configurações feitas durante a [instalação do aplicativo ArqIndex](aplicativo-arqindex.md#instalacao-do-aplicativo-arqindex) são espelhadas nessa tela.  &#x20;
+Os campos informados acima são exibidos desabilitados nessa tela, já que são apenas espelho da [configuração realizada na aplicação ArqIndex](aplicativo-arqindex.md#configurar-parametros), ou seja, somente após associado o Local de Trabalho com o ArqIndex será possível configurá-los.&#x20;
 
 <figure><img src="../../.gitbook/assets/conf03.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
