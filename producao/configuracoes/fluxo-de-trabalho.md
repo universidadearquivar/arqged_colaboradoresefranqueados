@@ -84,11 +84,9 @@ Por padrão as etapas de “Leitura do XML” e “Indexação Manual” já vê
 
 **Exportação:** Nesta etapa os documentos já foram validados e indexados e estão prontos para serem enviados ao ArqGED. Após a exportação os documentos poderão ser consultados via [Localização Simples](../../documento/localizacao-simples.md), [Localização Avançada](../../documento/localizacao-avancada.md) e tela [Explorar](../../documento/explorar/).&#x20;
 
-Se marcada a opção “Pular Indexação Manual”  - "Quando todos os campos obrigatórios estiverem preenchidos": Após a Leitura do XML a aplicação ArqIndex&#x20;
+**Se marcada a opção “Pular Indexação Manual”  - "Quando todos os campos obrigatórios estiverem preenchidos":** Após a Leitura do XML a aplicação ArqIndex irá validar se os documentos possuem campos obrigatórios e se estes campos estão todos preenchidos corretamente. Caso sim, os documentos não terão interação do usuário na indexação manual e irão direto para a conversão e exportação. Caso não, os documentos serão enviados para indexação manual para que um usuário realize a indexação. &#x20;
 
-
-
-essa etapa poderá deixar de ser executada quando todos os campos obrigatórios estiverem preenchidos após a indexação automática ou quando todos os campos, sendo obrigatórios ou não, estiverem preenchidos após a indexação automática. Neste caso o fluxo de trabalho vai da etapa “Leitura do XML” direto para a etapa “Conversão e Gravação”. &#x20;
+**Se marcada a opção “Pular Indexação Manual”  - "Quando todos os campos obrigatórios ou não estiverem preenchidos":**  Após a Leitura do XML a aplicação ArqIndex não irá validar nenhuma informação dos campos relacionados aos documentos e simplesmente irá enviá-los para a conversão e exportação.  &#x20;
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Para que seja possível pular a etapa de indexação manual é preciso que os campos dos documentos que estão sendo digitalizados tenham sido preenchidos de forma correta. Caso haja erros no preenchimento de qualquer um dos campos, o processo não irá pular a etapa, devendo ser feita a indexação manual pelo usuário.**</mark>&#x20;
@@ -96,10 +94,10 @@ essa etapa poderá deixar de ser executada quando todos os campos obrigatórios 
 
 <figure><img src="../../.gitbook/assets/conf15.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-Se marcada a opção “Deletar os “Arquivos em Processo” após a etapa de conversão”, será feita a exclusão dos arquivos convertidos com sucesso para a etapa de exportação. Isso significa que os arquivos convertidos ficarão disponíveis apenas na pasta de exportação e, após a exportação para o ArqGED ser concluída, serão excluídos definitivamente, ficando disponíveis para consulta apenas no ArqGED.&#x20;
+**Se marcada a opção “Deletar os “Arquivos em Processo” após a etapa de conversão”:** Após a etapa de conversão todos os documentos convertidos com sucesso serão enviados para a etapa de exportação e seus arquivos serão excluídos automaticamente da pasta de "Arquivos em Processo". Esta opção é utilizada para liberar espaço em disco, evitando arquivos desnecessários na máquina.&#x20;
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Se essa opção não for habilitada, o arquivo será mantido na pasta de processo mesmo após ser convertido e exportado para o ArqGED, o que pode comprometer a disponibilidade de espaço em disco.**</mark>&#x20;
+<mark style="color:orange;">**Todos os "Arquivos de Entrada" e "Arquivos em Exportação" são deletados automaticamente pelo robô após a execução de seus respectivos processos (Leitura de XML e Exportação). Para executar o mesmo com os "Arquivos em Processo" é preciso manter essa opção habilitada.**</mark>&#x20;
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/conf16.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
