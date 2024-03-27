@@ -10,7 +10,7 @@ Para visualizar as informações de SLA de um cliente, selecione-o no campo “U
 <mark style="color:blue;">O</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**SLA de guarda interna**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">é utilizado por clientes que possuem um CEDOC próprio e precisam determinar o prazo de atendimento a solicitações de consultas feitas por outros setores ao próprio CEDOC.</mark> &#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/cliente17.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/cliente17.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Dependendo da opção escolhida serão habilitadas as abas “Guarda Terceirizada” e “Guarda Interna”. Em ambos os casos será preciso escolher entre “SLA Variável” ou “SLA Fixo”. &#x20;
 
@@ -18,7 +18,7 @@ Dependendo da opção escolhida serão habilitadas as abas “Guarda Terceirizad
 <mark style="color:orange;">**A única diferença entre os SLAs de guarda terceirizada e guarda interna é que no caso da guarda interna serão considerados, além dos prazos e limites cadastrados nesta tela, os limites e urgências de atendimento para cada tipo de serviço contratado pelo cliente na tela**</mark> [**Cliente > Contratos**](contratos/)<mark style="color:orange;">.</mark> &#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/cliente18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/cliente18.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
@@ -34,11 +34,11 @@ Se for semanal, informe a cada quantas semanas e o(s) dia(s) da semana em que oc
 <mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Se escolhido um SLA Fixo semanal, a cada uma semana toda terça-feira, todas as solicitações feitas na quarta-feira só serão atendidas na terça-feira da semana seguinte. Se a solicitação for feita em uma segunda-feira, ela será atendida no dia seguinte, que é o dia de atendimento.</mark>  &#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/cliente19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/cliente19.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Será preciso também informar a faixa de horário de preferencial para atendimento das solicitações de consulta.&#x20;
 
-<figure><img src="../.gitbook/assets/cliente20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/cliente20.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Se for mensal, informe o dia do mês dos atendimentos ou se haverá uma data específica para os atendimentos.&#x20;
 
@@ -46,9 +46,9 @@ Se for mensal, informe o dia do mês dos atendimentos ou se haverá uma data esp
 <mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Pode ser definido que os atendimentos serão feitos todo dia 05 de cada mês ou apenas na primeira segunda-feira de cada mês.</mark>&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/cliente21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/cliente21.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/cliente22.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/cliente22.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 É possível determinar um limite de solicitações de consulta nos dias de atendimento. Para isso, informe nos campos “Documentos”, “Subcaixas” e “Caixas” a quantidade de cada um desses itens que poderá ser solicitada para consulta pelo cliente.&#x20;
 
@@ -62,7 +62,7 @@ No campo “Tipo de Limite” é preciso definir se esse limite de solicitaçõe
 
 Ao marcar a opção “Bloquear ao atingir limite” os usuários do cliente não conseguirão realizar novos pedidos de consulta após o limite determinado ser atingido. Se desmarcada essa opção, as solicitações poderão continuar sendo feitas, mas só serão atendidas no próximo dia de atendimento, gerando uma espécie de fila.&#x20;
 
-<figure><img src="../.gitbook/assets/cliente23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/cliente23.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 No lado direito da tela são exibidos os serviços contratados pelo cliente, com seus respectivos limites diários de solicitação. Os serviços e limites mostrados aqui são aqueles previamente cadastrados na tela Cliente > Contratos e interferem no limite que pode ser estabelecido nesta tela. &#x20;
 
@@ -76,7 +76,7 @@ No lado direito da tela são exibidos os serviços contratados pelo cliente, com
 <mark style="color:orange;">**Se os campos “Limite Diário de Serviço” estiverem em branco é porque esse cadastro não foi feito e o limite previamente estabelecido nos campos “Documentos”, “Subcaixas” e “Caixas” prevalecerão.**</mark>  &#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/cliente24.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/cliente24.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
@@ -94,7 +94,7 @@ Para calcular o limite diário de atendimento o sistema considera os números es
 
 Ao marcar a opção “Bloquear ao atingir limite” os usuários do cliente não conseguirão realizar novos pedidos de consulta após o limite diário determinado ser atingido. Se desmarcada essa opção, as solicitações poderão continuar sendo feitas, mas só serão atendidas no dia seguinte.&#x20;
 
-<figure><img src="../.gitbook/assets/cliente25.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/cliente25.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Além disso, no SLA Variável é preciso determinar o horário em que as solicitações poderão ser feitas, sendo o horário comercial ou 24 horas por dia. Se escolhida a opção “Comercial”, informe o início do expediente do setor de atendimento, o início e fim do intervalo para almoço e o fim do expediente. O recomendado é que a Unidade utilize o horário comercial para evitar que o sistema calcule o prazo de atendimento considerando horas em que não há expediente. &#x20;
 
@@ -102,7 +102,7 @@ Além disso, no SLA Variável é preciso determinar o horário em que as solicit
 <mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Um cliente solicitou uma consulta de documentos simples às 19 horas e o SLA de atendimento para esse tipo de consulta é de duas horas. Se o sistema considerar o horário comercial (8h às 17h), a Unidade terá até 10h do dia seguinte para atender à solicitação. Já se o sistema considerar o horário de 24 horas, a Unidade teria que atender à solicitação até as 21h do mesmo dia, tornando inviável o atendimento.</mark>&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/cliente26.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/cliente26.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Depois de salvar, serão habilitados os campos “Limite Diário de Serviço” e “Prazo em Horas” para preenchimento. Esses campos devem ser preenchidos para cada um dos serviços descritos na coluna “Serviços” à esquerda. &#x20;
 
@@ -110,7 +110,7 @@ Depois de salvar, serão habilitados os campos “Limite Diário de Serviço” 
 <mark style="color:orange;">**Os serviços apresentados aqui são aqueles contratados pelo cliente e previamente cadastrados na tela**</mark> [<mark style="color:blue;">**Cliente > Contratos**</mark>](contratos/)<mark style="color:orange;">**.**</mark>  &#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/cliente27.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/cliente27.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 No campo “Limite Diário de Serviço” determine o limite diário de solicitações que o usuário pode fazer de cada tipo de serviço. É importante ressaltar que mesmo que o usuário informe um valor maior nestes campos, o limite que irá prevalecer é o determinado nos campos “Documentos”, “Subcaixas” e “Caixas”.&#x20;
 
@@ -118,7 +118,7 @@ No campo “Limite Diário de Serviço” determine o limite diário de solicita
 <mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Para o serviço “Solicitação de Documentos Simples” foi determinado o limite de 15 solicitações diárias, mas no campo “Documentos” foi determinado o limite de 12 solicitações sem bloqueio após atingir o limite. Serão atendidas 12 solicitações e as três restantes só poderão ser atendidas no dia seguinte. Caso tivesse sido definido o bloqueio após o limite, o cliente só conseguiria fazer 12 solicitações.</mark>  &#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/cliente28.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/cliente28.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Nos campos de “Prazo em Horas”, é preciso informar quantas horas serão necessárias para atender uma solicitação considerando:&#x20;
 
@@ -135,4 +135,4 @@ Nos campos de “Prazo em Horas”, é preciso informar quantas horas serão nec
 <mark style="color:blue;">**INFORMAÇÃO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">No caso do serviço de transporte, só serão habilitados os campos “Original” e “Cópia”, porque trata-se do serviço de transporte de documentos até a sede do cliente, desnecessário nos casos de consulta in loco ou a documentos digitais.</mark>  &#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/cliente29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/cliente29.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
