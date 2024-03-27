@@ -26,7 +26,7 @@ A instalação do ArqIndex no cliente ou em uma das unidades franqueadas deve se
 
 ### Requisitos mínimos&#x20;
 
-A máquina onde o aplicativo ArqIndex será instalado deve ter, no mínimo:&#x20;
+Alguns processos executados pela aplicação ArqIndex podem demandar um alto processamento de máquina, como memória, processador, espaço em disco, tráfego de rede e internet. É importante que seja avaliado cada detalhe do projeto, pois esta máquina é um grande diferencial, levando em consideração a quantidade de documentos digitalizados bem como a qualidade e tamanho dos arquivos. Seguem os requisitos mínimos da máquina que irá receber a instalação do aplicativo ArqIndex:&#x20;
 
 * Processador de quatro núcleos;&#x20;
 * 8 GB de memória RAM;&#x20;
