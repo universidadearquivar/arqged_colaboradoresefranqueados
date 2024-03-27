@@ -12,24 +12,26 @@ Nesta tela são exibidos apenas mil documentos por vez e à medida que são real
 
 ## Processo de Indexação&#x20;
 
-Selecione o “Local de Trabalho”. Para salvar o local selecionado como padrão, clique no ícone “Salvar”.&#x20;
+Ao acessar a tela, selecione o “Local de Trabalho”. Para salvar o local selecionado como padrão, clique no ícone “Salvar”. Essa opção permite que ao entrar novamente na tela de indexação, o local salvo seja exibido de forma fixa, sem necessidade de seleção novamente.&#x20;
 
 <figure><img src="../.gitbook/assets/cad02.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-Ao selecionar o local de trabalho são preenchidos os campos “Cliente” e “Unidade”. &#x20;
+Ao selecionar o local de trabalho são preenchidos os campos “Cliente” e “Unidade”. Caso a unidade esteja indexando documentos para mais de um cliente, será necessário selecionar o cliente que deverá ser pesquisado.
 
 <figure><img src="../.gitbook/assets/cad03.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-Os demais campos podem ou não ser preenchidos pelo operador. É possível filtrar os resultados por “Universo de Trabalho”, “Árvore Organizacional”, “Caixa”, “Agrupador”, “Fluxo” ou “Status”. Caso ele não saiba como preencher, deve clicar em “Pesquisar”. &#x20;
+Os demais campos podem ou não ser preenchidos para a pesquisa. Conforme a necessidade de indexação, será possível filtrar os documentos por “Universo de Trabalho”, “Árvore Organizacional”, “Caixa”, “Agrupador”, “Fluxo de Trabalho” ou “Status”.&#x20;
+
+Quando acionado o botão “Pesquisar” serão exibidos todos os documentos processados e validados pela aplicação ArqIndex.
 
 <figure><img src="../.gitbook/assets/cad04.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-Serão exibidos todos os arquivos daquele local de trabalho que estão aguardando para ser indexados. Nesta tela são exibidos no máximo 1000 registros por vez. Os arquivos com status “Aguardando” são exibidos sempre primeiro, e os com status “Em Revisão” são exibidos por último.&#x20;
+Serão exibidos todos os arquivos daquele local de trabalho que estão aguardando para ser indexados. Nesta tela são exibidos no máximo 1000 registros por vez. Os arquivos com status “Aguardando” são exibidos sempre primeiro e os com status “Em Revisão” são exibidos por último. O filtro de status pode ser aplicado conforme a necessidade.  &#x20;
 
 <figure><img src="../.gitbook/assets/cad05.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Antes de começar a indexação é preciso**</mark> [<mark style="color:blue;">**dar o play no “Host das Imagens” e em “Todos os processos” no aplicativo ArqIndex.**</mark> ](configuracoes/aplicativo-arqindex.md)
+<mark style="color:orange;">**Para a indexação de documentos no menu Produção > Cadastrar é necessário que a aplicação ArqIndex esteja com o processo de**</mark> [<mark style="color:blue;">**“Host das Imagens” iniciado.**</mark>](configuracoes/aplicativo-arqindex.md) <mark style="color:orange;">**Esse processo é responsável por exibir as imagens de cada documento.**</mark> [  ](configuracoes/aplicativo-arqindex.md)
 
 <img src="../.gitbook/assets/cad06.png" alt="" data-size="original">
 {% endhint %}
