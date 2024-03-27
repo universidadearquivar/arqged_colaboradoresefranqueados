@@ -54,12 +54,10 @@ Os campos informados acima são exibidos desabilitados nessa tela, já que são 
 
 <figure><img src="../../.gitbook/assets/conf03.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-Em “Programação do processamento do Robô” é definida a periodicidade da leitura dos arquivos XML, da indexação automática, da conversão e da exportação dos arquivos do cliente, que são as rotinas do processo de indexação de um documento executadas pelo próprio sistema.  &#x20;
-
-Esses campos definem a periodicidade em que cada um dos processos deve ocorrer, que pode ser durante 24 horas ou durante um horário pré-definido. Os campos “Intervalo” devem ser preenchidos com os minutos de intervalo de execução de cada processo, que por padrão é de 5 minutos.  &#x20;
+Em “Programação do processamento do Robô” é definida a periodicidade de execução dos processos da aplicação ArqIndex, ou seja, a execução de cada um dos processos pode durante 24 horas ou durante um horário pré-definido, com intervalo de tempo para execução em minutos. Inicialmente todos os processos são executados por 24 horas a cada cinco minutos, mas o usuário pode alterar essa definição se desejar.   &#x20;
 
 {% hint style="info" %}
-<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">É possível que o usuário queira definir que os processos do robô sejam executados em um horário em que não há concorrência no uso da máquina. Neste caso, pode ser definido, por exemplo, o horário pré-definido 17:00 às 08:00.</mark>   &#x20;
+<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">A etapa de Leitura do XML pode ocorrer em horário comercial, de 8h às 18h, e as etapas de Conversão e Exportação podem ocorrer de 18h às 8h. Essa configuração pode ser utilizada em casos de demanda de processamento de rede ou de acordo com a necessidade de cada cliente/unidade.</mark>     &#x20;
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/conf04.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
