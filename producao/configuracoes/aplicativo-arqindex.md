@@ -36,7 +36,7 @@ Alguns processos executados pela aplicação ArqIndex podem demandar um alto pro
 
 ### Instalação
 
-Depois de realizar o download do aplicativo instalador, clique duas vezes sobre o arquivo. Selecione o idioma desejado e clique em “OK”. Nas próximas telas, clique em “Próximo”. &#x20;
+Após de realizar o download do executável de instalação, execute a instalação, selecione o idioma desejado e clique em “OK”. Nas próximas telas, apenas clique em “Próximo” para instalação padrão. &#x20;
 
 <figure><img src="../../.gitbook/assets/app01.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
