@@ -72,7 +72,7 @@ O campo "Agrupador" exibido no canto superior direito da tela refere-se a um cam
 
 <figure><img src="../.gitbook/assets/cad10.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-O operador que estiver executando a indexação deve preencher os campos em branco com as informações apresentadas no documento. Para navegar entre as páginas do documento utilize a paginação na parte inferior da tela ou as teclas de seta para direita e esquerda do teclado. &#x20;
+O operador que estiver executando a indexação deve preencher os campos em branco com as informações apresentadas no documento. Na parte inferior da tela, caso o arquivo relacionado ao documento possua mais de uma página é possível navegar entre as páginas utilizando a paginação por teclas no teclado direita/esquerda ou clicando nos números conforme a quantidade de páginas. &#x20;
 
 <figure><img src="../.gitbook/assets/cad11.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
@@ -88,7 +88,7 @@ Também é possível aumentar ou diminuir o zoom das páginas ou visualizar o ar
 
 <figure><img src="../.gitbook/assets/cad14.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-Quando se inicia o processo de indexação de um arquivo, é exibido na parte superior da tela um cronômetro, que conta 10 minutos. Isso significa que o operador possui dez minutos para concluir a indexação do documento. Caso o tempo acabe e a indexação não seja concluída, a tela será fechada e o arquivo será desbloqueado.  &#x20;
+Quando se inicia o processo de indexação (abre-se o documento), é exibido na parte superior da tela um temporizador, com prazo de 10 minutos para indexação. Nesse tempo o documento fica bloqueado para que somente o usuário em questão possa indexá-lo. Isso significa que o usuário possui até dez minutos para concluir a indexação do documento. Caso o tempo expire e a indexação não seja concluída, a tela será fechada automaticamente, retornando para a pesquisa principal e o arquivo será desbloqueado para indexação.  &#x20;
 
 <figure><img src="../.gitbook/assets/cad15.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
