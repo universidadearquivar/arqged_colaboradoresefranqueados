@@ -40,11 +40,15 @@ Caso o arquivo que deseja indexar esteja bloqueado, selecione-o e clique em “D
 
 <figure><img src="../.gitbook/assets/cad07.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-Ao desbloquear um arquivo certifique-se de que ele não está bloqueado porque outra pessoa já está executando a indexação. Caso tenha certeza de que ninguém mais está trabalhando com o mesmo arquivo, marque a opção “Forçar desbloqueio” para desbloquear o arquivo imediatamente.&#x20;
+Ao desbloquear um documento certifique-se de que ele não está bloqueado por indexação. Caso tenha certeza que o documento não está em processo de indexação, selecione-o na tela e marque a opção “Forçar desbloqueio” para o desbloqueio imediato.&#x20;
 
-Também é possível excluir arquivos que estejam na fila de trabalho, selecionando-os e clicando em “Deletar”.&#x20;
+Para exclusão de documentos na tela, selecione o documentos em questão e clique em “Deletar”.&#x20;
 
-Selecionando a opção “Usar dados do JSon para preencher os campos não validados”, ao abrir um arquivo para indexação os campos que tiverem sido preenchidos erroneamente serão exibidos em vermelho. Caso essa opção não seja marcada, os campos que tiverem sido preenchidos incorretamente serão deixados em branco.  &#x20;
+Selecionando a opção “Usar dados do JSon para preencher os campos não validados”, quando um documento for aberto para indexação os campos que tiverem sido preenchidos incorretamente serão exibidos com o valor na cor vermelha para correção.   &#x20;
+
+{% hint style="info" %}
+<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Campo "Data" preenchido com o valor "12/13/2023".</mark>
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/cad08.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
