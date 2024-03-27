@@ -62,26 +62,32 @@ Depois de instalar o aplicativo do ArqIndex, realize o login utilizando o mesmo 
 
 ## Configurar Parâmetros&#x20;
 
-Nesta tela são definidos os locais de trabalho para armazenamento das imagens digitalizadas.&#x20;
+Após o login é exibida a tela de configuração dos parâmetros para o funcionamento da aplicação.
 
-Em “Local de Trabalho” selecione a unidade ou cliente. &#x20;
+**Local de Trabalho:** Neste campo são exibidos os [Parâmetros Gerais](parametros-gerais.md) ou o chamado Local de Trabalho, criados no menu [Produção > Configurações > Parâmetros Gerais](parametros-gerais.md). &#x20;
 
-Para definir os locais de arquivos de entrada, em processo e em exportação é preciso primeiro criar essas pastas na máquina. Para isso, acesse o C: da máquina onde o aplicativo foi instalado e crie três pastas nesse local: “Entrada”, “Processo” e “Exportação”.&#x20;
+**Local dos Arquivos de Entrada:** Neste campo é informada a pasta onde serão armazenados os arquivos XML e imagens digitalizadas no scanner. É importante que esta pasta esteja compartilhada na rede, pois será utilizada tanto pelo ArqIndex para indexação quanto pelo scanner para digitalização.
 
-* _Pasta "Entrada"_: Local onde o XML e os arquivos de imagens serão depositados.
-* _Pasta "Processo"_: Local onde as imagens que estão sendo processadas ficam armazenadas.
-* _Pasta "Exportação_": Local onde as imagens que estão prontas ficam aguardando o envio para o ArqGED.
+**Local dos Arquivos em Processo:** Neste campo é informada a pasta onde serão armazenados os arquivos processados e validados corretamente pelo ArqIndex para indexação. É importante que essa pasta esteja compartilhada na rede, pois será utilizada pelo ArqIndex para indexação dos documentos.
+
+**Local dos Arquivos em Exportação:** Neste campo é informado a pasta onde serão armazenados os arquivos processados, validados e indexados corretamente pelo ArqIndex. É importante que esSa pasta esteja compartilhada na rede, pois será utilizada pelo ArqIndex para exportação dos documentos indexados para o ArqGED.
+
+**HOST/IP:** Este campo é preenchido automaticamente com o endereço da rede onde foi instalada a aplicação ArqIndex.
+
+{% hint style="warning" %}
+<mark style="color:orange;">**Após clicar no botão "Salvar" não será mais possível alterar o Local de Trabalho informado, portanto, tenha total certeza de que o endereço informado é o correto.**</mark>
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/app05.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-{% hint style="warning" %}
-<mark style="color:orange;">**As pastas criadas devem ser compartilhadas em rede com outras máquinas que também precisarão acessar o conteúdo para realizar a indexação dos documentos.**</mark>&#x20;
-{% endhint %}
-
-Depois de criar as pastas, copie o endereço de acesso a elas nos campos correspondentes a cada uma. Para isso clique sobre a pasta com o botão direito do mouse e selecione Propriedades > Compartilhamento. Copie o “Caminho de Rede” no campo correspondente.&#x20;
+Após criadas as pastas para a configuração dos parâmetros, clique sobre cada pasta criada com o botão direito do mouse, selecione Propriedades > Compartilhamento e copie o “Caminho de Rede” conforme o exemplo abaixo. Após copiado, basta colar o caminho no campo correspondente na aplicação ArqIndex. O ideal é que sejam atribuídos às pastas nomes de fácil identificação.
 
 {% hint style="info" %}
-<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Copie o caminho de rede da pasta “Entrada” no campo “Local dos Arquivos de Entrada”. Faça isso também com as demais pastas.</mark>&#x20;
+<mark style="color:blue;">**EXEMPLO:**</mark>&#x20;
+
+* <mark style="color:blue;">Local dos Arquivos de Entrada: Entrada</mark>
+* <mark style="color:blue;">Local dos Arquivos em Processo: Processo</mark>
+* <mark style="color:blue;">Local dos Arquivos em Exportação: Exportação</mark>
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/app06.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
