@@ -1,8 +1,6 @@
 # 🔹 Fluxo de Trabalho
 
-Neste menu é configurado o processo de trabalho de indexação de cada cliente, ou seja, o passo a passo que o robô do ArqIndex deve seguir para realizar a indexação de documentos daquele cliente. &#x20;
-
-## Fluxo de Trabalho – Tela inicial&#x20;
+Nesta tela são parametrizadas as etapas para indexação dos documentos para a aplicação ArqIndex. &#x20;
 
 **Campo Empresa:** Utilizado para selecionar o cliente. O fluxo de trabalho sempre será associado ao cliente, nunca à unidade.&#x20;
 
@@ -16,9 +14,9 @@ Neste menu é configurado o processo de trabalho de indexação de cada cliente,
 
 **Coluna Empresa:** Mostra o cliente selecionado.&#x20;
 
-**Coluna Local de Trabalho:** Mostra o nome dado ao local de trabalho.&#x20;
+**Coluna Local de Trabalho:** Exibe o nome dado ao local de trabalho.&#x20;
 
-**Coluna Nome do Fluxo:** Mostra o nome dado ao fluxo de trabalho criado.&#x20;
+**Coluna Nome do Fluxo:** Exibe o nome dado ao fluxo de trabalho criado.&#x20;
 
 <figure><img src="../../.gitbook/assets/conf07.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
