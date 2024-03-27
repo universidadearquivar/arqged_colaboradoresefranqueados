@@ -40,6 +40,8 @@ Para cadastrar um cliente, selecione a unidade e clique no ícone “Adicionar�
 
 <figure><img src="../.gitbook/assets/cliente03.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
+***
+
 ### Aba Dados Cadastrais&#x20;
 
 Na aba Dados Cadastrais devem ser cadastradas todas as informações do cliente. &#x20;
@@ -117,3 +119,17 @@ Todas as logos acrescentadas são apresentadas no campo “Logomarcas”. Clican
 <figure><img src="../.gitbook/assets/cliente12.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 **Observação:** Neste campo podem ser adicionadas informações específicas sobre o cliente.&#x20;
+
+***
+
+### Aba Prestadoras de Serviço&#x20;
+
+Nesta aba são cadastradas as unidades que prestam serviço para o cliente. Para adicionar a Unidade Arquivar responsável pelo cliente, selecione-a na lista e clique no ícone “Adicionar”. É possível associar mais de uma Unidade Arquivar ao cliente, se necessário.&#x20;
+
+{% hint style="warning" %}
+<mark style="color:orange;">**É necessário realizar a associação da Unidade ao cliente nesta tela para que seja possível cadastrar o contrato do cliente na tela**</mark> [<mark style="color:blue;">**Cliente > Contratos**</mark>](contratos/)<mark style="color:orange;">**.**</mark>&#x20;
+{% endhint %}
+
+Para excluir uma associação, selecione a Unidade e clique no ícone “Excluir”.   &#x20;
+
+<figure><img src="../.gitbook/assets/cliente13.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
