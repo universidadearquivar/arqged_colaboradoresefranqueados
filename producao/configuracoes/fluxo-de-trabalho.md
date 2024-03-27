@@ -64,11 +64,11 @@ Por padrão as etapas de “Leitura do XML” e “Indexação Manual” já vê
 
 <figure><img src="../../.gitbook/assets/conf13.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-**Leitura de XML:** Etapa de leitura dos documentos inseridos no scanner. O robô faz a leitura dos documentos transformando-os em arquivos XML e de imagem na ferramenta.&#x20;
+**Leitura de XML:** Etapa de processamento e validação dos documentos digitalizados.&#x20;
 
-**Indexação Automática:** Etapa que ocorre quando é possível realizar a indexação automática dos arquivos, porque eles já foram digitalizados em formato PDF pesquisável. Neste caso é utilizado a ferramenta OCR para identificar e preencher os campos indexadores do documento. &#x20;
+**Indexação Automática:** Etapa utilizada para indexação automática dos documentos. Neste caso é utilizada a ferramenta OCR para identificar e preencher automaticamente os campos indexadores de um arquivo padrão. &#x20;
 
-**Indexação Manual:** Etapa em que o usuário abre o arquivo no computador, faz a leitura e realiza a indexação dos campos do documento, preenchendo os campos customizados e de lista conforme a imagem apresentada. Caso o arquivo seja um PDF é possível definir quantas páginas serão exibidas para o usuário na indexação manual, preenchendo o campo “Páginas (PDF)”. Essa funcionalidade é útil, por exemplo, quando o arquivo possui muitas páginas, mas só apresenta campos indexadores em algumas delas.&#x20;
+**Indexação Manual:** Etapa de realização da indexação dos documentos gerados via tela Cadastrar. Caso o arquivo seja um PDF é possível definir quantas páginas serão exibidas para o usuário na tela para indexação manual, preenchendo o campo “Páginas (PDF)”. Essa funcionalidade é útil, por exemplo, quando o arquivo possui muitas páginas, mas só apresenta campos indexadores em algumas delas.&#x20;
 
 **Conversão e Gravação - PDF MultiPage:** Etapa que deve ser realizada quando o arquivo for digitalizado em formato TIFF e precisar ser convertido para o formato PDF. Neste caso deve ser informada a resolução que se deseja para o arquivo e se o os arquivos deverão ser convertidos para preto e branco (binarizar). &#x20;
 
