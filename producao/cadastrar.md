@@ -12,6 +12,8 @@ Nesta tela são exibidos apenas mil documentos por vez e à medida que são real
 
 ## Processo de Indexação&#x20;
 
+### Localização do arquivo&#x20;
+
 Ao acessar a tela, selecione o “Local de Trabalho”. Para salvar o local selecionado como padrão, clique no ícone “Salvar”. Essa opção permite que ao entrar novamente na tela de indexação, o local salvo seja exibido de forma fixa, sem necessidade de seleção novamente.&#x20;
 
 <figure><img src="../.gitbook/assets/cad02.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
@@ -56,6 +58,10 @@ Para abrir um documento para indexação, cada documento exibido na tela possui 
 
 <figure><img src="../.gitbook/assets/cad09.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
+***
+
+### Campos da tela de indexação
+
 Quando um documento é aberto para indexação, na parte esquerda da tela é exibida a imagem digitalizada do documento. Na parte direita são apresentados o código do documento, o código da caixa (se houver), o agrupador (se houver), o cliente e a unidade. Logo abaixo, ainda na parte direita, são exibidos a árvore documental e seus campos customizados e/ou de lista para indexação.
 
 {% hint style="warning" %}
@@ -92,10 +98,12 @@ Quando se inicia o processo de indexação (abre-se o documento), é exibido na 
 
 <figure><img src="../.gitbook/assets/cad15.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-Depois de concluir o preenchimento dos campos, clique em “Indexar”. Atente-se ao preenchimento dos campos obrigatórios. Ao terminar a indexação de um documento, o próximo que estiver na fila de trabalho será aberto para indexação seguinte. &#x20;
+Na parte inferior da tela são apresentados os botões "Indexar", "Cancelar" e "Revisar". Depois de concluir o preenchimento dos campos de indexação do documento, clique em “Indexar”. Atente-se ao preenchimento dos campos obrigatórios. O documento em questão irá para a próxima etapa do fluxo de trabalho e o próximo documento a ser indexado será carregado na tela automaticamente.
+
+Caso o usuário fique em dúvida ou encontre algo no documento que necessite de alguma revisão, deve clicar no botão "Revisar". O status do documento será alterado para "Em revisão" e o próximo documento a ser indexado será carregado na tela automaticamente. O documento em revisão poderá ser encontrado na tela de pesquisa anterior por meio do novo status e indexado novamente conforme necessidade.   &#x20;
 
 <figure><img src="../.gitbook/assets/cad16.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Depois de indexado, não será possível visualizar o arquivo novamente. Somente será possível verificar o log acessando o menu**</mark> [<mark style="color:blue;">**Configurações > Parâmetros Gerais > Visualizar > Aba Log**</mark>](configuracoes/#parametros-gerais)<mark style="color:orange;">**, onde deverá ser selecionada a etapa seguinte à indexação definida no**</mark>[ <mark style="color:blue;">**Fluxo de Trabalho.**</mark> ](configuracoes/#fluxo-de-trabalho)
+<mark style="color:orange;">**Após a indexação do documento não será possível visualizá-lo novamente até ser exportado para a o ArqGED. É possível acompanhar o processo de gravação e exportação dos documentos indexados acessando o menu**</mark> [<mark style="color:blue;">**Configurações > Parâmetros Gerais > Visualizar > Aba Log**</mark>](configuracoes/#parametros-gerais)<mark style="color:blue;">**.**</mark>** **<mark style="color:orange;">**Nesta tela será possível acompanhar as etapas seguintes à indexação conforme definidas no**</mark> [<mark style="color:blue;">**Fluxo de Trabalho**</mark>](configuracoes/fluxo-de-trabalho.md)<mark style="color:orange;">**.**</mark>  &#x20;
 {% endhint %}
