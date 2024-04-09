@@ -31,5 +31,5 @@ As colunas da tela principal da aba Endereços apresentam o logradouro, bairro, 
 <figure><img src="../.gitbook/assets/enderecos4.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-<mark style="color:orange;">**As informações de endereço da unidade são meramente informativas e não impactam em nenhuma funcionalidade da plataforma, exceto o campo “Email”, que deve ser preenchido com os endereços de e-mail que receberão solicitações de consulta de documentos do sistema.**</mark>
+<mark style="color:orange;">**Os dados de endereço da unidade são meramente informativos e não impactam em nenhuma funcionalidade da plataforma, exceto o campo “E-mail”, que deve ser preenchido com os endereços de e-mail que receberão solicitações de consulta de documentos do sistema.**</mark>
 {% endhint %}
