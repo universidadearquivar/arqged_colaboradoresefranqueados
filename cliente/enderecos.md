@@ -8,7 +8,7 @@ Quando o cliente possui Guarda Interna, durante a solicitação de consulta é p
 
 Exemplos: Endereço Comercial, Endereço do Galpão, Filial A, Filial B e etc.&#x20;
 
-Ao solicitar a consulta a documentos alocados em uma das unidades Arquivar, o cliente deverá selecionar o endereço previamente cadastrado nesta tela. &#x20;
+Ao solicitar a consulta de documentos alocados em uma das unidades Arquivar, o cliente deverá selecionar o endereço previamente cadastrado nesta tela. &#x20;
 
 <figure><img src="../.gitbook/assets/clientes3.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
