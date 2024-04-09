@@ -20,6 +20,14 @@ No menu Dados Cadastrais são exibidas todas as informações dos clientes da un
 
 **Coluna Status:** Informa se cliente está ativo, inativo ou bloqueado na plataforma.  &#x20;
 
+{% hint style="warning" %}
+<mark style="color:orange;">**Ativo: Indica que o cliente possui contrato vigente;**</mark>
+
+<mark style="color:orange;">**Inativo: Indica que o contrato do cliente foi encerrado;**</mark>
+
+<mark style="color:orange;">**Bloqueado: Indica que o cliente possui alguma pendência impeditiva de uso do sistema, podendo se tratar de uma pendência financeira ou afins.**</mark>
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/cliente01.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 **Ícone Adicionar:** Utilizado para cadastrar um novo cliente. &#x20;
