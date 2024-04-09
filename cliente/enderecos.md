@@ -1,8 +1,14 @@
 # 🟩 Endereços
 
-A tela Endereços exibe todos os endereços registrados do cliente selecionado no campo “Cliente”.  Se o cliente possui serviço de guarda de documentos contratado, é extremante importante cadastrar os endereços que possam receber e alocar documentos.&#x20;
+A tela Endereços exibe todos os endereços cadastrados do cliente. &#x20;
 
-Ao solicitar a consulta a documentos alocados em uma das unidades Arquivar, o cliente deverá selecionar o endereço no qual receberá os arquivos que serão consultados e esse endereço deve ter sido anteriormente cadastrado nesta tela. &#x20;
+Este endereço é utilizado para identificação de Coleta e/ou Entrega de consulta de Documentos e/ou Caixas.&#x20;
+
+Quando o cliente possui Guarda Interna, durante a solicitação de consulta é possível indicar se a consulta é com Coleta ou Coleta/Entrega ou _Inloco_. Neste caso, um cliente que possui sua guarda em endereço diferente do comercial pode informar qual o endereço será utilizado, contudo, um cliente pode possuir quantos endereços forem necessários.&#x20;
+
+Exemplos: Endereço Comercial, Endereço do Galpão, Filial A, Filial B e etc.&#x20;
+
+Ao solicitar a consulta a documentos alocados em uma das unidades Arquivar, o cliente deverá selecionar o endereço previamente cadastrado nesta tela. &#x20;
 
 <figure><img src="../.gitbook/assets/clientes3.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
