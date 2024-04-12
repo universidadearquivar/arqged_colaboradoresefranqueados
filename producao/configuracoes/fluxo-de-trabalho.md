@@ -75,7 +75,9 @@ Por padrão as etapas de “Leitura do XML” e “Indexação Manual” já vê
 **Conversão e Gravação - PDF MultiPage Pesquisável:** Etapa utilizada quando o arquivo for digitalizado como PDF mas não for pesquisável. A aplicação ArqIndex realizará a conversão do arquivo identificando e extraindo o texto, tornando-o pesquisável dentro do ArqGED. Neste caso deve ser informada a resolução (qualidade) que se deseja para o arquivo e se o os arquivos deverão ser convertidos para preto e branco (binarizar). &#x20;
 
 {% hint style="danger" %}
-<mark style="color:red;">**Esta conversão demanda muito processamento do servidor. O ideal é que, se possível, o arquivo já seja gerado como pesquisável pelo scanner.**</mark>
+<mark style="color:red;">**O processo de conversão do arquivo para PDF pesquisável, demanda tempo e um consumo maior de processamento da aplicação devido a quantidade de páginas dos arquivos, tamanho e qualidade. Este alto consumo e processamento causa acumulo de documentos para conversão, o que torna o processo improdutivo.**</mark>
+
+<mark style="color:red;">**Pensando em um ganho de performance, neste sentido, o ideal é que o arquivo seja gerado através do scanner no formato PDF pesquisável, ou seja, com a aplicação do OCR, desta forma o processo de publicação no ArqGED será consideravelmente mais rápido, sem queda de produtividade nas filas de processamento do ArqIndex.**</mark>
 {% endhint %}
 
 **Conversão e Gravação - TIFF MultiPage:** Etapa utilizada quando o arquivo for digitalizado em formato TIFF e for necessário agrupar os arquivos em um arquivo único. Neste caso deve ser informada a resolução (qualidade) que se deseja para o arquivo e se o os arquivos deverão ser convertidos para preto e branco (binarizar).&#x20;
