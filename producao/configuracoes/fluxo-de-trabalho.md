@@ -74,13 +74,13 @@ Por padrão as etapas de “Leitura do XML” e “Indexação Manual” já vê
 
 **Conversão e Gravação - PDF MultiPage Pesquisável:** Etapa utilizada quando o arquivo for digitalizado como PDF mas não for pesquisável. A aplicação ArqIndex realizará a conversão do arquivo identificando e extraindo o texto, tornando-o pesquisável dentro do ArqGED. Neste caso deve ser informada a resolução (qualidade) que se deseja para o arquivo e se o os arquivos deverão ser convertidos para preto e branco (binarizar). &#x20;
 
-{% hint style="warning" %}
-<mark style="color:orange;">**Esta conversão demanda muito processamento do servidor. O ideal é que, se possível, o arquivo já seja gerado como pesquisável pelo scanner.**</mark>
+{% hint style="danger" %}
+<mark style="color:red;">**Esta conversão demanda muito processamento do servidor. O ideal é que, se possível, o arquivo já seja gerado como pesquisável pelo scanner.**</mark>
 {% endhint %}
 
 **Conversão e Gravação - TIFF MultiPage:** Etapa utilizada quando o arquivo for digitalizado em formato TIFF e for necessário agrupar os arquivos em um arquivo único. Neste caso deve ser informada a resolução (qualidade) que se deseja para o arquivo e se o os arquivos deverão ser convertidos para preto e branco (binarizar).&#x20;
 
-**Conversão e Gravação - Gravação:** Esta etapa não é realizada nenhuma manipulação do arquivo. A aplicação ArqIndex apenas transfere o arquivo da pasta "Processo" para a pasta "Expportação". Essa etapa é muito utilizada quando o formato do arquivo digitalizado já é PDF pesquisável. &#x20;
+**Conversão e Gravação - Gravação:** Esta etapa não é realizada nenhuma manipulação do arquivo. A aplicação ArqIndex apenas transfere o arquivo da pasta "Processo" para a pasta "Exportação". Essa etapa é muito utilizada quando o formato do arquivo digitalizado já é PDF pesquisável. &#x20;
 
 **Exportação:** Nesta etapa os documentos já foram validados e indexados e estão prontos para serem enviados ao ArqGED. Após a exportação os documentos poderão ser consultados via [Localização Simples](../../documento/localizacao-simples.md), [Localização Avançada](../../documento/localizacao-avancada.md) e tela [Explorar](../../documento/explorar/).&#x20;
 
