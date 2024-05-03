@@ -4,12 +4,28 @@
 
 <details>
 
-<summary>10/11: ArqFlow - Ativar fluxo via ArqSCAN</summary>
+<summary>16/04: Faturamento - Relatórios</summary>
 
-A ativação de fluxo via ArqSCAN foi alterada para permitir a copia dos dados do registro para os campos do formulário quando estes possuírem os mesmos campos configurados.&#x20;
+A tela foi alterada para diminuir o consumo de processamento na consolidação e geração de relatórios do faturamento para Unidade e Unidade + Cliente. Em resumo, estas alterações foram:
 
-Quando é realizado o upload de arquivos no ArqSCAN, é criado um documento com os campos indexadores preenchidos pelo usuário, caso haja ativação de fluxo durante este processo e, o formulário do workflow tenha ao menos um campo igual ao do registro, o seu valor será inserido automaticamente no campo do formulário.
+1. Separamos o processo de relatórios de faturamento em duas fases distintas:
 
-<img src="../.gitbook/assets/Ativação ArqScan.png" alt="" data-size="original">
+a) Consolidação
+
+b) Geração de Relatório
+
+1. Diante da separação dos dois processos, o comportamento do sistema foi alterado:
+
+a) Período em aberto
+
+b) Período fechado (a partir do próximo faturamento)
+
+c) Período fechado (antes desta publicação, ou seja, de 04/2024 para trás - Ao selecionar a Unidade + Cliente
+
+d) Período fechado (antes desta publicação, ou seja, de 04/2024 para trás - Ao selecionar somente a Unidade
+
+
+
+
 
 </details>
