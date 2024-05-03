@@ -8,13 +8,13 @@
 
 A tela foi alterada para diminuir o consumo de processamento na consolidação e geração de relatórios do faturamento para Unidade e Unidade + Cliente. Em resumo, estas alterações foram:
 
-1. Separamos o processo de relatórios de faturamento em duas fases distintas:
+1. **Separamos o processo de relatórios de faturamento em duas fases distintas:**
 
 a) Consolidação
 
 b) Geração de Relatório
 
-1. Diante da separação dos dois processos, o comportamento do sistema foi alterado:
+2. **Diante da separação dos dois processos, o comportamento do sistema foi alterado:**
 
 a) Período em aberto
 
