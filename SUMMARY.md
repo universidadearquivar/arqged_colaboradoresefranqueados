@@ -94,6 +94,8 @@
   * [🟩 Grupos](administracao/grupos.md)
   * [🟩 Usuários](administracao/usuarios.md)
 * [🧩 Integrações](integracoes/README.md)
+  * [🟩 URL da API](integracoes/url-da-api.md)
+  * [🟩 Copy of URL da API](integracoes/copy-of-url-da-api.md)
 
 ## 📣 Novidades do ArqGED
 
