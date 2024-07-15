@@ -6,7 +6,13 @@
 
 <summary>10/11: ArqFlow - Componente de E-mail</summary>
 
+O desenho de fluxo foi alterado para permitir "N" entradas para configuração do componente de e-mail, ou seja, posso ter várias tarefas terminando neste componente, responsável por enviar notificações do andamento das atividades do fluxo.&#x20;
 
+Conforme a imagem abaixo, o componente de e-mail recebe 3 avanços de tarefas, anteriormente era possível apenas 1 entrada por componente de e-mail.&#x20;
+
+Lembrando que é permitido "N" entradas e apenas 1 saída para o componente.&#x20;
+
+![](../.gitbook/assets/image.png)
 
 </details>
 
