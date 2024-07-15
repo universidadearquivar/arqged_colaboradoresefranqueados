@@ -93,7 +93,7 @@
   * [🟩 Perfis de Usuários](administracao/perfis-de-usuarios.md)
   * [🟩 Grupos](administracao/grupos.md)
   * [🟩 Usuários](administracao/usuarios.md)
-* [🧩 Integrações](integracoes.md)
+* [🧩 Integrações](integracoes/README.md)
 
 ## 📣 Novidades do ArqGED
 
