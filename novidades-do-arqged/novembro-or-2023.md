@@ -4,6 +4,14 @@
 
 <details>
 
+<summary>10/11: ArqFlow - Componente de E-mail</summary>
+
+
+
+</details>
+
+<details>
+
 <summary>10/11: ArqFlow - Resiliência para as Notificações</summary>
 
 O envio das notificações do workflow foi alterado para garantir a entrega e eficiência no menor tempo possível.
