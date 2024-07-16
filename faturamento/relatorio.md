@@ -50,10 +50,20 @@ Quando o usuário aciona o botão "Refazer a Consolidação", a aplicação reto
 
 ### Faturamento período "Fechado" ou "Faturado"
 
-Quando o usuário solicita um período faturado, ao escolher a Unidade que ainda não houver relatório de faturamento gerado, não serão exibidos os links "Gerar Excel" e "Gerar PDF", na tela é apresentada uma mensagem informativa de que não há relatório disponível para o período selecionado.
+Quando o usuário solicita um período faturado, ao escolher a Unidade que ainda não possui relatório de faturamento gerado, não serão exibidos os links "Gerar Excel" e "Gerar PDF", na tela é apresentada uma mensagem informativa de que não há relatório disponível para o período selecionado.
 
 <figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 O usuário deve clicar na opção disponível de "Gerar Relatório", será gerado um relatório de faturamento consolidado para a unidade, considerando o faturamento de todos os seus clientes.
 
 <figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Após clicar no link "Gerar Relatório" o sistema exibe na tela uma mensagem de confirmação do processamento, além de apresentar uma mensagem fixa informando que o relatório está sendo gerado contendo a data e a hora da solicitação.
+
+<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+
+
+{% hint style="danger" %}
+<mark style="color:red;">O tempo estimado para a disponibilização do relatório é de até 20 minutos, porém, essa condição está dependente da quantidade de solicitações realizadas no momento, o que poderá impactar neste prazo.</mark>
+{% endhint %}
