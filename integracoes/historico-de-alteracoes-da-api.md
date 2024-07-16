@@ -20,3 +20,11 @@ Quando o parâmetro **RemoverEspacos** for enviado como **true**, então a API i
 Esta alteração foi criada para melhorar a integração com E-Social.
 
 </details>
+
+<details>
+
+<summary>23/05/2024 - Inclusão de um novo serviço de API</summary>
+
+
+
+</details>
