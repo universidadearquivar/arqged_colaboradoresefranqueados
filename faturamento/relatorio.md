@@ -45,3 +45,15 @@ Quando o usuário aciona o botão "Refazer a Consolidação", a aplicação reto
 
 <mark style="color:red;">A consolidação destes dados exige um processamento maior para realização de cálculos da quantidade a faturar dos serviços dos contratos, portanto o tempo de disponibilização pode ser entre 10 e 20 minutos a depender da quantidade de clientes e serviços a faturar.</mark>
 {% endhint %}
+
+
+
+### Faturamento período "Fechado" ou "Faturado"
+
+Quando o usuário solicita um período faturado, ao escolher a Unidade que ainda não houver relatório de faturamento gerado, não serão exibidos os links "Gerar Excel" e "Gerar PDF", na tela é apresentada uma mensagem informativa de que não há relatório disponível para o período selecionado.
+
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+O usuário deve clicar na opção disponível de "Gerar Relatório", será gerado um relatório de faturamento consolidado para a unidade, considerando o faturamento de todos os seus clientes.
+
+<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
