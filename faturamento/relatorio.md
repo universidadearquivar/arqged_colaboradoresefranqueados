@@ -10,7 +10,7 @@ Sempre que o usuário acessar esta tela, no período fechado ou já faturado par
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-#### Faturamento período "Em aberto"
+### Faturamento período "Em aberto"
 
 Quando não houver relatório solicitado/gerado para a Unidade ou Unidade + Cliente, não será exibido o link para Gerar Excel e Gerar PDF.&#x20;
 
