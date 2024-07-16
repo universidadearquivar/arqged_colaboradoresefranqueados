@@ -16,19 +16,11 @@ A apuração da quantidade a faturar para o serviço ArqSIGN no ArqGED foi alter
 
 A apuração da quantidade a faturar para o serviço ArqSCAN foi alterada para considerar apenas arquivos digitalizados por usuários do cliente, ou seja, usuários da unidade ou da master que realizarem digitalização de qualquer arquivo de documento da árvore documental do cliente não será contabilizado para o relatório de faturamento.
 
-<mark style="color:blue;">**• Layout do relatório de faturamento.**</mark>
+</details>
 
-Abaixo os ajustes realizados  no layout do relatório de faturamento:&#x20;
+<details>
 
-&#x20;    **Coluna Serviços:** A coluna foi alterada para exibir o nome dos serviços com uma quebra de linha e assim ganhar mais espaço para as colunas de preços e quantidades.&#x20;
-
-&#x20;    **Coluna Qtde dos "Pacote Inicial", "Pacote Periódico" e "Pacote Unitário":** A coluna foi alterada para deixar somente duas casas decimais, com diminuição da coluna para compreender 5 algarismos.&#x20;
-
-&#x20;    **Colunas Preços:** Houve um aumento destas colunas de forma que o R$ e preço não sejam exibidos com quebra de linha, quando o valor for muito grande.&#x20;
-
-**Informação de acumulado:** Para os relatórios com informação de acumulado (Saldo utilizado do Pacote Inicial), a informação da quantidade foi incluída abaixo do serviço.&#x20;
-
-![](<../.gitbook/assets/image (34).png>)
+<summary>18/03: Melhoria de Usabilidade: Tela de Reajuste de Contrato</summary>
 
 <mark style="color:blue;">**• Layout da tela Reajustar Contratos.**</mark>
 
@@ -44,16 +36,24 @@ A alteração visa facilitar visualmente os novos valores dos contratos a serem 
 
 <details>
 
-<summary>18/03: Melhoria de Usabilidade: Tela de Reajuste</summary>
+<summary>14/03: Melhorias no Relatório de Faturamento</summary>
 
+<mark style="color:blue;">**• Usabilidade**</mark>
 
+A aplicação foi alterada para diminuir o consumo de processamento na geração dos [**relatórios de faturamento para Unidade e Unidade + Cliente**](https://arquivar.gitbook.io/manual-arqged-or-colaboradores-e-franqueados/faturamento/relatorio)<mark style="color:blue;">**.**</mark>
 
-</details>
+<mark style="color:blue;">**• Layout do relatório de faturamento.**</mark>
 
-<details>
+Abaixo os ajustes realizados  no layout do relatório de faturamento:&#x20;
 
-<summary>14/03: Melhoria de Usabilidade: Relatório de Faturamento</summary>
+&#x20;    **Coluna Serviços:** A coluna foi alterada para exibir o nome dos serviços com uma quebra de linha e assim ganhar mais espaço para as colunas de preços e quantidades.&#x20;
 
-A aplicação foi alterada para diminuir o consumo de processamento na geração dos [**relatórios de faturamento para Unidade e Unidade + Cliente**](https://arquivar.gitbook.io/manual-arqged-or-colaboradores-e-franqueados/faturamento/relatorio).
+&#x20;    **Coluna Qtde dos "Pacote Inicial", "Pacote Periódico" e "Pacote Unitário":** A coluna foi alterada para deixar somente duas casas decimais, com diminuição da coluna para compreender 5 algarismos.&#x20;
+
+&#x20;    **Colunas Preços:** Houve um aumento destas colunas de forma que o R$ e preço não sejam exibidos com quebra de linha, quando o valor for muito grande.&#x20;
+
+**Informação de acumulado:** Para os relatórios com informação de acumulado (Saldo utilizado do Pacote Inicial), a informação da quantidade foi incluída abaixo do serviço.&#x20;
+
+![](<../.gitbook/assets/image (34).png>)
 
 </details>
