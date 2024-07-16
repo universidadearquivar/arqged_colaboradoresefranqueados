@@ -4,7 +4,7 @@
 
 <details>
 
-<summary>29/04: Etiqueta QRCod no Container</summary>
+<summary>29/04: Etiqueta QRCode no Container</summary>
 
 
 
