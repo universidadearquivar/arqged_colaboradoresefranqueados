@@ -62,8 +62,34 @@ Após clicar no link "Gerar Relatório" o sistema exibe na tela uma mensagem de 
 
 <figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
+{% hint style="danger" %}
+<mark style="color:red;">O tempo estimado para a disponibilização do relatório é de até 20 minutos, porém, essa condição está dependente da quantidade de solicitações realizadas no momento, o que poderá impactar neste prazo.</mark>
+{% endhint %}
 
+Gerado o relatório, é exibida na tela uma mensagem informando a data e hora de conclusão do relatório junto com os links de acesso.
+
+<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+{% hint style="info" %}
+<mark style="color:blue;">O botão "Refazer a Consolidação" para um período fechado, ou seja, já faturado, será habilitado somente após a seleção da Unidade e do Cliente. Sempre que a consolidação de faturamento de um cliente for refeito, o relatório já consolidado para a Unidade em questão será atualizado automaticamente.</mark>
+{% endhint %}
+
+Ao acessar a tela em período faturado e escolher a Unidade + Cliente, é exibido o link para GErar Excel ou Gerar PDF. Ao clicar, o relatório estará sempre disponível para consulta.
+
+<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+{% hint style="info" %}
+<mark style="color:blue;">O botão Refazer a Consolidação será exibido habilitado para que o usuário possa refazer a consolidação do relatório caso seja necessário. Este botão é utilizado para recalcular o faturamento quando houver alguma atualização em valor de serviços ou correção de lançamento em quantidade a faturar de algum serviço. Por este motivo, sempre que este processo for acionado, automaticamente o relatório da unidade será atualizado com as novas informações.</mark>
+{% endhint %}
+
+Quando o usuário escolher a Unidade + Cliente e clicar em Refazer a Consolidação, será exibida uma mensagem informativa na tela e o botão será desabilitado até a conclusão da solicitação. Também haverá na tela uma mensagem fixa informando que o relatório está sendo gerado, além de informar a data e hora da solicitação.
+
+<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="danger" %}
 <mark style="color:red;">O tempo estimado para a disponibilização do relatório é de até 20 minutos, porém, essa condição está dependente da quantidade de solicitações realizadas no momento, o que poderá impactar neste prazo.</mark>
 {% endhint %}
+
+Após o processamento da solicitação, o relatório estará disponível na tela para visualização em Excel ou PDF.
+
+<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
