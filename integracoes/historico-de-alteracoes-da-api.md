@@ -1,10 +1,10 @@
 # 🟩 Histórico de alterações da API
 
-## 2023
+## 2024
 
 <details>
 
-<summary>11/2023 - Alteração do Método GET Documento</summary>
+<summary>28/05/2024 - Ajuste do Método GET</summary>
 
 O método **/api/Documento/Get** da API integração, foi alterado para retornar o valor dos campos customizados dos documentos, retirando os espaços no início e no fim de campos cadastrados incorretamente, também serão removidos espaços duplos entre o conteúdo dos campos.
 
