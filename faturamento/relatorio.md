@@ -21,3 +21,7 @@ Será apresentado o botão "Fazer Consolidação" para que o usuário possa soli
 {% hint style="danger" %}
 <mark style="color:red;">É importante ressaltar que o "Faturamento Em Aberto" é uma pré-consolidação da quantidade a faturar para os serviços do contrato a partir da última fatura até o dia solicitado.</mark>
 {% endhint %}
+
+Ao clicar em "Fazer Consolidação", o relatório não ficará disponível imediatamente, duranto o processo de geração do relatório, o sistema apresenta uma mensagem informando que o processo ainda não foi concluído e o botão "Fazer consolidação" é substituído pelo botão "Refazer a consolidação", que ficará inativo enquanto o relatório é gerado.
+
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
