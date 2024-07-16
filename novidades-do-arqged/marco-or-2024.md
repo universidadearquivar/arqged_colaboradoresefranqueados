@@ -22,6 +22,6 @@
 
 <summary>14/03: Melhoria de Usabilidade: Relatório de Faturamento</summary>
 
-
+A aplicação foi alterada para diminuir o consumo de processamento na geração dos relatórios de faturamento para Unidade e Unidade + Cliente.
 
 </details>
