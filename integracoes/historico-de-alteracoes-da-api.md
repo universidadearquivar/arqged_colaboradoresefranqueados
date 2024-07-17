@@ -23,7 +23,7 @@ Esta alteração foi criada para melhorar a integração com E-Social.
 
 <details>
 
-<summary>23/05/2024 - Inclusão de um novo serviço de API</summary>
+<summary>23/05/2024 - Contrato Inclusão de Serviço de API</summary>
 
 
 
