@@ -1,4 +1,4 @@
-# ➡ Exemplos de Cálculo
+# ➡️ Exemplos de Cálculo
 
 ## Pacote Periódico + Pacote Unitário
 
@@ -317,6 +317,29 @@ R$ 1.500,00 (pacote periódico) + R$ 400,00 (pacote unitário) = R$ 1.900,00 (pr
 Foi criada no ArqGED uma Lista de Funcionários, composta pela listagem de todos os dados de um funcionário que devem ser informados para cadastro no sistema. As regras de auditoria vinculadas a essa lista objetivam sinalizar a ausência de algum desses dados. Essa lista possui 108 funcionários cadastrados.&#x20;
 
 Foi criada uma regra pra essa lista que verifica se o campo CPF está preenchido em um formato válido. A cobrança, neste caso será feita de acordo com o número de itens da lista, ou seja, 108.&#x20;
+
+***
+
+## ArqAPI
+
+Faturamento a partir do cadastro do serviço considerando "Requisições por DIA:
+
+Se no campo “Unidade de Medida para o Limite Gratuito” estiver como “Dia”, significa que a quantidade informada em “Qtde para o Limite Gratuito” é a quantidade de requisições que podem ser realizadas em um dia de forma gratuita.&#x20;
+
+Exemplo:&#x20;
+
+* Unidade de Medida para o Limite Gratuito = Dia&#x20;
+* Qtde para o Limite Gratuito = 10.000&#x20;
+
+Dia 01 do mês = Foram executadas 10.005 requisições via api&#x20;
+
+Do dia 02 ao dia 29 do mês = Não houveram requisições, ou zero requisições&#x20;
+
+Dia 30 do mês = Foram executadas 15.000 requisições&#x20;
+
+Então para este exemplo, iremos cobrar 5.005 requisições ao final do período de faturamento.&#x20;
+
+&#x20;
 
 ***
 
