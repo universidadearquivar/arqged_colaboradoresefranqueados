@@ -114,9 +114,9 @@ O faturamento parcelado é cobrado uma única vez, podendo ser parcelado ou não
 
 <figure><img src="../../../.gitbook/assets/servicos14.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-**Unidade de Medida para Limite Gratuito:** Informe se deve ser considerado para cálculo de requisições gratuitas o quantitativo realizado no "Dia" ou no "Mês".
+**Unidade de Medida para Limite Gratuito:** Informe se deve ser considerado para cálculo de requisições gratuitas (via API) o quantitativo realizado no "Dia" ou no "Mês".
 
-**Quantidade para o Limite Gratuito:** Neste campo deve ser informada a quantidade de requisições que podem ser realizadas no dia ou no mês de forma gratuita.
+**Quantidade para o Limite Gratuito:** Neste campo deve ser informada a quantidade de requisições que podem ser realizadas (via API) no dia ou no mês de forma gratuita.
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
