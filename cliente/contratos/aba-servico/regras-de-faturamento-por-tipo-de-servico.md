@@ -15,7 +15,7 @@ Habilita a utilização do software ArqGED para o cliente.&#x20;
 Habilita a cobrança de requisições excedentes realizadas ao ArqGED por meio da API de integração.
 
 * **Forma de Controle:** Automático
-* **Tipo de Faturamento:**
+* **Tipo de Faturamento:** Periódico
 * **Quantidade a ser faturada:** Para este tipo de serviço, a quantidade a ser faturada sempre será a definida considerando as informações existentes no campo “Unidade de Medida para o Limite Gratuito” e "Qtde para Limite Gratuito". [**Clique aqui e veja um exemplo de cálculo.** ](https://arquivar.gitbook.io/manual-arqged-or-colaboradores-e-franqueados/cliente/contratos/aba-servico/exemplos-de-calculo#arqapi)
 
 ### ArqSEARCH&#x20;
