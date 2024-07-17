@@ -1,4 +1,4 @@
-# ➡ Regras de faturamento por tipo de serviço
+# ➡️ Regras de faturamento por tipo de serviço
 
 ## Serviços de software
 
@@ -9,6 +9,14 @@ Habilita a utilização do software ArqGED para o cliente.&#x20;
 * **Forma de Controle:** Automático&#x20;
 * **Tipo de Faturamento**: Periódico&#x20;
 * **Quantidade a ser faturada:** Para este tipo de serviço, a quantidade a ser faturada sempre será a definida no campo “Preço do Pacote Periódico”, que neste caso é preenchido automaticamente com o valor 1. Não há cobrança de pacote unitário para esse serviço.
+
+### ArqAPI
+
+Habilita a cobrança de requisições excedentes realizadas ao ArqGED por meio da API de integração.
+
+* **Forma de Controle:** Automático
+* **Tipo de Faturamento:**
+* **Quantidade a ser faturada:** Para este tipo de serviço, a quantidade a ser faturada sempre será a definida considerando as informações existentes no campo “Unidade de Medida para o Limite Gratuito” e "Qtde para Limite Gratuito". [**Clique aqui e veja um exemplo de cálculo.** ](https://arquivar.gitbook.io/manual-arqged-or-colaboradores-e-franqueados/cliente/contratos/aba-servico/exemplos-de-calculo#arqapi)
 
 ### ArqSEARCH&#x20;
 
