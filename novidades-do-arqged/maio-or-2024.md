@@ -14,7 +14,7 @@
 
 Foi criado um novo tipo de serviço chamado **ArqAPI.**
 
-Este serviço terá a classificação Software e servirá para cobrança das requisições excedentes na utilização da API do ArqGED.
+Este serviço terá a classificação Software e servirá para [**cobrança das requisições excedentes na utilização da API**](https://arquivar.gitbook.io/manual-arqged-or-colaboradores-e-franqueados/cliente/contratos/aba-servico/exemplos-de-calculo#arqapi) do ArqGED.
 
 ![](<../.gitbook/assets/image (42).png>)
 
