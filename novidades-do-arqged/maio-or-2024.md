@@ -10,18 +10,20 @@
 
 <details>
 
-<summary>23/05: Contrato - Inclusão de Serviço API</summary>
+<summary>23/05: Inclusão do Menu > API > Gerenciador de Chave de API</summary>
 
-<mark style="color:green;">**Serviço**</mark>
+Foi criado em [**Administração um novo Menu chamado API**](https://arquivar.gitbook.io/manual-arqged-or-colaboradores-e-franqueados/administracao/api). Seu objetivo é disponibilizar ao cliente a(s) chave(s) de acesso que será(ão) utilizada(s) para gerenciamento e controle das requisições via API.
+
+</details>
+
+<details>
+
+<summary>23/05: Contrato - Inclusão de Serviço API</summary>
 
 Foi criado um novo tipo de serviço chamado **ArqAPI.**
 
 Este serviço terá a classificação Software e servirá para [**cobrança das requisições excedentes na utilização da API**](https://arquivar.gitbook.io/manual-arqged-or-colaboradores-e-franqueados/cliente/contratos/aba-servico/exemplos-de-calculo#arqapi) do ArqGED.
 
 ![](<../.gitbook/assets/image (42).png>)
-
-<mark style="color:green;">**Gerenciador de Chave de API**</mark>
-
-Foi criado em [**Administração um novo Menu chamado API**](https://arquivar.gitbook.io/manual-arqged-or-colaboradores-e-franqueados/administracao/api). Seu objetivo é disponibilizar ao cliente a(s) chave(s) de acesso que será(ão) utilizada(s) para gerenciamento e controle das requisições via API.
 
 </details>
