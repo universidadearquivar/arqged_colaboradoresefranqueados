@@ -1,14 +1,20 @@
 # 🟩 API
 
-No menu Grupos são criados grupos de usuários com permissão de acesso a algumas funcionalidades do sistema, que são:&#x20;
+No menu API o cliente tem acesso a uma chave que será utilizada para gerenciamento e controle das requisições realizadas via API.&#x20;
 
-* **Relatórios:** Usuários com permissão para visualizar relatórios deste grupo - Ao criar um relatório é possível restringir seu acesso apenas a quem for membro de um grupo de relatórios.&#x20;
-* **Workflow: Usuários com permissão para ativar fluxos deste grupo** - Ao criar um fluxo é possível restringir sua criação apenas a quem for membro de um grupo deste tipo.&#x20;
-* **Workflow: Usuários chefe imediato** – Membros de grupos de chefe imediato podem ser selecionados para receber notificações e realizar tarefas durante fluxos executados por seus subordinados. &#x20;
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/admin3.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+**Unidade - Cliente:** Selecione neste campo o nome da unidade e cliente. Aqui são listados todos os clientes que possuem o serviço ArqAPI vigente no contrato.
 
-{% hint style="warning" %}
-<mark style="color:orange;">**A indicação do chefe imediato de um usuário deve ser feita na tela**</mark> [<mark style="color:orange;">**Administração > Usuários > Aba Permissões II.**</mark>](usuarios.md)
+Ao selecionar o campo, o botão "Gerar: Par de Chaves" é habilitado na tela.
+
+**Chave 1:** Quando o cliente ainda não possui chave gerada o campo é apresentado em branco, quando o cliente já tem chave gerada é apresentada a chave 1 gerada automaticamente pelo sistema.
+
+**Chave 2:** Quando o cliente ainda não possui chave gerada o campo é apresentado em branco, quando o cliente já tem chave gerada é apresentada a chave 2 gerada automaticamente pelo sistema.
+
+{% hint style="danger" %}
+<mark style="color:red;">Por</mark> <mark style="color:red;"></mark><mark style="color:red;">**padrão**</mark> <mark style="color:red;"></mark><mark style="color:red;">o sistema vai gerar sempre um</mark> <mark style="color:red;"></mark><mark style="color:red;">**"par" de chaves**</mark><mark style="color:red;">, então o cliente poderá utilizar</mark> <mark style="color:red;"></mark><mark style="color:red;">**uma ou outra**</mark> <mark style="color:red;"></mark><mark style="color:red;">ou em casos em que a integração ocorre com terceiros, o cliente utiliza uma e o parceiro outra.</mark>
+
+<mark style="color:red;">Uma vez que a chave é gerada, ela deve ser incluída no HEADER das requisições para que estas sejam autorizadas.</mark>
 {% endhint %}
 
