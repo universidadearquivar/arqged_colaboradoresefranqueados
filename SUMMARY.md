@@ -92,6 +92,7 @@
 * [⚙️ Administração](administracao/README.md)
   * [🟩 Perfis de Usuários](administracao/perfis-de-usuarios.md)
   * [🟩 Grupos](administracao/grupos.md)
+  * [🟩 API](administracao/api.md)
   * [🟩 Usuários](administracao/usuarios.md)
 * [🧩 Integrações](integracoes/README.md)
   * [🟩 URL da API](integracoes/url-da-api.md)
