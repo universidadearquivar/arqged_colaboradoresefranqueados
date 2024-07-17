@@ -22,6 +22,6 @@ Este serviço terá a classificação Software e servirá para [**cobrança das 
 
 <mark style="color:green;">**Gerenciador de Chave de API**</mark>
 
-Foi criado no Menu > Administração um novo submenu chamado API. Seu objetivo é disponibilizar ao cliente uma chave de acesso que será utilizada para gerenciamento e controle das requisições via API.
+Foi criado em [**Administração um novo Menu chamado API**](https://arquivar.gitbook.io/manual-arqged-or-colaboradores-e-franqueados/administracao/api). Seu objetivo é disponibilizar ao cliente a(s) chave(s) de acesso que será(ão) utilizada(s) para gerenciamento e controle das requisições via API.
 
 </details>
