@@ -322,7 +322,7 @@ Foi criada uma regra pra essa lista que verifica se o campo CPF está preenchido
 
 ## ArqAPI
 
-Faturamento a partir do cadastro do serviço considerando "Requisições por DIA:
+**Faturamento a partir do cadastro do serviço considerando "Requisições por DIA:**
 
 Se no campo “Unidade de Medida para o Limite Gratuito” estiver como “Dia”, significa que a quantidade informada em “Qtde para o Limite Gratuito” é a quantidade de requisições que podem ser realizadas em um dia de forma gratuita.&#x20;
 
@@ -339,7 +339,31 @@ Dia 30 do mês = Foram executadas 15.000 requisições&#x20;
 
 Então para este exemplo, iremos cobrar 5.005 requisições ao final do período de faturamento.&#x20;
 
-&#x20;
+
+
+**Faturamento a partir do cadastro do serviço considerando "Requisições por MÊS:**
+
+Se no campo “Unidade de Medida para o Limite Gratuito” estiver como “Mês”, significa que a quantidade informada em “Qtde para o Limite Gratuito” é a quantidade de requisições que podem ser realizadas em um mês de forma gratuita.&#x20;
+
+Exemplo:&#x20;
+
+* Unidade de Medida para o Limite Gratuito = Mês&#x20;
+* Qtde para o Limite Gratuito = 50.000&#x20;
+
+Dia 01 do mês = Foram executadas 40.000 requisições via api&#x20;
+
+Do dia 02 ao dia 29 do mês = Não houveram requisições, ou zero requisições&#x20;
+
+Dia 30 do mês = Foram executadas 20.000 requisições&#x20;
+
+Então para este exemplo, iremos cobrar 10.000 requisições ao final do período de faturamento. Pois somando todo o uso do mês, esta foi a quantidade que ultrapassou o limite mensal de 50.000 requisições.&#x20;
+
+O faturamento para a quantidade do serviço ArqAPI, irá seguir o mesmo padrão conforme os demais softwares que usam a combinação de campos: &#x20;
+
+* Pacote Periódico&#x20;
+* Preço Pacote Periódico&#x20;
+* Pacote Unitário&#x20;
+* Preço Pacote Unitário &#x20;
 
 ***
 
