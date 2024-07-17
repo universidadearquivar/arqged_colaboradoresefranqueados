@@ -194,7 +194,7 @@ Este ícone apresenta o modelo de documento PDF editável. Quando o usuário cli
 
 <figure><img src="../../../.gitbook/assets/minhas_ativ22.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-Ao abrir o documento, os campos de preenchimento obrigatórios serão apresentados com indicação do campo em vermelho e os campos de preenchimento não obrigatórios serão apresentados com indicação em verde:
+Ao abrir o documento, os <mark style="color:red;">campos de preenchimento obrigatórios</mark> serão apresentados com indicação do <mark style="color:red;">campo em vermelho</mark> e os c<mark style="color:green;">ampos de preenchimento não obrigatórios</mark> serão apresentados com indicação <mark style="color:green;">em verde</mark>:
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
