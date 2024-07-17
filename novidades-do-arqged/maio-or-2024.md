@@ -2,9 +2,9 @@
 
 <details>
 
-<summary>27/05: Melhoria de Usabilidade: Uso do modelo PDF</summary>
+<summary>27/05: Melhoria de Usabilidade - Uso do modelo Formulário em PDF</summary>
 
-
+O modelo de documento foi alterado para exibir os campos de preenchimento obrigatórios e não obrigatórios selecionados para melhor identificação do usuário.
 
 </details>
 
