@@ -190,9 +190,21 @@ Ao clicar neste ícone é apresentado ao usuário o formulário para preenchimen
 
 ### 7. Modelo de Documento
 
-Este ícone apresenta o modelo de documento PDF editável cadastrado no fluxo no menu [Workflow > Desenho do Fluxo > Aba Dados Gerais > Campo Modelo de Arquivo PDF com campos](../../desenho-do-fluxo/aba-dados-gerais.md#configuracoes-da-aba-dados-gerais).
+Este ícone apresenta o modelo de documento PDF editável. Quando o usuário clicar neste ícone, o arquivo do modelo de documento será aberto em uma nova aba conforme a configuração do desenho para a tarefa em questão realizado em [Workflow > Desenho do Fluxo > Aba Dados Gerais > Campo Modelo de Arquivo PDF com campos](../../desenho-do-fluxo/aba-dados-gerais.md#configuracoes-da-aba-dados-gerais). Ou seja, o arquivo será aberto para visualização, edição e/ou assinatura.
 
 <figure><img src="../../../.gitbook/assets/minhas_ativ22.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Ao abrir o documento, os campos de preenchimento obrigatórios serão apresentados com indicação do campo em vermelho e os campos de preenchimento não obrigatórios serão apresentados com indicação em verde:
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Se tratado de tarefa externa, são exibidos os campos "**Tela cheia**" e "**Dividir Tela**". Quando o usuário clica no arquivo o modelo de documento é aberto dividindo a tela com a tarefa.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Para voltar a dividir a tela com a tarefa, clique no botão "**Dividir Tela**".
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ### 8. Obrigatoriedades da tarefa
 
