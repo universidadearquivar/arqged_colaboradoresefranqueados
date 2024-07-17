@@ -114,9 +114,22 @@ O faturamento parcelado é cobrado uma única vez, podendo ser parcelado ou não
 
 <figure><img src="../../../.gitbook/assets/servicos14.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-**Pacote Inicial:** O valor informado neste campo será consumido uma única vez. Depois de consumido passará a ser descontada a quantidade do pacote periódico ou do pacote unitário.&#x20;
+**Unidade de Medida para Limite Gratuito:** Informe se deve ser considerado para cálculo de requisições gratuitas o quantitativo realizado no "Dia" ou no "Mês".
 
-**Preço do Pacote Inicial:** Informe o valor que será cobrado do pacote inicial.&#x20;
+**Quantidade para o Limite Gratuito:** Neste campo deve ser informada a quantidade de requisições que podem ser realizadas no dia ou no mês de forma gratuita.
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+O faturamento para a quantidade do serviço ArqAPI, segue o mesmo padrão dos demais softwares que usam a combinação de campos: &#x20;
+
+* Pacote Periódico&#x20;
+* Preço Pacote Periódico&#x20;
+* Pacote Unitário&#x20;
+* Preço Pacote Unitário&#x20;
+
+**Pacote Inicial:** O valor informado neste campo será consumido uma única vez. Depois de consumido passará a ser descontada a quantidade do pacote periódico ou do pacote unitário. Quando se tratar de software esse campo não estará disponível para preenchimento.
+
+**Preço do Pacote Inicial:** Informe o valor que será cobrado do pacote inicial. Quando se tratar de software esse campo não estará disponível para preenchimento.
 
 **Pacote Periódico:** O valor informado neste campo será cobrado periodicamente, independente do uso.&#x20;
 
