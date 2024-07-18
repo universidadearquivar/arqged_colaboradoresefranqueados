@@ -18,7 +18,21 @@ Conforme a imagem abaixo, o componente de e-mail recebe 3 avanços de tarefas, s
 
 <summary>30/05: Selecionar campos do Formulário e Modelo de Documento</summary>
 
+1\.    **Workflow > Desenho do Fluxo > Formulário**
 
+A tela de configuração do **formulário** na tarefa, foi alterada para permitir marcar/desmarcar todos os _checkbox’s_  de uma vez.
+
+O comportamento da tela permitia marcar apenas um campo por vez, com esta alteração, em uma tarefa que o usuário precise preencher todos os campos do formulário, será possível marcá-los com apenas um clique.
+
+![](<../.gitbook/assets/image (47).png>)
+
+2\.    **Workflow > Desenho do Fluxo > Modelo de Documento**
+
+A tela de configuração do **modelo de documento** na tarefa, foi alterada para permitir marcar/desmarcar todos os _checkbox’s_  de uma vez.
+
+O comportamento da tela permitia marcar apenas um campo por vez, com esta alteração, em uma tarefa que o usuário precise preencher todos os campos do modelo de documento, será possível marcá-los com apenas um clique.
+
+![](<../.gitbook/assets/image (48).png>)
 
 </details>
 
