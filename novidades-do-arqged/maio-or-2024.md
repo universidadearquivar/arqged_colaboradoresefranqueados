@@ -16,7 +16,7 @@ Conforme a imagem abaixo, o componente de e-mail recebe 3 avanços de tarefas, s
 
 <details>
 
-<summary>30/05: Melhoria de Usabilidade - Selecionar campos do Formulário e Modelo de Documento</summary>
+<summary>30/05: Selecionar campos do Formulário e Modelo de Documento</summary>
 
 
 
