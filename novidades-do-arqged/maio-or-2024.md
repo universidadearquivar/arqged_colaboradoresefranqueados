@@ -2,9 +2,15 @@
 
 <details>
 
-<summary>30/05: Componente de Notificação</summary>
+<summary>30/05: Componente de Notificação E-mail</summary>
 
+**Workflow > Desenho do Fluxo - Componente de e-mail**&#x20;
 
+O desenho de fluxo foi alterado para permitir "N" entradas para configuração do componente de e-mail, ou seja, é possível ter várias tarefas terminando neste componente, responsável por enviar notificações do andamento das atividades do fluxo.&#x20;
+
+Conforme a imagem abaixo, o componente de e-mail recebe 3 avanços de tarefas, sendo permitido "N" entradas e apenas 1 saída para o componente.&#x20;
+
+![](../.gitbook/assets/image.png)
 
 </details>
 

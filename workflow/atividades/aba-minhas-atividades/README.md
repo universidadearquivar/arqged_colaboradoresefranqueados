@@ -200,7 +200,7 @@ Ao abrir o documento, os <mark style="color:red;">campos de preenchimento obriga
 
 Se tratado de tarefa externa, são exibidos os campos "**Tela cheia**" e "**Dividir Tela**". Quando o usuário clica no arquivo o modelo de documento é aberto dividindo a tela com a tarefa.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Para voltar a dividir a tela com a tarefa, clique no botão "**Dividir Tela**".
 
