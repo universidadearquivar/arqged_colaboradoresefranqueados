@@ -151,7 +151,7 @@ _<mark style="color:blue;">Registro de Documento:</mark>_ <mark style="color:blu
 
 <figure><img src="../../.gitbook/assets/desenho13.png" alt=""><figcaption></figcaption></figure>
 
-#### Aba Campos
+#### Aba Formulário
 
 * **Formulário:** Neste campo é exibido o formulário cadastrado anteriormente no campo “Formulário”, na [aba Dados Gerais](aba-dados-gerais.md).&#x20;
 * **Campos:** Neste espaço são exibidos todos os campos do formulário cadastrado associado ao fluxo. Aqui o usuário deverá marcar como o executor da tarefa poderá interagir com cada campo, sendo `V =` Visualiza, `C =` Cadastra, `O =` Cadastra Obrigatoriamente, `E =` Edita e `T =` Exibir na Tarefa.  O usuário poderá marcar um capo por vez ou marcar todos utilizando a opção o "campos". É possível ocultar campos e permitir que o executor tarefa edite determinado campo se necessário. Os campos marcados com T (Exibir na Tarefa) serão mostrados na tela Minhas Atividades, na descrição da tarefa.&#x20;
