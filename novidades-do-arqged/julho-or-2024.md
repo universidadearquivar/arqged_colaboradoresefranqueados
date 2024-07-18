@@ -4,7 +4,7 @@
 
 <details>
 
-<summary>10/07: Remodelagem do componente</summary>
+<summary>10/07: Copiar dados do fluxo de origem</summary>
 
 
 
