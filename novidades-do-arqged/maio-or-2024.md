@@ -2,9 +2,17 @@
 
 <details>
 
+<summary>30/05: Componente de Notificação</summary>
+
+
+
+</details>
+
+<details>
+
 <summary>30/05: Melhoria de Usabilidade - Selecionar campos do Formulário e Modelo de Documento</summary>
 
-O [modelo de documento](https://arquivar.gitbook.io/manual-arqged-or-colaboradores-e-franqueados/workflow/atividades/aba-minhas-atividades#id-7.-modelo-de-documento) foi alterado para dar destaque os campos de preenchimento obrigatórios e não obrigatórios.
+
 
 </details>
 
