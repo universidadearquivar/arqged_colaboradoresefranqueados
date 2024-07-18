@@ -253,7 +253,29 @@ Indica quo fluxo atual se encerra naquela etapa e um novo fluxo será ativado na
 
 * **Ativar o fluxo**: Selecione o fluxo que deverá ser ativado automaticamente.
 
-<figure><img src="../../.gitbook/assets/desenho25.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/desenho25.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Neste momento o usuário poderá copiar os dados do fluxo atual para o novo fluxo, ou seja, o usuário poderá configurar previamente, quais informações do fluxo atual poderão ser copiadas o fluxo de destino.
+
+<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Quando o componente estiver selecionado, no campo Ativar Novo Fluxo, serão exibidos todos os fluxos com status “Em Elaboração” e “Ativo”, incluindo o próprio fluxo que está sendo cadastrado.&#x20;
+
+Para o fluxo em execução, quando houver o avanço para este componente, o novo fluxo será ativado copiando todos os dados configurados pelo usuário, conforme a imagem acima.&#x20;
+
+As opções de configuração para cópia dos dados são:&#x20;
+
+* **Cópia das observações:** Quando esta opção estiver marcada a aplicação deverá gerar o novo fluxo com a cópia da informação incluída no campo observação do fluxo de origem.&#x20;
+* **Cópia dos dados do formulário:** As informações serão copiadas somente se o fluxo a ser ativado possuir formulário e somente serão copiados os dados entre os formulários do fluxo de origem para o fluxo destino, quando os campos dos formulários forem os mesmos.&#x20;
+* **Dados do Modelo:** As informações serão copiadas somente se o fluxo a ser ativado possuir modelo. Somente serão copiados os dados entre os modelos do fluxo de origem para o fluxo destino, quando os campos dos formulários estiverem relacionados aos campos do modelo e estes forem os mesmos.&#x20;
+* **Cópia último comentário:** Quando esta opção estiver marcada a aplicação deverá gerar o novo fluxo com a cópia do último comentário realizado no fluxo de origem.&#x20;
+* **Cópia de todos os comentários:** Quando esta opção estiver marcada a aplicação deverá gerar o novo fluxo com a cópia de todos os comentários realizados no fluxo de origem.&#x20;
+* **Associação dos registros dos documentos:** Quando esta opção estiver marcada, a aplicação deverá associar ao novo fluxo todos os registros do fluxo de origem.&#x20;
+* **Enviar as marcações de assinatura:** Quando esta opção estiver marcada, a aplicação deverá além de associar todos os registros do fluxo de origem, deverá marcar os anexos dos registros marcados para assinar no fluxo de origem.&#x20;
+* **Cópia do download em massa:** Quando esta opção estiver marcada, a aplicação deverá copiar todos os downloads em massa do fluxo de origem para o fluxo destino.&#x20;
+* **Cópia de todos os arquivos anexos do fluxo:** Quando esta opção estiver marcada, a aplicação deverá copiar todos os anexos do fluxo de origem para o fluxo destino.&#x20;
+* **Cópia somente dos arquivos marcados para assinar:** Quando esta opção estiver marcada, a aplicação deverá copiar para o fluxo destino somente os anexos do fluxo marcados para assinar.&#x20;
+* **Cópia dos arquivos anexos com as marcações de assinatura:** Quando esta opção estiver marcada, a aplicação deverá além de copiar os anexos do fluxo de origem, também marcar os anexos selecionados para assinar no fluxo de origem.&#x20;
 
 ***
 
