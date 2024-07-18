@@ -4,7 +4,7 @@
 
 <details>
 
-<summary>10/07: Copiar dados do fluxo de origem</summary>
+<summary>10/07: Workflow - Copiar dados do fluxo de origem</summary>
 
 **Workflow > Desenho do fluxo**&#x20;
 
