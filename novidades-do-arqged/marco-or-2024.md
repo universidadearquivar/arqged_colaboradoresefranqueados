@@ -20,6 +20,16 @@ A apuração da quantidade a faturar para o serviço ArqSCAN foi alterada para c
 
 <details>
 
+<summary>18/03: Contrato - Serviço ArqNFe</summary>
+
+<mark style="color:blue;">**• Cliente > Contrato > Serviço**</mark>
+
+
+
+</details>
+
+<details>
+
 <summary>18/03: Melhoria de Usabilidade: Tela de Reajuste de Contrato</summary>
 
 <mark style="color:blue;">**• Layout da tela Reajustar Contratos.**</mark>
