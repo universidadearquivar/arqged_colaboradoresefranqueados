@@ -118,7 +118,7 @@ O faturamento parcelado é cobrado uma única vez, podendo ser parcelado ou não
 
 **Quantidade para o Limite Gratuito:** Neste campo deve ser informada a quantidade de requisições que podem ser realizadas (via API) no dia ou no mês de forma gratuita.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 O faturamento para a quantidade do serviço ArqAPI, segue o mesmo padrão dos demais softwares que usam a combinação de campos: &#x20;
 
@@ -145,3 +145,12 @@ O faturamento para a quantidade do serviço ArqAPI, segue o mesmo padrão dos de
 
 <figure><img src="../../../.gitbook/assets/servicos15.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
+Quando o serviço ArqNFe for adicionado, serão exibidos os campos “**Pacote de referência**” e “V**alor de referência**”.
+
+&#x20;Os campos permitem valores numéricos de até quatro casas decimais e o “**Valor de referência**” será reajustado normalmente conforme data do contrato.
+
+&#x20;Estes campos existem para guardar a quantidade e valor para utilização excedente do serviço.
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+&#x20;
