@@ -24,7 +24,13 @@ A apuração da quantidade a faturar para o serviço ArqSCAN foi alterada para c
 
 <mark style="color:blue;">**• Cliente > Contrato > Serviço**</mark>
 
+A tela [para adicionar, editar ou visualizar um serviço no contrato,](https://arquivar.gitbook.io/manual-arqged-or-colaboradores-e-franqueados/cliente/contratos/aba-servico#adicionando-um-servico) foi alterada para inclusão de campos exclusivos do ArqNFe.
 
+Quando este serviço for adicionado, serão exibidos os campos “Pacote de referência” e “Valor de referência”.
+
+Estes campos foram criados pra guardar a quantidade e valor para utilização excedente do serviço.
+
+&#x20;O uso do serviço permanece o mesmo, não houveram alterações na utilização ou forma de cobrança, os campos foram adicionados apenas para referência.
 
 </details>
 
