@@ -28,7 +28,7 @@ Ao clicar em Gerar: Par de Chaves, é exibida uma mensagem informativa na tela.
 <mark style="color:red;">Se após regerar as chaves, o usuário não atualizá-las nos parâmetros de pesquisa da integração  já existente, as chamadas na API do ArqGED deixarão de funcionar!</mark>
 {% endhint %}
 
-Clicando no ícone "Visualizar" para mostrar ou ocultar as chaves.
+Clique no ícone "Visualizar" para mostrar ou ocultar as chaves.
 
 <figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
