@@ -21,9 +21,9 @@ Para o funcionamento correto do ArqClient são exigidos os requisitos mínimos a
 * Processador: Dual Core, 2 GHz ou Superior.&#x20;
 * Sistema Operacional: Windows 10, ou superior&#x20;
 
-1\. Para realizar o download e instalação do aplicativo “ArqClient” na máquina onde será utilizada a assinatura digital, acesse o site [http://downloads.arquivar.com.br/​](http://downloads.arquivar.com.br/%E2%80%8B).&#x20;
+1\. Para realizar o download e instalação do aplicativo “ArqClient” na máquina onde será utilizada a assinatura digital, acesse o site [**https://downloads.arquivar.com/**](https://downloads.arquivar.com/).&#x20;
 
-<figure><img src="../../.gitbook/assets/arqscan01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
 2\. Em “Instaladores”, clique no link para o arquivo de instalação para utilização no ambiente de Produção. &#x20;
 
