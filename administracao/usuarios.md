@@ -54,10 +54,61 @@ No menu Usuários são criados todos os usuários que utilizam o sistema ArqGED 
 
 <figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-**Master:** Informe se o usuário é do tipo Master, ou seja, se ele deve acessar a Árvore Documental completa, sendo necessário neste caso definir somente o perfil de acesso.
+**Master:** Informe se o usuário é do tipo Master, ou seja, se ele deve acessar a Árvore Documental completa ou se ele deve ter restrições por departamento ou tipo documental, etc.
 
-Quando é necessária a restrição do usuário por departamento ou tipo documental, ele não poderá ser considerado um usuário Master.
+**Usuário Master > SIM:** Indica que o usuário terá acesso a todos os níveis da Árvore Documental, sendo necessária a definição somente do tipo de acesso que deve ser aplicado aos níveis.
 
-<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+**Usuário Master > NÃO:** Indica que o usuário possui restrições de acesso aos níveis da Árvore Documental, neste caso é habilitada a coluna Árvore Organizacional, para que o perfil de acesso seja definido conforme nível da árvore.
+
+<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+{% hint style="info" %}
+<mark style="color:blue;">Só é permitido definir se o usuário é Master ou não neste momento. Uma vez realizada a definição, não é permitido alterar,  neste caso, um novo usuário deverá ser criado.</mark>
+{% endhint %}
+
+**Clientes que o usuário terá acesso:** Aqui devem ser selecionados todos os clientes que o usuário terá acesso dentro do ArqGED, ou seja, o sistema permite o acesso a vários clientes considerando um login único, ao selecionar o cliente, clique em adicionar "+". Repita o processo até que todos os clientes estejam listados na tela.&#x20;
+
+Selecione o cliente que deseja definir as permissões para que a Árvore Documental seja habilitada na tela:
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Selecione o perfil que deseja atribuir clicando e arrastando para o nó de Árvore desejado. Para selecionar vários perfis, mantenha o "Ctrl" pressionado e clique nos perfis desejados, arraste os perfis para a Árvore ou clique na opção "Atribuir os perfis selecionados para os níveis de Árvore".
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Clicando no botão de atribuição, será apresentada uma nova tela para indicar em qual nível da Árvore o perfil deve ser aplicado, selecione o desejado e clique "Salvar".
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+{% hint style="warning" %}
+<mark style="color:orange;">Se o usuário não for do tipo Master, é possível aplicar permissões diferentes para diferentes nós da Árvore. Se o usuário for do tipo Master, ele terá acesso a toda a Árvore Documental, de acordo com o perfil de acesso definido, por exemplo, se ele tiver perfil de "Edição", ele poderá editar em todos os nós da árvore.</mark>
+{% endhint %}
+
+Os perfis são aplicados considerando as atribuições do nível mais alto, então se for arrastado o perfil "pai", todas as permissões "filhas" serão aplicadas ao nó da árvore.
+
+Considerando o exemplo abaixo, ao selecionar o "pai" - Gestão de Documentos para um nó da árvore, automaticamente terá habilitada as permissões filhas:
+
+\- Gestão de Documentos Eletrônicos
+
+&#x20;  \- Eletrônico - Cadastrar, Alterar e Visualizar
+
+&#x20;   \- Eletrônico - Visualizar
+
+&#x20;     \- Eletrônico - Visualizar (não altera)
+
+Caso a restrição precise ser em um nível "filho", é necessário selecionar somente este perfil no momento de arrastar para a árvore, desta forma não serão aplicadas permissões dos níveis superiores ou do nível "pai".
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Como regra, o sistema permite ao perfil que cria novos usuários, definir acessos iguais ao seu ou inferiores, ele também só consegue criar acessos para os mesmos níveis de árvore que ele visualiza.
+
+{% hint style="danger" %}
+<mark style="color:red;">Importante ressaltar que a análise das permissões de cada usuário na árvore é de extrema importância para que os perfis sejam aplicados conforme necessidade e não comprometa a saúdo do sistema. Se por ventura esta análise não for feita e o perfil de acesso for aplicado em toda a árvore para todos os usuários, podem ocorrer casos de lentidão desde o momento do login, onde o sistema já inicia a verificação das permissões de acesso, até o momento da consulta de documentos, onde o sistema verifica na solicitação quais dados podem ser apresentados ao usuário logado.</mark>
+
+<mark style="color:red;">Caso identificada a necessidade de acesso a toda a Árvore Documental, a orientação é que o usuário seja criado do tipo "Master".</mark>
+{% endhint %}
+
+
+
