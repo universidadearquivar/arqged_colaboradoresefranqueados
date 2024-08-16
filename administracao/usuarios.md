@@ -132,8 +132,6 @@ Existe também a opção de **"Copiar as Permissões para outro usuário do clie
 
 Crie o(s) novo(s) usuário(s) preenchendo os dados da [aba usuário](usuarios.md#aba-usuario), depois acesse o usuário que deve ser utilizado como "espelho" e em "Permissões I" clique na opção  **"Copiar as Permissões para outro usuário do cliente".**
 
-<figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
 Selecione na lista todos os usuários que devem herdar as permissões do usuário em questão. Selecione o nome do usuário e clique em "+" adicionar. Repita o processo até que todos os usuários sejam adicionados na tela. Após clique "Enviar".
 
 <figure><img src="../.gitbook/assets/image (62).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
