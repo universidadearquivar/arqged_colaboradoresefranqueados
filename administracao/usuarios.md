@@ -70,6 +70,10 @@ No menu Usuários são criados todos os usuários que utilizam o sistema ArqGED 
 
 **Clientes que o usuário terá acesso:** Aqui devem ser selecionados todos os clientes que o usuário terá acesso dentro do ArqGED, ou seja, o sistema permite o acesso a vários clientes considerando um login único, ao selecionar o cliente, clique em adicionar "+". Repita o processo até que todos os clientes estejam listados na tela.&#x20;
 
+{% hint style="info" %}
+<mark style="color:blue;">Quando o atendimento do cliente é realizado por mais de uma Unidade, devem ser adicionados logo abaixo o cliente, as Unidades envolvidas no atendimento. Desta forma as permissões são aplicadas para todas as Unidades selecionadas.</mark>
+{% endhint %}
+
 Selecione o cliente que deseja definir as permissões para que a Árvore Documental seja habilitada na tela:
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
