@@ -17,7 +17,7 @@ São as telas:&#x20;
 * Localização Simples&#x20;
 * Localização Avançada&#x20;
 
-![](<../.gitbook/assets/image (2) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1) (1) (1).png>)
 
 Com esta mudança, um usuário poderá por exemplo, acessar apenas a tela Cadastrar do menu Documento, sem que haja vínculo ou acesso para as demais telas do mesmo menu.
 
