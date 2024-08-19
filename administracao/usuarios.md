@@ -144,6 +144,14 @@ Será apresentada na tela uma mensagem de previsão de conclusão da cópia das 
 <mark style="color:blue;">A função de</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**"Copiar as Permissões para outro usuário do cliente"**</mark><mark style="color:blue;">, funciona apenas para clientes que</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Não**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">são do tipo Master.</mark>
 {% endhint %}
 
+{% hint style="danger" %}
+<mark style="color:red;">Se a "Aba Permissões I" não for devidamente configurada com as permissões que devem ser aplicadas para o usuário, ao tentar realizar o primeiro acesso o sistema apresentará a seguinte mensagem na tela:</mark>
+
+![](<../.gitbook/assets/image (65).png>)
+
+<mark style="color:red;">Retorne ao usuário e finalize as configuração necessárias.</mark>
+{% endhint %}
+
 ### Aba Permissões II
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
