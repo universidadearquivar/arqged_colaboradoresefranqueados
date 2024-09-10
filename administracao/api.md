@@ -2,7 +2,7 @@
 
 ## SubscriptionKey (Chave de Acesso ou Chave de API)
 
-No menu API o cliente tem acesso a uma chave que será utilizada para gerenciamento e controle das requisições realizadas via API.&#x20;
+No menu API o cliente tem acesso a chave de acesso da API, que será utilizada para gerenciamento e controle das requisições realizadas via API, também chamada Subscriptionkey. Uma vez que a chave é gerada, ela deve ser incluída no HEADER das requisições para que estas sejam autorizadas.
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -35,6 +35,14 @@ Clique no ícone "Visualizar" para mostrar ou ocultar as chaves.
 Para **regerar o par de chaves**, utilize o botão **"Gerar: Par de Chaves".** Para **regerar apenas uma das chaves, utilize o** ícone de **"Regerar Chave"** considerando a chave 1 ou a 2.
 
 <figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Será apresentada na tela a mensagem:&#x20;
+
+<figure><img src="../.gitbook/assets/image (66).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+{% hint style="danger" %}
+<mark style="color:red;">Sempre que a chave for regerada, a anterior é inativada automaticamente, sendo necessário reconfigurar os paramentos da API em que a chave anterior foi incluída.</mark>
+{% endhint %}
 
 ## Como passar a SubscriptionKey
 
