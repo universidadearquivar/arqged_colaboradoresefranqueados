@@ -1,5 +1,7 @@
 # 🟩 API
 
+## SubscriptionKey (Chave de Acesso ou Chave de API)
+
 No menu API o cliente tem acesso a uma chave que será utilizada para gerenciamento e controle das requisições realizadas via API.&#x20;
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
@@ -21,8 +23,6 @@ Ao selecionar o campo, o botão "Gerar: Par de Chaves" é habilitado na tela.
 Ao clicar em Gerar: Par de Chaves, é exibida uma mensagem informativa na tela.
 
 <figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
-
 
 {% hint style="danger" %}
 <mark style="color:red;">Se após regerar as chaves, o usuário não atualizá-las nos parâmetros de pesquisa da integração  já existente, as chamadas na API do ArqGED deixarão de funcionar!</mark>
