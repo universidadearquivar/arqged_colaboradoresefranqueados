@@ -36,3 +36,8 @@ Para **regerar o par de chaves**, utilize o botão **"Gerar: Par de Chaves".** P
 
 <figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
+## Como passar a SubscriptionKey
+
+Ao chamar a API na nova rota, será necessário enviar no “Headers” a “SubscriptionKey” conforme figura abaixo:
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
