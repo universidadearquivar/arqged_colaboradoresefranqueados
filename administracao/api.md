@@ -4,6 +4,10 @@
 
 No menu API o cliente tem acesso a chave de acesso da API, que será utilizada para gerenciamento e controle das requisições realizadas via API, também chamada Subscriptionkey. Uma vez que a chave é gerada, ela deve ser incluída no HEADER das requisições para que estas sejam autorizadas.
 
+{% hint style="success" %}
+<mark style="color:green;">Nesta tela serão listados os clientes que possuem o serviço ArqAPI vigente no contrato. Se o nome da sua empresa não aparece para gerar a chave entre em contato com:</mark> <mark style="color:green;"></mark><mark style="color:green;">**comercial@arquivar.com**</mark>
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Unidade - Cliente:** Selecione neste campo o nome da unidade e cliente. Aqui são listados todos os clientes que possuem o serviço ArqAPI vigente no contrato.
