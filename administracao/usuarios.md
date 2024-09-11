@@ -80,7 +80,7 @@ Selecione o cliente que deseja definir as permissões para que a Árvore Documen
 
 Selecione o perfil que deseja atribuir clicando e arrastando para o nó de Árvore desejado. Para selecionar vários perfis, mantenha o "Ctrl" pressionado e clique nos perfis desejados, arraste os perfis para a Árvore ou clique na opção "Atribuir os perfis selecionados para os níveis de Árvore".
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Clicando no botão de atribuição, será apresentada uma nova tela para indicar em qual nível da Árvore o perfil deve ser aplicado, selecione o desejado e clique "Salvar".
 
@@ -120,7 +120,7 @@ Para atribuir uma licença de assinatura digital ao usuário, é necessário con
 
 Ativado o usuário, prossiga com a atribuição da licença de assinatura digital do usuário, clique no ícone. Na frente do ícone o sistema apresenta a quantidade de licenças utilizadas x a quantidade de licenças contratadas.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Para desativar a licença, clique novamente no ícone.
 
@@ -128,7 +128,7 @@ Para desativar a licença, clique novamente no ícone.
 
 Existe também a opção de **"Copiar as Permissões para outro usuário do cliente"**, esta funcionalidade permite que as configurações de perfil seja realizada para um usuário e replicada de forma automática aos demais.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Crie o(s) novo(s) usuário(s) preenchendo os dados da [aba usuário](usuarios.md#aba-usuario), depois acesse o usuário que deve ser utilizado como "espelho" e em "Permissões I" clique na opção  **"Copiar as Permissões para outro usuário do cliente".**
 
@@ -154,11 +154,11 @@ Será apresentada na tela uma mensagem de previsão de conclusão da cópia das 
 
 ### Aba Permissões II
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Endereço Raiz de Armazenamento de Caixas:** Trata-se da lista de endereços utilizada pelo cliente quando realizada a gestão de arquivo interno. Selecione no _checkbox_ somente aqueles que o usuário poderá acessar. Quando não é realizada essa configuração, o usuário não terá a localização física da caixa no busca de documentos, não visualizará o Menu > Caixa ou Pasta > Endereço do Cliente e também não poderá realizar a alocação de caixas.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Chefe Imediato:** Selecione na lista apresentada o superior do usuário, em caso de utilização do ArqFlow, o chefe imediato poderá visualizar ou executar atividades de seus subordinados, além de ser notificado quanto ao processo.&#x20;
 
@@ -170,7 +170,7 @@ Dentro do arquivo interno, o chefe imediato também poderá cancelar reservas re
 
 ### Aba Perfil
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Nesta aba temos configurações voltadas para o layout do sistema que será apresentado ao usuário.
 

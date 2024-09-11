@@ -52,4 +52,4 @@ Será apresentada na tela a mensagem:&#x20;
 
 Ao chamar a API na nova rota, será necessário enviar no “Headers” a “SubscriptionKey” conforme figura abaixo:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
