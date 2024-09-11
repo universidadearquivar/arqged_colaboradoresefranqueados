@@ -21,4 +21,4 @@ A documentação da API de integração está dividida em:
 3. [Limites de Requisições da API](limites-de-requisicoes-da-api.md)
 4. Métodos disponíveis da API&#x20;
 5. [URL da API ArqGED](url-da-api-arqged.md)
-6. Histórico de alterações da API&#x20;
+6. [Histórico de alterações da API ](historico-de-alteracoes-da-api.md)
