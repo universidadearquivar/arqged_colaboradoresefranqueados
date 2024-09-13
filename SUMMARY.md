@@ -97,8 +97,9 @@
 * [🧩 Integrações](integracoes/README.md)
   * [🟩 URL da API ArqGED](integracoes/url-da-api-arqged.md)
   * [🟩 Limites de Requisições da API](integracoes/limites-de-requisicoes-da-api.md)
-  * [🟩 Métodos disponíveis na API](integracoes/metodos-disponiveis-na-api/README.md)
+  * [🟩 Métodos disponíveis na API](integracoes/metodos-disponiveis-na-api.md)
     * [◼️ 1. Autenticação](integracoes/metodos-disponiveis-na-api/1.-autenticacao.md)
+    * [◼️ 2. Arquivo](integracoes/metodos-disponiveis-na-api/2.-arquivo.md)
     * [◼️ Copy of Page 1](integracoes/metodos-disponiveis-na-api/copy-of-page-1.md)
     * [◼️ Copy of Page 1](integracoes/metodos-disponiveis-na-api/copy-of-page-1-1.md)
     * [◼️ Copy of Page 1](integracoes/metodos-disponiveis-na-api/copy-of-page-1-2.md)
@@ -106,7 +107,6 @@
     * [◼️ Copy of Page 1](integracoes/metodos-disponiveis-na-api/copy-of-page-1-4.md)
     * [◼️ Copy of Page 1](integracoes/metodos-disponiveis-na-api/copy-of-page-1-5.md)
     * [◼️ Copy of Page 1](integracoes/metodos-disponiveis-na-api/copy-of-page-1-6.md)
-    * [◼️ Copy of Page 1](integracoes/metodos-disponiveis-na-api/copy-of-page-1-7.md)
   * [🟩 Requisitos para uso da API](integracoes/copy-of-url-da-api.md)
   * [🟩 Histórico de alterações da API](integracoes/historico-de-alteracoes-da-api.md)
 
