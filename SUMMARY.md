@@ -107,7 +107,6 @@
     * [◼️ 7. Nota Fiscal](<integracoes/metodos-disponiveis-na-api/copy-of-page-1 (1).md>)
     * [◼️ 8. Relatórios](integracoes/metodos-disponiveis-na-api/8.-relatorios.md)
     * [◼️ 9. Usuário](integracoes/metodos-disponiveis-na-api/9.-usuario.md)
-  * [🟩 Requisitos para uso da API](integracoes/copy-of-url-da-api.md)
   * [🟩 Histórico de alterações da API](integracoes/historico-de-alteracoes-da-api.md)
 
 ## 📣 Novidades do ArqGED
