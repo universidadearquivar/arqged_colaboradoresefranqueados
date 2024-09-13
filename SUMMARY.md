@@ -97,6 +97,7 @@
 * [🧩 Integrações](integracoes/README.md)
   * [🟩 URL da API ArqGED](integracoes/url-da-api-arqged.md)
   * [🟩 Limites de Requisições da API](integracoes/limites-de-requisicoes-da-api.md)
+  * [🟩 Métodos disponíveis na API](integracoes/metodos-disponiveis-na-api.md)
   * [🟩 Requisitos para uso da API](integracoes/copy-of-url-da-api.md)
   * [🟩 Histórico de alterações da API](integracoes/historico-de-alteracoes-da-api.md)
 
