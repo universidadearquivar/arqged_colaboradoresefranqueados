@@ -102,11 +102,11 @@
     * [◼️ 2. Arquivo](integracoes/metodos-disponiveis-na-api/2.-arquivo.md)
     * [◼️ 3. Billing](integracoes/metodos-disponiveis-na-api/3.-billing.md)
     * [◼️ 4. Documento](integracoes/metodos-disponiveis-na-api/4.-documento.md)
+    * [◼️ 5. Lista](integracoes/metodos-disponiveis-na-api/5.-lista.md)
     * [◼️ Copy of Page 1](integracoes/metodos-disponiveis-na-api/copy-of-page-1.md)
     * [◼️ Copy of Page 1](integracoes/metodos-disponiveis-na-api/copy-of-page-1-1.md)
     * [◼️ Copy of Page 1](integracoes/metodos-disponiveis-na-api/copy-of-page-1-2.md)
     * [◼️ Copy of Page 1](integracoes/metodos-disponiveis-na-api/copy-of-page-1-3.md)
-    * [◼️ Copy of Page 1](integracoes/metodos-disponiveis-na-api/copy-of-page-1-4.md)
   * [🟩 Requisitos para uso da API](integracoes/copy-of-url-da-api.md)
   * [🟩 Histórico de alterações da API](integracoes/historico-de-alteracoes-da-api.md)
 
