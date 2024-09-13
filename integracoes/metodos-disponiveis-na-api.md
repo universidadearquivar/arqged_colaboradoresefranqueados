@@ -41,4 +41,47 @@ description: >-
 | 9.2 | Usuário      | [PATCH/api/Usuario/{IdUsuario}/AlterarSenhaUsuario](https://arquivar.gitbook.io/manual-arqged-or-clientes/integracoes/metodos-disponiveis-na-api/9.-usuario#id-9.2-patch-api-usuario-idusuario-alterarsenhausuario)                                                                                                           |    1   | Disponível |
 | 9.3 | Usuário      | [PATCH/api/Usuario/{IdUsuario}/AlterarStatusUsuario](https://arquivar.gitbook.io/manual-arqged-or-clientes/integracoes/metodos-disponiveis-na-api/9.-usuario#id-9.3-patch-api-usuario-idusuario-alterarstatususuario)                                                                                                         |    1   | Disponível |
 
-\
+***
+
+## Códigos Retorno de Validações
+
+### Code: 200 - OK <a href="#code-200-ok" id="code-200-ok"></a>
+
+Este código é a resposta de status de sucesso que indica que a requisição foi bem-sucedida.
+
+### Code: 201 - Created <a href="#code-201-created" id="code-201-created"></a>
+
+Este código é retornado quando a requisição foi bem-sucedida e um registro é criado com sucesso.
+
+### Code: 400 - Bad Request <a href="#code-400-bad-request" id="code-400-bad-request"></a>
+
+Este erro é retornado quando não for possível interpretar a requisição e/ou o servidor tenta processar a solicitação, mas algum parâmetro da solicitação não é válido, por exemplo, um recurso formatado incorretamente ou uma tentativa de requisição com dados faltantes. As informações sobre a solicitação são fornecidas no corpo da resposta e incluem um código de erro e uma mensagem de erro.
+
+**a- Item obrigatório**
+
+**b- Formato incorreto**
+
+**c- Ids inexistente.**
+
+**d- Algum parâmetro está incorreto ou é inexistente**
+
+### Code: 401 – Unauthorized <a href="#code-401-unauthorized" id="code-401-unauthorized"></a>
+
+Este erro é retornado quando ocorre alguma falha na autorização e/ou os parâmetros de autenticação estão incorretos.
+
+### Code: 404 Not Found <a href="#code-404-not-found" id="code-404-not-found"></a>
+
+Este erro é retornado quando o recurso solicitado ou o _endpoint_ não foi localizado.
+
+### Code: 422 - Unprocessable <a href="#code-422-unprocessable" id="code-422-unprocessable"></a>
+
+Este erro é retornado quando a requisição foi recebida com sucesso, porém contém parâmetros inválidos.
+
+### Code: 500 - Server Error <a href="#code-500-server-error" id="code-500-server-error"></a>
+
+Este erro é retornado quando:
+
+* Ocorre um erro interno no servidor.
+* Ocorre uma falha na plataforma ArqGed.
+* Formato do parâmetro incorreto.
+* Formato do JSON incorreto.
