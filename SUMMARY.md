@@ -104,9 +104,9 @@
     * [◼️ 4. Documento](integracoes/metodos-disponiveis-na-api/4.-documento.md)
     * [◼️ 5. Lista](integracoes/metodos-disponiveis-na-api/5.-lista.md)
     * [◼️ 6. Workflow](integracoes/metodos-disponiveis-na-api/6.-workflow.md)
-    * [◼️ 7. Nota Fiscal](integracoes/metodos-disponiveis-na-api/7.-nota-fiscal.md)
+    * [◼️ 7. Nota Fiscal](<integracoes/metodos-disponiveis-na-api/copy-of-page-1 (1).md>)
+    * [◼️ 8. Relatórios](integracoes/metodos-disponiveis-na-api/8.-relatorios.md)
     * [◼️ Copy of Page 1](integracoes/metodos-disponiveis-na-api/copy-of-page-1.md)
-    * [◼️ Copy of Page 1](integracoes/metodos-disponiveis-na-api/copy-of-page-1-1.md)
   * [🟩 Requisitos para uso da API](integracoes/copy-of-url-da-api.md)
   * [🟩 Histórico de alterações da API](integracoes/historico-de-alteracoes-da-api.md)
 
