@@ -51,11 +51,24 @@ nnnn
 
 <figure><img src="../../.gitbook/assets/arqscan06.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
+{% hint style="info" %}
+Os aplicativos da Arquivar Addin / ArqIndex / ArqClient podem apresentar erros durante o uso, por falta de pacotes específicos no desktop.
 
+Estes erros são solucionados após a instalação de pacotes .Net e VC Redist."
 
+Veja abaixo um exemplo de erro deste tipo:
 
+![](https://arquivar.gitbook.io/\~gitbook/image?url=https%3A%2F%2F1023047207-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtM1xGMYoU6wC7tnUUXEo%252Fuploads%252FiKWqsB9T52cwxnfPd6fl%252Fimage.png%3Falt%3Dmedia%26token%3D1edf8ffd-7b46-4e76-bc88-e5a3daf9d14c\&width=300\&dpr=4\&quality=100\&sign=1a85218b\&sv=1)
 
+Clique nos links abaixo para baixar os instaladores para estes pacotes. É importante utilizar sempre a versão mais atual para instalação.
 
+1. [**VC Redist.**](https://learn.microsoft.com/pt-br/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-microsoft-visual-c-redistributable-version)
+2. [**.Net**](https://dotnet.microsoft.com/pt-br/download/dotnet/3.1)
+
+Estes erros são apresentados com maior frequência em Notebooks e Máquinas Virtuais.
+
+Em caso de dúvidas, entre em contato com nosso suporte pelo ArqAtende.
+{% endhint %}
 
 ***
 
