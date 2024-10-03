@@ -47,7 +47,15 @@ Para o funcionamento correto do ArqClient são exigidos os requisitos mínimos a
 
 O acesso ao módulo ArqScan deve ser feito na tela [Documento > Explorar](./), clicando no ícone “Digitalizar”. &#x20;
 
+nnnn
+
 <figure><img src="../../.gitbook/assets/arqscan06.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
+
+
+
+
+
+
 
 ***
 
