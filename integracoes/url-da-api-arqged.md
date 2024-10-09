@@ -28,17 +28,17 @@ Para visualizar a documentação online de API do ArqGED, acesse: [https://devel
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-Ao acessar a URL da documentação, é exibida a lista de API's disponíveis, ao clicar em uma das opções, os dados são listados na tela.
+Ao acessar a URL da documentação, é exibida a API disponível, ao clicar os dados são listados na tela.
 
-<figure><img src="../.gitbook/assets/image (69).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-No canto esquerdo da tela é exibida a lista dos métodos disponíveis para a API selecionada.
+No canto esquerdo da tela é exibida a lista dos métodos disponíveis para a API.
 
-<figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Clicando no método, é exibido do lado direito da tela o seu detalhamento.
 
-<figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Search operations:** Utilize para buscar um método da API selecionada na tela.
 

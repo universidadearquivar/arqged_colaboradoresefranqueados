@@ -10,7 +10,7 @@ O desenho de fluxo foi alterado para permitir "N" entradas para configuração d
 
 Conforme a imagem abaixo, o componente de e-mail recebe 3 avanços de tarefas, sendo permitido "N" entradas e apenas 1 saída para o componente.&#x20;
 
-![](<../.gitbook/assets/image (2) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png>)
 
 </details>
 

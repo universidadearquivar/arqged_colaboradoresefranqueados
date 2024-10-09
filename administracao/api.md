@@ -8,7 +8,7 @@ No menu API o cliente tem acesso a chave de acesso da API, que será utilizada p
 <mark style="color:green;">Nesta tela serão listados os clientes que possuem o serviço ArqAPI vigente no contrato. Se o nome da sua empresa não aparece para gerar a chave entre em contato pelo e-mail:</mark> <mark style="color:green;"></mark><mark style="color:green;">**comercial@arquivar.com**</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Unidade - Cliente:** Selecione neste campo o nome da unidade e cliente. Aqui são listados todos os clientes que possuem o serviço ArqAPI vigente no contrato.
 
@@ -52,4 +52,4 @@ Será apresentada na tela a mensagem:&#x20;
 
 Ao chamar a API na nova rota, será necessário enviar no “Headers” a “SubscriptionKey” conforme figura abaixo:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
