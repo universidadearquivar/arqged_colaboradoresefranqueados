@@ -48,7 +48,7 @@ Clicando no método, é exibido do lado direito da tela o seu detalhamento.
 
 Clicando na opção "Try it", é aberto no canto direito da tela os campos de parâmentros e headers para preenchimento e teste.
 
-Para usar os métodos, primeiramente será necessário gerar um token de autenticação em [https://api-rest.arquivar.com/v1/api/Autenticacao/Login](https://api-rest.arquivar.com/v1/api/Autenticacao/Login). No método autenticação são informados a “SubscriptionKey” no “Headers” e os dados do Usuário no “Body”, conforme print abaixo:
+Para usar os métodos, primeiramente será necessário gerar um token de autenticação em [https://developers.arquivar.com/api-details#api=api-rest-arqged\&operation=post-api-autenticacao-login](https://developers.arquivar.com/api-details#api=api-rest-arqged\&operation=post-api-autenticacao-login).No método autenticação são informados a “SubscriptionKey” no “Headers” e os dados do Usuário no “Body”, conforme print abaixo:
 
 <figure><img src="../.gitbook/assets/image (72).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
