@@ -15,7 +15,7 @@ Na aba Dados Gerais os campos “Nº de Referência”, “Responsável”, “U
 <figure><img src="../.gitbook/assets/caixa8.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Os tipos de caixa exibidos aqui para seleção aqui devem ter sido anteriormente vinculados à unidade no campo “Numeração controlada no(a): “, no menu**</mark> [<mark style="color:blue;">**Caixa ou Pasta > Configurar.**</mark>](configurar.md)
+<mark style="color:orange;">**Os tipos de caixa exibidos aqui para seleção devem ter sido anteriormente vinculados à unidade no campo “Numeração controlada no(a): “, no menu**</mark> [<mark style="color:blue;">**Caixa ou Pasta > Configurar.**</mark>](configurar.md)
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/caixa17 (1).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
