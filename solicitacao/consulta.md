@@ -64,11 +64,11 @@ Em "Minhas Reservas de Documentos", para cada documento reservado é apresentada
 
 **Caixa:** Informa o número da caixa física onde o documento fica acondicionado seja ela caixa de guarda terceirizada ou guarda de arquivo interno.
 
-**Cód. Prov. (Código Provisório):** Informa caso o cliente possua algum controle do acervo por número de caixa (container).
+**Cód. Prov. (Código Provisório):** Utilizado para informar o número da caixa, caso o cliente possua algum controle do acervo por número.
 
 **Subcaixa:** Informa o número da subcaixa, quando utilizado.
 
-**Cód. Prov. Subcaixa (Código Provisório da Subcaixa):** Informa caso o cliente possua algum controle do acervo por número de caixa box.
+**Cód. Prov. Subcaixa (Código Provisório da Subcaixa):** Utilizado para informar o número do box, caso o cliente possua algum controle do acervo por número.
 
 **Árvore Organizacional:** Mostra a todos os níveis de árvore utilizados no cadastro do documento.
 
