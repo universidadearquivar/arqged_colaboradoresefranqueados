@@ -17,3 +17,29 @@ Ao receber uma solicitação de consulta é emitida uma guia de busca que inform
 
 <mark style="color:green;">Se a solicitação do cliente possui documentos ou caixas que estão em diferentes grupos de endereço, é emitida uma guia de busca para cada grupo.</mark>&#x20;
 {% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (88).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Unidade:** Informe a Unidade responsável pelo cliente.
+
+**Adicionar:** Clique para criar um novo Grupo de Endereços.
+
+**Editar:** Clique para alterar um grupo já existente.
+
+**Visualizar:** Clique para visualizar uma configuração já existente.
+
+Ao clicar em Adicionar "+", é apresentada a tela de cadastro:
+
+<figure><img src="../../.gitbook/assets/image (89).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Nome do Grupo:** Informe um nome que identifique a separação do grupo de endereços.
+
+**Descrição:** Descreva uma particularidade do grupo de endereços, por exemplo: caixas com altura 0, tratamento sem escada.
+
+**Prioridade:**
+
+**Início:** Identifique o endereço inicial do grupo.
+
+**Fim:** Identifique o endereço final do grupo.
+
+O sistema irá considerar todos os endereços contidos no intervalo informado para separação do pedido no sistema, desta forma a busca do acervo no galpão será mais produtiva, pois será realizada conforme o grupo previamente cadastrado.
