@@ -1,10 +1,10 @@
 # 🔹 Fluxo de Solicitação
 
+Nesta tela são exibidos todos os fluxos da unidade ou cliente selecionado no campo “Empresa”.&#x20;
+
 <figure><img src="../../.gitbook/assets/solicita01.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-Nesta tela são exibidos todos os fluxos criados para a unidade ou cliente selecionado no campo “Empresa”.&#x20;
-
-Aqui são criados os fluxos das solicitações possíveis, ou seja, são configuradas as fases para que os serviços de consulta e devolução sejam executados dentro do sistema. &#x20;
+Aqui são criados os fluxos das solicitações possíveis, ou seja, são configuradas as fases para que os serviços de consulta e devolução necessitam para que sejam executados dentro do sistema. &#x20;
 
 <figure><img src="../../.gitbook/assets/solicita02.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -22,11 +22,32 @@ Ao clicar em adicionar é habilitada a tela **Dados Gerais do processo de Solici
 
 **"Nome da Unidade/Cliente" e "Tipo de Fluxo":** Estes campos dão preenchidos de forma automática, conforme informação selecionada no campo anterior**,** se selecionada a Unidade, automaticamente o Tipo de Fluxo será preenchido como “Guarda Terceirizada” se selecionado o cliente, automaticamente o Tipo de Fluxo será preenchido como “Guarda Interna”.
 
-**Nome do Processo de Solicitação:** Informe o nome do processo, se trata de uma solicitação ou de uma devolução.
+**Número Máximo de itens:** Informe o limite de itens que deve ser permitido em cada pedido.&#x20;
 
+* **Exemplo:** Se for definido limite de 100 itens por pedido e reservados 300 itens, serão criados 3 pedidos com 100 itens cada. Geralmente é utilizado o limite de 100 itens por pedido.
 
+**Status:** Informe se processo ativo ou inativo.&#x20;
 
-**Tipo de Processo:** Pode ser de consulta ou de devolução de documentos
+**Nome do Processo de Solicitação:** Informe o nome do processo, por exemplo "Solicitação de Consulta" ou "Solicitação de Devolução".
 
-**Status:** que pode ser ativo ou inativo.&#x20;
+**Tipo de Processo:** Selecione se o fluxo criado atende ao processo de “Solicitação de Consulta” ou “Solicitação de Devolução”. &#x20;
 
+Ao clicar em salvar, se o processo estiver sendo criado para a Unidade Arquivar, é habilitada a opção de seleção dos clientes que deverão seguir com o fluxo criado.&#x20;
+
+Selecione o cliente e clique em adicionar.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Repita o processo até que sejam inseridos todos os clientes desejados.&#x20;
+
+Para excluir um cliente da lista, selecione e clique no ícone excluir.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (86).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+{% hint style="danger" %}
+<mark style="color:red;">Se o cliente não estiver vinculado a um processo de consulta, ele não conseguirá prosseguir com o processo de solicitação no sistema ou gerar um pedido para a requisição.</mark>&#x20;
+
+<mark style="color:red;">Quando o processo for de Guarda Interna (CEDOC), não é apresentada a opção de seleção de “Clientes que seguirão o fluxo”, o processo fica vinculado automaticamente ao cliente informado no início do processo.</mark>
+{% endhint %}
+
+Concluído o preenchimento de todas as informações solicitadas na tela, clique "Salvar".
