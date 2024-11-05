@@ -16,6 +16,8 @@ Aqui são criados os fluxos das solicitações possíveis, ou seja, são configu
 
 **Ícone Excluir:** Utilizado para excluir o fluxo selecionado.&#x20;
 
+### Dados Gerais
+
 Ao clicar em adicionar é habilitada a tela **Dados Gerais do processo de Solicitação** para preenchimento dos dados iniciais:
 
 <figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
