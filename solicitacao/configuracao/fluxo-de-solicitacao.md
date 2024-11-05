@@ -16,7 +16,7 @@ Aqui são criados os fluxos das solicitações possíveis, ou seja, são configu
 
 **Ícone Excluir:** Utilizado para excluir o fluxo selecionado.&#x20;
 
-### Dados Gerais
+## Dados Gerais
 
 Ao clicar em adicionar é habilitada a tela **Dados Gerais do processo de Solicitação** para preenchimento dos dados iniciais:
 
@@ -53,3 +53,11 @@ Para excluir um cliente da lista, selecione e clique no ícone excluir.&#x20;
 {% endhint %}
 
 Concluído o preenchimento de todas as informações solicitadas na tela, clique "Salvar".
+
+***
+
+## Aba Processo
+
+Nesta aba, é feita a definição de quais as etapas serão utilizadas no fluxo.
+
+<figure><img src="../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
