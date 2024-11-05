@@ -43,3 +43,5 @@ Ao clicar em Adicionar "+", é apresentada a tela de cadastro:
 **Fim:** Identifique o endereço final do grupo.
 
 O sistema irá considerar todos os endereços contidos no intervalo informado para separação do pedido no sistema, desta forma a busca do acervo no galpão será mais produtiva, pois será realizada conforme o grupo previamente cadastrado.
+
+**Atualizar Grupo de Endereço:**
