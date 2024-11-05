@@ -87,4 +87,4 @@ Nesta aba, é feita a definição de quais as etapas serão utilizadas no fluxo.
 
 **Coluna Usar Coletor:** É possível definir o uso do coletor nas etapas de separação e fechamento para leitura dos códigos utilizados, porém, não existe uma integração de automação do processo pelo uso do coletor no ArqGED. Geralmente esta opção não é utilizada.&#x20;
 
-&#x20;
+**Opções de destino após a separação:** É utilizado para identificar o que deve ser feito com o pedido recebido. Informe o texto e clique “Adicionar +”, estas opções serão apresentadas como “botões” para o atendente responsável evoluir com o atendimento conforme realização das atividades no sistema.&#x20;
