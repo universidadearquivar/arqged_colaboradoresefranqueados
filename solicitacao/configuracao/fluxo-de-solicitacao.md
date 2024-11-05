@@ -60,4 +60,31 @@ Concluído o preenchimento de todas as informações solicitadas na tela, clique
 
 Nesta aba, é feita a definição de quais as etapas serão utilizadas no fluxo.
 
-<figure><img src="../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (87).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Coluna Status:** São exibidas as etapas que podem ou não serem utilizadas. Por padrão, todas as etapas são apresentadas com seleção para utilização, é importante validar se realmente as etapas de “Aprovação” e “Confirmado” serão utilizadas, elas são de uso opcional e servem como “Validação” do processo para alguns atores. As demais etapas são de utilização obrigatória.
+
+* **Aprovação:** Para transformar uma reserva em um pedido, é necessária uma ação de aprovação do responsável no cliente, ou seja, ele precisa acessar o Pedido e clicar em “Aprovar”, caso contrário, o pedido não segue para atendimento.
+* Triagem
+* Separação
+* Fechamento
+* **Confirmado:** Após realizado todo o processo de atendimento da devolução, o responsável pelo processo precisa acessar o sistema e “Confirmar” para que ele siga para o encerramento do pedido, isso fará com que o documento volte a ficar disponível para novas solicitações no sistema.
+
+{% hint style="info" %}
+<mark style="color:blue;">Quando o fluxo for para Guarda Interna as etapas apresentadas serão:</mark>&#x20;
+
+* <mark style="color:blue;">Aguardando</mark>&#x20;
+* <mark style="color:blue;">Recebido</mark>&#x20;
+* <mark style="color:blue;">Conferido</mark>&#x20;
+* <mark style="color:blue;">Guardado</mark>&#x20;
+
+<mark style="color:blue;">Sendo neste caso de uso opcional apenas a etapa “Guardado”, as demais são de uso obrigatório.</mark>&#x20;
+{% endhint %}
+
+**Coluna Descrição:** Exibe um breve relato para cada status existente.&#x20;
+
+**Coluna Usar Etapa:** Exibe um checkbox para selecionarmos qual etapa deve ser utilizada, as que não forem utilizadas devem ser mantidas sem seleção.&#x20;
+
+**Coluna Usar Coletor:** É possível definir o uso do coletor nas etapas de separação e fechamento para leitura dos códigos utilizados, porém, não existe uma integração de automação do processo pelo uso do coletor no ArqGED. Geralmente esta opção não é utilizada.&#x20;
+
+&#x20;
