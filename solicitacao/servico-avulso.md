@@ -10,7 +10,7 @@ O menu Serviço Avulso é utilizado para lançamento de serviços que não são 
 * <mark style="color:green;">Suporte técnico</mark>
 * <mark style="color:green;">Horas de consultoria</mark>
 * <mark style="color:green;">Organização de documentos</mark>
-* <mark style="color:green;">Elaboração de projetos, entre outros.</mark>![](<../.gitbook/assets/image (1).png>)
+* <mark style="color:green;">Elaboração de projetos, entre outros.</mark>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Cliue na imagem para ampliar.</p></figcaption></figure>
@@ -49,5 +49,36 @@ Preencha os campos apresentados na tela:
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-Unidade: É exibido já preenchido, pois considera a informação da tela anterior.
+**Unidade:** É exibido já preenchido, pois considera a informação da tela anterior.
 
+**Cliente**: Selecione na lista o cliente solicitante do serviço.
+
+**Solicitante:** Selecione na lista apresentada o usuário do cliente que demandou o serviço.
+
+**Atendente:** Exibe o nome do usuário logado.
+
+**Serviço:** Selecione na lista apresentado o serviço prestado.
+
+**Data de Execução:** Informe a data de execução do serviço. Para serem considerados no faturamento, os lançamentos devem ser realizados até o último dia do mês corrente.
+
+**Quantidade:** Informe o volume gerado na prestação de serviços, por exemplo:
+
+* Digitalização - informe a quantidade de imagens geradas
+* Suporte técnico - informe a quantidade de horas dedicadas ao atendimento
+
+**Haverá transporte:** Informar se haverá transporte, neste caso, quando não se aplicar a realização de transporte, ao informar "sem transporte" os próximos campos não serão habilitados para preenchimento.
+
+**Endereço:** Selecione o endereço para coleta/entrega.
+
+**Data do Transporte:** Informe a data do transporte.
+
+**Hora:** Informe a hora do transporte.
+
+**Descrição:** Adicione informações relevantes à prestação do serviço considerado no lançamento, por exemplo:
+
+Quantidade de digitalização: 100
+
+* 50 imagens do departamento X
+* 50 imagens do departamento Y
+
+Clique "Salvar" para concluir o lançamento do serviço.
