@@ -82,3 +82,7 @@ Quantidade de digitalização: 100
 * 50 imagens do departamento Y
 
 Clique "Salvar" para concluir o lançamento do serviço.
+
+{% hint style="success" %}
+<mark style="color:green;">Ao realizar o faturamento do cliente, todos os lançamentos de "Serviço Avulso" serão contabilizados, desde que lançados dentro do período de faturamento.</mark>
+{% endhint %}
