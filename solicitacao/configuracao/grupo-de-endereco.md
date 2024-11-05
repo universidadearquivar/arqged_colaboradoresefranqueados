@@ -8,10 +8,12 @@ Ao receber uma solicitação de consulta é emitida uma guia de busca que inform
 
 <figure><img src="../../.gitbook/assets/solicita04.png" alt=""><figcaption></figcaption></figure>
 
-Os grupos de endereço são formados por prateleiras com as mesmas características como por exemplo:&#x20;
+{% hint style="success" %}
+<mark style="color:green;">Os grupos de endereço são formados por prateleiras com as mesmas características como por exemplo:</mark>&#x20;
 
-* Necessidade de uso da escada ou empilhadeira para acesso, ou
-* Acesso facilitado perto da porta, ou
-* Localização baixa que não demanda o uso de escadas, etc.&#x20;
+* <mark style="color:green;">Necessidade de uso da escada ou empilhadeira para acesso, ou</mark>
+* <mark style="color:green;">Acesso facilitado perto da porta, ou</mark>
+* <mark style="color:green;">Localização baixa que não demanda o uso de escadas, etc.</mark>&#x20;
 
-Se a solicitação do cliente possui documentos ou caixas que estão em diferentes grupos de endereço, é emitida uma guia de busca para cada grupo.&#x20;
+<mark style="color:green;">Se a solicitação do cliente possui documentos ou caixas que estão em diferentes grupos de endereço, é emitida uma guia de busca para cada grupo.</mark>&#x20;
+{% endhint %}
