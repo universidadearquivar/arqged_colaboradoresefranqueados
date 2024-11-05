@@ -65,9 +65,9 @@ Nesta aba, é feita a definição de quais as etapas serão utilizadas no fluxo.
 **Coluna Status:** São exibidas as etapas que podem ou não serem utilizadas. Por padrão, todas as etapas são apresentadas com seleção para utilização, é importante validar se realmente as etapas de “Aprovação” e “Confirmado” serão utilizadas, elas são de uso opcional e servem como “Validação” do processo para alguns atores. As demais etapas são de utilização obrigatória.
 
 * **Aprovação:** Para transformar uma reserva em um pedido, é necessária uma ação de aprovação do responsável no cliente, ou seja, ele precisa acessar o Pedido e clicar em “Aprovar”, caso contrário, o pedido não segue para atendimento.
-* Triagem
-* Separação
-* Fechamento
+* **Triagem**: Nesta etapa o atendente seleciona os pedidos que serão tratados e imprime as guias de busca.
+* **Separação:** Neste momento atendente vai até o documento físico e coleta aqueles que serão disponibilizados para consulta.
+* **Fechamento:** Nesta etapa é realizada a digitalização dos documentos solicitados em formato digital e preparação para envio dos documentos solicitados no formato físico.
 * **Confirmado:** Após realizado todo o processo de atendimento da devolução, o responsável pelo processo precisa acessar o sistema e “Confirmar” para que ele siga para o encerramento do pedido, isso fará com que o documento volte a ficar disponível para novas solicitações no sistema.
 
 {% hint style="info" %}
