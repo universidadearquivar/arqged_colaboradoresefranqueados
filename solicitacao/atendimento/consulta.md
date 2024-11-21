@@ -126,3 +126,213 @@ A tela de atendimento é dividida em duas abas:
 
 ### Aba Dados Gerais
 
+A aba Dados Gerais exibe vários campos inativos para preenchimento, trata-se de informações que foram inseridas ao longo do processo de reserva e abertura do pedido no sistema.
+
+{% hint style="info" %}
+<mark style="color:blue;">Tanto para o pedido de documento quanto para o pedido de caixa/subcaixa, a aba “Dados Gerais” apresenta a mesma necessidade de preenchimento para sequência no atendimento do pedido no sistema.</mark>
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Quando no fluxo de atendimento do cliente tiver definida a etapa de “**Aprovação**”, o pedido só poderá entrar em atendimento após o responsável imediato no cliente efetuar a aprovação da solicitação, ou seja, quando ele aprovar o pedido.
+
+Essa medida é geralmente utilizada para evitar o **acesso indevido**, de pessoas não autorizadas à determinado acervo.
+
+{% hint style="danger" %}
+<mark style="color:red;">A aprovação considera sempre o volume total (documento ou caixa/subcaixa) solicitado no pedido, então se um pedido possui 10 documentos a aprovação autoriza o atendimento dos 10 documentos. Caso o responsável pela aprovação identifique no pedido algum item que não deve ser autorizado, todo o pedido deve ser cancelado e o processo realizado novamente pelo solicitante, desconsiderando o item não autorizado pelo Gestor.</mark>
+{% endhint %}
+
+Para “Aprovar” ou “Cancelar” o pedido, o responsável deverá acessar a tela Solicitação > Atendimento > Consulta, identificar e abrir o pedido, clicar em “Salvar” e depois em “Processar” para aprovar ou no caso de cancelamento, clicar em "Salvar" e depois em “Cancelar Pedido”.
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Aprovado o pedido, o status é alterado e uma nova ação é registrada.
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Feita a aprovação, o status do pedido é alterado para "Triagem" e o pedido fica disponível para andamento do atendimento, além de gerar uma nova ação para o atendimento.
+
+{% hint style="info" %}
+<mark style="color:blue;">A data e Hora registrada no campo “Ação”, sinaliza a hora que a ação foi gerada no ArqGED e não a hora de efetivação, por exemplo, na imagem a “Aprovação” foi gerada em 09/08/2024, ou seja, o pedido ficou aguardando aprovação a partir desta data. Em 12/11/2024 o pedido foi aprovado e gerada a ação de “Triagem”, ou seja, o pedido teve sua aprovação efetivada no sistema em 12/11/2024.</mark>
+{% endhint %}
+
+Retornando ao atendimento do pedido, agora aprovado, o atendente deverá iniciar com o preenchimento dos campos:
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Ordem:** Por padrão o campo é exibido preenchido com a informação "10", neste momento o atendente poderá reduzir esta numeração, o que altera a prioridade de atendimento deste pedido no painel de atendimento.
+
+**Status:** Exibe o status do pedido em questão.
+
+**Destino:** Exibe a lista de possibilidades de envio do pedido ao concluir a fase de triagem.
+
+**Atendente:** Selecione neste campo o nome do atendente que irá seguir com o atendimento do pedido no sistema. Identificar o atendente responsável pelo pedido, impede que mais de uma pessoa fique dedicada ao mesmo trabalho/atendimento.
+
+Preenchidos todos os campos, clique "salvar" para prosseguir. Após salvar, os botões “Cancelar Pedido” e “Guia” são habilitados e para utilização.
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Cancelar Pedido:** O identificar alguma inconsistência, o atendente pode realizar o cancelamento do pedido. Ao optar por desistir do pedido, será apresentada uma mensagem de confirmação da ação. Ao confirmar o pedido é cancelado e o documento volta a ficar disponível para nova reserva.
+
+**Guia:** Ao clicar neste botão, é aberta a Guia de Busca de Documentos. Esta guia pode ser impressa e entregue ao auxiliar de arquivo para que realize a busca do volume no Arquivo.
+
+#### **Guia de Busca de Documentos**
+
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+No cabeçalho da Guia é exibido:
+
+* **Pedido:** Exibe o número do pedido de caixa criado no ArqGED.
+* **Dados do solicitante:**
+  * Nome do cliente
+  * Data/Hora de abertura do pedido
+  * Nome do solicitante no ArqGED
+  * Telefone do solicitante
+
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Abaixo é exibida:
+
+* Listagem dos documentos solicitados no pedido com a associação da caixa de guarda onde estão alocados
+* Endereço das caixas
+* Forma de entrega definida pelo solicitante
+* Destino, ou seja, para onde o documento deve ser encaminhado para andamento do atendimento
+* Local para o auxiliar de arquivo sinalizar se a caixa foi localizada no arquivo
+
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Por fim, são exibidos campos que identificam os atores atuantes no atendimento:
+
+* Atendente Responsável
+* Auxiliar de Arquivo responsável pela consulta
+* Auxiliar de Arquivo responsável pela Devolução
+* Data/Hora da Impressão da guia
+
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Concluído o processo de busca no arquivo, o atendente precisa informar para o sistema que a etapa foi realizada para prosseguir com o atendimento.
+
+Para seguir com o atendimento, clique “Processar”.
+
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Ao processar o atendimento, um novo status é definido e uma nova ação é listada na tela.
+
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+***
+
+### Aba Detalhes
+
+Nesta aba, são listados todos os documentos do pedido. É nesta tela que são adicionadas as informações específicas do atendimento.
+
+**Detalhes de um Pedido de Documentos**
+
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Coluna Seleção:** Exibe um local para seleção do atendimento.
+
+**Coluna Doc:** Ao clicar no ícone o registro é apresentado na tela e é possível navegar entre as abas do registro existente no ArqGED.
+
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Coluna Atend:** Clicando no ícone é possível acessar as particularidades do atendimento, onde de fato são adicionadas as informações para seguir com o processo.
+
+**Coluna Info:** Clicando no ícone, é exibida a mensagem inserida na tela de reservas, quando houver.
+
+**Coluna Documento:** Exibe um resumo dos dados metadados do documento/registro solicitado.
+
+**Colunas Buscas:** Exibe a quantidade de buscas realizadas no arquivo para localização do documento solicitado. Essa informação deve ser preenchida pelo atendente no momento de fechamento do pedido no ArqGED.
+
+**Coluna Cópias:** Exibe a quantidade de cópias geradas para o documento solicitado. Essa informação deve ser preenchida pelo atendente no momento de fechamento do pedido no ArqGED.
+
+**Coluna Img.:** Exibe a quantidade de imagens geradas para o documento solicitado. Essa informação deve ser preenchida pelo atendente no momento de fechamento do pedido no ArqGED.
+
+**Coluna Localizado:** Exibe se o documento foi encontrado no seu local de guarda pelo auxiliar de arquivo. Essa informação deve ser preenchida pelo atendente no momento de fechamento do pedido no ArqGED.
+
+**Colunas Carregado / Entregue / Auxiliar:** São exibidas sem informação, pois não são utilizadas atualmente.
+
+Para o preenchimento destes dados, é necessário acessar o ícone de "Atendimento" para cada um dos documentos solicitados. Clique no ícone para prosseguir:
+
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Uma nova tela será exibida na tela para preenchimento:
+
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Considerar / Desconsiderar:** Quando selecionado “Considerar”, o sistema permite o andamento do atendimento com a inclusão dos dados e fechamento do pedido, inclusive obrigando o preenchimento do campo "Descrição do Item". Quando selecionado “Desconsiderar”, o pedido fica “Pendente” aguardando até que o preenchimento dos dados do atendimento seja realizado, isso impedirá que outro atendente finalize o pedido de forma indevida.
+
+**Descrição do Item:** Este campo possibilita a inclusão de informações relevantes ao documento, por exemplo: Dossiê de Admissão funcionário X. Trata-se de um campo de preenchimento obrigatório para prosseguimento do atendimento.
+
+**Localizado / Não Localizado:** Exibe a informação de sucesso na localização do documento no arquivo. Selecione conforme realidade do seu pedido.
+
+**Original / Não Original:** Exibe a forma como o documento está sendo disponibilizado ao cliente.
+
+**Total / Parcial:** Quando selecionado “Total”, indica que o registro ficará totalmente em consulta e indisponível para novas solicitações até que seja feita a devolução do registro que no caso é o documento. Quando selecionado "Parcial", indica que o registro representa um lote de documento, como por exemplo: NF de 1 a 1.000. Então o cliente solicita somente NF número 10, então o atendente enviará somente a nota 10 e o registro ficará disponível para novas consultas. Neste caso, o registro fica com status em consulta parcial (que significa que uma parte do lote está disponível, e por isso o cliente consegue fazer solicitações selecionando o mesmo registro antes da devolução da NF 10.)
+
+**Simples / Complexa:** Exibe a classificação do pedido, se deve ser tratado como uma consulta simples ou complexa (definição realizada no contrato de prestação de serviços).
+
+**Código:** Este campo deve ser preenchido considerando o código de consulta. O código de consulta é controlado por unidade e geralmente é fornecido pela Master que disponibiliza uma planilha para acompanhamento da unidade. Os códigos são gerados considerando o padrão EAN-8, que é reconhecido pelo ArqGED que verifica se o código informado já foi utilizado para aquela unidade.
+
+{% hint style="success" %}
+<mark style="color:green;">A Master orienta que de posse da planilha de códigos, cada Unidade realize a impressão do seu sequencial com códigos de barras para que no momento do atendimento da consulta a etiqueta seja colada no verso do documento para identificar a movimentação, facilitar o processo de devolução e torná-lo mais seguro. Neste cenário é muito utilizada a impressão de etiquetas em rolo. Caso a Unidade opte por não realizar a impressão de seus códigos, o atendente deve anotar manualmente no verso do documento o código utilizado no atendimento da consulta.</mark>&#x20;
+{% endhint %}
+
+**Buscas:** Registre neste campo a quantidade de buscas realizadas para localização do documento em questão.
+
+**Cópias:** Registre neste campo a quantidade de cópias geradas para o documento solicitado, quando for o caso.
+
+**Digital:** Registre neste campo a quantidade de imagens geradas com a digitalização do documento para atendimento do pedido.
+
+**Observação:** Utilize este campo para registrar informações relevantes ao atendimento do pedido.
+
+**Arraste os arquivos para esta área...:** Quando o atendimento for realizado através da digitalização do documento, adicione o arquivo neste local.
+
+O documento uma vez solicitado em formato digital e adicionado no atendimento do pedido, terá a imagem armazenada no ArqGed como “anexo do documento”. Em uma próxima necessidade de consultar/visualizar o documento, o solicitante não precisa abrir novo pedido, basta localizar o arquivo no ArqGED e visualizar novamente a imagem.
+
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Finalizado o preenchimento das informações de atendimento do pedido, clique “Incluir” para prosseguir.
+
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Neste momento os dados do atendimento são inseridos em “Itens Salvos”.
+
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+{% hint style="danger" %}
+<mark style="color:red;">Ao realizar o fechamento de um atendimento, fique muito atento no momento de lançar as quantidades, pois, é deste lançamento que é feita a apuração das quantidades executadas para cobrança/faturamento.</mark>
+{% endhint %}
+
+Retornando para a tela inicial, são apresentados os dados preenchidos no atendimento.
+
+Selecione o próximo documento e repita o processo até que todos os documentos do pedido tenham o lançamento dos dados de atendimento realizados.
+
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Após o lançamento dos dados de atendimento, é possível emitir o “Protocolo de Consulta de Documentos” para envio ao cliente, caso o pedido seja de envio do acervo.
+
+<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+No protocolo é identificado:
+
+* O número do pedido
+* Os dados do cliente solicitante
+* Controle de Sinistro
+* A relação dos itens do pedido
+* Os dados dos responsáveis pelo recebimento (Solicitante)
+* Os dados dos responsáveis pela entrega (CEDOC)
+
+Emitido o protocolo, retorne para a tela do atendimento e clique “Processar”, para atualização do pedido que vai para “Fechamento”.
+
+<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Ao clicar novamente em “Processar”, o pedido é fechado no sistema e o documento é encaminhado ao cliente.
+
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+{% hint style="info" %}
+<mark style="color:blue;">Sempre que o pedido é encerrado no ArqGED, o solicitante é notificado por e-mail quanto ao encerramento do seu pedido.</mark>
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
