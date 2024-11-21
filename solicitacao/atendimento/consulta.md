@@ -336,3 +336,113 @@ Ao clicar novamente em “Processar”, o pedido é fechado no sistema e o docum
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+***
+
+## Atendimento de um Pedido de Caixa ou Subcaixa
+
+No Painel de Atendimento, selecione o pedido que será trabalhado e clique em editar.
+
+<figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+A tela de atendimento é dividida em duas abas:
+
+### Aba Dados Gerais
+
+A aba Dados Gerais exibe vários campos inativos para preenchimento, trata-se de informações que foram inseridas ao longo do processo de reserva e abertura do pedido no sistema.
+
+{% hint style="info" %}
+<mark style="color:blue;">Tanto para o pedido de documento quanto para o pedido de caixa/subcaixa, a aba “Dados Gerais” apresenta a mesma necessidade de preenchimento para sequência no atendimento do pedido no sistema.</mark>
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (112).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Quando no fluxo de atendimento do cliente tiver definida a etapa de “**Aprovação**”, o pedido só poderá entrar em atendimento após o responsável imediato no cliente efetuar a aprovação da solicitação, ou seja, quando ele aprovar o pedido.
+
+Essa medida é geralmente utilizada para evitar o **acesso indevido**, de pessoas não autorizadas à determinado acervo.
+
+{% hint style="danger" %}
+<mark style="color:red;">A aprovação considera sempre o volume total (documento ou caixa/subcaixa) solicitado no pedido, então se um pedido possui 10 caixas a aprovação autoriza o atendimento das 10 caixas. Caso o responsável pela aprovação identifique no pedido algum item que não deve ser autorizado, todo o pedido deve ser cancelado e o processo realizado novamente pelo solicitante, desconsiderando o item não autorizado pelo Gestor.</mark>
+{% endhint %}
+
+Para “Aprovar” ou “Cancelar” o pedido, o responsável deverá acessar a tela Solicitação > Atendimento > Consulta, identificar e abrir o pedido, clicar em “Salvar” e depois em “Processar” para aprovar ou no caso de cancelamento, clicar em "Salvar" e depois em “Cancelar Pedido”.
+
+<figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Aprovado o pedido, o status é alterado e uma nova ação é registrada.
+
+<figure><img src="../../.gitbook/assets/image (114).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Feita a aprovação, o status do pedido é alterado para "Triagem" e o pedido fica disponível para andamento do atendimento, além de gerar uma nova ação para o atendimento.
+
+{% hint style="info" %}
+<mark style="color:blue;">A data e Hora registrada no campo “Ação”, sinaliza a hora que a ação foi gerada no ArqGED e não a hora de efetivação, por exemplo, na imagem a “Aprovação” foi gerada em 09/08/2024, ou seja, o pedido ficou aguardando aprovação a partir desta data. Em 12/11/2024 o pedido foi aprovado e gerada a ação de “Triagem”, ou seja, o pedido teve sua aprovação efetivada no sistema em 12/11/2024.</mark>
+{% endhint %}
+
+Retornando ao atendimento do pedido, agora aprovado, o atendente deverá iniciar com o preenchimento dos campos:
+
+<figure><img src="../../.gitbook/assets/image (115).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Ordem:** Por padrão o campo é exibido preenchido com a informação "10", neste momento o atendente poderá reduzir esta numeração, o que altera a prioridade de atendimento deste pedido no painel de atendimento.
+
+**Status:** Exibe o status do pedido em questão.
+
+**Destino:** Exibe a lista de possibilidades de envio do pedido ao concluir a fase de triagem.
+
+**Atendente:** Selecione neste campo o nome do atendente que irá seguir com o atendimento do pedido no sistema. Identificar o atendente responsável pelo pedido, impede que mais de uma pessoa fique dedicada ao mesmo trabalho/atendimento.
+
+Preenchidos todos os campos, clique salvar para prosseguir. Após salvar, os botões “Cancelar Pedido” e “Guia” são habilitados e para utilização.
+
+<figure><img src="../../.gitbook/assets/image (116).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Cancelar Pedido:** O identificar alguma inconsistência, o atendente pode realizar o cancelamento do pedido. Ao optar por desistir do pedido, será apresentada uma mensagem de confirmação da ação. Ao confirmar o pedido é cancelado e o documento volta a ficar disponível para nova reserva.
+
+**Guia:** Ao clicar neste botão, é aberta a Guia de Busca de Documentos. Esta guia pode ser impressa e entregue ao auxiliar de arquivo para que realize a busca do volume no Arquivo.
+
+**Guia de Busca de Caixas e Subcaixas**
+
+Em ambos os casos a guia possui a mesma estrutura, a diferença delas está no título e na informação do volume: caixa ou subcaixa.
+
+<figure><img src="../../.gitbook/assets/image (117).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+No cabeçalho é exibido:
+
+* Pedido: Exibe o número do pedido de caixa ou subcaixa criado no ArqGED.
+
+Dados do solicitante:
+
+* Nome do cliente
+* Data/Hora de abertura do pedido
+* Nome do solicitante no ArqGED
+* Telefone do solicitante
+
+<figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Logo abaixo é exibida:
+
+* Listagem das caixas e/ou subcaixas solicitadas no pedido
+* Endereço das caixas e/ou subcaixas
+* Local para o auxiliar de arquivo (responsável CEDOC) sinalizar se a caixa ou subcaixa foi localizada no arquivo
+
+<figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Por fim, são exibidos campos que identificam os atores atuantes no atendimento:
+
+* Atendente Responsável (responsável CEDOC)
+* Auxiliar de Arquivo responsável pela consulta (responsável CEDOC)
+* Auxiliar de Arquivo responsável pela Devolução (responsável CEDOC)
+* Data/Hora da Impressão da guia
+
+<figure><img src="../../.gitbook/assets/image (121).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Concluído o processo de busca no arquivo, o atendente precisa informar para o sistema que a etapa foi realizada para prosseguir com o atendimento.
+
+Para seguir com o atendimento, clique “Processar”.
+
+<figure><img src="../../.gitbook/assets/image (122).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Ao processar o atendimento, um novo status é definido e uma nova ação é listada na tela.
+
+<figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+### Aba Detalhes
