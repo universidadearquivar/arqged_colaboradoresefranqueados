@@ -457,6 +457,10 @@ Nesta aba, são listados todas as caixas ou subcaixas do pedido. É nesta tela q
 
 <figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
+**Grupo:** Quando a Unidade possui configuração definida para Grupo de Endereços, este campo é apresentado na tela e é considerado para organização do pedido. Isso é feito para que o auxiliar de arquivo responsável pela busca dos volumes no arquivo tenha maior facilidade e produtividade na separação do acervo.
+
+<figure><img src="../../.gitbook/assets/image (125).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
 **Coluna Seleção:** Exibe um local para seleção do atendimento.
 
 **Coluna Atend:** Clicando no ícone é possível acessar as particularidades do atendimento, onde de fato são adicionadas as informações para seguir com o processo.
