@@ -144,11 +144,11 @@ Essa medida é geralmente utilizada para evitar o **acesso indevido**, de pessoa
 
 Para “Aprovar” ou “Cancelar” o pedido, o responsável deverá acessar a tela Solicitação > Atendimento > Consulta, identificar e abrir o pedido, clicar em “Salvar” e depois em “Processar” para aprovar ou no caso de cancelamento, clicar em "Salvar" e depois em “Cancelar Pedido”.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Aprovado o pedido, o status é alterado e uma nova ação é registrada.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Feita a aprovação, o status do pedido é alterado para "Triagem" e o pedido fica disponível para andamento do atendimento, além de gerar uma nova ação para o atendimento.
 
@@ -158,7 +158,7 @@ Feita a aprovação, o status do pedido é alterado para "Triagem" e o pedido fi
 
 Retornando ao atendimento do pedido, agora aprovado, o atendente deverá iniciar com o preenchimento dos campos:
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Ordem:** Por padrão o campo é exibido preenchido com a informação "10", neste momento o atendente poderá reduzir esta numeração, o que altera a prioridade de atendimento deste pedido no painel de atendimento.
 
@@ -170,7 +170,7 @@ Retornando ao atendimento do pedido, agora aprovado, o atendente deverá iniciar
 
 Preenchidos todos os campos, clique "salvar" para prosseguir. Após salvar, os botões “Cancelar Pedido” e “Guia” são habilitados e para utilização.
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Cancelar Pedido:** O identificar alguma inconsistência, o atendente pode realizar o cancelamento do pedido. Ao optar por desistir do pedido, será apresentada uma mensagem de confirmação da ação. Ao confirmar o pedido é cancelado e o documento volta a ficar disponível para nova reserva.
 
@@ -178,7 +178,7 @@ Preenchidos todos os campos, clique "salvar" para prosseguir. Após salvar, os b
 
 #### **Guia de Busca de Documentos**
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 No cabeçalho da Guia é exibido:
 
@@ -189,7 +189,7 @@ No cabeçalho da Guia é exibido:
   * Nome do solicitante no ArqGED
   * Telefone do solicitante
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Abaixo é exibida:
 
@@ -199,7 +199,7 @@ Abaixo é exibida:
 * Destino, ou seja, para onde o documento deve ser encaminhado para andamento do atendimento
 * Local para o auxiliar de arquivo sinalizar se a caixa foi localizada no arquivo
 
-<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Por fim, são exibidos campos que identificam os atores atuantes no atendimento:
 
@@ -451,7 +451,7 @@ Nesta aba, são listados todas as caixas ou subcaixas do pedido. É nesta tela q
 
 #### Detalhes de um Pedido de Caixa
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Coluna Seleção:** Exibe um local para seleção do atendimento.
 
@@ -469,7 +469,7 @@ Nesta aba, são listados todas as caixas ou subcaixas do pedido. É nesta tela q
 
 #### **Detalhes de um pedido de Subcaixa**
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Coluna Seleção:** Exibe um local para seleção do atendimento.
 
@@ -487,23 +487,23 @@ Nesta aba, são listados todas as caixas ou subcaixas do pedido. É nesta tela q
 
 Para o preenchimento destes dados, é necessário acessar o ícone de "Atendimento" para cada uma das caixas ou subcaixas solicitadas. Clique no ícone para prosseguir:
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Uma nova tela será aberta para preenchimento dos dados de atendimento.
 
 Por padrão a tela é apresentada com uma mensagem de alerta quanto ao status do pedido. Se o pedido já estiver com o status correto, clique em editar para prosseguir, caso contrário retorne para a aba dados gerais e conclua o preenchimento necessário para alteração do status.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Localizado / Não Localizado:** Exibe a informação de sucesso na localização da caixa no arquivo. Selecione conforme realidade do seu pedido.
 
 **Descrição do Item:** Este campo possibilita a inclusão de informações relevantes ao pedido de caixa/Subcaixa, caso possua, informe no local indicado e clique em salvar.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Após o lançamento da informação de localização da caixa/subcaixa, é possível emitir o “Protocolo de Consulta de Caixas” ou “Protocolo de Consulta de Subcaixa” para envio ao solicitante, caso o pedido seja de envio do acervo para a área solicitante.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Tanto no protocolo de consulta de Caixa quanto no de consulta de subcaixa, são exibidas as informações:
 
@@ -516,11 +516,11 @@ Tanto no protocolo de consulta de Caixa quanto no de consulta de subcaixa, são 
 
 Emitido o protocolo, retorne para a tela do atendimento e clique “Processar”, para atualização do pedido que vai para “Fechamento”.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Ao clicar novamente em “Processar”, o pedido é fechado no sistema e a caixa/subcaixa é encaminhada ao cliente.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Realizado o processamento do pedido, a lista de ações é atualizada.
 
