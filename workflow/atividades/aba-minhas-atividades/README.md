@@ -84,11 +84,11 @@ Ao clicar neste ícone é aberta uma janela onde é possível cadastrar, associa
 1. **Informações sobre a tarefa:** Tipo, nome e status da tarefa, número do processo e responsável pela execução. &#x20;
 2. **Ícones de ação:** Para habilitar todos os ícones é necessário selecionar um dos registros exibidos no campo “Documentos do fluxo”.  &#x20;
 
-\-> _Adicionar:_ Clicando neste ícone será possível cadastrar ou associar um documento ao fluxo.
+-> _Adicionar:_ Clicando neste ícone será possível cadastrar ou associar um documento ao fluxo.
 
-\-> _Editar:_ Utilizado para editar o registro selecionado.&#x20;
+-> _Editar:_ Utilizado para editar o registro selecionado.&#x20;
 
-\-> _Visualizar:_ Utilizado para visualizar o registro selecionado. &#x20;
+-> _Visualizar:_ Utilizado para visualizar o registro selecionado. &#x20;
 
 * Aba Dados Cadastrais: Aqui são exibidas as informações e metadados do registro&#x20;
 
@@ -106,13 +106,13 @@ Ao clicar neste ícone é aberta uma janela onde é possível cadastrar, associa
 
 <figure><img src="../../../.gitbook/assets/minhas_ativ11.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-\-> _Desassociar:_ Utilizado para desvincular o registro selecionado do fluxo. O documento continua existindo no sistema mas não terá mais relação com o fluxo.&#x20;
+-> _Desassociar:_ Utilizado para desvincular o registro selecionado do fluxo. O documento continua existindo no sistema mas não terá mais relação com o fluxo.&#x20;
 
-\-> _Excluir:_ Clicando neste ícone o registro selecionado será excluído do sistema.&#x20;
+-> _Excluir:_ Clicando neste ícone o registro selecionado será excluído do sistema.&#x20;
 
-\-> _Upload de arquivos:_ Utilizado para fazer o upload de novo arquivo para o registro selecionado. Um registro pode ser composto por mais de um documento.  &#x20;
+-> _Upload de arquivos:_ Utilizado para fazer o upload de novo arquivo para o registro selecionado. Um registro pode ser composto por mais de um documento.  &#x20;
 
-\-> _Assinar:_ Utilizado para assinar os documentos do fluxo. O usuário pode escolher entre assinar todos os documentos apresentados ou assinar apenas os que estiverem selecionados em verde no grid.
+-> _Assinar:_ Utilizado para assinar os documentos do fluxo. O usuário pode escolher entre assinar todos os documentos apresentados ou assinar apenas os que estiverem selecionados em verde no grid.
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Para inserir uma nova versão de um documento já cadastrado, selecione o documento e clique no ícone de upload. O sistema preencherá o nome e a versão do arquivo automaticamente, por entender que se trata de um upload de uma nova versão do arquivo selecionado, mas o usuário poderá editar o nome e número da versão se desejar.**</mark>
@@ -124,9 +124,9 @@ Ao clicar neste ícone é aberta uma janela onde é possível cadastrar, associa
 
 3. **Documentos do fluxo:** Neste campo são exibidos todos os documentos associados ao fluxo cadastrados no sistema. São mostradas as informações e metadados dos documentos.
 
-\-> _Download:_ Clicando no ícone “Download” será possível ver e baixar cada um dos documentos que compõem o registro separadamente.&#x20;
+-> _Download:_ Clicando no ícone “Download” será possível ver e baixar cada um dos documentos que compõem o registro separadamente.&#x20;
 
-\-> _Editar:_ Clicando no ícone “Editar” será possível editar as informações de indexação do documento com ao mesmo tempo em que se visualiza a imagem.&#x20;
+-> _Editar:_ Clicando no ícone “Editar” será possível editar as informações de indexação do documento com ao mesmo tempo em que se visualiza a imagem.&#x20;
 
 <figure><img src="../../../.gitbook/assets/minhas_ativ15.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -146,35 +146,35 @@ Ao clicar neste ícone é aberta a tela para realizar o upload do documento/imag
 
 1. **Aba Anexos do Fluxo:** São os documentos/imagens tramitados durante a execução do fluxo no sistema. Estão disponíveis os ícones:
 
-\-> _Editar:_ Utilizado para editar o nome do anexo e numerar a versão do anexo. &#x20;
+-> _Editar:_ Utilizado para editar o nome do anexo e numerar a versão do anexo. &#x20;
 
-\-> _Excluir:_ Utilizado para excluir o anexo.&#x20;
+-> _Excluir:_ Utilizado para excluir o anexo.&#x20;
 
-\-> _Upload de arquivos:_ Utilizado para inserir um novo anexo ao fluxo. &#x20;
+-> _Upload de arquivos:_ Utilizado para inserir um novo anexo ao fluxo. &#x20;
 
-\-> _Download:_ Utilizado para baixar o documento selecionado.&#x20;
+-> _Download:_ Utilizado para baixar o documento selecionado.&#x20;
 
-\-> _Assinar:_ Utilizado para assinar os documentos do fluxo. O usuário pode escolher entre assinar todos os documentos apresentados ou assinar apenas os que estiverem selecionados em verde no grid.
+-> _Assinar:_ Utilizado para assinar os documentos do fluxo. O usuário pode escolher entre assinar todos os documentos apresentados ou assinar apenas os que estiverem selecionados em verde no grid.
 
-\-> _Capturar Certificado:_ Quando se faz o upload de um documento que esteja assinado digitalmente, clicando neste ícone será possível extrair e visualizar as informações sobre o certificado digital utilizado para a assinatura. Quando o documento for assinado no próprio GED o certificado de assinaturas ficará disponível automaticamente.
+-> _Capturar Certificado:_ Quando se faz o upload de um documento que esteja assinado digitalmente, clicando neste ícone será possível extrair e visualizar as informações sobre o certificado digital utilizado para a assinatura. Quando o documento for assinado no próprio GED o certificado de assinaturas ficará disponível automaticamente.
 
 <figure><img src="../../../.gitbook/assets/minhas_ativ13.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 2. **Aba Anexos dos Documentos:** São os documentos/imagens existentes no registro. São os mesmos documentos exibidos na tela “Documentos”. Além de exibir as informações sobre os documentos associados ao fluxo, é possível verificar se o documento foi ou não compartilhado com usuários externos (se não tiver sido o ícone de cadeado será exibido). Na tela estão disponíveis os ícones:
 
-\-> _Editar:_ Utilizado para editar o nome do documento e numerar a sua versão. &#x20;
+-> _Editar:_ Utilizado para editar o nome do documento e numerar a sua versão. &#x20;
 
-\-> _Excluir:_ Utilizado para excluir o documento que estiver selecionado.&#x20;
+-> _Excluir:_ Utilizado para excluir o documento que estiver selecionado.&#x20;
 
-\-> _Assinatura em lote:_ Utilizado para assinar os documentos . O usuário pode escolher entre assinar todos os documentos apresentados ou assinar apenas os que estiverem selecionados em verde no grid.
+-> _Assinatura em lote:_ Utilizado para assinar os documentos . O usuário pode escolher entre assinar todos os documentos apresentados ou assinar apenas os que estiverem selecionados em verde no grid.
 
-\-> _Compartilhar:_ Utilizado para permitir que o documento seja compartilhado com usuários externos (não autenticados no sistema).   &#x20;
+-> _Compartilhar:_ Utilizado para permitir que o documento seja compartilhado com usuários externos (não autenticados no sistema).   &#x20;
 
-\-> _Descompartilhar:_ Utilizado para interromper o compartilhamento de um documento. &#x20;
+-> _Descompartilhar:_ Utilizado para interromper o compartilhamento de um documento. &#x20;
 
-\-> _Download:_ Utilizado para baixar o documento selecionado.&#x20;
+-> _Download:_ Utilizado para baixar o documento selecionado.&#x20;
 
-\-> _Capturar Certificado:_ Quando se faz o upload de um documento que esteja assinado digitalmente, clicando neste ícone será possível extrair e visualizar as informações sobre o certificado digital utilizado para a assinatura. Quando o documento for assinado no próprio GED o certificado de assinaturas ficará disponível automaticamente.&#x20;
+-> _Capturar Certificado:_ Quando se faz o upload de um documento que esteja assinado digitalmente, clicando neste ícone será possível extrair e visualizar as informações sobre o certificado digital utilizado para a assinatura. Quando o documento for assinado no próprio GED o certificado de assinaturas ficará disponível automaticamente.&#x20;
 
 <figure><img src="../../../.gitbook/assets/minhas_ativ19.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -196,15 +196,15 @@ Este ícone apresenta o modelo de documento PDF editável. Quando o usuário cli
 
 Ao abrir o documento, os <mark style="color:red;">campos de preenchimento obrigatórios</mark> serão apresentados com indicação do <mark style="color:red;">campo em vermelho</mark> e os c<mark style="color:green;">ampos de preenchimento não obrigatórios</mark> serão apresentados com indicação <mark style="color:green;">em verde</mark>:
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Se tratado de tarefa externa, são exibidos os campos "**Tela cheia**" e "**Dividir Tela**". Quando o usuário clica no arquivo o modelo de documento é aberto dividindo a tela com a tarefa.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Para voltar a dividir a tela com a tarefa, clique no botão "**Dividir Tela**".
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ### 8. Obrigatoriedades da tarefa
 

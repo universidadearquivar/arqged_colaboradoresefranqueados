@@ -362,15 +362,7 @@ Uma tarefa externa é aquela que deve ser executada de forma externa ao sistema 
 
 Os nomes das obrigatoriedades serão exibidos de forma diferente da maneira apresentada no sistema para o usuário externo. Geralmente ao acessar o link recebido por e-mail para executar uma ação, será exibido um texto de instrução, com orientações sobre a execução das obrigatoriedades descritas de outra forma.
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/obrig27.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/obrig28.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/obrig27.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/obrig28.png" alt=""><figcaption></figcaption></figure></div>
 
 | Obrigatoriedade           | Orientação exibida para o usuário externo            |
 | ------------------------- | ---------------------------------------------------- |
@@ -438,39 +430,15 @@ Os nomes das obrigatoriedades serão exibidos de forma diferente da maneira apre
 <mark style="color:orange;">**Os dados solicitados variam de acordo com a escolha do usuário entre assinar como pessoa  física ou pessoa jurídica.**</mark>&#x20;
 {% endhint %}
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Assinatura de pessoa física. Clique na imagem para ampliar.</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption><p>Assinatura de pessoa jurídica. Clique na imagem para ampliar.</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Assinatura de pessoa física. Clique na imagem para ampliar.</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption><p>Assinatura de pessoa jurídica. Clique na imagem para ampliar.</p></figcaption></figure></div>
 
 É importante destacar que a tela de assinatura apresentada ao usuário externo exibe os textos no idioma definido no cadastro do cliente detentor do fluxo, no menu [Cliente > Dados Cadastrais > Aba Dados Cadastrais](../../../cliente/dados-cadastrais.md#aba-dados-cadastrais). Caso o idioma escolhido seja Espanhol, a tela será apresentada nesse idioma e será solicitado o NIT do signatário e, no caso de pessoas jurídicas, outras informações específicas.
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Assinatura de pessoa física em Espanhol. Clique na imagem para ampliar.</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption><p>Assinatura de pessoa jurídica em Espanhol. Clique na imagem para ampliar.</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Assinatura de pessoa física em Espanhol. Clique na imagem para ampliar.</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption><p>Assinatura de pessoa jurídica em Espanhol. Clique na imagem para ampliar.</p></figcaption></figure></div>
 
 Caso o idioma escolhido seja Inglês, a tela será apresentada nesse idioma e será solicitado o número do seguro social do signatário e, no caso de pessoas jurídicas, outras informações específicas.&#x20;
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>Assinatura de pessoa física em Inglês. Clique na imagem para ampliar.</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/image (15) (1).png" alt=""><figcaption><p>Assinatura de pessoa jurídica em Inglês. Clique na imagem para ampliar.</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>Assinatura de pessoa física em Inglês. Clique na imagem para ampliar.</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (15) (1).png" alt=""><figcaption><p>Assinatura de pessoa jurídica em Inglês. Clique na imagem para ampliar.</p></figcaption></figure></div>
 
 4\. Se a assinatura for via Certificado Digital, será necessário selecionar o certificado que será utilizado para a assinatura. &#x20;
 

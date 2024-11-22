@@ -5,7 +5,7 @@
 No menu Configuração são cadastrados os tipos de caixa adquiridos pela unidade. Ao cadastrar um tipo de caixa é importante informar um nome que ajude as pessoas a entenderem as características da caixa.&#x20;
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Antes de iniciar a configuração das caixas físicas é importante**</mark> [<mark style="color:blue;">**criar**</mark>](../caixa-ou-pasta/tipo-de-caixa-ou-pasta.md#criacao-de-caixa-ou-pasta) <mark style="color:orange;">**e**</mark> [<mark style="color:blue;">**configurar**</mark>](../caixa-ou-pasta/configurar.md) <mark style="color:orange;">**os**</mark> [<mark style="color:blue;">**Tipos de Caixa**</mark>](../caixa-ou-pasta/tipo-de-caixa-ou-pasta.md) <mark style="color:blue;">**ou Pasta**</mark>** **<mark style="color:orange;">**associados à unidade, no menu**</mark> [<mark style="color:blue;">**Caixa ou Pasta**</mark>](../caixa-ou-pasta/)<mark style="color:orange;">**.**</mark>
+<mark style="color:orange;">**Antes de iniciar a configuração das caixas físicas é importante**</mark> [<mark style="color:blue;">**criar**</mark>](../caixa-ou-pasta/tipo-de-caixa-ou-pasta.md#criacao-de-caixa-ou-pasta) <mark style="color:orange;">**e**</mark> [<mark style="color:blue;">**configurar**</mark>](../caixa-ou-pasta/configurar.md) <mark style="color:orange;">**os**</mark> [<mark style="color:blue;">**Tipos de Caixa**</mark>](../caixa-ou-pasta/tipo-de-caixa-ou-pasta.md) <mark style="color:blue;">**ou Pasta**</mark>**&#x20;**<mark style="color:orange;">**associados à unidade, no menu**</mark> [<mark style="color:blue;">**Caixa ou Pasta**</mark>](../caixa-ou-pasta/)<mark style="color:orange;">**.**</mark>
 {% endhint %}
 
 Um mesmo modelo de caixa física pode ser utilizado por diferentes tipos de caixa ou pasta cadastrados. Essa situação ocorre, por exemplo, quando existem diferenças na estrutura física que irá alocar as caixas.
@@ -142,15 +142,7 @@ Informe o “Tipo de Movimentação”, que pode ser de entrada ou saída e a �
 <mark style="color:orange;">**A saída de caixa vem de uma ação de substituição (quando há necessidade de substituir caixas de um cliente e as caixas utilizadas para essa substituição saem do estoque da unidade).**</mark>
 {% endhint %}
 
-<div>
-
-<figure><img src="../.gitbook/assets/est14.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/est15.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/est14.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure> <figure><img src="../.gitbook/assets/est15.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure></div>
 
 No campo “Estado da Caixa” informe se são caixas usadas ou novas. Se a ação for de entrada por meio de compra, a caixa será obrigatoriamente nova. Se for de entrada por meio de exclusão, a caixa será obrigatoriamente usada. Se a ação for de saída devido a substituição, a caixa pode ser nova ou usada.
 

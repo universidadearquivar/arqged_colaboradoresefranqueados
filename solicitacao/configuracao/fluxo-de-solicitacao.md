@@ -22,7 +22,7 @@ Ao clicar em adicionar é habilitada a tela **Dados Gerais do processo de Solici
 
 <figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-**"Nome da Unidade/Cliente" e "Tipo de Fluxo":** Estes campos dão preenchidos de forma automática, conforme informação selecionada no campo anterior**,** se selecionada a Unidade, automaticamente o Tipo de Fluxo será preenchido como “Guarda Terceirizada” se selecionado o cliente, automaticamente o Tipo de Fluxo será preenchido como “Guarda Interna”.
+**"Nome da Unidade/Cliente" e "Tipo de Fluxo":** Estes campos dão preenchidos de forma automática, conforme informação selecionada no campo anterio&#x72;**,** se selecionada a Unidade, automaticamente o Tipo de Fluxo será preenchido como “Guarda Terceirizada” se selecionado o cliente, automaticamente o Tipo de Fluxo será preenchido como “Guarda Interna”.
 
 **Número Máximo de itens:** Informe o limite de itens que deve ser permitido em cada pedido.&#x20;
 

@@ -87,7 +87,7 @@ O Download em Massa permite que, ao localizar um documento que possua arquivos a
 Depois de selecionar o tipo de download é preciso selecionar os itens que se deseja incluir no download em massa e o tipo de arquivo que será gerado, que pode ser arquivo único em formato PDF ou de todos os arquivos em uma pasta ZIP. No arquivo PDF podem também ser incluídas capas separadoras por tipo documental.  &#x20;
 
 {% hint style="warning" %}
-<mark style="color:orange;">**O arquivo gerado será disponibilizado em até 24 horas, dependendo do tamanho do arquivo solicitado, no menu**</mark> [<mark style="color:orange;">**Download em Massa**</mark>](download-em-massa.md)<mark style="color:orange;">**.**</mark>**  **&#x20;
+<mark style="color:orange;">**O arquivo gerado será disponibilizado em até 24 horas, dependendo do tamanho do arquivo solicitado, no menu**</mark> [<mark style="color:orange;">**Download em Massa**</mark>](download-em-massa.md)<mark style="color:orange;">**.**</mark>**&#x20;&#x20;**&#x20;
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/doc44.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
