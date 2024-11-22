@@ -36,7 +36,11 @@ Ao clicar em Adicionar "+", é apresentada a tela de cadastro:
 
 **Descrição:** Descreva uma particularidade do grupo de endereços, por exemplo: caixas com altura 0, tratamento sem escada.
 
-**Prioridade:**
+**Prioridade:** Este campo é utilizado para definir qual a ordem de apresentação do grupo nos detalhes do Pedido no Painel de Atendimento > Consulta e na Guia de Busca de Documentos, Caixas e Subcaixas.
+
+No exemplo abaixo, o Agrupamento 02 está configurado como prioridade 1 e o Agrupamento 01 está configurado como prioridade 2, na tela eles aparecem considerando esta configuração.
+
+<figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Início:** Identifique o endereço inicial do grupo.
 
@@ -44,4 +48,4 @@ Ao clicar em Adicionar "+", é apresentada a tela de cadastro:
 
 O sistema irá considerar todos os endereços contidos no intervalo informado para separação do pedido no sistema, desta forma a busca do acervo no galpão será mais produtiva, pois será realizada conforme o grupo previamente cadastrado.
 
-**Atualizar Grupo de Endereço:**
+**Atualizar Grupo de Endereço:** Trata-se da habilitação para edição dos campos novamente, caso seja necessário aumentar ou diminuir o intervalo de endereços definidos em cada um dos "Grupos de Endereços" configurados.
