@@ -30,7 +30,7 @@ A área de trabalho é alterada conforme seleção das opções disponíveis de 
 
 ***
 
-### Solicitação de Documento <a href="#solicitacao-de-documento" id="solicitacao-de-documento"></a>
+## Solicitação de Documento <a href="#solicitacao-de-documento" id="solicitacao-de-documento"></a>
 
 ### Como cancelar uma reserva de documento <a href="#como-cancelar-uma-reserva-de-documento" id="como-cancelar-uma-reserva-de-documento"></a>
 
@@ -49,6 +49,12 @@ Confirme a ação na mensagem apresentada para seguir com o cancelamento da rese
 <figure><img src="https://arquivar.gitbook.io/~gitbook/image?url=https%3A%2F%2F1023047207-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtM1xGMYoU6wC7tnUUXEo%252Fuploads%252FpZuvGV6Y5sBLb2tmbDMH%252Fimage.png%3Falt%3Dmedia%26token%3Dc0b700d0-fb48-4781-a317-88b4497c2544&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=3fc63d59&#x26;sv=1" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Em caso da desistência de todas as reservas, clique no ícone carrinho do lado direito da tela para "Cancelar todas as reservas de documentos".
+
+{% hint style="info" %}
+<mark style="color:blue;">Uma reserva só pode ser cancelada pelo usuário que a realizou. Não existe um usuário Administrador com permissão para esta ação, pois, existe a possibilidade de cancelamentos indevidos . Em caso de desligamento de colaborador, o gestor deverá alterar a senha de acesso e cancelar todas as reservas do usuário antes de inativá-lo no sistema.</mark>
+{% endhint %}
+
+***
 
 ### Como criar um Pedido de Documento <a href="#como-criar-um-pedido-de-documento" id="como-criar-um-pedido-de-documento"></a>
 
@@ -142,7 +148,7 @@ Ao clicar em "Enviar", os pedidos são realizados e enviados para atendimento, s
 
 ***
 
-### Solicitação de Caixa ou Subcaixa <a href="#solicitacao-de-caixa-ou-subcaixa" id="solicitacao-de-caixa-ou-subcaixa"></a>
+## Solicitação de Caixa ou Subcaixa <a href="#solicitacao-de-caixa-ou-subcaixa" id="solicitacao-de-caixa-ou-subcaixa"></a>
 
 ### Como cancelar uma reserva de caixa ou subcaixa <a href="#como-cancelar-uma-reserva-de-caixa-ou-subcaixa" id="como-cancelar-uma-reserva-de-caixa-ou-subcaixa"></a>
 
@@ -170,6 +176,12 @@ Confirme a ação na mensagem apresentada para seguir com o cancelamento da rese
 <figure><img src="https://arquivar.gitbook.io/~gitbook/image?url=https%3A%2F%2F1023047207-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtM1xGMYoU6wC7tnUUXEo%252Fuploads%252Fsco5PV7o0ZKOfXuGnWft%252Fimage.png%3Falt%3Dmedia%26token%3Dd5860e30-77ab-4685-8a57-a22deb5644eb&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=b3fde80f&#x26;sv=1" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Em caso da desistência de todas as reservas, clique no ícone carrinho do lado direito da tela para "**Cancelar todas as reservas de caixas ou subcaixas**".
+
+{% hint style="info" %}
+<mark style="color:blue;">Uma reserva só pode ser cancelada pelo usuário que a realizou. Não existe um usuário Administrador com permissão para esta ação, pois, existe a possibilidade de cancelamentos indevidos . Em caso de desligamento de colaborador, o gestor deverá alterar a senha de acesso e cancelar todas as reservas do usuário antes de inativá-lo no sistema.</mark>
+{% endhint %}
+
+***
 
 ### Como criar um Pedido de Caixa ou Subcaixa <a href="#como-criar-um-pedido-de-caixa-ou-subcaixa" id="como-criar-um-pedido-de-caixa-ou-subcaixa"></a>
 
