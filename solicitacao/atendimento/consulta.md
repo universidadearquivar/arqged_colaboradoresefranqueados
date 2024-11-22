@@ -144,7 +144,7 @@ Essa medida é geralmente utilizada para evitar o **acesso indevido**, de pessoa
 
 Para “Aprovar” ou “Cancelar” o pedido, o responsável deverá acessar a tela Solicitação > Atendimento > Consulta, identificar e abrir o pedido, clicar em “Salvar” e depois em “Processar” para aprovar ou no caso de cancelamento, clicar em "Salvar" e depois em “Cancelar Pedido”.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Aprovado o pedido, o status é alterado e uma nova ação é registrada.
 
@@ -231,6 +231,8 @@ Nesta aba, são listados todos os documentos do pedido. É nesta tela que são a
 <figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Grupo:** Quando a Unidade possui configuração definida para [Grupo de Endereços](../configuracao/grupo-de-endereco.md), este campo é apresentado na tela e é considerado para organização do pedido. Isso é feito para que o auxiliar de arquivo responsável pela busca dos volumes  no arquivo tenha maior facilidade e produtividade na separação do acervo.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Coluna Seleção:** Exibe um local para seleção do atendimento.
 
@@ -471,7 +473,7 @@ Nesta aba, são listados todas as caixas ou subcaixas do pedido. É nesta tela q
 
 #### **Detalhes de um pedido de Subcaixa**
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Coluna Seleção:** Exibe um local para seleção do atendimento.
 
