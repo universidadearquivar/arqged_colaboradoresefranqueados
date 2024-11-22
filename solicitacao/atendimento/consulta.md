@@ -210,6 +210,10 @@ Por fim, são exibidos campos que identificam os atores atuantes no atendimento:
 
 <figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
+{% hint style="info" %}
+<mark style="color:blue;">Quando a Unidade possui configuração definida para</mark> [<mark style="color:blue;">Grupo de Endereços</mark>](../configuracao/grupo-de-endereco.md)<mark style="color:blue;">, é gerada uma guia de busca por grupo. Isso é feito para que o auxiliar de arquivo responsável pela busca dos volumes  no arquivo tenha maior facilidade e produtividade na separação do acervo.</mark>
+{% endhint %}
+
 Concluído o processo de busca no arquivo, o atendente precisa informar para o sistema que a etapa foi realizada para prosseguir com o atendimento.
 
 Para seguir com o atendimento, clique “Processar”.
@@ -438,6 +442,10 @@ Por fim, são exibidos campos que identificam os atores atuantes no atendimento:
 * Data/Hora da Impressão da guia
 
 <figure><img src="../../.gitbook/assets/image (121).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+{% hint style="info" %}
+<mark style="color:blue;">Quando a Unidade possui configuração definida para</mark> [<mark style="color:blue;">Grupo de Endereços</mark>](../configuracao/grupo-de-endereco.md)<mark style="color:blue;">, é gerada uma guia de busca por grupo. Isso é feito para que o auxiliar de arquivo responsável pela busca dos volumes  no arquivo tenha maior facilidade e produtividade na separação do acervo.</mark>
+{% endhint %}
 
 Concluído o processo de busca no arquivo, o atendente precisa informar para o sistema que a etapa foi realizada para prosseguir com o atendimento.
 
