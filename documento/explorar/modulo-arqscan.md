@@ -29,15 +29,19 @@ Para o funcionamento correto do ArqClient são exigidos os requisitos mínimos a
 
 <figure><img src="../../.gitbook/assets/arqscan02.png" alt=""><figcaption></figcaption></figure>
 
-3\. Salve o arquivo ZIP na máquina. Em seguida, abra a pasta e clique duas vezes sobre o arquivo de instalação.&#x20;
+3\. Salve o arquivo ZIP na máquina. Em seguida, clique com o botão direito do mouse e extraia os arquivos utilizando o programa "WinRAR". Selecione a opção "Extrair para...".
 
-<figure><img src="../../.gitbook/assets/arqscan03.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-4\. Clique em “Avançar” nas próximas telas até que o status de instalação seja concluído. &#x20;
+4. Abra a pasta criada na extração dos arquivos e clique duas vezes sobre o arquivo de instalação.
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+5\. Clique em “Avançar” nas próximas telas até que o status de instalação seja concluído. &#x20;
 
 <figure><img src="../../.gitbook/assets/arqscan04.png" alt=""><figcaption></figcaption></figure>
 
-5\. Clique em “Fechar” para concluir a instalação.&#x20;
+6\. Clique em “Fechar” para concluir a instalação.&#x20;
 
 <figure><img src="../../.gitbook/assets/arqscan05.png" alt=""><figcaption></figcaption></figure>
 
@@ -56,7 +60,7 @@ O acesso ao módulo ArqScan deve ser feito na tela [Documento > Explorar](./), c
 
 <mark style="color:red;">Veja abaixo um exemplo de erro deste tipo:</mark>
 
-![](https://arquivar.gitbook.io/\~gitbook/image?url=https%3A%2F%2F1023047207-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtM1xGMYoU6wC7tnUUXEo%252Fuploads%252FiKWqsB9T52cwxnfPd6fl%252Fimage.png%3Falt%3Dmedia%26token%3D1edf8ffd-7b46-4e76-bc88-e5a3daf9d14c\&width=300\&dpr=4\&quality=100\&sign=1a85218b\&sv=1)
+![](https://arquivar.gitbook.io/~gitbook/image?url=https%3A%2F%2F1023047207-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtM1xGMYoU6wC7tnUUXEo%252Fuploads%252FiKWqsB9T52cwxnfPd6fl%252Fimage.png%3Falt%3Dmedia%26token%3D1edf8ffd-7b46-4e76-bc88-e5a3daf9d14c\&width=300\&dpr=4\&quality=100\&sign=1a85218b\&sv=1)
 
 <mark style="color:red;">Clique nos links abaixo para baixar os instaladores para estes pacotes. É importante utilizar sempre a versão mais atual para instalação.</mark>
 
