@@ -8,17 +8,19 @@ Na tela Contratos são exibidas as informações dos contratos celebrados entre 
 
 ## Contratos – Tela principal
 
-**1. Campo Unidade - Cliente:** Neste campo é exibida a empresa ou empresas às quais o usuário logado pertence ou tem acesso. No caso de franqueados serão exibidos aqui todos os clientes da Unidade.
+<figure><img src="../../.gitbook/assets/image (147).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-**2. Ícone Adicionar:** Utilizado para adicionar um novo contrato. &#x20;
+**Unidade - Cliente:** Neste campo é exibida a empresa ou empresas às quais o usuário logado pertence ou tem acesso. No caso de franqueados serão exibidos aqui todos os clientes da Unidade.
 
-**3. Ícone Editar:** Utilizado para editar o contrato selecionado. &#x20;
+**Ícone Adicionar:** Utilizado para adicionar um novo contrato. &#x20;
 
-**4. Ícone Visualizar:** Utilizado para visualizar detalhes do contrato selecionado. &#x20;
+**Ícone Editar:** Utilizado para editar o contrato selecionado. &#x20;
 
-**5. Ícone Excluir:** Utilizado para excluir o contrato selecionado.
+**Ícone Visualizar:** Utilizado para visualizar detalhes do contrato selecionado. &#x20;
 
-<figure><img src="../../.gitbook/assets/contratos01.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+**Ícone Excluir:** Utilizado para excluir o contrato selecionado.
+
+<figure><img src="../../.gitbook/assets/image (148).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Coluna Número:** Exibe o número do contrato.
 
@@ -31,6 +33,3 @@ Na tela Contratos são exibidas as informações dos contratos celebrados entre 
 **Coluna Fim Vigência:** Exibe a data de fim da vigência do contrato.
 
 **Coluna Índice Reajuste:** Apresenta o índice escolhido para reajuste do valor contrato. Caso nenhum índice tenha sido escolhido no momento do cadastro do contrato, a coluna será preenchida como “Sem Reajuste”.
-
-<figure><img src="../../.gitbook/assets/contratos02.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
