@@ -12,6 +12,12 @@ No menu Dados Cadastrais são cadastradas as informações comerciais sobre cada
 
 **Coluna Status:** Informa se aquela unidade está ativa ou inativa no ArqGED ou se está bloqueada para uso da plataforma. &#x20;
 
+> **Ativo:** Indica que o cliente possui contrato vigente;
+>
+> **Inativo:** Indica que o contrato do cliente foi encerrado;
+>
+> **Bloqueado:** Indica que o cliente possui alguma pendência com a Arquivar impeditiva para uso do sistema, podendo ser uma pendência financeira ou afins.
+
 <figure><img src="../.gitbook/assets/unidades1.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 **Ícone Adicionar:** Utilizado para cadastrar uma nova unidade franqueada.&#x20;
