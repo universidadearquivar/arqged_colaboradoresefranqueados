@@ -2,15 +2,17 @@
 
 ## Aba Serviço – Tela principal
 
-**1. Ícone Adicionar:** Utilizado para adicionar um novo serviço ao contrato.  &#x20;
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-**2. Ícone Editar:** Utilizado para editar os serviços inclusos no contrato selecionado.  &#x20;
+**Ícone Adicionar:** Utilizado para adicionar um novo serviço ao contrato.  &#x20;
 
-**3. Ícone Visualizar:** Utilizado para visualizar detalhes dos serviços inclusos no contrato selecionado.  &#x20;
+**Ícone Editar:** Utilizado para editar os serviços inclusos no contrato selecionado.  &#x20;
 
-**4. Ícone Excluir:** Utilizado para excluir serviços do contrato selecionado.&#x20;
+**Ícone Visualizar:** Utilizado para visualizar detalhes dos serviços inclusos no contrato selecionado.  &#x20;
 
-<figure><img src="../../../.gitbook/assets/servicos01.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+**Ícone Excluir:** Utilizado para excluir serviços do contrato selecionado.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Coluna Serviço:** Exibe o nome do serviço.&#x20;
 
@@ -30,8 +32,6 @@
 
 **Coluna Fim Vigência:** Informa a data de fim da vigência do serviço, se houver.&#x20;
 
-<figure><img src="../../../.gitbook/assets/servicos02.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
 ***
 
 ## Adicionando  um serviço
@@ -48,7 +48,7 @@
 
 **Serviço:** Selecione o serviço que deseja incluir.
 
-<figure><img src="../../../.gitbook/assets/servicos05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/servicos05.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Tipo de Serviço:** Esse campo será preenchido automaticamente com o tipo de serviço que vai servir como referência para contagem de itens no contrato. Ao cadastrar um contrato, o sistema fará a contagem de quantos tipos de serviço estão inclusos. Se o serviço não tiver um tipo específico, será mostrada a opção “N.A.” (Não se aplica).
 
@@ -118,7 +118,7 @@ O faturamento parcelado é cobrado uma única vez, podendo ser parcelado ou não
 
 **Quantidade para o Limite Gratuito:** Neste campo deve ser informada a quantidade de requisições que podem ser realizadas (via API) no dia ou no mês de forma gratuita.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 O faturamento para a quantidade do serviço ArqAPI, segue o mesmo padrão dos demais softwares que usam a combinação de campos: &#x20;
 
@@ -151,6 +151,6 @@ Quando o serviço ArqNFe for adicionado, serão exibidos os campos “**Pacote d
 
 &#x20;Estes campos existem para guardar a quantidade e valor para utilização excedente do serviço.
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 &#x20;

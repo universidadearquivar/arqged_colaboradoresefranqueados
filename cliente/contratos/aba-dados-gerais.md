@@ -1,5 +1,7 @@
 # 🔹 Aba Dados Gerais
 
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
 **Tipo de Contrato:** Neste campo deve ser selecionado o tipo de contrato que está sendo cadastrado, que pode ser:
 
 * _Antigo:_ Nesse tipo de contrato, qualquer serviço pode ser incluído, tanto relacionado a serviços de guarda documental quanto de utilização e licença do software ArqGED. Nesse tipo de contrato será utilizada a cobrança antiga de repasse do franqueado para a Master.&#x20;

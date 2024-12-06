@@ -430,11 +430,11 @@ Os nomes das obrigatoriedades serão exibidos de forma diferente da maneira apre
 <mark style="color:orange;">**Os dados solicitados variam de acordo com a escolha do usuário entre assinar como pessoa  física ou pessoa jurídica.**</mark>&#x20;
 {% endhint %}
 
-<div><figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Assinatura de pessoa física. Clique na imagem para ampliar.</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption><p>Assinatura de pessoa jurídica. Clique na imagem para ampliar.</p></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Assinatura de pessoa física. Clique na imagem para ampliar.</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption><p>Assinatura de pessoa jurídica. Clique na imagem para ampliar.</p></figcaption></figure></div>
 
 É importante destacar que a tela de assinatura apresentada ao usuário externo exibe os textos no idioma definido no cadastro do cliente detentor do fluxo, no menu [Cliente > Dados Cadastrais > Aba Dados Cadastrais](../../../cliente/dados-cadastrais.md#aba-dados-cadastrais). Caso o idioma escolhido seja Espanhol, a tela será apresentada nesse idioma e será solicitado o NIT do signatário e, no caso de pessoas jurídicas, outras informações específicas.
 
-<div><figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Assinatura de pessoa física em Espanhol. Clique na imagem para ampliar.</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption><p>Assinatura de pessoa jurídica em Espanhol. Clique na imagem para ampliar.</p></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Assinatura de pessoa física em Espanhol. Clique na imagem para ampliar.</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption><p>Assinatura de pessoa jurídica em Espanhol. Clique na imagem para ampliar.</p></figcaption></figure></div>
 
 Caso o idioma escolhido seja Inglês, a tela será apresentada nesse idioma e será solicitado o número do seguro social do signatário e, no caso de pessoas jurídicas, outras informações específicas.&#x20;
 
