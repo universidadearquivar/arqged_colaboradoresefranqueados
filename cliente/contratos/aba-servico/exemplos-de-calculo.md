@@ -381,7 +381,7 @@ A caixa A será cobrada porque foi criada em data inferior ao período de fatura
 
 A caixa B será cobrada porque foi criada em data inferior ao período de faturamento e sua exclusão ocorreu durante o período de faturamento, ou seja, nesse período ela ainda estava ocupando espaço físico da guarda. Neste caso, ela não será cobrada no próximo mês de faturamento.&#x20;
 
-A caixa C também será cobrada porque foi criada em data inferior ao período de faturamento e sua exclusão ocorreu depois do período de faturamento. Neste caso, ela não será cobrada no faturamento de 01/08 à 31/08, no faturamento de 01/09 à 31/09 e **não será mais cobrada** no faturamento de 01/10 à 31/10.
+A caixa C também será cobrada porque foi criada em data inferior ao período de faturamento e sua exclusão ocorreu depois do período de faturamento. Neste caso, ela será cobrada nos faturamentos de 01/08 à 31/08, 01/09 à 31/09 e **não será mais cobrada** no faturamento de 01/10 à 31/10.
 
 A caixa D não será cobrada, já que a data de sua criação é posterior ao período de faturamento.&#x20;
 
