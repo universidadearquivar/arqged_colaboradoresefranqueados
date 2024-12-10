@@ -38,7 +38,7 @@ Habilita o serviço de captura das notas fiscais emitidas pelo cliente, salvando
 
 Habilita o serviço de captura de imagens por meio da digitalização do documento no scanner, criação do arquivo em XML, leitura do arquivo XML, criação de fila de indexação para as imagens e disponibilização das imagens digitalizadas no ArqGED para consulta do usuário.&#x20;
 
-* **Forma de Controle:** Manual&#x20;
+* **Forma de Controle:** Automática
 * **Tipo de Faturamento:** Periódico&#x20;
 * **Quantidade a ser faturada**: Para este tipo de serviço, a cobrança será feita por número de páginas hospedadas dentro do ArqGED que tenham sido processadas pelo ArqINDEX no período de apuração do faturamento. Além disso, as páginas devem ser do cliente e da unidade em questão.&#x20;
 
@@ -156,7 +156,7 @@ Serviço de caixas do cliente arquivadas fisicamente e registradas no sistema Ar
 
 * **Forma de Controle:** Automático&#x20;
 * **Tipo de Faturamento**: Periódico&#x20;
-* **Quantidade a ser faturada**: Neste serviço a cobrança será feita por quantidade de caixas do tipo pai (container) arquivadas, que tenham sido criadas antes ou durante o período do faturamento. Caixas excluídas durante o período de faturamento também devem ser cobradas. [Clique aqui e veja exemplos de cálculos.](exemplos-de-calculo.md#pacote-periodico-+-pacote-unitario)
+* **Quantidade a ser faturada**: Neste serviço a cobrança será feita por quantidade de caixas arquivadas, que tenham sido criadas antes ou durante o período do faturamento. Caixas excluídas durante o período de faturamento também devem ser cobradas. [Clique aqui e veja exemplos de cálculos.](exemplos-de-calculo.md#pacote-periodico-+-pacote-unitario)
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Neste serviço, o ideal é que seja cadastrada pelo menos a cobrança de pacote unitário, mesmo que não haja cobrança de mensalidade periódica.**</mark>
