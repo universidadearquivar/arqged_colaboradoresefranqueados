@@ -20,7 +20,7 @@
 
 **Coluna Status:** Exibe se o serviço está bloqueado, desbloqueado ou em versão POC (_Proof of Concept_ - Prova de Conceito) no contrato.&#x20;
 
-**Coluna Classificação:** Informa se se trata de um “Serviço”, ou seja, é executado fora do sistema ArqGED, ou se é “Software”, ou seja, é um serviço relacionado a um dos módulos do ArqGED.&#x20;
+**Coluna Classificação:** Informa se o item cadastrado se trata de um “Serviço”, ou seja, é executado fora do sistema ArqGED, ou se é “Software”, serviço relacionado a um dos módulos do ArqGED.&#x20;
 
 **Coluna Controle:** Informa se a forma de controle do serviço é manual ou automática. &#x20;
 
@@ -108,7 +108,7 @@ O faturamento parcelado é cobrado uma única vez, podendo ser parcelado ou não
 
 <figure><img src="../../../.gitbook/assets/servicos13.png" alt=""><figcaption></figcaption></figure>
 
-* _Desbloqueado:_ Utilize esse status caso o cliente já esteja vá utilizar o serviço ou já esteja utilizando.&#x20;
+* _Desbloqueado:_ Utilize esse status caso o cliente vá utilizar o serviço ou já esteja utilizando.&#x20;
 * _Bloqueado:_ Utilize esse status caso o serviço esteja previsto no contrato do cliente, mas ele ainda não esteja utilizando ou não tenha previsão de utilização. Neste caso o serviço não será cobrado do cliente.&#x20;
 * _POC:_ Utilize esse status caso o cliente vá utilizar o serviço por determinado período sem cobrança, com o objetivo de testar a ferramenta. Nesse caso preencha também os campos “Início POC” e “Fim POC”, com as datas de início e fim do período de demonstração. Também será necessário informar no campo “Notificar” o e-mail do colaborador ou equipe da unidade que será avisado sobre o fim do período de demonstração do cliente.&#x20;
 
