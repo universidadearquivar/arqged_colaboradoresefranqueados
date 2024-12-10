@@ -192,7 +192,7 @@ Habilita a criação de regras de auditoria em processos no ArqGED que estejam v
 
 * **Forma de Controle:** Automático&#x20;
 * **Tipo de Faturamento:** Periódico&#x20;
-* **Quantidade a ser faturada:** Neste serviço a cobrança será por número de regras criadas durante o período de faturamento que sejam do cliente, unidade e do serviço em questão, e que não tenham sido deletadas. As regras devem estar vinculadas a uma lista e a cobrança deve ser feita por lista. Clique aqui para conferir um exemplo. Em um mesmo contrato é possível associar o serviço ArqAUDIT por Lista mais de uma vez, por isso é importante que no campo “Nome Espelho” seja informado o tipo de regra à qual o serviço que está sendo cadastrado se refere. Também é possível dentro de uma mesma lista efetuar cobranças distintas para itens ativos ou inativos.
+* **Quantidade a ser faturada:** Neste serviço a cobrança será por número de regras criadas durante o período de faturamento que sejam do cliente, unidade e do serviço em questão, e que não tenham sido deletadas. As regras devem estar vinculadas a uma lista e a cobrança deve ser feita por lista. [Clique aqui para conferir um exemplo](exemplos-de-calculo.md#arqaudit-por-lista). Em um mesmo contrato é possível associar o serviço ArqAUDIT por Lista mais de uma vez, por isso é importante que no campo “Nome Espelho” seja informado o tipo de regra à qual o serviço que está sendo cadastrado se refere. Também é possível dentro de uma mesma lista efetuar cobranças distintas para itens ativos ou inativos.
 
 ***
 
