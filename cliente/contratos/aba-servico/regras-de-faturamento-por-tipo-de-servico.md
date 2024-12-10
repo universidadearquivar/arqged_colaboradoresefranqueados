@@ -78,11 +78,9 @@ Serviço de digitalização de páginas.&#x20;
 
 Habilita o serviço de assinatura eletrônica de documentos que não estejam vinculados a nenhum fluxo dentro do sistema.
 
-*   **Forma de Controle:** Automático&#x20;
-
-    **Tipo de Faturamento:** Periódico&#x20;
-
-    **Quantidade a ser faturada:** Para este tipo de serviço, a cobrança será feita por número de arquivos assinados no período de apuração do faturamento. Além disso, as páginas devem ser do cliente e da unidade em questão. A cobrança não deve ser feita por assinatura nem por número de páginas assinadas, e sim por arquivo assinado.&#x20;
+* **Forma de Controle:** Automático&#x20;
+* **Tipo de Faturamento:** Periódico
+* **Quantidade a ser faturada:** Para este tipo de serviço, a cobrança será feita por número de arquivos assinados no período de apuração do faturamento. Além disso, as páginas devem ser do cliente e da unidade em questão. A cobrança não deve ser feita por assinatura nem por número de páginas assinadas, e sim por arquivo assinado.&#x20;
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Neste serviço, o ideal é que seja cadastrada pelo menos a cobrança de pacote unitário, mesmo que não haja cobrança de mensalidade periódica.**</mark>
@@ -104,11 +102,9 @@ Habilita o serviço de assinatura eletrônica de documentos. A diferença deste 
 
 Serviço de armazenamento de arquivos dentro do ArqGED, incluindo os arquivos deletados que permanecem salvos no sistema por backup.
 
-*   **Forma de Controle:** Automático&#x20;
-
-    **Tipo de Faturamento:** Periódico&#x20;
-
-    **Quantidade a ser faturada:** Para este tipo de serviço, a cobrança será feita por espaço de armazenamento de arquivos ativos e inativos armazenados no ArqGED. Também são contabilizados os arquivos gerados por download em massa. O tamanho de todos os arquivos armazenados é somado e convertido em gigabytes, e a cobrança é feita pela quantidade de GB consumidos.&#x20;
+* **Forma de Controle:** Automático&#x20;
+* **Tipo de Faturamento:** Periódico&#x20;
+* **Quantidade a ser faturada:** Para este tipo de serviço, a cobrança será feita por espaço de armazenamento de arquivos ativos e inativos armazenados no ArqGED. Também são contabilizados os arquivos gerados por download em massa. O tamanho de todos os arquivos armazenados é somado e convertido em gigabytes, e a cobrança é feita pela quantidade de GB consumidos.&#x20;
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Neste serviço, o ideal é que seja cadastrada pelo menos a cobrança de pacote unitário, mesmo que não haja cobrança de mensalidade periódica.**</mark>
