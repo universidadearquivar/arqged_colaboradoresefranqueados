@@ -18,7 +18,7 @@
 
 **Coluna Nome para Espelho:** Exibe o nome do campo que será exibido no relatório de faturamento.&#x20;
 
-**Coluna Status:** Exibe se o serviço está bloqueado, desbloqueado ou em versão POC (Proof of Concept - Prova de Conceito) no contrato.&#x20;
+**Coluna Status:** Exibe se o serviço está bloqueado, desbloqueado ou em versão POC (_Proof of Concept_ - Prova de Conceito) no contrato.&#x20;
 
 **Coluna Classificação:** Informa se se trata de um “Serviço”, ou seja, é executado fora do sistema ArqGED, ou se é “Software”, ou seja, é um serviço relacionado a um dos módulos do ArqGED.&#x20;
 
