@@ -206,9 +206,9 @@ R$ 50,00 (pacote periódico) + R$ 200,00 (pacote unitário) = **R$ 250,00 (valor
 
 ***
 
-## ArqSCAN + ArQOCR
+## ArqSCAN + ArqOCR
 
-No contrato de determinado cliente, foi determinado o valor de R$ 0,10 por página digitalizada via ArqSCAN e R$ 0,20 por página processada via ArqOCR. Em determinado período de faturamento o cliente digitalizou 100 páginas e, dentre elas, precisou processar 20 páginas com o ArqOCR.&#x20;
+No contrato do cliente, foi definido o valor de R$ 0,10 por página digitalizada via ArqSCAN e R$ 0,20 por página processada via ArqOCR. Em determinado período de faturamento o cliente digitalizou 100 páginas e, dentre elas, precisou processar 20 páginas com o ArqOCR.&#x20;
 
 *   _Serviço: ArqSCAN_&#x20;
 
