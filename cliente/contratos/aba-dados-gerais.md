@@ -5,7 +5,7 @@
 **Tipo de Contrato:** Neste campo deve ser selecionado o tipo de contrato que está sendo cadastrado, que pode ser:
 
 * _Antigo:_ Nesse tipo de contrato, qualquer serviço pode ser incluído, tanto relacionado a serviços de guarda documental quanto de utilização e licença do software ArqGED. Nesse tipo de contrato será utilizada a cobrança antiga de repasse do franqueado para a Master.&#x20;
-* _Faturamento:_ Nesse tipo de contrato não pode haver nenhum tipo de serviço relacionado ao software ArqGED. Esse tipo de contrato foi criado para serviços que não envolvem o uso do software, como por exemplo digitalização (sem o uso do ArqIndex), organização de documentos, consultoria etc.
+* _Faturamento:_ Nesse tipo de contrato não pode haver nenhum tipo de serviço relacionado ao software ArqGED. Esse tipo de contrato foi criado para serviços que não envolvem o uso do software, como por exemplo digitalização (sem o uso do ArqGED), organização de documentos, consultoria etc.
 * _Guarda:_ Nesse tipo de contrato só podem ser incluídos serviços relacionados ao software ArqGED e ao Storage, ou seja, serviços de guarda como transporte, consulta de documentos etc.
 * _Padrão:_ Assim como no contrato Antigo, nesse tipo de contrato qualquer serviço pode ser incluído, tanto relacionado a serviços de guarda documental quanto de utilização e licença do software ArqGED. A diferença é que nesse tipo de contrato será utilizada a cobrança atualizada de repasse do franqueado para a Master.  &#x20;
 
@@ -18,7 +18,7 @@
 **Grupo Econômico:** O campo Grupo Econômico permite que sejam agrupados vários contratos em um mesmo grupo e que a cobrança seja feita uma única vez, da franqueadora (Master) para o franqueado (Unidade).
 
 {% hint style="info" %}
-<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Uma mesma empresa possui três contratos com a Unidade X, e os três contratos foram agrupados no mesmo Grupo Econômico. Ao cobrar a licença do software da Unidade X, a Arquivar Master para irá faturar a mensalidade apenas uma vez, sobre o grupo econômico criado.</mark>
+<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Uma mesma empresa possui três contratos com a Unidade X, e os três contratos foram incluídos no mesmo Grupo Econômico. Ao cobrar a licença do software da Unidade X, a Arquivar Master irá faturar a mensalidade apenas uma vez, sobre o grupo econômico criado.</mark>
 {% endhint %}
 
 **Próxima Fatura:** Ao salvar o contrato, com base no preenchimento do campo “Recorrência de Faturamento”, será calculada automaticamente a data da próxima fatura, que será exibida aqui.
@@ -29,7 +29,7 @@
 
 **Cliente:** Campo preenchido automaticamente com o cliente selecionado na tela principal.
 
-**Usuário Cadastro:** Campo preenchido automaticamente o nome do usuário logado.
+**Usuário Cadastro:** Campo preenchido automaticamente com o nome do usuário logado.
 
 **Data Cadastro:** Campo preenchido automaticamente com a data em que está sendo realizado o cadastro.
 
@@ -55,11 +55,11 @@
 
 **Início Vigência:** Aqui deve ser informada a data de início da prestação de serviços para o cliente, ou seja, a partir de que dia o contrato passa a valer.
 
-**Fim Vigência:** Aqui deve ser informada a data final da prestação de serviços para o cliente, ou seja, a partir de que dia o contrato passa a valer. Esse campo não é obrigatório e caso não haja uma data estipulada para o fim do contrato, a vigência será por tempo indeterminado.
+**Fim Vigência:** Aqui deve ser informada a data final da prestação de serviços para o cliente, ou seja, a partir de que dia o contrato deixa de valer. Esse campo não é obrigatório e caso não haja uma data estipulada para o fim do contrato, a vigência será por tempo indeterminado.
 
 <figure><img src="../../.gitbook/assets/contratos04.png" alt=""><figcaption></figcaption></figure>
 
-**Aviso de Faturamento:** Ao preencher esse campo o sistema emitirá um aviso para sobre a data de faturamento da próxima fatura. Para isso, informe a quantidade de dias antes do faturamento o alerta deverá ser emitido e para qual e-mail esse alerta deverá ser enviado.
+**Aviso de Faturamento:** Ao preencher esse campo o sistema emitirá um aviso sobre a data de faturamento da próxima fatura. Para isso, informe a quantidade de dias antes do faturamento o alerta deverá ser emitido e para qual e-mail esse alerta deverá ser enviado.
 
 <figure><img src="../../.gitbook/assets/contratos05.png" alt=""><figcaption></figcaption></figure>
 
@@ -72,7 +72,7 @@
 • _Mensal:_ Se a cobrança for mensal, pode ser determinado um dia específico ou uma data de acordo com determinado dia da semana.
 
 {% hint style="info" %}
-<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Se for preenchido “Dia 1 de cada 2 meses”, o sistema entenderá que todo dia 1º deverá realizar o faturamento, com intervalo de dois meses, ou seja, seria uma cobrança bimensal.</mark>
+<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Se for preenchido “Dia 1 de cada 2 meses”, o sistema entenderá que todo dia 1º deverá realizar o faturamento, com intervalo de dois meses, ou seja, seria uma cobrança bimestral.</mark>
 
 <mark style="color:blue;">Se for preenchido “Na primeira segunda-feira de cada 1 mês”, o sistema entenderá que toda primeira segunda-feira de cada mês deverá realizar o faturamento, ou seja, seria uma cobrança mensal.</mark>&#x20;
 {% endhint %}
