@@ -10,19 +10,7 @@
 <mark style="color:red;">A aplicação permitirá ao usuário gerar um par de chaves, elas poderão ser usadas de forma rotacionada, ou seja, a cada chamada o usuário poderá usar uma.</mark> &#x20;
 {% endhint %}
 
-## **Rota em processo de descontinuidade:** [**https://integracao.arquivar.com/**](https://integracao.arquivar.com/)
-
-É necessário que o usuário escolha qual versão do método deseja utilizar. Alguns métodos já possuem mais de uma versão disponível para trabalho.
-
-<figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
-{% hint style="info" %}
-<mark style="color:blue;">Antes de acessar os serviços da URL informada, leia as informações deste manual de integração, para garantir a completa compreensão dos requisitos.</mark>
-{% endhint %}
-
-***
-
-## Nova Rota: [https://developers.arquivar.com/](https://developers.arquivar.com)
+## Documentação: [https://developers.arquivar.com/](https://developers.arquivar.com)
 
 Para visualizar a documentação online de API do ArqGED, acesse: [https://developers.arquivar.com/](https://developers.arquivar.com)
 
