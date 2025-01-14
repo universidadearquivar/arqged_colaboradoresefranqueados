@@ -2,6 +2,10 @@
 
 ## 7.1.POST Cadastrar nota fiscal como documento: não usar este método. Usar o método POST Documento <a href="#id-7.1.post-api-notafiscal-importanotafiscal" id="id-7.1.post-api-notafiscal-importanotafiscal"></a>
 
+### URL <a href="#entrada" id="entrada"></a>
+
+[https://api-rest.arquivar.com/api/NotaFiscal/ImportaNotaFiscal\[?idUnidade\]\[\&idCliente\]\[\&idArvoreOrganizacional\]](https://api-rest.arquivar.com/api/NotaFiscal/ImportaNotaFiscal\[?idUnidade]\[\&idCliente]\[\&idArvoreOrganizacional])
+
 ### Entrada <a href="#entrada" id="entrada"></a>
 
 • idUnidade
