@@ -20,7 +20,7 @@ Na aba Dados Gerais os campos “Nº de Referência”, “Responsável”, “U
 
 <figure><img src="../.gitbook/assets/caixa17 (1).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-Informe quantas caixas estão sendo criadas e a de que estoque a caixa será subtraída, podendo ser do estoque de caixas novas ou usadas que a unidade possui. &#x20;
+Informe quantas caixas estão sendo criadas e de que estoque a caixa será subtraída, podendo ser do estoque de caixas novas ou usadas que a unidade possui. &#x20;
 
 Se tiver sido definido que para aquele tipo de caixa selecionado haverá utilização de subcaixas no menu [Caixa ou Pasta > Configurar](configurar.md), será necessário informar se haverá criação de subcaixa, o tipo de subcaixa e a quantidade por caixa.&#x20;
 
@@ -60,15 +60,7 @@ A funcionalidade “Enviar para o Cliente” é utilizada quando a unidade preci
 
 Ao enviar caixas para o cliente será habilitado o botão “Protocolo”, no qual será possível visualizar o protocolo de entrega das caixas para o cliente.&#x20;
 
-<div>
-
-<figure><img src="../.gitbook/assets/caixa25.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/caixa26.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/caixa25.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure> <figure><img src="../.gitbook/assets/caixa26.png" alt=""><figcaption></figcaption></figure></div>
 
 Para cancelar a criação das caixas, clique no botão “Cancelar Códigos”. O cancelamento só pode ser feito se as caixas não tiverem sido enviadas para o cliente. Será feito o cancelamento de todas as caixas criadas na requisição.
 
