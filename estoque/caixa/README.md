@@ -9,4 +9,4 @@ description: >-
 
 
 
-<table data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center"></td></tr><tr><td align="center"><a href="saldo.md"><mark style="color:green;"><strong>Saldo</strong></mark></a></td></tr><tr><td align="center"><a href="movimentacao.md"><mark style="color:green;"><strong>Movimentação</strong></mark></a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center"><a href="configuracao.md"><mark style="color:green;"><strong>Configuração</strong></mark></a></td></tr><tr><td align="center"><a href="saldo.md"><mark style="color:green;"><strong>Saldo</strong></mark></a></td></tr><tr><td align="center"><a href="movimentacao.md"><mark style="color:green;"><strong>Movimentação</strong></mark></a></td></tr></tbody></table>
