@@ -1,4 +1,4 @@
-# 🟩 Saldo
+# 🔹 Saldo
 
 No menu Saldo é exibido o total de cada modelo de caixa física existente no estoque da unidade. O estoque é dividido em caixas novas e usadas.
 

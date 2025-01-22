@@ -1,4 +1,4 @@
-# 🟩 Configuração
+# 🔹 Configuração
 
 No menu Configuração são cadastrados os tipos de caixa adquiridos pela unidade. Ao cadastrar um tipo de caixa é importante informar um nome que ajude as pessoas a entenderem as características da caixa.&#x20;
 

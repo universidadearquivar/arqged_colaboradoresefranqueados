@@ -1,4 +1,4 @@
-# 🟩 Movimentação
+# 🔹 Movimentação
 
 No menu Movimentação são lançadas as movimentações de entrada (compra) e saída (descarte) das caixas.  &#x20;
 
