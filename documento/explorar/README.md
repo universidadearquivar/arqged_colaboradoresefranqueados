@@ -68,6 +68,17 @@ Se selecionado mais de um registro para download com arquivos anexados, será po
 
 <div><figure><img src="../../.gitbook/assets/doc25.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure> <figure><img src="../../.gitbook/assets/doc26.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure></div>
 
+{% hint style="danger" %}
+Se ao tentar realizar o download do arquivo for exibida a mensagem **"Não foi possível carregar o plug-in"**, siga os passos abaixo para ajustar as configurações do navegador:
+
+1. Acesse as configurações do navegador.
+2. Navegue até **Privacidade e Segurança**.
+3. Localize a opção **Documentos em PDF** ou similar.
+4. Em **Comportamento Padrão**, selecione a opção **Fazer o download dos PDFs**.
+
+Essa configuração é padrão do navegador e pode interferir na visualização ou no download dos arquivos PDF, sendo necessário ajustá-la para corrigir o problema.
+{% endhint %}
+
 ### Upload de documento ![](<../../.gitbook/assets/image (133).png>)
 
 Utilizado para fazer o upload de um arquivo para associá-lo ao registro selecionado, ou seja, anexar um arquivo àquele documento. Deverá ser informada a versão e o nome do arquivo que está sendo anexado. &#x20;
