@@ -103,3 +103,14 @@ Ao lado de cada registro outros ícones podem ser exibidos. São eles:&#x20;
 **Editar:** Clicando neste botão será possível editar os campos indexadores do documento.&#x20;
 
 **Download:** Clicando neste ícone será possível realizar o download dos arquivos do documento selecionado.&#x20;
+
+{% hint style="danger" %}
+Se ao tentar realizar o download do arquivo for exibida a mensagem **"Não foi possível carregar o plug-in"**, siga os passos abaixo para ajustar as configurações do navegador:
+
+1. Acesse as configurações do navegador.
+2. Navegue até **Privacidade e Segurança**.
+3. Localize a opção **Documentos em PDF** ou similar.
+4. Em **Comportamento Padrão**, selecione a opção **Fazer o download dos PDFs**.
+
+Essa configuração é padrão do navegador e pode interferir na visualização ou no download dos arquivos PDF, sendo necessário ajustá-la para corrigir o problema.
+{% endhint %}
