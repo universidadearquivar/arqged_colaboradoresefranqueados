@@ -111,6 +111,7 @@
     * [◼️ 8. Relatórios](integracoes/metodos-disponiveis-na-api/8.-relatorios.md)
     * [◼️ 9. Usuário](integracoes/metodos-disponiveis-na-api/9.-usuario.md)
   * [🟩 Histórico de alterações da API](integracoes/historico-de-alteracoes-da-api.md)
+  * [⚙️ API](integracoes/api.md)
 
 ## 📣 Novidades do ArqGED
 
