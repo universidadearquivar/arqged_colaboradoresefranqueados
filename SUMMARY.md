@@ -112,6 +112,7 @@
       * [◼️ 9. Usuário](integracoes/metodos-disponiveis-na-api/9.-usuario.md)
     * [🟩 URL da API ArqGED](integracoes/url-da-api-arqged.md)
     * [🟩 Histórico de alterações da API](integracoes/historico-de-alteracoes-da-api.md)
+  * [SSO](integracoes/sso.md)
 
 ## 📣 Novidades do ArqGED
 
