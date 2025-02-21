@@ -14,12 +14,20 @@ O ArqGED está preparado para usar este modelo de autenticação e para isso, é
 
 Acesse a URL do ArqGED e clique na opção "Entrar com SSO".
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Será apresentada uma nova tela para inclusão do código do AD (Active Directory) que é o código que identifica o Cliente ArqGED nas configurações de acesso do AD do cliente.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Se neste momento for informado um código incorreto, a aplicação exibirá uma mensagem de alerta ao usuário <mark style="color:red;">**"Erro ao autenticar: \[código] inválido."**</mark>
 
 <figure><img src="../.gitbook/assets/image (149).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Sendo informado o código correto, a aplicação identificará o Cliente e sua respectiva configuração para chamar seu IdP.&#x20;
+
+O ArqGED irá chamar o IdP do Cliente com um ID que identifica a aplicação ArqGED na ferramenta dele.&#x20;
+
+Abaixo está um exemplo de integração com o Azure AD. Neste caso, após informar o código que identifica o cliente e clicar “Entrar”, é exibido no browser do Cliente a página de autenticação da Microsoft.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
