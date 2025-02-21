@@ -58,3 +58,52 @@ Quando no primeiro acesso o usuário já estiver  “Ativo” no ArqGED e com as
 <mark style="color:orange;">Se o usuário for</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**bloqueado ou inativado no IdP do Cliente**</mark><mark style="color:orange;">, ele não conseguirá avançar, a aplicação ficará tentando autenticação no IdP, sem sucesso.</mark>
 {% endhint %}
 
+***
+
+## Pré-Requisitos do SSO&#x20;
+
+Antes de ir para os passos de configuração, o cliente **precisa ter um IdP que funcione com o protocolo SAML 2.0 de autenticação.**
+
+### Passos para se configurar o SSO&#x20;
+
+O cliente precisa passar pelos tópicos abaixo para iniciar o processo de configuração do SSO:
+
+1.  **Incluir no seu IdP os dados**
+
+    1. Identifier (Entity ID): https://ssosp.arquivar.com&#x20;
+    2. Reply URL (Assertion Consumer Service URL): https://arqged.arquivar.com/Account/LoginViaSSO
+
+
+2.  Enviar para a Arquivar os dados&#x20;
+
+    1. IdPMetadataXML
+    2. ClaimNomeUsuario (enviar nome completo)
+    3. ClaimEmail
+
+
+3.  Enviar para a Arquivar os dados de contato do responsável por atribuir as permissões dentro do ArqGED
+
+    1. Email
+    2. Nome
+    3. Telefone&#x20;
+
+
+
+Após receber as informações listadas anteriormente, a Arquivar irá:
+
+1. Fazer as configurações no ArqGED com os dados enviados pela empresa;
+2. Enviar o código SSO que será usado no início do processo de autenticação.
+
+{% hint style="danger" %}
+<mark style="color:red;">Para quem estiver usando o SSO</mark>
+
+<mark style="color:red;">É importante saber que por questões de segurança e para garantir que um usuário criado via processo de SSO somente consiga acessar desta forma, as funções abaixo foram bloqueadas para este tipo de usuário:</mark>&#x20;
+
+<mark style="color:red;">• Usuários criados via SSO não podem executar a ação de alterar senha através do link “Esqueceu a senha?”.</mark>
+
+<mark style="color:red;">• Usuários criados via SSO, não poderão ser autenticados via tela de login do ArqGED (com usuário e senha na tela de login).</mark>&#x20;
+
+<mark style="color:red;">• Usuários criados via SSO, não poderão incluir outros usuários no ArqGED.</mark>&#x20;
+
+<mark style="color:red;">• Usuários criados via SSO, não poderão ser autenticados via API.</mark>
+{% endhint %}
