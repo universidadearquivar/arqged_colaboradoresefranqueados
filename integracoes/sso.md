@@ -7,5 +7,3 @@ Com o SSO, o usuário acessa várias telas de login unificadas em uma só, permi
 Um dos grandes diferenciais do SSO é que, hoje em dia, usam-se muitos serviços digitais e diferentes softwares que requerem login e senha.&#x20;
 
 O ArqGED está preparado para usar este modelo de autenticação e para isso, é necessário realizar algumas configurações dentro da aplicação.
-
-##
