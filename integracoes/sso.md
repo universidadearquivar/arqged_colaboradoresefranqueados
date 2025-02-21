@@ -38,4 +38,8 @@ Se o usuário não existir no ArqGED, esta autenticação no IdP irá enviar os 
 
 O ArqGED irá criar o usuário vinculado ao cliente, porém com o status “**Bloqueado**” e sem a parametrização das permissões de árvore documental e perfil de usuário e será apresentada ao usuário uma mensagem de orientação para a devida liberação dos acessos.
 
+Na mensagem existem os dados: **Email, Nome e Telefone.** Estas informações poderão ser personalizadas por Cliente, de forma que o usuário que acabou de ser criado no ArqGED via IdP, saiba a quem procurar para solicitar a atribuição de permissões de árvore documental e perfis de acesso.&#x20;
+
 <figure><img src="../.gitbook/assets/image (150).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Após o desbloqueio do usuário e atribuição de árvore documental juntamente com o perfil de acesso, na próxima tentativa de login, o usuário será autenticado no ArqGED.
