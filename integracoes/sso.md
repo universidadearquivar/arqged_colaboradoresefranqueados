@@ -14,6 +14,8 @@ O ArqGED está preparado para usar este modelo de autenticação e para isso, é
 
 Acesse a URL do ArqGED e clique na opção "Entrar com SSO".
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-Será apresentada uma nova tela para inclusão do código que identifica o Cliente no ArqGED.&#x20;
+Será apresentada uma nova tela para inclusão do código do AD (Active Directory) que é o código que identifica o Cliente ArqGED nas configurações de acesso do AD do cliente.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>

@@ -18,7 +18,7 @@ Para visualizar a documentação online de API do ArqGED, acesse: [https://devel
 
 Ao acessar a URL da documentação, é exibida a API disponível, ao clicar os dados são listados na tela.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 No canto esquerdo da tela é exibida a lista dos métodos disponíveis para a API.
 
