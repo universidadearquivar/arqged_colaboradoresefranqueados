@@ -66,14 +66,14 @@ O cliente precisa passar pelos tópicos abaixo para iniciar o processo de config
     2. Reply URL (Assertion Consumer Service URL): https://arqged.arquivar.com/Account/LoginViaSSO
 
 
-2.  Enviar para a Arquivar os dados&#x20;
+2.  **Enviar para a Arquivar os dados**&#x20;
 
     1. IdPMetadataXML
     2. ClaimNomeUsuario (enviar nome completo)
     3. ClaimEmail
 
 
-3. Enviar para a Arquivar os dados de contato do responsável por atribuir as permissões dentro do ArqGED
+3. **Enviar para a Arquivar os dados de contato do responsável por atribuir as permissões dentro do ArqGED**
    1. Email
    2. Nome
    3. Telefone&#x20;
