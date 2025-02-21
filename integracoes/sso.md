@@ -44,4 +44,17 @@ Na mensagem existem os dados: **Email, Nome e Telefone.** Estas informações po
 
 Após o desbloqueio do usuário e atribuição de árvore documental juntamente com o perfil de acesso, na próxima tentativa de login, o usuário será autenticado no ArqGED.
 
-### Quando o usuário já existe no ArqGED
+### Quando o usuário <mark style="color:green;">já existe</mark> no ArqGED
+
+Quando no primeiro acesso o usuário já estiver  “Ativo” no ArqGED e com as permissões de acesso atribuídas, após a autenticação com sucesso no IdP do Cliente, ele será direcionado já autenticado e autorizado no ArqGED.
+
+<figure><img src="../.gitbook/assets/image (151).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+{% hint style="warning" %}
+Se o usuário for bloqueado ou inativado no ArqGED e tentar acessar a aplicação, ele sempre será direcionado para a tela com a mensagem de "Autorização no ArqGED".
+
+![](<../.gitbook/assets/image (154).png>)
+
+Se o usuário for bloqueado ou inativado no **IdP do Cliente**, ele não conseguirá avançar, a aplicação ficará tentando autenticação no IdP.
+{% endhint %}
+
