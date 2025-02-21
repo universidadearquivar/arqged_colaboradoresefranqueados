@@ -113,6 +113,7 @@
     * [🟩 URL da API ArqGED](integracoes/url-da-api-arqged.md)
     * [🟩 Histórico de alterações da API](integracoes/historico-de-alteracoes-da-api.md)
   * [🔌 SSO](integracoes/sso.md)
+    * [🛠️ Implantação SSO](integracoes/sso/implantacao-sso.md)
 
 ## 📣 Novidades do ArqGED
 
