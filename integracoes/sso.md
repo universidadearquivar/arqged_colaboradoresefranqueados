@@ -32,7 +32,7 @@ Abaixo está um exemplo de integração com o Azure AD. Neste caso, após inform
 
 ## Usuário autenticado no Idp do Cliente
 
-### Quando o usuário <mark style="color:red;">não</mark> existe no ArqGED
+### Quando o usuário <mark style="color:red;">não existe</mark> no ArqGED
 
 Se o usuário não existir no ArqGED, esta autenticação no IdP irá enviar os dados do usuário para o ArqGED.&#x20;
 
@@ -43,3 +43,5 @@ Na mensagem existem os dados: **Email, Nome e Telefone.** Estas informações po
 <figure><img src="../.gitbook/assets/image (150).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Após o desbloqueio do usuário e atribuição de árvore documental juntamente com o perfil de acesso, na próxima tentativa de login, o usuário será autenticado no ArqGED.
+
+### Quando o usuário já existe no ArqGED
