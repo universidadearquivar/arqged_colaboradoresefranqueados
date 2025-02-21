@@ -8,8 +8,6 @@ Um dos grandes diferenciais do SSO é que, hoje em dia, usam-se muitos serviços
 
 O ArqGED está preparado para usar este modelo de autenticação e para isso, é necessário realizar algumas configurações dentro da aplicação.
 
-
-
 ## Configurações no ArqGED
 
 Acesse a URL do ArqGED e clique na opção "Entrar com SSO".
@@ -31,3 +29,13 @@ O ArqGED irá chamar o IdP do Cliente com um ID que identifica a aplicação Arq
 Abaixo está um exemplo de integração com o Azure AD. Neste caso, após informar o código que identifica o cliente e clicar “Entrar”, é exibido no browser do Cliente a página de autenticação da Microsoft.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+## Usuário autenticado no Idp do Cliente
+
+### Quando o usuário <mark style="color:red;">não</mark> existe no ArqGED
+
+Se o usuário não existir no ArqGED, esta autenticação no IdP irá enviar os dados do usuário para o ArqGED.&#x20;
+
+O ArqGED irá criar o usuário vinculado ao cliente, porém com o status “**Bloqueado**” e sem a parametrização das permissões de árvore documental e perfil de usuário e será apresentada ao usuário uma mensagem de orientação para a devida liberação dos acessos.
+
+<figure><img src="../.gitbook/assets/image (150).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
