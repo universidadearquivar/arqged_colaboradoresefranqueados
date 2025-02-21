@@ -19,3 +19,7 @@ Acesse a URL do ArqGED e clique na opção "Entrar com SSO".
 Será apresentada uma nova tela para inclusão do código do AD (Active Directory) que é o código que identifica o Cliente ArqGED nas configurações de acesso do AD do cliente.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Se neste momento for informado um código incorreto, a aplicação exibirá uma mensagem de alerta ao usuário <mark style="color:red;">**"Erro ao autenticar: \[código] inválido."**</mark>
+
+<figure><img src="../.gitbook/assets/image (149).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
