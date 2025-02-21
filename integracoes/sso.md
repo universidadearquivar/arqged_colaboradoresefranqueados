@@ -51,10 +51,10 @@ Quando no primeiro acesso o usuário já estiver  “Ativo” no ArqGED e com as
 <figure><img src="../.gitbook/assets/image (151).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="warning" %}
-<mark style="color:orange;">Se o usuário for bloqueado ou inativado no ArqGED e tentar acessar a aplicação, ele sempre será direcionado para a tela com a mensagem de "Autorização no ArqGED".</mark>
+<mark style="color:orange;">Se o usuário for</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**bloqueado ou inativado no ArqGED**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">e tentar acessar a aplicação, ele sempre será direcionado para a tela com a mensagem de "Autorização no ArqGED".</mark>
 
 ![](<../.gitbook/assets/image (154).png>)
 
-<mark style="color:orange;">Se o usuário for bloqueado ou inativado no</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**IdP do Cliente**</mark><mark style="color:orange;">, ele não conseguirá avançar, a aplicação ficará tentando autenticação no IdP.</mark>
+<mark style="color:orange;">Se o usuário for</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**bloqueado ou inativado no IdP do Cliente**</mark><mark style="color:orange;">, ele não conseguirá avançar, a aplicação ficará tentando autenticação no IdP, sem sucesso.</mark>
 {% endhint %}
 
