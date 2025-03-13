@@ -8,19 +8,23 @@ Considerando este cenário, o sistema deverá verificar se o ASO consta ou não 
 
 O fluxo deve ser:
 
-
-
 {% tabs %}
-{% tab title="1.Criação" %}
-
+{% tab title="1. Criação de Regras" %}
+O responsável pela gestão cria regras no sistema, definindo qual documento é necessário em determinadas situações. Por exemplo, "O ASO Admissional deve ser registrado uma única vez na pasta do funcionário até 10 dias antes da admissão."
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="2. Verificação Manual ou Automática" %}
+Quando um novo funcionário é admitido e seu perfil é atualizado no sistema, baseado na execução automática ou manual da regra de auditoria, o sistema verifica se o ASO Admissional foi registrado na pasta de documentos do colaborador.
+{% endtab %}
 
+{% tab title="3. Auditoria e Validação" %}
+O sistema, por meio de uma auditoria automatizada, verifica se o documento especificado na regra (neste caso, o ASO) está presente na pasta de documentos do funcionário.
+{% endtab %}
+
+{% tab title="4. Alerta Falta de Documento" %}
+Caso o ASO não seja encontrado, o sistema gera um alerta, indicando a falta do documento. Esse alerta pode ser enviado para os responsáveis pela gestão de documentos, RH ou outro setor relevante para que a pendência seja corrigida. Um relatório de inconsistência é gerado e disponibilizado para consulta.
 {% endtab %}
 {% endtabs %}
-
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Este processo visa garantir que os documentos obrigatórios sejam registrados corretamente e dentro dos prazos estabelecidos, evitando falhas ou pendências no cumprimento de exigências legais ou internas da empresa.
 
