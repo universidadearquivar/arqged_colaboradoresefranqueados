@@ -6,4 +6,10 @@ Por exemplo, ao admitir um funcionário, é necessário a realização de um exa
 
 Considerando este cenário, o sistema deverá verificar se o ASO consta ou não nos documentos cadastrados para o funcionário em questão e, se não identificado o cadastro desse documento, o sistema deverá apontar sua falta pelo processamento da regra de auditoria.&#x20;
 
-<figure><img src="../.gitbook/assets/audit1.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+O fluxo deve ser:
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Este processo visa garantir que os documentos obrigatórios sejam registrados corretamente e dentro dos prazos estabelecidos, evitando falhas ou pendências no cumprimento de exigências legais ou internas da empresa.
+
+Importante: O processo de auditoria não se limita exclusivamente aos documentos de funcionários, ele é aplicável a todos os tipos documentais que possuem critérios para verificação de sua existência no acervo.
