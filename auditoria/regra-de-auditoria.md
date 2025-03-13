@@ -8,6 +8,18 @@ Considerando este cenário, o sistema deverá verificar se o ASO consta ou não 
 
 O fluxo deve ser:
 
+
+
+{% tabs %}
+{% tab title="1.Criação" %}
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Este processo visa garantir que os documentos obrigatórios sejam registrados corretamente e dentro dos prazos estabelecidos, evitando falhas ou pendências no cumprimento de exigências legais ou internas da empresa.
