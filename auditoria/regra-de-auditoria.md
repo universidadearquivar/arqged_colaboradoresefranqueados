@@ -231,3 +231,83 @@ Nela são exibidos os campos da lista associada na tela de “Dados Gerais”, e
 
 Neste primeiro caso, é preciso identificar os documentos faltantes de todos os funcionários **sem data de demissão**, que sejam da **filial Belo Horizonte** e especificamente **da função Administrativo**. Note que foi utilizada a opção “E” para vincular todas as condições na mesma regra, desta forma não serão listados funcionários das demais filiais ou funções.
 
+<figure><img src="../.gitbook/assets/image (163).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Já no segundo caso, é preciso identificar os documentos faltantes de todos os funcionários **sem data de demissão**, que sejam **da filial Belo Horizonte** que estejam cadastrados na **função Administrativo** “**OU**” **na função Comercial.** Ao utilizar a opção “**OU**” a aplicação fará a verificação nas duas funções antes de consolidar o resultado.
+
+Se ao invés de utilizar “OU” fosse utilizado “E” neste caso, teríamos uma inconsistência, pois, não é possível um mesmo funcionário cadastrado em funções distintas ao mesmo tempo, neste caso a regra não traria resultados na consolidação.
+
+{% hint style="warning" %}
+<mark style="color:orange;">Ao realizar a configuração do Universo de Busca, é importante validar todas as condicionais para que não sejam definidas regras incoerentes para a aplicação. Do contrário, a verificação pode ficar incorreta ou trazer dados incorretos de documentos faltantes. Ao criar uma regra, teste e valide seu funcionamento.</mark>
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image (164).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Agrupar:** A função de agrupar é habilitada quando selecionada mais de uma configuração. Depois de selecionar e clicar neste ícone, a aplicação entende que as configurações devem ser agrupadas e passam a fazer um papel de “**E**”. O operador "**E**" indica que todas as condições precisam ser atendidas, enquanto o "**OU**" indica que pelo menos uma das condições deve ser atendida.
+
+Ou seja, quando um funcionário for admitido na filial Belo Horizonte e estiver na função Administrativa “E” na função Comercial, ele será listado na consolidação da auditoria, quando identificados documentos faltantes.
+
+<figure><img src="../.gitbook/assets/image (165).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Campos da Lista ou Sublista:** São exibidos para seleção, os campos da lista associada na tela anterior.
+
+<figure><img src="../.gitbook/assets/image (166).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Operador:** Indica o parâmetro que será aplicado ao campo no momento da execução da auditoria.
+
+* **=:** O valor do campo precisa ser igual a...
+* **>:** O valor do campo precisa ser maior que ...
+* **<:** O valor do campo precisa ser menor que...
+* **<=:** O valor do campo precisa ser menor ou igual a ...
+* **>=:** O valor do campo precisa ser maior ou igual a ...
+* **<>:** O valor do campo precisa ser diferente de ...
+* **NULL:** Considera apenas os campos que não possuem valor cadastrado.
+* **NOT NULL:** Considera todos os campos que possuem valor cadastrado.
+
+{% hint style="warning" %}
+<mark style="color:orange;">Quando selecionadas as opções NULL ou NOT NULL o campo “Valor” é inativado para preenchimento, pois independentemente do valor cadastrado o campo deve ser considerado. Para os demais parâmetros, o campo valor aparece ativo, pois é necessário adicionar uma informação.</mark>
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image (167).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Valor:** Campo para informar o dado que deve ser considerado na busca, lembrando que o tipo de campo dependerá da seleção realizada em ”Campos da Lista”.
+
+**Parâmetros para sinalizar a ausência do documento:**
+
+Esta área define onde será realizada a auditoria para o universo de busca cadastrado, a quantidade de documentos que devem ser encontrados, quando a auditoria deve ocorrer e, em qual período o processo de auditoria será validado.
+
+Exemplo: O tipo documental Folha de Ponto, deve conter 1 documento cadastrado, a cada 1 mês, a partir da Data Admissão e, dentro do período da Data Inicial e Data Final de cadastro do documento.
+
+Exibe os campos da aplicação que devem ser validados no momento da execução da regra para exibição dos documentos faltantes.&#x20;
+
+<figure><img src="../.gitbook/assets/image (170).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Universo de Trabalho:** É um campo de preenchimento obrigatório e sinaliza para a aplicação, onde cada regra deve ser aplicada. Trata-se do primeiro nível de identificação do documento no sistema.
+
+**Árvore Documental:** É um campo de preenchimento obrigatório e sinaliza para a aplicação onde cada regra deve ser aplicada. A Árvore Documental, indica o último nível utilizado no cadastro do documento na aplicação, por isso é necessário selecionar sempre o último nível.
+
+{% hint style="warning" %}
+<mark style="color:orange;">Quando a regra for baseada em uma lista, ela precisa estar relacionada na Árvore Documental para ser apresentada nesta tela.</mark>
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image (171).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Qtde.: Definidos Universo de Trabalho e Árvore Documental, informe quantos documentos devem existir.
+
+A cada: Informe o tempo em que o documento deve aparecer.
+
+Periodicidade: Selecione a periodicidade da existência destes documentos, se ele deve aparecer por dia / mês / ano, se ele é um documento único ou único por período.
+
+·       Único: O documento deve ser único, independentemente da data do documento.
+
+Quando definido documento “Único”, a aplicação não habilita para preenchimento os demais campos condicionantes.
+
+<figure><img src="../.gitbook/assets/image (172).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+·       Único por período: O documento deve ser único, dentro do período informado na aplicação.
+
+&#x20;
+
+Quando definido documento “Único por período”, a aplicação habilita as demais condicionantes para preenchimento, um após o outro.
+
+<figure><img src="../.gitbook/assets/image (173).png" alt=""><figcaption></figcaption></figure>
