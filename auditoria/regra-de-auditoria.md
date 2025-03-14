@@ -48,4 +48,14 @@ Este processo visa garantir que os documentos obrigatórios sejam registrados co
 
 {% hint style="warning" %}
 <mark style="color:orange;">Para que o cliente consiga criar uma regra no</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Menu > Auditoria**</mark><mark style="color:orange;">, é necessário que ele tenha cadastrado em seu contrato vigente o serviço “</mark><mark style="color:orange;">**ArqAudit por Regra**</mark><mark style="color:orange;">”, do contrário ele não poderá criar uma regra de auditoria no sistema.</mark>
+
+<mark style="color:orange;">O usuário de Unidade não tem permissão para realizar este cadastro, portanto devem solicitar para que a Master realize o cadastro do serviço no ArqGED.</mark>
 {% endhint %}
+
+## Criando uma Regra de Auditoria
+
+No **Menu > Auditoria > Regra de Auditoria**, clique na opção “Adicionar”.
+
+<figure><img src="../.gitbook/assets/image (155).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Ao clicar em adicionar, o sistema apresenta na tela a aba “Dados Gerais” para preenchimento, nesta tela são apresentadas as informações iniciais para execução da regra de auditoria.
