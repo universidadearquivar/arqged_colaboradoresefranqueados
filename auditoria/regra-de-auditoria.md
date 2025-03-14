@@ -202,3 +202,32 @@ Exibem informações preenchidas na aba “Dados Gerais” para uma visão exter
 **Última Execução:** Nesta coluna fica registrada a última consolidação realizada para a regra, considerando a data e a hora da execução.
 
 Após salvar as configurações, são habilitadas duas nova abas na tela “Regra” e “Exceções”.
+
+***
+
+### Aba Regra
+
+Na Aba Regra é feita de fato a definição da regra de auditoria.
+
+<figure><img src="../.gitbook/assets/image (159).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Universo de Busca:** Esta área determina os critérios a serem utilizados na execução da regra de auditoria, especificando quais informações serão analisadas para identificar a inconsistência de um documento.
+
+Nela são exibidos os campos da lista associada na tela de “Dados Gerais”, estes campos são os responsáveis pela identificação na busca dos documentos faltantes, conforme as parametrizações inseridas para cada um.
+
+<figure><img src="../.gitbook/assets/image (160).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Adicionar:** Permite a adição de outros universos que devem ser considerados na regra.
+
+**Excluir:** Permite a exclusão de uma configuração.
+
+**Salvar/Editar:** Permite a edição dos dados de uma das configurações ou a adição de mais configurações para o universo de busca.
+
+<figure><img src="../.gitbook/assets/image (161).png" alt=""><figcaption><p>Clique na iamgem para ampliar.</p></figcaption></figure>
+
+**E/ou:** Quando adicionada mais de uma configuração para a regra, é possível informar para a aplicação quais e como essas configurações devem ser aplicadas, por exemplo:
+
+<figure><img src="../.gitbook/assets/image (162).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Neste primeiro caso, é preciso identificar os documentos faltantes de todos os funcionários **sem data de demissão**, que sejam da **filial Belo Horizonte** e especificamente **da função Administrativo**. Note que foi utilizada a opção “E” para vincular todas as condições na mesma regra, desta forma não serão listados funcionários das demais filiais ou funções.
+
