@@ -292,22 +292,75 @@ Exibe os campos da aplicação que devem ser validados no momento da execução 
 
 <figure><img src="../.gitbook/assets/image (171).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-Qtde.: Definidos Universo de Trabalho e Árvore Documental, informe quantos documentos devem existir.
+**Qtde.:** Definidos Universo de Trabalho e Árvore Documental, informe quantos documentos devem existir.
 
-A cada: Informe o tempo em que o documento deve aparecer.
+**A cada:** Informe o tempo em que o documento deve aparecer.
 
-Periodicidade: Selecione a periodicidade da existência destes documentos, se ele deve aparecer por dia / mês / ano, se ele é um documento único ou único por período.
+**Periodicidade:** Selecione a periodicidade da existência destes documentos, se ele deve aparecer por dia / mês / ano, se ele é um documento único ou único por período.
 
-·       Único: O documento deve ser único, independentemente da data do documento.
+• **Único:** O documento deve ser único, independentemente da data do documento.
 
 Quando definido documento “Único”, a aplicação não habilita para preenchimento os demais campos condicionantes.
 
 <figure><img src="../.gitbook/assets/image (172).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-·       Único por período: O documento deve ser único, dentro do período informado na aplicação.
+• **Único por período:** O documento deve ser único, dentro do período informado na aplicação.
 
-&#x20;
+&#x20;Quando definido documento “Único por período”, a aplicação habilita as demais condicionantes para preenchimento, um após o outro.
 
-Quando definido documento “Único por período”, a aplicação habilita as demais condicionantes para preenchimento, um após o outro.
+<figure><img src="../.gitbook/assets/image (173).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (173).png" alt=""><figcaption></figcaption></figure>
+{% hint style="warning" %}
+<mark style="color:orange;">Fique atento aos campos (condicionantes) de preenchimento obrigatórios e não obrigatórios, dependendo do preenchimento realizado a regra pode se tornar inválida, ou seja, ao consolidar, não trará resultados ou poderá apresentar erros.</mark>
+{% endhint %}
+
+**Quando:** Selecione a data que deve ser considerada para início da verificação do documento faltante, vale ressaltar que este campo influencia o preenchimento dos campos que seguem:
+
+<figure><img src="../.gitbook/assets/image (174).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Quando selecionada a opção “A partir”, é apresentado no campo **Data de Ref Inicial (1),** as datas existentes na lista utilizada na regra em questão.
+
+<figure><img src="../.gitbook/assets/image (175).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Quando selecionada a opção “ A partir (data digitada)”, observe que o campo Data de Ref Inicial (1) é habilitado com outra característica, ele abre o campo para digitação de uma data específica.
+
+<figure><img src="../.gitbook/assets/image (176).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Quando utilizada a opção “Entre”, são carregados os campos customizados, quando configurados como sendo do tipo data, além dos campos existentes na lista.
+
+<figure><img src="../.gitbook/assets/image (177).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Data de Ref Inicial (1):** Trata-se de campo do tipo “data” previamente existente na lista.
+
+**Und. Tempo (1) e Qtd. Tempo (1):** Estes campos devem ser utilizados para criar uma referência do tempo em que o documento deve ser adicionado ao sistema, como por exemplo:
+
+• Considerando um ASO Admissional, geralmente esse documento é emitido dias antes da data de Admissão do funcionário, logo nossa regra deverá ter em “Und. Tempo (1)” Dias (-) e em Qtd. Tempo (1) o valor, 10 dias. Isso quer dizer que o funcionário poderá ter um ASO Admissional cadastrado com data de até 10 dias antes da sua admissão.
+
+<figure><img src="../.gitbook/assets/image (178).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Data de Ref Final (2):** Trata-se de campo do tipo “data” previamente existente na lista.
+
+**Unid. Tempo (2) e Qtde. Tempo (2):** Estes campos devem ser utilizados para criar uma referência do tempo em que o documento deve ser adicionado ao sistema, como por exemplo:
+
+• Considerando um ASO Demissional, geralmente esse documento é emitido dias depois da data de Demissão do funcionário, logo nossa regra deverá ter em “Und. Tempo (2)” Dias (+) e em Qtd. Tempo (1) o valor, 10 dias. Isso quer dizer que o funcionário poderá ter um ASO Demissional cadastrado com data de até 10 dias depois da sua Demissão.
+
+<figure><img src="../.gitbook/assets/image (179).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Data Inicial (Doc.index):** Trata-se do campo de data inicial configurado na árvore organizacional. Este campo é utilizado para identificar se no período teve ou não documento cadastrado.
+
+**Data Final (Doc. Index):** Trata-se do campo de data final configurado na árvore organizacional. Este campo é utilizado para identificar se no período teve ou não documento cadastrado.
+
+Concluído o preenchimento de todos os campos, clique “Salvar” para seguir.
+
+Para incluir uma nova regra, clique em “Adicionar”.
+
+<figure><img src="../.gitbook/assets/image (180).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+{% hint style="warning" %}
+<mark style="color:orange;">Este processo deve se repetir para cada último nível de árvore em que uma regra deve ser aplicada.</mark>
+{% endhint %}
+
+***
+
+### Aba Exceções
+
