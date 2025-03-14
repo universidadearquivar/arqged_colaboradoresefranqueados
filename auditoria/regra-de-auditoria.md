@@ -126,3 +126,7 @@ Somente **Lista** do tipo **Consolidação** podem ser utilizadas para aplicaç�
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
+Selecionando a primeira opção, a regra irá considerar campos do tipo Data existentes na lista, como por exemplo: Quero verificar todos os documentos faltantes entre a data de admissão e demissão. Essas duas datas estão na lista, então a aplicação irá buscá-las para consolidação da regra.
+
+AA outra opção, é considerar sempre a data inicial da vigência já preenchida na parte superior da tela.
+
