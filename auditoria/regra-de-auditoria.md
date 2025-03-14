@@ -364,3 +364,62 @@ Para incluir uma nova regra, clique em “Adicionar”.
 
 ### Aba Exceções
 
+<figure><img src="../.gitbook/assets/image (181).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+A aba Exceções é utilizada para registro das situações em que a regra de auditoria não deve ser aplicada, como por exemplo:
+
+• Funcionários Afastados: Licença maternidade, paternidade, doença etc.
+
+Para estes casos o documento não deve ser considerado como faltante, então é preciso informar para a aplicação as exceções e para isso é necessário criar uma sublista a partir da lista de origem.
+
+A sublista pode ser nomeada como “Afastamentos” para indicar do que se trata e precisa conter basicamente as informações:
+
+• Matrícula do funcionário, informada na lista principal.
+
+• Data Início do afastamento e Data Fim do afastamento.
+
+<figure><img src="../.gitbook/assets/image (182).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Sublista:** Exibe todas as sublistas existentes para o cliente. Selecione a que deseja criar a exceção.
+
+**Selecione um campo:** Exibe a lista de campos que podem ser utilizados como referência para que a aplicação não sinalize o funcionário como faltante na consolidação da regra de auditoria. Geralmente é utilizada a opção “Data início do Afastamento”, desta forma quando a aplicação consolidar a regra e identificar o preenchimento deste campo, o funcionário não será considerado com pendências.
+
+**Operador:** Exibe as opções de preenchimento do campo, geralmente é considerada como “NOT NULL”, ou seja, o campo de referência “Data Início do Afastamento” precisa estar preenchido.
+
+**Valor:** Este campo deve ser utilizado considerando as informações selecionadas nos campos anteriores “Selecione um campo” e “Operador”, conforme exemplo abaixo:
+
+<figure><img src="../.gitbook/assets/image (183).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Também é possível utilizar um campo data, neste caso o operador deveria constar como > ou <, por exemplo, assim o campo valor obriga a informar a data de referência.
+
+<figure><img src="../.gitbook/assets/image (184).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Data Ref Inicial (1):** Exibe as opções de data disponíveis para seleção, que neste caso trata-se do início do afastamento, ou seja, a partir de quando os documentos não devem ser considerados como faltantes.
+
+**Data Ref Final (2):** Exibe as opções de data disponíveis para seleção, que neste caso trata-se do fim do afastamento, ou seja, a partir de quando os documentos devem ser considerados como faltantes novamente.
+
+Concluído o preenchimento das exceções, clique para “Salvar”.
+
+{% hint style="warning" %}
+<mark style="color:orange;">Atingida a “Data fim do afastamento”, a exceção deixa de valer e o documento volta a ser considerado como faltante na consolidação da regra.</mark>&#x20;
+{% endhint %}
+
+***
+
+## Executando uma Regra de Auditoria
+
+De modo geral, as regras são consolidadas pelo sistema de forma automática, considerando a periodicidade informada na aplicação, contudo é possível realizar a consolidação de forma manual.
+
+<figure><img src="../.gitbook/assets/image (185).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+No **Menu > Auditoria > Regra de Auditoria**, selecione o cliente e depois a regra que deseja consolidar, clique no menu “Processar”.
+
+Sempre que encontrados dados para consolidar, será apresentada a mensagem:
+
+<figure><img src="../.gitbook/assets/image (188).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Caso não sejam encontrados dados para consolida na regra selecionada, será apresentada a mensagem de erro na tela:
+
+<figure><img src="../.gitbook/assets/image (189).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Faça a correção do erro indicado e realize novo processamento.
