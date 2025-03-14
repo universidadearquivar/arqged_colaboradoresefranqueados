@@ -1,6 +1,6 @@
 # 🔹 Aba Dados Gerais
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Tipo de Contrato:** Neste campo deve ser selecionado o tipo de contrato que está sendo cadastrado, que pode ser:
 

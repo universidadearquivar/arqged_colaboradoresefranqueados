@@ -32,7 +32,7 @@ Este processo visa garantir que os documentos obrigatórios sejam registrados co
 <mark style="color:orange;">O processo de auditoria não se limita exclusivamente aos documentos de funcionários, ele é aplicável a todos os tipos documentais que possuem critérios para verificação de sua existência no acervo.</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Cliente:** É apresentado o nome do cliente conforme usuário logado ou conforme selecionado pela Unidade na lista de clientes com o serviço de auditoria ativo em contrato.
 
@@ -124,9 +124,81 @@ Somente **Lista** do tipo **Consolidação** podem ser utilizadas para aplicaç�
 
 **Iniciar a contagem dos intervalos a partir do campo:** Este campo apresenta uma lista onde deve ser selecionada qual data a aplicação deve considerar para a aplicação da regra.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Selecionando a primeira opção, a regra irá considerar campos do tipo Data existentes na lista, como por exemplo: Quero verificar todos os documentos faltantes entre a data de admissão e demissão. Essas duas datas estão na lista, então a aplicação irá buscá-las para consolidação da regra.
 
-AA outra opção, é considerar sempre a data inicial da vigência já preenchida na parte superior da tela.
+A outra opção, é considerar sempre a data inicial da vigência já preenchida na parte superior da tela.
 
+**Periodicidade com que a regra executa automaticamente:** Uma regra de auditoria pode ser executada manualmente sempre que o cliente desejar, porém, é possível realizar uma parametrização para que a regra de auditoria seja executada de forma automática pelo sistema, ou seja, sem interação do usuário/cliente, para isso é necessário o preenchimento dos “Parâmetro de Ativação”.
+
+Nesta tela, é necessário informar a periodicidade de consolidação da regra, que pode ser mensal, anual, dia e no (a).
+
+Abaixo alguns exemplos de como pode ser feita a parametrização.
+
+Ao definir por mensal + dia, informe o dia e a quantos meses a regra deve ser consolidada.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Neste caso estamos dizendo que a regra será consolidada mensalmente no 10º dia de cada mês.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Já neste caso estamos dizendo que a regra será consolidada no 5º dia a cada dois meses.
+
+&#x20;Ao definir por mensal + No (a), temos o seguinte:
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Neste caso a regra será consolidada na primeira segunda-feira de cada mês.
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Já no segundo caso, a regra será consolidada na segunda segunda-feira a cada dois meses.
+
+Ao definir por Anual + Em, temos:
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Neste caso a regra será consolidada anualmente sempre no primeiro dia de junho.
+
+Ao definir por Anual + No (a), temos:
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Neste caso a regra será consolidada anualmente na primeira segunda-feira do mês de agosto.
+
+Concluído o preenchimento da tela, clique “Salvar” para seguir.
+
+Ao retornar na tela inicial, temos a regra criada, vamos ao detalhamento dos dados apresentados:
+
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Ao clicar na regra, os demais ícones da parte superior da tela são habilitados, quando antes da regra apenas o ícone “adicionar” aparecia habilitado.
+
+**Editar:** Ao selecionar a regra e clicar neste ícone, é possível a edição das informações cadastradas.
+
+**Visualizar:** Ao selecionar a regra e clicar neste ícone o usuário poderá visualizar todas as informações existentes na regra, sem a opção de edição.
+
+**Excluir:** Ao selecionar a regra e clicar neste ícone, o usuário poderá realizar a exclusão da regra, exceto quando já houver alguma consolidação de auditoria para a regra.
+
+**Processar:** Ao selecionar a regra e clicar neste ícone, é realizada a execução manual da regra de auditoria.
+
+Ainda na tela inicial temos também as informações apresentadas em colunas:
+
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+As colunas,
+
+* Nome da Regra
+* Tipo de Regra
+* Contrato /Serviço
+* Nome da Lista
+* Início Vigência
+* Fim Vigência
+
+Exibem informações preenchidas na aba “Dados Gerais” para uma visão externa, com exceção da coluna “Última Execução”.
+
+**Última Execução:** Nesta coluna fica registrada a última consolidação realizada para a regra, considerando a data e a hora da execução.
+
+Após salvar as configurações, são habilitadas duas nova abas na tela “Regra” e “Exceções”.
