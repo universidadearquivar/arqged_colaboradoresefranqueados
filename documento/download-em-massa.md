@@ -13,24 +13,14 @@ O Download em Massa permite que, ao localizar um documento que possua arquivos a
 Dependendo do tamanho do arquivo de download solicitado ele não será feito instantaneamente, podendo demorar até 24 horas para ser gerado. No menu Download em Massa será possível visualizar todos os downloads em massa do cliente selecionado no campo “Cliente”. &#x20;
 
 {% hint style="danger" %}
-O download em massa pode contemplar também vários registros e seus anexos, nestes casos, existe um limite de tamanho de arquivo que precisa ser respeitado. A aplicação permite o download de até 500MB por download em massa, passando esse limite, a aplicação apresenta uma mensagem de erro:
+<mark style="color:red;">O download em massa pode contemplar também vários registros e seus anexos, nestes casos, existe um limite de tamanho do arquivo total que precisa ser respeitado. A aplicação permite o download de até 500MB por download em massa, passando esse limite, a aplicação apresenta uma mensagem de erro:</mark>
 
-![](<../.gitbook/assets/image (196).png>)
+<img src="../.gitbook/assets/image (196).png" alt="" data-size="line">
 
-Neste cenário, o mais indicado é que a consulta seja novamente realizada com a utilização de outros filtros que&#x20;
+<mark style="color:red;">Neste cenário, o mais indicado é que a consulta seja novamente realizada com a utilização de outros filtros que possam fracionar a consulta de modo que os arquivos não atinjam o limite total de 500MB.</mark>
+
+<mark style="color:red;">Caso isso não seja possível, é possível solicitar um backup ao setor de Suporte, que deverá realizar a análise da demanda e retornar o custo de execução para aprovação.</mark>
 {% endhint %}
-
-
-
-
-
-
-
-
-
-
-
-
 
 É nesta tela que o usuário conseguirá efetivamente realizar o download dos arquivos solicitados, além de verificar caso alguma solicitação tenha tido falha de execução.&#x20;
 
