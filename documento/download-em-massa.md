@@ -19,7 +19,7 @@ Dependendo do tamanho do arquivo de download solicitado ele não será feito ins
 
 <mark style="color:red;">Neste cenário, o mais indicado é que a consulta seja novamente realizada com a utilização de outros filtros que possam fracionar a consulta de modo que os arquivos não atinjam o limite total de 500MB.</mark>
 
-<mark style="color:red;">Caso isso não seja possível, é possível solicitar um backup ao setor de Suporte, que deverá realizar a análise da demanda e retornar o custo de execução para aprovação.</mark>
+<mark style="color:red;">Caso a consulta fracionada não atenda a demanda, é possível solicitar um backup ao setor de Suporte - via chamado ArqAtende, que deverá realizar a análise da demanda e retornar o custo de execução para aprovação.</mark>
 {% endhint %}
 
 É nesta tela que o usuário conseguirá efetivamente realizar o download dos arquivos solicitados, além de verificar caso alguma solicitação tenha tido falha de execução.&#x20;
