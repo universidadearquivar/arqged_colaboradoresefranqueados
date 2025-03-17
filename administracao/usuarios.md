@@ -169,7 +169,7 @@ Dentro do arquivo interno, o chefe imediato também poderá cancelar reservas re
 **Calendário:** Selecione na lista o calendário utilizado pelo usuário, quando cadastrado pelo cliente. Este campo é utilizado no ArqFlow para contabilizar o prazo de execução das atividades. Caso o cliente não utilize é só manter o campo sem preenchimento.
 
 {% hint style="danger" %}
-<mark style="color:red;">Sempre que criado um novo usuário, verifique se ele deverá estar relacionado a um Grupo específico para que as permissões de ativação do Workflow não sejam afetadas.</mark>
+<mark style="color:red;">Sempre que criado um novo usuário, verifique se ele deverá estar relacionado a um</mark> [<mark style="color:red;">Grupo</mark>](grupos.md) <mark style="color:red;">específico para que as permissões de ativação do Workflow não sejam afetadas.</mark>
 
 <mark style="color:red;">É comum usuários com mesmo perfil, porém com acessos diferentes no Menu > Workflow devido as configurações de Grupo associadas.</mark>&#x20;
 {% endhint %}
