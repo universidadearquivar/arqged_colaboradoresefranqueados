@@ -141,7 +141,7 @@ No contrato de determinado cliente, foi cobrado o valor de R$ 4.000 pelo serviç
 
 *   _Serviço: Implantação de Documentos_&#x20;
 
-    Valor Total: R$ 4.500,00&#x20;
+    Valor Total: R$ 4.000,00&#x20;
 
     Total de Parcelas: 10
 *   _Serviço: Preparação Detalhada de Documento (por página)_&#x20;
