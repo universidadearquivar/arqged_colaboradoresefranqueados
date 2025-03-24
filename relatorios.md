@@ -3,7 +3,7 @@
 Neste menu são exibidos os relatórios personalizados criados para os clientes e franqueados. A construção desses relatórios é feita por meio de consulta SQL ao banco de dados do sistema e por isso só pode ser feita pela Arquivar Master, mediante solicitação prévia via ArqAtende.
 
 {% hint style="danger" %}
-<mark style="color:red;">Ao solicitar um relatório customizado, é importante que no chamado seja descrito com riqueza de detalhes todas as informações que devem ser consideradas em sua construção.</mark>
+<mark style="color:red;">Ao solicitar um relatório customizado, é importante que no chamado seja descrito com riqueza de detalhes todas as informações que devem ser consideradas em sua construção, isso ajudará em sua elaboração e no</mark> <mark style="color:red;"></mark><mark style="color:red;">**levantamento do custo do relatório (cobrança de hora técnica)**</mark><mark style="color:red;">, quando aplicável.</mark>
 {% endhint %}
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
