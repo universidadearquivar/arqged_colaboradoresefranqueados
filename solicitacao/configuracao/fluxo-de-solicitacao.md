@@ -20,6 +20,12 @@ Aqui são criados os fluxos das solicitações possíveis, ou seja, são configu
 
 Ao clicar em adicionar é habilitada a tela **Dados Gerais do processo de Solicitação** para preenchimento dos dados iniciais:
 
+{% code fullWidth="false" %}
+```
+// Some code<div style="position: relative; box-sizing: content-box; max-height: 80vh; max-height: 80svh; width: 100%; aspect-ratio: 2.0310296191819464; padding: 40px 0 40px 0;"><iframe src="https://app.supademo.com/embed/cm88wi82j00axxqhlxvfgxjho?v_email=EMAIL&embed_v=2" loading="lazy" title="Fluxo de Solicitação" allow="clipboard-write" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+```
+{% endcode %}
+
 <figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **"Nome da Unidade/Cliente" e "Tipo de Fluxo":** Estes campos dão preenchidos de forma automática, conforme informação selecionada no campo anterio&#x72;**,** se selecionada a Unidade, automaticamente o Tipo de Fluxo será preenchido como “Guarda Terceirizada” se selecionado o cliente, automaticamente o Tipo de Fluxo será preenchido como “Guarda Interna”.
