@@ -25,6 +25,6 @@ Ao clicar em um grupo de relatórios, são exibidos todos os relatórios constru
 
 <figure><img src=".gitbook/assets/image (198).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-{% hint style="warning" %}
-<mark style="color:orange;">Em alguns relatórios é possível informar filtros para refinar o resultado que será exibido na consolidação dos dados.</mark>
+{% hint style="success" %}
+<mark style="color:green;">Em alguns relatórios é possível informar filtros para refinar o resultado que será exibido na consolidação dos dados.</mark>
 {% endhint %}
