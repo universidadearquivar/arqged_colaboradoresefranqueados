@@ -1,5 +1,7 @@
 # 🟩 Serviço Avulso
 
+{% embed url="https://app.supademo.com/demo/cm8eqapug023312zd2i0kvfv6" %}
+
 O menu Serviço Avulso é utilizado para lançamento de serviços que não são contabilizados pelo sistema de forma automática, mas que devem ser considerados no faturamento.
 
 <figure><img src="../.gitbook/assets/solicita06.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
