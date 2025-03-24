@@ -32,6 +32,8 @@ A área de trabalho é alterada conforme seleção das opções disponíveis de 
 
 ## Solicitação de Documento <a href="#solicitacao-de-documento" id="solicitacao-de-documento"></a>
 
+{% embed url="https://app.supademo.com/demo/cm8d6qr3a1jc32ugqnqf31qfe" %}
+
 ### Como cancelar uma reserva de documento <a href="#como-cancelar-uma-reserva-de-documento" id="como-cancelar-uma-reserva-de-documento"></a>
 
 Após reservar todos os documentos desejados para verificação física, acesse o Menu Solicitação > Consulta.
@@ -57,6 +59,8 @@ Em caso da desistência de todas as reservas, clique no ícone carrinho do lado 
 ***
 
 ### Como criar um Pedido de Documento <a href="#como-criar-um-pedido-de-documento" id="como-criar-um-pedido-de-documento"></a>
+
+{% embed url="https://app.supademo.com/demo/cm8daep731os72ugq5flpnh7b" %}
 
 Em "Minhas Reservas de Documentos", para cada documento reservado é apresentada uma linha com as principais informações do registro.
 
@@ -150,6 +154,8 @@ Ao clicar em "Enviar", os pedidos são realizados e enviados para atendimento, s
 
 ## Solicitação de Caixa ou Subcaixa <a href="#solicitacao-de-caixa-ou-subcaixa" id="solicitacao-de-caixa-ou-subcaixa"></a>
 
+{% embed url="https://app.supademo.com/demo/cm8denhp61t5z2ugqiugtq8ku" %}
+
 ### Como cancelar uma reserva de caixa ou subcaixa <a href="#como-cancelar-uma-reserva-de-caixa-ou-subcaixa" id="como-cancelar-uma-reserva-de-caixa-ou-subcaixa"></a>
 
 Após reservar todas as caixas e subcaixas desejadas utilizando:
@@ -184,6 +190,8 @@ Em caso da desistência de todas as reservas, clique no ícone carrinho do lado 
 ***
 
 ### Como criar um Pedido de Caixa ou Subcaixa <a href="#como-criar-um-pedido-de-caixa-ou-subcaixa" id="como-criar-um-pedido-de-caixa-ou-subcaixa"></a>
+
+{% embed url="https://app.supademo.com/demo/cm8dgsk1z1ukt2ugqxoowdcgq" %}
 
 Em "Minhas Reservas de subcaixas” e “Minhas Reservas de Caixas”, para cada item reservado são apresentadas as informações:
 
