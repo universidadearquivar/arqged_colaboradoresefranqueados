@@ -88,3 +88,7 @@ Clique "Salvar" para concluir o lançamento do serviço.
 {% hint style="success" %}
 <mark style="color:green;">Ao realizar o faturamento do cliente, todos os lançamentos de "Serviço Avulso" serão contabilizados, desde que lançados dentro do período de faturamento.</mark>
 {% endhint %}
+
+{% hint style="danger" %}
+<mark style="color:red;">Caso o lançamento do serviço avulso esteja sendo realizado no mesmo dia de reajuste do contrato do cliente, não será possível concluir o lançamento. Ocorre um conflito das informação os serviços não são apresentados na tela para seleção. Neste caso é necessário aguardar para concluir o lançamento no dia seguinte ao reajuste do contrato.</mark>
+{% endhint %}
