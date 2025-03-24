@@ -1,6 +1,6 @@
 # 📊 Relatórios
 
-Neste menu são criados relatórios personalizados para os clientes e franqueados. A construção desses relatórios é feita por meio de consulta SQL ao banco de dados do sistema e por isso só pode ser feita pela Arquivar Master, mediante solicitação prévia via ArqAtende.
+Neste menu são exibidos os relatórios personalizados criados para os clientes e franqueados. A construção desses relatórios é feita por meio de consulta SQL ao banco de dados do sistema e por isso só pode ser feita pela Arquivar Master, mediante solicitação prévia via ArqAtende.
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
