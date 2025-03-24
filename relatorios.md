@@ -4,8 +4,16 @@ Neste menu são criados relatórios personalizados para os clientes e franqueado
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-Tanto clientes quanto unidades podem consultar esses relatórios, que ficam agrupados por módulo. Ao clicar em um grupo de relatórios, são exibidos todos os relatórios construídos e o usuário tem a opção de fazer o download do último relatório gerado ou de gerar um novo relatório.   &#x20;
+Tanto clientes quanto unidades podem consultar esses relatórios, que ficam agrupados por módulo.&#x20;
 
-Em alguns relatórios é possível informar filtros para refinar o resultado que será exibido na consolidação dos dados.   &#x20;
+**Empresa:** Selecione neste campo a Unidade ou Cliente que deseja visualizar os relatórios disponíveis, dependendo do perfil do usuário logado, o campo é apresentado previamente preenchido.
 
-<figure><img src=".gitbook/assets/relatorio1.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+Os relatórios são exibidos na tela separados por grupos, considerando o assunto/tema do relatório.
+
+Ao clicar em um grupo de relatórios, são exibidos todos os relatórios construídos e o usuário tem a opção de fazer o download do último relatório gerado ou de gerar um novo relatório.   &#x20;
+
+<figure><img src=".gitbook/assets/image (198).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+{% hint style="warning" %}
+<mark style="color:orange;">Em alguns relatórios é possível informar filtros para refinar o resultado que será exibido na consolidação dos dados.</mark>
+{% endhint %}
