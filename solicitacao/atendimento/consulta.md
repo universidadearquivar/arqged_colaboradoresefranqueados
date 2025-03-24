@@ -118,6 +118,8 @@ O ideal, quando o usuário não tiver certeza de como foi escrito o texto que bu
 
 ## Atendimento de um Pedido de Documento <a href="#atendimento-de-um-pedido-de-documento" id="atendimento-de-um-pedido-de-documento"></a>
 
+{% embed url="https://app.supademo.com/demo/cm8hgis7l05c77q3vpw7jf1s0" %}
+
 No Painel de Atendimento, selecione o pedido que será trabalhado e clique em editar.
 
 <figure><img src="https://manual.arquivar.com/~gitbook/image?url=https%3A%2F%2F1023047207-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtM1xGMYoU6wC7tnUUXEo%252Fuploads%252FMlckoWR6ig8PZOpiJDMw%252Fimage.png%3Falt%3Dmedia%26token%3D345bfbf0-6ffd-40db-851d-ad6fa46e8df4&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=bd8c24e0&#x26;sv=1" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
@@ -348,6 +350,8 @@ Ao clicar novamente em “Processar”, o pedido é fechado no sistema e o docum
 ***
 
 ## Atendimento de um Pedido de Caixa ou Subcaixa
+
+{% embed url="https://app.supademo.com/demo/cm8hob2iy01c22pzhn3opn9c2" %}
 
 No Painel de Atendimento, selecione o pedido que será trabalhado e clique em editar.
 
