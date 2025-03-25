@@ -119,6 +119,8 @@ O ideal, quando o usuário não tiver certeza de como foi escrito o texto que bu
 ## Atendimento de um Pedido de Documento <a href="#atendimento-de-um-pedido-de-documento" id="atendimento-de-um-pedido-de-documento"></a>
 
 {% embed url="https://app.supademo.com/demo/cm8hgis7l05c77q3vpw7jf1s0" %}
+Clique na legenda e siga o passo a passo.
+{% endembed %}
 
 No Painel de Atendimento, selecione o pedido que será trabalhado e clique em editar.
 
@@ -352,6 +354,8 @@ Ao clicar novamente em “Processar”, o pedido é fechado no sistema e o docum
 ## Atendimento de um Pedido de Caixa ou Subcaixa
 
 {% embed url="https://app.supademo.com/demo/cm8hob2iy01c22pzhn3opn9c2" %}
+Clique na legenda e siga o passo a passo.
+{% endembed %}
 
 No Painel de Atendimento, selecione o pedido que será trabalhado e clique em editar.
 
