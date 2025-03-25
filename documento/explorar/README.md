@@ -125,15 +125,31 @@ Utilizado para ativar um novo fluxo com o registro selecionado já associado a e
 
 <figure><img src="../../.gitbook/assets/doc32.png" alt=""><figcaption></figcaption></figure>
 
-### Compartilhar ![](<../../.gitbook/assets/image (141).png>)
+### Compartilhar ![](../../.gitbook/assets/image.png)
 
-Permite realizar o compartilhamento dos registros selecionados com pessoas externas ao ArqGED, por meio de uma URL gerada para acesso externo e envio por e-mail. É possível definir se essa URL terá acesso por tempo indeterminado ou se terá uma data determinada de validade.&#x20;
+Permite realizar o compartilhamento do registro selecionado com pessoas externas ao ArqGED, por meio de uma URL gerada para envio por e-mail. É possível definir se essa URL terá acesso por tempo indeterminado ou se terá uma data determinada de validade.&#x20;
 
-<figure><img src="../../.gitbook/assets/doc33.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-### Descompartilhar ![](<../../.gitbook/assets/image (142).png>)
+### Descompartilhar ![](<../../.gitbook/assets/image (2).png>)
 
-Utilizado para descompartilhar os links de acesso externo gerados por meio do botão “Compartilhar” e enviados por e-mail a usuários externos. Neste caso as pessoas que clicarem no link não conseguirão mais acessar os documentos compartilhados.  &#x20;
+Utilizado para cessar o acesso aos links gerados por meio do botão “Compartilhar” e enviados por e-mail a usuários externos. Neste caso as pessoas que clicarem no link não conseguirão mais acessar o documento compartilhado.  &#x20;
+
+### Como compartilhar um documento quando ele já possui um compartilhamento em execução
+
+Neste caso, o processo seria realizar o "Descompartilhamento", conforme orientação anterior e realizar novamente o compartilhamento, porém, neste caso os usuários com acesso ao documento perderiam o a link, ou seja o acesso seria cessado.
+
+Para que os compartilhamentos anteriores não sejam perdidos, o ideal é ao clicar no ícone de "Descompartilhar"&#x20;
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+O link é novamente habilitado  na tela, juntamente com o campo de envio por e-mail:
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Neste momento basta copiar o mesmo link ou enviar por e-mail aos novos usuários, sem efetivar o "Descopartilhamento" ou seja, o cancelamento do compartilhamento anterior, sendo mantido os acessos dos usuários anteriores.&#x20;
+
+Caso opte pelo "Descompartilhamento"  clicando no botão disponível, os usuários externos que até então, utilizavam o link, perderão o acesso ao documento.
 
 ### Carregar mais 1000 registros ![](<../../.gitbook/assets/image (143).png>)
 
