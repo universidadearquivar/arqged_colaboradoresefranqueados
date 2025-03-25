@@ -154,8 +154,25 @@ Clicando nos ícones será possível realizar as seguintes ações em relação 
 * **Upload:** Utilizado para inserir um novo anexo ao documento.  &#x20;
 * **Assinar:** Utilizado para assinar os documentos. O usuário pode escolher entre assinar todos os documentos apresentados ou assinar apenas os que estiverem selecionados em verde no grid.&#x20;
 * **OCR:** Habilita o serviço de realização de OCR (Optical Character Recognition, ou Reconhecimento de Caractere Óptico) das páginas do documento anexado. Essa opção só está disponível caso o cliente tenha do serviço ArqOCR contratado.&#x20;
-* **Compartilhar:** Utilizado para permitir que o documento seja compartilhado com usuários externos (não autenticados no sistema).    &#x20;
-* **Descompartilhar:** Utilizado para interromper o compartilhamento de um documento.  &#x20;
+* **Compartilhar:** Permite realizar o compartilhamento do registro selecionado com pessoas externas ao ArqGED, por meio de uma URL gerada para envio por e-mail. É possível definir se essa URL terá acesso por tempo indeterminado ou se terá uma data determinada de validade.&#x20;
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
+
+* **Descompartilhar:** Utilizado para cessar o acesso aos links gerados por meio do botão “Compartilhar” e enviados por e-mail a usuários externos. Neste caso as pessoas que clicarem no link não conseguirão mais acessar o documento compartilhado.
+* **Como compartilhar um documento quando ele já possui um compartilhamento em execução:** Neste caso, o processo seria realizar o "Descompartilhamento", conforme orientação anterior e realizar novamente o compartilhamento, porém, neste caso os usuários com acesso ao documento perderiam o a link, ou seja o acesso seria cessado.
+
+Para que os compartilhamentos anteriores não sejam perdidos, o ideal é ao clicar no ícone de "Descompartilhar"&#x20;
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+O link é novamente habilitado  na tela, juntamente com o campo de envio por e-mail:
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Neste momento basta copiar o mesmo link ou enviar por e-mail aos novos usuários, sem efetivar o "Descopartilhamento" ou seja, o cancelamento do compartilhamento anterior, sendo mantido os acessos dos usuários anteriores.&#x20;
+
+Caso opte pelo "Descompartilhamento"  clicando no botão disponível, os usuários externos que até então, utilizavam o link, perderão o acesso ao documento.
+
 * **Capturar certificado:** Quando se faz o upload de um documento que esteja assinado digitalmente, clicando neste ícone será possível extrair e visualizar as informações sobre o certificado digital utilizado para a assinatura. Quando o documento for assinado no próprio GED o certificado de assinaturas ficará disponível automaticamente.&#x20;
 
 ***
