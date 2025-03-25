@@ -35,7 +35,7 @@ Para o funcionamento correto do ArqClient são exigidos os requisitos mínimos a
 
 4. Abra a pasta criada na extração dos arquivos e clique duas vezes sobre o arquivo de instalação.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 5\. Clique em “Avançar” nas próximas telas até que o status de instalação seja concluído. &#x20;
 
@@ -103,6 +103,32 @@ Voltando à tela inicial do ArqScan, clicando com o botão direito do mouse sobr
 Clicando no ícone “Visualização” é possível alterar a forma como o grid de imagens deve ser exibido. O ícone de três barras é utilizado para ocultar ou mostra o menu lateral.&#x20;
 
 <figure><img src="../../.gitbook/assets/arqscan13.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
+
+***
+
+
+
+{% hint style="danger" %}
+<mark style="color:red;">Pode acontecer em alguns casos, ao abrir o ArqScan para continuidade de um processo aparecer a seguinte mensagem de erro:</mark>&#x20;
+
+<img src="../../.gitbook/assets/image.png" alt="" data-size="line">
+
+<mark style="color:red;">Esse erro pode ser ocasionado por vários fatores, dentre eles podemos destacar:</mark>&#x20;
+
+<mark style="color:red;">• Falha na conexão com a internet o que pode corromper a transmissão dos dados para o sistema;</mark>
+
+<mark style="color:red;">• Falha no HD da maquina física que pode corromper a gravação dos dados;</mark>
+
+<mark style="color:red;">• Estouro na memoria RAM que pode não suportar a transmissão dos dados.</mark>
+
+<mark style="color:red;">Para sanar o problema, é necessário acessar as pastas onde ficam os arquivos temporários e apagar as imagens, desta forma o ArqScan voltará a funcionar corretamente.</mark>
+
+<mark style="color:red;">Pastas que devem ser verificadas:</mark>
+
+<mark style="color:red;">**C:\temp\ScannerPath**</mark>
+
+<mark style="color:red;">**C:\temp\ScannerPath\Thumbnails**</mark>
+{% endhint %}
 
 ***
 

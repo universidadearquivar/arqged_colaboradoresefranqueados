@@ -13,7 +13,7 @@ Neste menu são exibidos os relatórios personalizados criados para os clientes 
 <mark style="color:red;">Essas informações ajudarão no</mark> <mark style="color:red;"></mark><mark style="color:red;">**levantamento do custo para construção do relatório,**</mark> <mark style="color:red;"></mark><mark style="color:red;">quando aplicável e na correta elaboração e entrega.</mark>
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Tanto clientes quanto unidades podem consultar esses relatórios, que ficam agrupados por módulo.&#x20;
 
