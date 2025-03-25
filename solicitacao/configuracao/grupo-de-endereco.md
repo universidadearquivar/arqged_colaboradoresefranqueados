@@ -1,6 +1,8 @@
 # 🔹 Grupo de Endereço
 
 {% embed url="https://app.supademo.com/demo/cm8d0fo7f17ra2ugqazdcv5ow" %}
+Clique na legenda e siga o passo a passo.
+{% endembed %}
 
 O Grupo de Endereço é utilizado para separar as guias de busca dentro das solicitações de consulta de documentos e/ou caixas. Essa funcionalidade é importante para direcionar o auxiliar que trabalha no galpão da unidade Arquivar localizando de forma mais rápida o acervo solicitado pelo cliente.&#x20;
 
