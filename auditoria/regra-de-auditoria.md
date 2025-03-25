@@ -62,6 +62,10 @@ Ao clicar em adicionar, o sistema apresenta na tela a aba “Dados Gerais” par
 
 ### Aba Dados Gerais
 
+{% embed url="https://app.supademo.com/demo/cm8n353yl00hhks2myc07025j" %}
+Clique na legenda e siga o passo a passo.
+{% endembed %}
+
 <figure><img src="../.gitbook/assets/image (156).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Nome da Regra:** Procure adicionar um nome que indique o que se deseja com a  regra, ou seja, que seja simples de identificar na lista de regras existentes.&#x20;
@@ -206,6 +210,10 @@ Após salvar as configurações, são habilitadas duas nova abas na tela “Regr
 ***
 
 ### Aba Regra
+
+{% embed url="https://app.supademo.com/demo/cm8ncm4fe01ihqohdikc2p7li" %}
+Clique na legenda e siga o passo a passo.
+{% endembed %}
 
 Na Aba Regra é feita de fato a definição da regra de auditoria.
 
@@ -364,6 +372,10 @@ Para incluir uma nova regra, clique em “Adicionar”.
 
 ### Aba Exceções
 
+{% embed url="https://app.supademo.com/demo/cm8oi24k906l7tqaycrihogoi" %}
+Clique na legenda e siga o passo a passo.
+{% endembed %}
+
 <figure><img src="../.gitbook/assets/image (181).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 A aba Exceções é utilizada para registro das situações em que a regra de auditoria não deve ser aplicada, como por exemplo:
@@ -407,6 +419,10 @@ Concluído o preenchimento das exceções, clique para “Salvar”.
 ***
 
 ## Executando uma Regra de Auditoria
+
+{% embed url="https://app.supademo.com/demo/cm8ojfz6g07eetqayzb6arr4k" %}
+Clique na legenda e siga o passo a passo.
+{% endembed %}
 
 De modo geral, as regras são consolidadas pelo sistema de forma automática, considerando a periodicidade informada na aplicação, contudo é possível realizar a consolidação de forma manual.
 
