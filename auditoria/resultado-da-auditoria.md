@@ -1,5 +1,9 @@
 # 🟩 Resultado da Auditoria
 
+{% embed url="https://app.supademo.com/demo/cm8olf3og0al7tqaya8ap50kp" %}
+Clique na legenda e siga o passo a passo.
+{% endembed %}
+
 No menu Resultado da Auditoria são exibidos todos os resultados de auditorias realizadas para a empresa selecionada no campo “Cliente”, considerando as regras criadas por árvore documental.
 
 <figure><img src="../.gitbook/assets/image (191).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
