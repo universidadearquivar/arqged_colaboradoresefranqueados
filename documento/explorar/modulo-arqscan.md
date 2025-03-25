@@ -111,7 +111,7 @@ Clicando no ícone “Visualização” é possível alterar a forma como o grid
 {% hint style="danger" %}
 <mark style="color:red;">Pode acontecer em alguns casos, ao abrir o ArqScan para continuidade de um processo aparecer a seguinte mensagem de erro:</mark>&#x20;
 
-<img src="../../.gitbook/assets/image.png" alt="" data-size="line">
+<mark style="color:red;">**Erro! O total de imagens .tif na pasta "C:\temp\ScannerPath" é diferente do total de imagens na pasta "C:\temp\ScannerPath\Thumbnails", verifique a relação de arquivos existentes nestas pastas.**</mark>
 
 <mark style="color:red;">Esse erro pode ser ocasionado por vários fatores, dentre eles podemos destacar:</mark>&#x20;
 
