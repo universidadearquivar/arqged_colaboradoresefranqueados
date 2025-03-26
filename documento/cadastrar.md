@@ -126,6 +126,10 @@ Serão habilitados também os botões:&#x20;
 
 **Enviar para Caixa:** Utilizado quando é necessário criar uma versão física do documento eletrônico e enviar para ser armazenada em uma caixa que esteja alocada na unidade Arquivar ou no próprio espaço do cliente.
 
+{% hint style="warning" %}
+<mark style="color:orange;">A função</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**"Enviar para a Caixa"**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">é utilizado também quando necessário transferir um registro/documento para outra caixa, como por exemplo, a indexação foi realizada de forma indevida na caixa 1010, sendo que fisicamente o documento encontra-se na caixa 1020. Para alterar, basta realizar o envio do documento para a caixa correta.</mark>
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/doc16.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 **Novo Registro:** Utilizado para iniciar o registro de um novo documento.
