@@ -65,6 +65,10 @@ Preencha os campos apresentados na tela:
 
 **Data de Execução:** Informe a data de execução do serviço. Para serem considerados no faturamento, os lançamentos devem ser realizados até o último dia do mês corrente.
 
+{% hint style="danger" %}
+<mark style="color:red;">Fique atento com o lançamento da data de execução do serviços, depois do fechamento do período de faturamento, não será possível excluir um lançamento.</mark>
+{% endhint %}
+
 **Quantidade:** Informe o volume gerado na prestação de serviços, por exemplo:
 
 * Digitalização - informe a quantidade de imagens geradas
