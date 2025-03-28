@@ -55,7 +55,7 @@ Confirme a ação na mensagem apresentada para seguir com o cancelamento da rese
 Em caso da desistência de todas as reservas, clique no ícone carrinho do lado direito da tela para "Cancelar todas as reservas de documentos".
 
 {% hint style="info" %}
-<mark style="color:blue;">Uma reserva só pode ser cancelada pelo usuário que a realizou. Não existe um usuário Administrador com permissão para esta ação, pois, existe a possibilidade de cancelamentos indevidos . Em caso de desligamento de colaborador, o gestor deverá alterar a senha de acesso e cancelar todas as reservas do usuário antes de inativá-lo no sistema.</mark>
+<mark style="color:blue;">**Uma reserva só pode ser cancelada pelo usuário que a realizou ou pelo seu Chefe Imediato. Em caso de desligamento de colaborador, o Gestor (Chefe imediato) deverá cancelar todas as reservas do usuário no sistema.**</mark>
 {% endhint %}
 
 ***
@@ -190,7 +190,7 @@ Confirme a ação na mensagem apresentada para seguir com o cancelamento da rese
 Em caso da desistência de todas as reservas, clique no ícone carrinho do lado direito da tela para "**Cancelar todas as reservas de caixas ou subcaixas**".
 
 {% hint style="info" %}
-<mark style="color:blue;">Uma reserva só pode ser cancelada pelo usuário que a realizou. Não existe um usuário Administrador com permissão para esta ação, pois, existe a possibilidade de cancelamentos indevidos . Em caso de desligamento de colaborador, o gestor deverá alterar a senha de acesso e cancelar todas as reservas do usuário antes de inativá-lo no sistema.</mark>
+<mark style="color:blue;">**Uma reserva só pode ser cancelada pelo usuário que a realizou ou pelo seu Chefe Imediato. Em caso de desligamento de colaborador, o Gestor (Chefe imediato) deverá cancelar todas as reservas do usuário no sistema.**</mark>
 {% endhint %}
 
 ***
