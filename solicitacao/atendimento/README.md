@@ -1,5 +1,7 @@
 # 🟩 Atendimento
 
+{% embed url="https://app.heygen.com/share/ee8847546f3447d38504149ed6475d19" %}
+
 No menu Atendimento são exibidas todas as solicitações de consulta de documento feitas pelo cliente no menu Solicitação.
 
 O menu Atendimento é composto pelos seguintes submenus:
