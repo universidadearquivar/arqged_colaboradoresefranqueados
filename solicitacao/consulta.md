@@ -1,5 +1,7 @@
 # 🟩 Consulta
 
+{% embed url="https://app.heygen.com/share/294be7930f654adba8237d28e2a48527" %}
+
 Neste menu são realizadas as solicitações para consultar documentos e/ou caixas alocados na Unidade Arquivar ou no Arquivo Interno.
 
 Na página inicial são exibidas todas as reservar feitas. Uma reserva pode ser de um documento, uma caixa ou de uma subcaixa e deve ser feita por meio da busca do documento via menu [Documento](https://arquivar.gitbook.io/manual-arqged-or-clientes/documento) (Localização Simples, Localização Avançada ou Explorar).
