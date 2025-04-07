@@ -2,10 +2,10 @@
 
 {% embed url="https://app.heygen.com/share/3d10d1d53d0348fbbafc95ede6df767f" %}
 
-Neste Menu é realizada a configuração do Fluxo de Solicitações e Devoluções do cliente, ou seja, aqui é definido o (s) processo (s) que será realizado no sistema para atendimento das demandas do cliente.
+Neste menu é realizada a configuração do Fluxo de Solicitações e Devoluções do cliente, ou seja, aqui são definidos os processos que serão realizados no sistema para atendimento das demandas do cliente.
 
 {% hint style="danger" %}
-<mark style="color:red;">As</mark> <mark style="color:red;"></mark><mark style="color:red;">**Configurações**</mark> <mark style="color:red;"></mark><mark style="color:red;">do</mark> <mark style="color:red;"></mark><mark style="color:red;">**Fluxo de Solicitação**</mark> <mark style="color:red;"></mark><mark style="color:red;">e do</mark> <mark style="color:red;"></mark><mark style="color:red;">**Grupo de Endereço**</mark> <mark style="color:red;"></mark><mark style="color:red;">ocorre no momento de Criação da Base do ArqGED que</mark> <mark style="color:red;"></mark><mark style="color:red;">**é realizado pela Arquivar Master.**</mark> <mark style="color:red;"></mark><mark style="color:red;">Essas configurações são realizadas quando o cliente possui Guarda Interna (CEDOC) e/ou Guarda Terceirizada. A Unidade Arquivar deve passar as informação no momento da</mark> <mark style="color:red;"></mark><mark style="color:red;">**solicitação de nova base**</mark><mark style="color:red;">.</mark>
+<mark style="color:red;">As</mark> <mark style="color:red;"></mark><mark style="color:red;">**configurações**</mark> <mark style="color:red;"></mark><mark style="color:red;">do</mark> <mark style="color:red;"></mark><mark style="color:red;">**Fluxo de Solicitação**</mark> <mark style="color:red;"></mark><mark style="color:red;">e do</mark> <mark style="color:red;"></mark><mark style="color:red;">**Grupo de Endereço**</mark> <mark style="color:red;"></mark><mark style="color:red;">ocorrem no momento da criação da base do ArqGED, que</mark> <mark style="color:red;"></mark><mark style="color:red;">**é realizada pela Arquivar Master**</mark><mark style="color:red;">. Essas configurações são realizadas quando o cliente possui Guarda Interna (CEDOC) e/ou Guarda Terceirizada. A Unidade Arquivar deve passar as informações no momento da</mark> <mark style="color:red;"></mark><mark style="color:red;">**solicitação de nova base.**</mark>
 {% endhint %}
 
 O menu Configuração é formado por dois submenus:
