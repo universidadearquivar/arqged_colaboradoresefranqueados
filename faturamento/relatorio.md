@@ -10,6 +10,8 @@ Sempre que o usuário acessar esta tela, no período fechado ou já faturado par
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
+{% embed url="https://app.supademo.com/demo/cm9a7qk4l29e2pxcbo054ucmn" %}
+
 ### Faturamento período "Em aberto"
 
 Quando não houver relatório solicitado/gerado para a Unidade ou Unidade + Cliente, não será exibido o link para Gerar Excel e Gerar PDF.&#x20;
