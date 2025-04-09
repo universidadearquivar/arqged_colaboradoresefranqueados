@@ -2,6 +2,10 @@
 
 Neste menu são exibidos os relatórios personalizados criados para os clientes e franqueados. A construção desses relatórios é feita por meio de consulta SQL ao banco de dados do sistema e por isso só pode ser feita pela Arquivar Master, mediante solicitação prévia via ArqAtende.
 
+{% embed url="https://app.supademo.com/demo/cm9a05fgb1znipxcbyjp8b3d9" %}
+Clique na legenda e siga o passo a passo.
+{% endembed %}
+
 {% hint style="danger" %}
 <mark style="color:red;">Ao solicitar um relatório customizado, é importante que no chamado seja descrito com riqueza de detalhes todas as informações que devem ser consideradas em sua construção, como por exemplo:</mark>
 
