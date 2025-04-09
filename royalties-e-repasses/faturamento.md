@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🟩 Faturamento
 
 Neste menu é gerado o relatório de faturamento dos repasses feitos da unidade franqueada para a Arquivar Master.&#x20;
