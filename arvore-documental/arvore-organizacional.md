@@ -1,10 +1,10 @@
 # 🟩 Árvore Organizacional
 
-No menu Árvore Organizacional serão organizadas as informações da árvore do cliente (selecionado no campo “Cliente”) definidas anteriormente nos menus Tipo de Estrutura, Estrutura do Cliente, Estrutura Organizacional e Campo Customizado. Por meio da estrutura de árvore é possível separar os documentos por filial, área, e/ou departamento e ainda restringir acessos de usuários conforme os níveis da árvore.​&#x20;
+No menu Árvore Organizacional serão organizadas as informações da árvore do cliente (selecionado no campo “Cliente”) definidas anteriormente nos menus Tipo de Estrutura, Estrutura do Cliente, Estrutura Organizacional e Campo Customizado. Por meio da estrutura de árvore é possível separar os documentos por filial, área, e/ou departamento e ainda restringir acessos de usuários conforme os níveis da árvore.​
 
 <figure><img src="../.gitbook/assets/arvore9.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-É neste menu que a Árvore Documental será efetivamente desenhada, arrastando-se os itens do campo “Estrutura Organizacional” à esquerda para o campo “Árvore Organizacional”, à direita. Podem ser arrastados as estruturas, campos customizados e listas criados para o cliente. Se o campo arrastado tiver um “campo pai”, ou seja, relacionamento com outro campo, os dois serão arrastados automaticamente. &#x20;
+É neste menu que a Árvore Documental será efetivamente desenhada, arrastando-se os itens do campo “Estrutura Organizacional” à esquerda para o campo “Árvore Organizacional”, à direita. Podem ser arrastados as estruturas, campos customizados e listas criados para o cliente. Se o campo arrastado tiver um “campo pai”, ou seja, relacionamento com outro campo, os dois serão arrastados automaticamente.
 
 <figure><img src="../.gitbook/assets/arvore10.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
@@ -30,7 +30,7 @@ Clicando com o botão direito do mouse sobre uma estrutura também é possível 
 
 <figure><img src="../.gitbook/assets/arvoredoc14.png" alt=""><figcaption></figcaption></figure>
 
-Ao clicar sobre um Tipo Documental serão exibidos os campos para configuração da Temporalidade Documental. A Temporalidade Documental deve ser definida de acordo com a legislação e a área de atuação da empresa:&#x20;
+Ao clicar sobre um Tipo Documental serão exibidos os campos para configuração na TTD - Tabela de Temporalidade Documental. A Temporalidade Documental deve ser definida de acordo com a legislação e a área de atuação da empresa:
 
 * _Arquivo corrente:_ Tempo em que o documento deverá permanecer no setor ao qual pertence. &#x20;
 * _Arquivo intermediário:_ Tempo em que o arquivo poderá permanecer guardado no arquivo do cliente.&#x20;
