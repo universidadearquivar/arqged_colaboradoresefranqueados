@@ -327,3 +327,23 @@ Clicar no botão **“Adicionar um código”** irá exibir uma tela para leitur
 <figure><img src=".gitbook/assets/image (249).png" alt="" width="201"><figcaption></figcaption></figure>
 
 Após a leitura do QR Code, na tela do aplicativo será exibido um código de verificação. Este código deve inserido no passo 4, conforme explicado.
+
+## Links para Aplicativos Authenticadores
+
+<div align="left"><figure><img src=".gitbook/assets/image (250).png" alt="" width="122"><figcaption><p>Google Authenticator</p></figcaption></figure></div>
+
+{% embed url="https://play.google.com/store/search?q=google+authenticator&c=apps&hl=pt_BR" %}
+
+{% embed url="https://apps.apple.com/br/app/google-authenticator/id388497605" %}
+
+<div align="left"><figure><img src=".gitbook/assets/image (251).png" alt="" width="162"><figcaption><p>Microsoft Authenticator</p></figcaption></figure></div>
+
+{% embed url="https://play.google.com/store/search?q=microsoft%20authenticator&c=apps&hl=pt_BR" %}
+
+{% embed url="https://apps.apple.com/br/app/microsoft-authenticator/id983156458" %}
+
+<div align="left"><figure><img src=".gitbook/assets/image (252).png" alt="" width="113"><figcaption><p>Twilio Authy Authenticator</p></figcaption></figure></div>
+
+{% embed url="https://play.google.com/store/search?q=authy%20authenticator&c=apps&hl=pt_BR" %}
+
+{% embed url="https://apps.apple.com/br/app/twilio-authy/id494168017" %}
