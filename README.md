@@ -61,7 +61,7 @@ O primeiro acesso dos usuários de **Unidade ou Cliente** com a configuração d
 
 **a)** Na tela inicial, o usuário deve inserir seu **nome de usuário, senha, captcha e clicar no botão “Entrar”**, conforme ilustrado abaixo:
 
-<figure><img src=".gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (256).png" alt="" width="313"><figcaption></figcaption></figure>
 
 Ao clicar no botão **“Entrar”**, o sistema redirecionará automaticamente para uma nova tela com instruções passo a passo para configuração da autenticação.
 
@@ -82,7 +82,7 @@ Enquanto o usuário não possuir nenhuma configuração, como primeiro passo, o 
 
 **c)** Ao escolher a opção **“Aplicativo Autenticador”**, a tela exibe os passos que deverão ser seguidos, conforme abaixo:
 
-<figure><img src=".gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (203).png" alt="" width="493"><figcaption></figcaption></figure>
 
 * Para iniciar, deve-se baixar um aplicativo autenticador para o celular;
 * Abrir o aplicativo instalado e ler o QRCode que está sendo exibido na tela do ArqGED.
@@ -91,7 +91,7 @@ Enquanto o usuário não possuir nenhuma configuração, como primeiro passo, o 
 
 * Após a leitura do QRCode, o aplicativo autenticador exibirá um código na tela. Este código deve ser inserido no passo 4, conforme indicado abaixo:
 
-<figure><img src=".gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (204).png" alt="" width="479"><figcaption></figcaption></figure>
 
 * Com o código de verificação inserido no campo conforme a imagem, deve-se clicar no botão **“Avançar”**. Neste momento o usuário será direcionado para a tela com a mensagem sucesso.
 * Quando o usuário terminar de configurar o “Aplicativo Autenticador” e ainda faltar a configuração do “E-mail”, a tela além de exibir a mensagem de sucesso, exibira os botões “Entrar no ArqGED” ou “Configurar Outra Opção”. &#x20;
