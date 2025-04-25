@@ -52,7 +52,7 @@ Para os **usuários do Cliente**, o uso do MFA será **opcional por padrão**.
 Caso o cliente deseje obrigar o uso de MFA solicite a Arquivar a imposição desta configuração para seus usuários.\
 No entanto, caso o Cliente deseje tornar o uso do MFA obrigatório, será necessário marcar a opção **"Impor autenticação MFA"** no cadastro da conta do Cliente, conforme ilustrado na imagem abaixo:
 
-<figure><img src=".gitbook/assets/image (199).png" alt=""><figcaption><p>Clique para ampliar</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (257).png" alt=""><figcaption></figcaption></figure>
 
 ### Configuração do MFA: via Login
 
@@ -70,9 +70,9 @@ Ao clicar no botão **“Entrar”**, o sistema redirecionará automaticamente p
 * A informação de que o MFA foi imposto pela organização.
 * Os passos necessários para configurar a autenticação via aplicativo ou e-mail.
 
-<figure><img src=".gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (201).png" alt="" width="489"><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (202).png" alt="" width="483"><figcaption></figcaption></figure>
 
 Enquanto o usuário não possuir nenhuma configuração, como primeiro passo, o usuário poderá escolher qual deseja configurar primeiro:
 
@@ -105,7 +105,7 @@ Se o usuário escolher “Configurar outra opção”, ele entrará no fluxo de 
 
 **d)** Ao escolher a opção **“E-mail cadastrado no ArqGED”**, a tela exibe os passos que deverão ser seguidos, conforme abaixo:
 
-<figure><img src=".gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (207).png" alt="" width="495"><figcaption></figcaption></figure>
 
 * Deve-se conferir se o e-mail que está sendo exibido na tela está correto. Se estiver correto o usuário poderá prosseguir com a configuração, se não estiver correto, deve-se entrar em contato com o usuário Administrador para corrigir este e-mail.
 * Estando o e-mail correto, o usuário deverá clicar em **“Enviar código”**. Neste momento a aplicação enviará um código de verificação para o e-mail do usuário através do remente [autenticacao@arquivar.com](mailto:autenticacao@arquivar.com), com o assunto **Código segurança MFA**.
@@ -281,7 +281,7 @@ Observe que quando o usuário possuir as duas configurações de MFA, mesmo exib
 
 **d)** Se o usuário for usar o e-mail, então ele deve abrir o seu e-mail e identificar a mensagem enviada pelo remetente [autenticacao@arquivar.com](mailto:autenticacao@arquivar.com), com o assunto Código segurança MFA.
 
-<figure><img src=".gitbook/assets/image (240).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (240).png" alt="" width="511"><figcaption></figcaption></figure>
 
 O código desta mensagem deve ser inserido na tela abaixo:
 
@@ -297,15 +297,11 @@ O código desta mensagem deve ser inserido na tela abaixo:
 
 ### Anexo I: Como usar o Microsoft Authenticator
 
-<figure><img src=".gitbook/assets/image (242).png" alt="" width="292"><figcaption></figcaption></figure>
-
-<figure><img src=".gitbook/assets/image (243).png" alt="" width="289"><figcaption></figcaption></figure>
+<div align="left"><figure><img src=".gitbook/assets/image (242).png" alt="" width="195"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/image (243).png" alt="" width="193"><figcaption></figcaption></figure></div>
 
 Clicar no botão **“Adicionar conta”** irá abrir outra tela. Nesta tela deve ser escolhido a opção **“Outro (Google, Facebook, etc...)”**. A câmera do celular será aberta para digitalização do QR code na tela.
 
-<figure><img src=".gitbook/assets/image (244).png" alt="" width="288"><figcaption></figcaption></figure>
-
-<figure><img src=".gitbook/assets/image (245).png" alt="" width="233"><figcaption></figcaption></figure>
+<div align="left"><figure><img src=".gitbook/assets/image (244).png" alt="" width="288"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/image (245).png" alt="" width="233"><figcaption></figcaption></figure></div>
 
 A leitura do QR code, irá gerar um código de verificação na tela que deve ser inserido no passo 4, conforme explicado.
 
