@@ -70,9 +70,7 @@ Ao clicar no botão **“Entrar”**, o sistema redirecionará automaticamente p
 * A informação de que o MFA foi imposto pela organização.
 * Os passos necessários para configurar a autenticação via aplicativo ou e-mail.
 
-<figure><img src=".gitbook/assets/image (201).png" alt="" width="489"><figcaption></figcaption></figure>
-
-<figure><img src=".gitbook/assets/image (202).png" alt="" width="483"><figcaption></figcaption></figure>
+<div align="left"><figure><img src=".gitbook/assets/image (201).png" alt="" width="326"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/image (202).png" alt="" width="322"><figcaption></figcaption></figure></div>
 
 Enquanto o usuário não possuir nenhuma configuração, como primeiro passo, o usuário poderá escolher qual deseja configurar primeiro:
 
