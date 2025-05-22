@@ -150,43 +150,15 @@ Ao clicar neste ícone é aberta a tela para realizar o upload do documento/imag
 
 #### Tela de Anexos
 
-1. **Aba Anexos do Fluxo:** São os documentos/imagens tramitados durante a execução do fluxo no sistema. Estão disponíveis os ícones:
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
--> _Editar:_ Utilizado para editar o nome do anexo e numerar a versão do anexo. &#x20;
+1. **Aba Anexos:** São os documentos/imagens tramitados durante a execução do fluxo no sistema e existentes no registro. Além de exibir as informações sobre os anexos associados ao fluxo, é possível verificar se o documento foi ou não compartilhado com usuários externos (se não tiver sido o ícone de cadeado será exibido). Na tela estão disponíveis os ícones:
 
--> _Excluir:_ Utilizado para excluir o anexo.&#x20;
+<table><thead><tr><th width="150.60003662109375">Ícone</th><th width="235">Ação</th><th width="95.5999755859375">Tipo</th><th>Detalhes</th></tr></thead><tbody><tr><td>Editar</td><td>Utilizado para editar o nome do anexo e numerar a sua versão.</td><td>Unitária</td><td>Disponível apenas quando um único arquivo estiver selecionado.</td></tr><tr><td>Excluir</td><td>Exclui um ou mais arquivos</td><td>Em lote</td><td>Pode ser usada com um ou vários arquivos.</td></tr><tr><td>Assinar</td><td>Utilizado para assinar os documentos do fluxo. </td><td>Em lote</td><td>Pode ser usada com um ou vários arquivos.</td></tr><tr><td>Compartilhar</td><td>Compartilha o arquivo do tipo “Documento”</td><td>Em lote</td><td>Ação disponível somente a arquivos de Documento não compartilhados.</td></tr><tr><td>Descompartilhar</td><td>Cancela o compartilhamento de um arquivo “Documento”</td><td>Em lote</td><td>Ação disponível somente a arquivos de Documento já compartilhados.</td></tr><tr><td>Upload</td><td>Faz upload de arquivos diretamente para o fluxo</td><td>N/A</td><td>Todos os arquivos enviados por aqui serão identificados como “Anexo”.</td></tr><tr><td>Download</td><td>Permite baixar arquivos selecionados.</td><td>Em lote</td><td><p>Quando selecionado somente um arquivo = a aplicação o abre em uma nova aba do navegador. </p><p>Quando selecionado vários arquivos = a aplicação agenda um download em massa, para que seja gerado um ZIP com todos os arquivos. </p></td></tr><tr><td>Capturar Certificado</td><td>Quando se faz o upload de um documento que esteja assinado digitalmente, será possível extrair e visualizar as informações sobre o certificado digital utilizado para a assinatura. Quando o documento for assinado no próprio GED o certificado de assinaturas ficará disponível automaticamente.</td><td>Em lote</td><td>Apenas para arquivos do tipo Anexo e Documento.</td></tr></tbody></table>
 
--> _Upload de arquivos:_ Utilizado para inserir um novo anexo ao fluxo. &#x20;
+2. **Aba Download em Massa do fluxo:** Opção para baixar todos os documentos do fluxo em uma única ação. são exibidos todos os downloads em massa solicitados durante o fluxo. É mostrada a data de solicitação, o nome do solicitante, o agrupamento realizado, o status e os detalhes. Se o arquivo estiver disponível para download, será exibida uma seta no ícone da coluna Download. Se houver tido algum erro no processamento do arquivo, a seta será exibida no ícone da coluna Log.
 
--> _Download:_ Utilizado para baixar o documento selecionado.&#x20;
-
--> _Assinar:_ Utilizado para assinar os documentos do fluxo. O usuário pode escolher entre assinar todos os documentos apresentados ou assinar apenas os que estiverem selecionados em verde no grid.
-
--> _Capturar Certificado:_ Quando se faz o upload de um documento que esteja assinado digitalmente, clicando neste ícone será possível extrair e visualizar as informações sobre o certificado digital utilizado para a assinatura. Quando o documento for assinado no próprio GED o certificado de assinaturas ficará disponível automaticamente.
-
-<figure><img src="../../../.gitbook/assets/minhas_ativ13.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
-2. **Aba Anexos dos Documentos:** São os documentos/imagens existentes no registro. São os mesmos documentos exibidos na tela “Documentos”. Além de exibir as informações sobre os documentos associados ao fluxo, é possível verificar se o documento foi ou não compartilhado com usuários externos (se não tiver sido o ícone de cadeado será exibido). Na tela estão disponíveis os ícones:
-
--> _Editar:_ Utilizado para editar o nome do documento e numerar a sua versão. &#x20;
-
--> _Excluir:_ Utilizado para excluir o documento que estiver selecionado.&#x20;
-
--> _Assinatura em lote:_ Utilizado para assinar os documentos . O usuário pode escolher entre assinar todos os documentos apresentados ou assinar apenas os que estiverem selecionados em verde no grid.
-
--> _Compartilhar:_ Utilizado para permitir que o documento seja compartilhado com usuários externos (não autenticados no sistema).   &#x20;
-
--> _Descompartilhar:_ Utilizado para interromper o compartilhamento de um documento. &#x20;
-
--> _Download:_ Utilizado para baixar o documento selecionado.&#x20;
-
--> _Capturar Certificado:_ Quando se faz o upload de um documento que esteja assinado digitalmente, clicando neste ícone será possível extrair e visualizar as informações sobre o certificado digital utilizado para a assinatura. Quando o documento for assinado no próprio GED o certificado de assinaturas ficará disponível automaticamente.&#x20;
-
-<figure><img src="../../../.gitbook/assets/minhas_ativ19.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
-3. **Aba Download em Massa do fluxo:** Opção para baixar todos os documentos do fluxo em uma única ação. são exibidos todos os downloads em massa solicitados durante o fluxo. É mostrada a data de solicitação, o nome do solicitante, o agrupamento realizado, o status e os detalhes. Se o arquivo estiver disponível para download, será exibida uma seta no ícone da coluna Download. Se houver tido algum erro no processamento do arquivo, a seta será exibida no ícone da coluna Log.
-
-<figure><img src="../../../.gitbook/assets/minhas_ativ20.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ### 6. Formulário
 
@@ -202,15 +174,15 @@ Este ícone apresenta o modelo de documento PDF editável. Quando o usuário cli
 
 Ao abrir o documento, os <mark style="color:red;">campos de preenchimento obrigatórios</mark> serão apresentados com indicação do <mark style="color:red;">campo em vermelho</mark> e os c<mark style="color:green;">ampos de preenchimento não obrigatórios</mark> serão apresentados com indicação <mark style="color:green;">em verde</mark>:
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Se tratado de tarefa externa, são exibidos os campos "**Tela cheia**" e "**Dividir Tela**". Quando o usuário clica no arquivo o modelo de documento é aberto dividindo a tela com a tarefa.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Para voltar a dividir a tela com a tarefa, clique no botão "**Dividir Tela**".
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ### 8. Obrigatoriedades da tarefa
 
