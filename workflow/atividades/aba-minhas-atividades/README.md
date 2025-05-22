@@ -186,7 +186,15 @@ Para voltar a dividir a tela com a tarefa, clique no botão "**Dividir Tela**".
 
 ### 8. Processo ArqSign
 
-Este ícone exibe o status do Processo ArqSign.&#x20;
+Este ícone exibe o status do Processo ArqSign. Sua função é detalhar o andamento do fluxo de assinaturas e a partir daqui pode-se também executar ações relacionadas ao Processo.
+
+Nesta janela teremos, na parte superior, o grupo de informações sobre o fluxo de trabalho e sobre a tarefa (repetindo as informações da janela "Minhas Atividades").
+
+<figure><img src="../../../.gitbook/assets/image (264).png" alt=""><figcaption></figcaption></figure>
+
+Na parte inferior teremos o detalhamento do fluxo e irá constar o nome do fluxo, o status das assinaturas.
+
+
 
 ### 9. Obrigatoriedades da tarefa
 
