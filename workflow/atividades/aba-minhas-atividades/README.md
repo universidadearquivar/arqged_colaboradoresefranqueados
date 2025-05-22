@@ -38,7 +38,7 @@ Os botões “Cancelar” e “Voltar Etapa” só serão exibidos se o usuário
 
 ## Ícones de Ação das Tarefas
 
-<figure><img src="../../../.gitbook/assets/image (260).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (261).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Nem todos os ícones apresentados nessa tela serão utilizados em todos os processos. Em algumas situações, algumas das funcionalidades dessa tela não serão necessárias.**</mark>  
@@ -184,13 +184,16 @@ Para voltar a dividir a tela com a tarefa, clique no botão "**Dividir Tela**".
 
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-### 8. Obrigatoriedades da tarefa
+### 8. Processo ArqSign
 
-Este ícone funciona como um lembrete ao usuário e vai variar conforme a tarefa em execução. Sua função é informar quais são as ações necessárias para conclusão da etapa. Para isso, basta posicionar o cursor do mouse sobre o ícone e a lista de obrigatoriedades é apresentada. O ícone "Obrigatoriedade da Tarefa" sempre lista quais outros ícones serão usados na execução da tarefa.
+Este ícone exibe o status do Processo ArqSign.&#x20;
 
-Para entender como executar cada uma das obrigatoriedades possíveis, [veja como executar um fluxo.   ](executando-um-fluxo.md)
+### 9. Obrigatoriedades da tarefa
 
-<figure><img src="../../../.gitbook/assets/minhas_ativ23.png" alt=""><figcaption></figcaption></figure>
+Este ícone funciona como um lembrete ao usuário e vai variar conforme a tarefa em execução. Sua função é informar quais são as ações necessárias para conclusão da etapa. Para isso, basta posicionar o cursor do mouse sobre o ícone e a lista de obrigatoriedades é apresentada. O ícone "Obrigatoriedade da Tarefa" sempre lista quais outros ícones serão usados na execução da tarefa e a lista irá variar de acordo com cada tarefa.
 
+Com objetivo de facilitar a visualização das obrigatoriedades, as já cumpridas serão precedidas por um ícone verde de check (✅)e as que ainda estão por cumprir, por ícone vermelho com um x (❌).&#x20;
 
+Para entender como executar cada uma das obrigatoriedades possíveis, [veja como executar um fluxo.](executando-um-fluxo.md)
 
+<div><figure><img src="../../../.gitbook/assets/image (262).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (263).png" alt=""><figcaption></figcaption></figure></div>
