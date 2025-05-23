@@ -186,13 +186,63 @@ Para voltar a dividir a tela com a tarefa, clique no botão "**Dividir Tela**".
 
 ### 8. Processo ArqSign
 
-Este ícone exibe o status do Processo ArqSign. Sua função é detalhar o andamento do fluxo de assinaturas e a partir daqui pode-se também executar ações relacionadas ao Processo.
+Este ícone exibe o **status do Processo ArqSign** associado à tarefa.
 
-Nesta janela teremos, na parte superior, o grupo de informações sobre o fluxo de trabalho e sobre a tarefa (repetindo as informações da janela "Minhas Atividades").
+Sua função é apresentar o andamento do fluxo de assinaturas e permitir que o usuário execute ações relacionadas ao processo, como visualizar documentos, reenviar ou cancelar a solicitação de assinatura.
+
+Ao clicar no ícone, será exibida uma nova janela com os seguintes elementos:
+
+**Identificação do processo**
+
+* Exibe o **grupo de informações sobre o fluxo de trabalho e sobre a tarefa**, repetindo os dados já apresentados na tela **Minhas Atividades**;
 
 <figure><img src="../../../.gitbook/assets/image (264).png" alt=""><figcaption></figcaption></figure>
 
+**Detalhamento do Processo de Assinaturas**
 
+Na parte inferior da tela será exibido o detalhamento do(s) fluxo(s) de assinatura vinculados ao processo. Cada fluxo será apresentado com seu respectivo nome, status atual e informações associadas. Caso existam múltiplos fluxos dentro do mesmo processo, todos serão listados nesta área, organizados individualmente.
+
+O status do processo pode se apresentar em três formatos distintos:
+
+**1. Assinado**
+
+* O status será exibido em **verde**.
+* Um **link de visualização** será disponibilizado; ao clicar, o usuário poderá visualizar os documentos do processo. Selecionando o documento desejado, será redirecionado à plataforma **ArqSign**, onde poderá visualizá-lo em detalhe.
+* Serão exibidas as **datas de envio** e de **conclusão** do processo.
+* Abaixo, constará uma **lista de signatários**, com os seguintes dados:
+  * Papel de cada signatário no processo;
+  * Nome completo;
+  * Endereço de e-mail.
+
+<figure><img src="../../../.gitbook/assets/image (269).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
+
+#### 2. Aguardando
+
+* O status será exibido em **laranja**.
+* Será exibida a **data de envio** do processo.
+* A lista de signatários será apresentada com as seguintes marcações:
+  * Em **verde**, os usuários que já realizaram a assinatura;
+  * Em **laranja**, os que ainda **não assinaram**.
+* Serão exibidos dois botões de ação:
+  1. **Editar e Reenviar Processo ArqSign**\
+     Permite editar os dados de cada signatário (nome, contato e configurações de recebimento de código de segurança, se aplicável) e reenviar o processo.
+  2. **Cancelar Processo ArqSign**\
+     Ao clicar neste botão, uma **janela de confirmação** será exibida antes da efetivação do cancelamento.
+
+<figure><img src="../../../.gitbook/assets/image (266).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
+
+#### 3. Cancelado
+
+* O status será exibido em **vermelho**.
+* Serão apresentadas a **data de envio** e a **data de cancelamento** do processo.
+* A lista de signatários será apresentada com os seguintes destaques:
+  * Em **verde**, os que assinaram;
+  * Em **laranja**, os que não assinaram;
+  * Em **vermelho**, os que **recusaram a assinatura**.
+* Para os signatários que se recusaram a assinar, será exibido um ícone informativo (ícone vermelho com a letra “i”) contendo o **motivo da recusa**.
+* Importante: **caso qualquer signatário se recuse a assinar**, todo o processo será automaticamente **cancelado**, independentemente do número de participantes.
+
+<figure><img src="../../../.gitbook/assets/image (268).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
 ### 9. Obrigatoriedades da tarefa
 
