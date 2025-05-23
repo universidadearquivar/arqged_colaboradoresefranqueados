@@ -192,8 +192,6 @@ Nesta janela teremos, na parte superior, o grupo de informações sobre o fluxo 
 
 <figure><img src="../../../.gitbook/assets/image (264).png" alt=""><figcaption></figcaption></figure>
 
-Na parte inferior teremos o detalhamento do fluxo e irá constar o nome do fluxo, o status das assinaturas.
-
 
 
 ### 9. Obrigatoriedades da tarefa
