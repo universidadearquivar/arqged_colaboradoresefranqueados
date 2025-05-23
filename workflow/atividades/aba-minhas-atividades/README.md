@@ -192,13 +192,13 @@ Sua função é apresentar o andamento do fluxo de assinaturas e permitir que o 
 
 Ao clicar no ícone, será exibida uma nova janela com os seguintes elementos:
 
-**Identificação do processo**
+#### **Identificação do processo**
 
 * Exibe o **grupo de informações sobre o fluxo de trabalho e sobre a tarefa**, repetindo os dados já apresentados na tela **Minhas Atividades**;
 
 <figure><img src="../../../.gitbook/assets/image (264).png" alt=""><figcaption></figcaption></figure>
 
-**Detalhamento do Processo de Assinaturas**
+#### **Detalhamento do Processo de Assinaturas**
 
 Na parte inferior da tela será exibido o detalhamento do(s) fluxo(s) de assinatura vinculados ao processo. Cada fluxo será apresentado com seu respectivo nome, status atual e informações associadas. Caso existam múltiplos fluxos dentro do mesmo processo, todos serão listados nesta área, organizados individualmente.
 
