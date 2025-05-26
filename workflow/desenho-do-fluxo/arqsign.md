@@ -37,3 +37,62 @@ As ações abaixo são habilitadas apenas para fluxos com status **"Em Elaboraç
 
 Ao excluir uma configuração de ArqSign que esteja vinculada a uma etapa do tipo ArqSign, o sistema **remove automaticamente essa referência**.\
 Na próxima validação do fluxo, será exibida uma **lista de etapas do tipo ArqSign sem a configuração associada**, exigindo novo vínculo para a continuidade do processo.
+
+## Tela de Configuração da Aba ArqSign
+
+Na tela de **Configuração ArqSIGN**, o usuário deve informar os dados necessários para o envio do processo de assinaturas de documentos por meio da integração com a plataforma **ArqSIGN**.
+
+A configuração é composta por três seções principais:
+
+* **Configurações Gerais ArqSIGN**
+* **Mensagem Padrão ArqSIGN**
+* **Destinatários ArqSIGN**
+
+### Configurações Gerais ArqSIGN
+
+A seção **Configurações Gerais** define os parâmetros operacionais do processo de assinatura. Veja abaixo o detalhamento de cada campo:
+
+#### Campos obrigatórios e opcionais
+
+1. **IdConta – Conta** _(somente leitura)_\
+   Exibe o **nome e o ID da conta ArqSIGN** vinculada ao serviço selecionado.
+2.  **Pasta** _(obrigatório)_\
+    Campo para seleção da pasta no ArqSIGN onde o processo será criado.
+
+    > Ao clicar, o sistema abrirá um modal com a lista de pastas disponíveis na conta.
+3.  **Responsável** _(obrigatório)_\
+    Campo para seleção do responsável pelo processo de assinaturas.
+
+    > O sistema listará todos os **usuários ativos da conta ArqSIGN**.
+4. **Nome do Processo** _(obrigatório)_\
+   Campo de texto onde o usuário deve informar o **nome do processo** que será criado na plataforma ArqSIGN.
+
+#### Prazos e lembretes _(campos opcionais)_
+
+5.  **Lembrete**\
+    Define o intervalo em **dias** para envio automático de lembretes aos signatários.
+
+    > Ex: enviar novo alerta de assinatura a cada 3 dias.
+6. **Renovação**\
+   Define o intervalo em **meses** para o sistema ArqSIGN notificar o remetente sobre a necessidade de renovar o documento.
+7. **Expiração**\
+   Define o número de **dias até a expiração automática** do documento após o envio.
+8. **Expiração – Lembrete**\
+   Define com quantos dias de antecedência será enviado um **aviso da expiração**.
+
+#### Configurações avançadas
+
+9. **Obrigar leitura do documento**\
+   Campo de marcação opcional.
+   * Se marcado, o ArqSIGN exigirá que o usuário **leia o documento antes de assinar**.
+   * Se desmarcado, o usuário poderá assinar sem abrir o conteúdo.
+10. **Substituir o arquivo original no ArqGED pelo assinado via ArqSIGN**\
+    Campo de marcação opcional.
+
+* Define se o documento assinado pelo ArqSIGN **deve substituir automaticamente** o arquivo original armazenado no ArqGED.
+
+11. **Gerar QRCode de acesso ao documento**\
+    Campo de marcação opcional.
+
+* Se marcado, ao final do processo, o sistema gerará um **QRCode de acesso individual** para cada documento assinado.
+* O link será visível diretamente na plataforma ArqSIGN.
