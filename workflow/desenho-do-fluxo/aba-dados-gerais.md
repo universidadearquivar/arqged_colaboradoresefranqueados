@@ -8,6 +8,20 @@
 
 **Campo Unidade Storage:** Normalmente esse campo apresenta apenas uma opção de escolha, que é a Unidade Storage à qual a empresa do usuário pertence. Caso haja mais de uma opção para seleção, escolha aquela que é responsável por faturar para o cliente o storage que será utilizado (armazenamento que irá receber os arquivos relativos ao fluxo).&#x20;
 
+**Campo Contrato/Serviço ArqSIGN:** O campo Contrato/Serviço ArqSIGN é utilizado para integrar o fluxo do ArqFLOW com a plataforma de assinaturas eletrônicas ArqSIGN. O campo somente será habilitado após a seleção de uma unidade no campo Unidade Storage.
+
+Após a seleção da unidade, o sistema listará os serviços do tipo ArqSIGN Plataforma que:
+
+* Estejam vinculados ao Cliente e Unidade selecionados;
+* Tenham status Desbloqueado ou em POC;
+* Estejam vigentes no momento da seleção.
+
+O campo Contrato/Serviço ArqSIGN estará disponível para edição somente em fluxos com status "Em Elaboração" no menu Workflow > Desenho do Fluxo.
+
+{% hint style="info" %}
+O preenchimento deste campo é **opcional** para fluxos que **não utilizam a integração com o ArqSIGN**. Se o Cliente e Unidade selecionados **não possuírem um serviço contratado** do ArqSIGN, o campo **não será exibido** na interface.
+{% endhint %}
+
 **Campo Nome do Fluxo:** Informe um nome para o processo. É importante que o nome escolhido seja de fácil compreensão e localização. &#x20;
 
 <figure><img src="../../.gitbook/assets/dados04.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
