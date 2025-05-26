@@ -6,7 +6,21 @@
 
 **Campo Cliente:** Apresenta o nome da empresa à qual o usuário logado pertence. &#x20;
 
-**Campo Unidade Storage:** Normalmente esse campo apresenta apenas uma opção de escolha, que é a Unidade Storage à qual a empresa do usuário pertence. Caso haja mais de uma opção para seleção, escolha aquela que é responsável por faturar para o cliente o storage que será utilizado (armazenamento que irá receber os arquivos relativos ao fluxo).&#x20;
+**Campo Unidade Storage:** Normalmente esse campo apresenta apenas uma opção de escolha, que é a Unidade Storage à qual a empresa do usuário pertence. Caso haja mais de uma opção para seleção, escolha aquela que é responsável por faturar para o cliente o storage que será utilizado (armazenamento que irá receber os arquivos relativos ao fluxo).
+
+**Campo Contrato / Serviço de Workflow:** Campo de preenchimento obrigatório, utilizado para selecionar o serviço de workflow associado ao contrato do cliente e da unidade informada. O sistema listará automaticamente todos os serviços do tipo ArqFLOW que estejam vigentes em contratos ativos da combinação cliente/unidade selecionada.
+
+**Campo Nome do Fluxo:** Informe um nome para o processo. É importante que o nome escolhido seja de fácil compreensão e localização.
+
+<figure><img src="../../.gitbook/assets/image (271).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Campo Tipo de Ativação:** Selecione o tipo de ativação do fluxo, que pode ser:&#x20;
+
+* _Manual:_ o usuário ativará o fluxo clicando em “Workflow > Atividades > Ativar novo fluxo”  &#x20;
+* _API Integração:_ quando houver uma API externa ao software para ativar o fluxo. &#x20;
+* _Automática:_ Neste caso é preciso definir os parâmetros de ativação. Se a ativação será feita ao chegar em certa data ou se ocorrer determinada ocorrência.  &#x20;
+
+<figure><img src="../../.gitbook/assets/dados05.png" alt=""><figcaption></figcaption></figure>
 
 **Campo Contrato/Serviço ArqSIGN:** O campo Contrato/Serviço ArqSIGN é utilizado para integrar o fluxo do ArqFLOW com a plataforma de assinaturas eletrônicas ArqSIGN. O campo somente será habilitado após a seleção de uma unidade no campo Unidade Storage.
 
@@ -21,24 +35,6 @@ O campo Contrato/Serviço ArqSIGN estará disponível para edição somente em f
 {% hint style="info" %}
 O preenchimento deste campo é **opcional** para fluxos que **não utilizam a integração com o ArqSIGN**. Se o Cliente e Unidade selecionados **não possuírem um serviço contratado** do ArqSIGN, o campo **não será exibido** na interface.
 {% endhint %}
-
-**Campo Nome do Fluxo:** Informe um nome para o processo. É importante que o nome escolhido seja de fácil compreensão e localização.
-
-<figure><img src="../../.gitbook/assets/image (271).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
-**Campo Tipo de Ativação:** Selecione o tipo de ativação do fluxo, que pode ser:&#x20;
-
-* _Manual:_ o usuário ativará o fluxo clicando em “Workflow > Atividades > Ativar novo fluxo”  &#x20;
-* _API Integração:_ quando houver uma API externa ao software para ativar o fluxo. &#x20;
-* _Automática:_ Neste caso é preciso definir os parâmetros de ativação. Se a ativação será feita ao chegar em certa data ou se ocorrer determinada ocorrência.  &#x20;
-
-<figure><img src="../../.gitbook/assets/dados05.png" alt=""><figcaption></figcaption></figure>
-
-**Campo Status:** Selecione o status em que o desenho do fluxo se encontra. &#x20;
-
-* _Em Elaboração_: Durante a criação do fluxo e do seu desenho, o status será sempre “Em Elaboração”.&#x20;
-* _Ativo:_ Ao concluir as configurações do fluxo e do seu desenho, o status será definido como “Ativo” automaticamente.&#x20;
-* _Inativo:_ Para inativar um fluxo, selecione a opção “Inativo”. Depois de inativado não é possível editar um fluxo ou torná-lo ativo novamente.&#x20;
 
 **Campo Formulário:** O campo Formulário permite associar um formulário previamente criado ao fluxo de trabalho. Esse formulário será preenchido pelos usuários durante a execução das tarefas do fluxo. Os formulários disponíveis para seleção neste campo são aqueles cadastrados previamente no menu: [Workflow > Formulário.](../formulario.md)&#x20;
 
@@ -61,6 +57,12 @@ Ao salvar um fluxo com um serviço do tipo **ArqSign Plataforma** selecionado:
 * _Ícone Configuração do Modelo:_ Depois de selecionar o modelo de PDF preenchível, ao clicar no ícone de Configuração do Modelo serão exibidos os campos editáveis que o sistema conseguiu extrair do documento. Nesta tela será possível associar os campos identificados aos campos do Formulário, ou seja, indicar para o sistema que quando o PDF for preenchido, as informações serão aproveitadas no Formulário do fluxo.
 
 <figure><img src="../../.gitbook/assets/dados07.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Campo Status:** Selecione o status em que o desenho do fluxo se encontra. &#x20;
+
+* _Em Elaboração_: Durante a criação do fluxo e do seu desenho, o status será sempre “Em Elaboração”.&#x20;
+* _Ativo:_ Ao concluir as configurações do fluxo e do seu desenho, o status será definido como “Ativo” automaticamente.&#x20;
+* _Inativo:_ Para inativar um fluxo, selecione a opção “Inativo”. Depois de inativado não é possível editar um fluxo ou torná-lo ativo novamente.&#x20;
 
 **Campo Grupo de usuários que poderão ativar:** Selecione o grupo de usuários que poderão ativar o fluxo. Esse grupo deverá ter sido criado anteriormente no menu Administração > Grupos. Esse campo não é obrigatório e caso não seja escolhido nenhum grupo, todos os usuários da empresa que tiverem permissão poderão ativar o fluxo.  &#x20;
 
