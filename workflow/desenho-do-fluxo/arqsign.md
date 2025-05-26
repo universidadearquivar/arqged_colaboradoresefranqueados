@@ -100,7 +100,7 @@ Campo de marcação opcional.
 * Se marcado, o ArqSIGN exigirá que o usuário **leia o documento antes de assinar**.
 * Se desmarcado, o usuário poderá assinar sem abrir o conteúdo.
 
-**Substituir o arquivo original no ArqGED pelo assinado via ArqSIGN**\
+**Substituir o arquivo original no ArqGED pelo assinado via ArqSign**\
 Campo de marcação opcional.
 
 * Define se o documento assinado pelo ArqSIGN **deve substituir automaticamente** o arquivo original armazenado no ArqGED.
@@ -109,4 +109,4 @@ Campo de marcação opcional.
 Campo de marcação opcional.
 
 * Se marcado, ao final do processo, o sistema gerará um **QRCode de acesso individual** para cada documento assinado.
-* O link será visível diretamente na plataforma ArqSIGN.
+* O link será visível diretamente na plataforma ArqSign.
