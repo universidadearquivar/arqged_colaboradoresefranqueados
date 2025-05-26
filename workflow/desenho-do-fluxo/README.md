@@ -42,6 +42,18 @@ No menu Desenho do Fluxo serão configurados os fluxos e etapas dos processos de
 
 <figure><img src="../../.gitbook/assets/dados02.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
+#### Integração com ArqSign – Etapas obrigatórias
+
+Ao cadastrar o desenho do fluxo, o usuário deve:
+
+1. Selecionar o serviço ArqSign Plataforma que esteja vinculado ao contrato do cliente;
+2. Em seguida, acessar a aba ArqSign para configurar os processos de assinatura;
+3. No fluxograma, indicar as etapas em que os documentos serão enviados para assinatura via integração com o ArqSign.
+
+{% hint style="warning" %}
+<mark style="color:orange;">A configuração da aba ArqSign e a definição das etapas no fluxograma são obrigatórias para que o envio de documentos à plataforma ArqSign funcione corretamente.</mark>
+{% endhint %}
+
 ***
 
 ## Criação do Desenho do Fluxo
