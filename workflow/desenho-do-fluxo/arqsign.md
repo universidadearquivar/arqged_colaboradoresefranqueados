@@ -8,6 +8,8 @@ A aba **ArqSign** é exibida automaticamente entre as abas **Dados Gerais** e **
 
 Essa aba permite configurar as integrações com a plataforma ArqSign para envio de documentos para assinatura digital durante a execução do fluxo.
 
+<figure><img src="../../.gitbook/assets/image (273).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
 #### Sobre as configurações da aba ArqSign
 
 * Cada desenho de fluxo pode conter **uma ou mais configurações** de integração com o ArqSign.
