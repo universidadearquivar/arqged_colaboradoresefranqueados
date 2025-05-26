@@ -30,7 +30,9 @@ No menu Desenho do Fluxo serão configurados os fluxos e etapas dos processos de
 
 **Coluna Versão:** Apresenta o número da versão daquele fluxo. Ele pode ser a primeira versão de um fluxo, ou seja, um fluxo inédito, ou uma versão de um fluxo já existente.&#x20;
 
-**Coluna Versão Base:** Caso o fluxo não seja a primeira versão essa coluna apresenta o nome do fluxo que lhe deu origem. &#x20;
+**Coluna Versão Base:** Caso o fluxo não seja a primeira versão essa coluna apresenta o nome do fluxo que lhe deu origem.&#x20;
+
+**Coluna Contrato / Serviço:** Apresenta a informação do serviço de workflow no contrato do cliente/unidade.
 
 **Coluna Formulário:** Apresenta o formulário associado ao fluxo. Essa associação é feita durante a criação do fluxo.&#x20;
 
@@ -38,9 +40,9 @@ No menu Desenho do Fluxo serão configurados os fluxos e etapas dos processos de
 
 **Coluna Tipo de Ativação:** Apresenta o tipo de ativação do fluxo: Manual, Automática ou API Integração. Essa definição é feita durante a criação do fluxo.  &#x20;
 
-**Coluna Status:** Apresenta o status do fluxo: Em Elaboração, Ativo ou Inativo.&#x20;
+**Coluna Status:** Apresenta o status do fluxo: Em Elaboração, Ativo ou Inativo.
 
-<figure><img src="../../.gitbook/assets/dados02.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (272).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 #### Integração com ArqSign – Etapas obrigatórias
 
