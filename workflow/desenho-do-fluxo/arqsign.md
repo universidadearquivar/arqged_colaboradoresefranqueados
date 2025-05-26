@@ -54,59 +54,76 @@ A seção **Configurações Gerais** define os parâmetros operacionais do proce
 
 ### Campos obrigatórios e opcionais
 
-<figure><img src="../../.gitbook/assets/image (274).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
-**IdConta – Conta** _(somente leitura)_\
+**1. IdConta – Conta** _(somente leitura)_\
 Exibe o **nome e o ID da conta ArqSIGN** vinculada ao serviço selecionado.
 
-**Pasta** _(obrigatório)_\
-Campo para seleção da pasta no ArqSIGN onde o processo será criado.
+**2. Pasta** _(obrigatório)_\
+Campo para seleção da pasta no ArqSign onde o processo será criado.
 
 * Ao clicar, o sistema abrirá um modal com a lista de pastas disponíveis na conta.
 
-**Responsável** _(obrigatório)_\
+**3. Responsável** _(obrigatório)_\
 Campo para seleção do responsável pelo processo de assinaturas.
 
-* O sistema listará todos os **usuários ativos da conta ArqSIGN**.
+* O sistema listará todos os **usuários ativos da conta ArqSign**.
 
-**Nome do Processo** _(obrigatório)_\
-Campo de texto onde o usuário deve informar o **nome do processo** que será criado na plataforma ArqSIGN.
+**4. Nome do Processo** _(obrigatório)_\
+Campo de texto onde o usuário deve informar o **nome do processo** que será criado na plataforma ArqSign.
+
+<figure><img src="../../.gitbook/assets/image (274).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ### Prazos e lembretes _(campos opcionais)_
 
-<figure><img src="../../.gitbook/assets/image (275).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
-**Lembrete**\
+**1. Lembrete**\
 Define o intervalo em **dias** para envio automático de lembretes aos signatários.
 
 * Ex: enviar novo alerta de assinatura a cada 3 dias.
 
-**Renovação**\
-Define o intervalo em **meses** para o sistema ArqSIGN notificar o remetente sobre a necessidade de renovar o documento.
+**2. Renovação**\
+Define o intervalo em **meses** para o sistema ArqSign notificar o remetente sobre a necessidade de renovar o documento.
 
-**Expiração**\
+**3. Expiração**\
 Define o número de **dias até a expiração automática** do documento após o envio.
 
-**Expiração – Lembrete**\
+**4. Expiração – Lembrete**\
 Define com quantos dias de antecedência será enviado um **aviso da expiração**.
 
-### Configurações avançadas
+<figure><img src="../../.gitbook/assets/image (275).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (276).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+### Configurações avançadas
 
 **Obrigar leitura do documento**\
 Campo de marcação opcional.
 
-* Se marcado, o ArqSIGN exigirá que o usuário **leia o documento antes de assinar**.
+* Se marcado, o ArqSign exigirá que o usuário **leia o documento antes de assinar**.
 * Se desmarcado, o usuário poderá assinar sem abrir o conteúdo.
 
 **Substituir o arquivo original no ArqGED pelo assinado via ArqSign**\
 Campo de marcação opcional.
 
-* Define se o documento assinado pelo ArqSIGN **deve substituir automaticamente** o arquivo original armazenado no ArqGED.
+* Define se o documento assinado pelo ArqSign **deve substituir automaticamente** o arquivo original armazenado no ArqGED.
 
 **Gerar QRCode de acesso ao documento**\
 Campo de marcação opcional.
 
 * Se marcado, ao final do processo, o sistema gerará um **QRCode de acesso individual** para cada documento assinado.
 * O link será visível diretamente na plataforma ArqSign.
+
+<figure><img src="../../.gitbook/assets/image (276).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+### Mensagem Padrão ArqSign
+
+Nesta seção, o usuário pode definir a **mensagem padrão** que será enviada aos destinatários do processo de assinatura que **não possuem mensagens personalizadas configuradas individualmente**.
+
+A mensagem padrão é composta por:
+
+1. **Título da mensagem padrão para todos os signatários** _(opcional)_\
+   Campo de texto utilizado para informar o **título** da notificação enviada aos signatários.
+2. **Texto da mensagem padrão para todos os signatários** _(opcional)_\
+   Campo de texto utilizado para redigir o **corpo da mensagem padrão** que acompanhará a solicitação de assinatura.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+{% hint style="warning" %}
+Caso um destinatário tenha uma mensagem personalizada configurada, essa substituirá a mensagem padrão.
+{% endhint %}
