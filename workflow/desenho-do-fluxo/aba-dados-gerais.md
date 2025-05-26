@@ -22,9 +22,9 @@ O campo Contrato/Serviço ArqSIGN estará disponível para edição somente em f
 O preenchimento deste campo é **opcional** para fluxos que **não utilizam a integração com o ArqSIGN**. Se o Cliente e Unidade selecionados **não possuírem um serviço contratado** do ArqSIGN, o campo **não será exibido** na interface.
 {% endhint %}
 
-**Campo Nome do Fluxo:** Informe um nome para o processo. É importante que o nome escolhido seja de fácil compreensão e localização. &#x20;
+**Campo Nome do Fluxo:** Informe um nome para o processo. É importante que o nome escolhido seja de fácil compreensão e localização.
 
-<figure><img src="../../.gitbook/assets/dados04.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (271).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Campo Tipo de Ativação:** Selecione o tipo de ativação do fluxo, que pode ser:&#x20;
 
@@ -40,7 +40,18 @@ O preenchimento deste campo é **opcional** para fluxos que **não utilizam a in
 * _Ativo:_ Ao concluir as configurações do fluxo e do seu desenho, o status será definido como “Ativo” automaticamente.&#x20;
 * _Inativo:_ Para inativar um fluxo, selecione a opção “Inativo”. Depois de inativado não é possível editar um fluxo ou torná-lo ativo novamente.&#x20;
 
-**Campo Formulário:** Selecione o formulário que será associado ao fluxo, ou seja, o formulário que deverá preenchido pelos usuários que estiverem executando as tarefas do fluxo. Os formulários exibidos aqui para seleção são aqueles anteriormente criados no menu [Workflow > Formulário.](../formulario.md)&#x20;
+**Campo Formulário:** O campo Formulário permite associar um formulário previamente criado ao fluxo de trabalho. Esse formulário será preenchido pelos usuários durante a execução das tarefas do fluxo. Os formulários disponíveis para seleção neste campo são aqueles cadastrados previamente no menu: [Workflow > Formulário.](../formulario.md)&#x20;
+
+Quando um serviço do tipo ArqSign Plataforma estiver selecionado no campo Contrato/Serviço ArqSIGN, a seleção de um formulário se torna obrigatória.
+
+Os dados dos signatários utilizados pelo ArqSign serão extraídos automaticamente dos campos contidos no formulário selecionado.
+
+{% hint style="info" %}
+Ao salvar um fluxo com um serviço do tipo **ArqSign Plataforma** selecionado:
+
+* Todas as configurações de assinatura nativas do **ArqGED** serão automaticamente **desabilitadas** para aquele fluxo;
+* Em fluxos com ArqSign ativado, **a plataforma ArqSign será a única utilizada** para assinaturas eletrônicas, portanto não será possível utilizar, no mesmo fluxo, assinaturas combinadas entre **ArqSign** e **ArqGED**.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/dados06.png" alt=""><figcaption></figcaption></figure>
 
