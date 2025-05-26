@@ -74,6 +74,8 @@ Campo de texto onde o usuário deve informar o **nome do processo** que será cr
 
 ### Prazos e lembretes _(campos opcionais)_
 
+<figure><img src="../../.gitbook/assets/image (275).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
 **Lembrete**\
 Define o intervalo em **dias** para envio automático de lembretes aos signatários.
 
@@ -89,6 +91,8 @@ Define o número de **dias até a expiração automática** do documento após o
 Define com quantos dias de antecedência será enviado um **aviso da expiração**.
 
 ### Configurações avançadas
+
+<figure><img src="../../.gitbook/assets/image (276).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Obrigar leitura do documento**\
 Campo de marcação opcional.
