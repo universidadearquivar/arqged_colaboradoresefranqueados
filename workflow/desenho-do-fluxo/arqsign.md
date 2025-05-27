@@ -326,3 +326,89 @@ Se o processo estiver utilizando **ordem de assinatura**, o campo **Ordem** do n
 * <mark style="color:red;">Não é permitido repetir o mesmo campo do formulário entre destinatários com a</mark> <mark style="color:red;"></mark><mark style="color:red;">**mesma ordem**</mark><mark style="color:red;">.</mark>
 {% endhint %}
 
+## Configurações Adicionais&#x20;
+
+### Aba Dados Cadastrais
+
+A aba **Dados Cadastrais** é exibida somente para destinatários que tenham o campo **Tipo de Assinatura** configurado como **Assinatura Eletrônica**.
+
+Essa aba permite configurar os dados de identificação da Pessoa Física ou Jurídica que assinará o documento.
+
+#### **1. Nome da Pessoa Física**
+
+<figure><img src="../../.gitbook/assets/image (298).png" alt=""><figcaption></figcaption></figure>
+
+* **Campo onde extrair o nome a preencher na tela da assinatura** _(opcional)_
+  * Permite definir o campo do formulário de onde será extraído o **nome do signatário** para ser pré-preenchido na tela de assinatura.
+  * Serão listados apenas campos do tipo **texto**.
+  * Este nome será usado para que no momento da assinatura por parte do signatário o nome já venha preenchido na tela de assinatura.
+* **Obrigar o preenchimento do nome** _(opcional)_
+  * Se marcado, o signatário deverá preencher obrigatoriamente o campo de nome na hora da assinatura.
+  * Se desmarcado, o preenchimento será opcional.
+
+#### **2. Documento da Pessoa Física**
+
+<figure><img src="../../.gitbook/assets/image (299).png" alt=""><figcaption></figcaption></figure>
+
+* **Documento** _(obrigatório)_
+  * Define o tipo de documento solicitado ao signatário.
+  * Valor padrão: **CPF**
+  * Outras opções:
+    * CNH
+    * RG
+    * Outro
+* **Obrigar o preenchimento do documento** _(opcional)_
+  * Se marcado, o signatário deverá obrigatoriamente preencher o campo de documento durante a assinatura.
+* **Nome Documento** _(obrigatório se opção “Outro” estiver selecionada)_
+  * Define a **campo personalizado** do documento quando a opção "Outro" for selecionada.
+* **Formato** _(obrigatório se opção “Outro” estiver selecionada)_
+  * Define o tipo de entrada para o campo de documento.
+  * Opções:
+    * Texto _(valor padrão)_
+    * Numérico
+* **Quantidade de Caracteres** _(opcional)_
+  * Campo numérico para definir o número máximo de caracteres permitidos para o documento.
+* **Campo onde extrair o valor para o documento** _(opcional)_
+  * Permite definir o campo do formulário de onde será extraído o valor do documento para envio ao ArqSign.
+* **Usar valor de documento para validar** _(opcional)_
+  * Se marcado, o número extraído será usado para **validação obrigatória**: o processo só será concluído se o signatário informar exatamente o número que foi enviado.
+  * Se desmarcado, o número será apenas **pré-preenchido** para facilitar o processo.
+
+{% hint style="warning" %}
+Os dados de Pessoa Jurídica, abaixo, somente serão exibidos quando o campo **Este destinatário irá** estiver configurado como **Assinar Online como Pessoa Jurídica**.
+{% endhint %}
+
+#### **3. Nome da Pessoa Jurídica**
+
+<figure><img src="../../.gitbook/assets/image (300).png" alt=""><figcaption></figcaption></figure>
+
+* **Campo onde extrair o nome a preencher na tela da assinatura** _(opcional)_
+  * Define o campo do formulário de onde será extraído o **nome da empresa** do signatário.
+  * Serão listados apenas campos do tipo **texto**.
+* **Obrigar o preenchimento do nome** _(opcional)_
+  * Se marcado, o preenchimento do nome da empresa será obrigatório no momento da assinatura.
+
+#### **4. Documento da Pessoa Jurídica**
+
+<figure><img src="../../.gitbook/assets/image (301).png" alt=""><figcaption></figcaption></figure>
+
+* **Documento** _(obrigatório)_
+  * Define o tipo de documento da empresa.
+  * Valor padrão: **CNPJ**
+  * Outras opções:
+    * Outro
+* **Obrigar o preenchimento do documento** _(opcional)_
+  * Se marcado, o preenchimento do campo de documento da empresa será obrigatório no momento da assinatura.
+* **Nome Documento** _(obrigatório se opção “Outro” estiver selecionada)_
+  * Define o **campo personalizado** do documento da empresa.
+* **Formato** _(obrigatório se opção “Outro” estiver selecionada)_
+  * Opções:
+    * Texto _(valor padrão)_
+    * Numérico
+* **Quantidade de Caracteres** _(opcional)_
+  * Campo numérico para limitar o número de caracteres do documento da empresa.
+* **Campo onde extrair o valor para o documento** _(opcional)_
+  * Define o campo do formulário de onde será extraído o número do documento da empresa.
+* **Usar valor de documento para validar** _(opcional)_
+  * Se marcado, o número será usado para **validação obrigatória** durante a assinatura.
+  * Se desmarcado, será apenas **pré-preenchido automaticamente**.
