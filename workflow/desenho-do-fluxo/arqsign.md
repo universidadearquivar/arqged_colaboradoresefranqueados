@@ -275,3 +275,111 @@ Desta forma, estando a flag marcada para algum signatário, quando chegar o mome
 {% hint style="success" %}
 <mark style="color:green;">**Exemplo de Uso:**</mark> Isso pode ser usado para processos em que em determinado momento há 1 testemunha e em outro há 2. Então a configuração da segunda testemunha seria opcional.
 {% endhint %}
+
+### Configurações Adicionais (campo colapsável)
+
+{% tabs %}
+{% tab title="Dados Cadastrais" %}
+a
+
+a
+
+a
+
+a
+
+a
+
+a
+
+a
+{% endtab %}
+
+{% tab title="Anexos" %}
+AA
+
+a
+
+a
+
+a
+
+a
+{% endtab %}
+
+{% tab title="Mensagem" %}
+
+{% endtab %}
+
+{% tab title="Código de Segurança" %}
+§ Colapse "Configurações Adicionais": Este campo somente será exibido para destinatários que no campo "Este destinatário irá", estiver selecionada a opção de "Assinatura Online".
+
+Ao expandir o colapse “Configurações Adicionais”, o sistema exibe as abas para o usuário incluir mais configurações, que são opcionais, para o signatário em questão.
+
+O detalhamento das abas está descrito nos tópicos:
+
+o Dados Cadastrais (Aba)
+
+o Anexos (Aba)
+
+o Mensagem (Aba)
+
+o Código de Segurança (Aba)
+
+Este colapse somente será exibido se no campo "Este destinatário irá", estiver selecionada pelo menos uma opção de "Assinatura Online". A opção de "Receber uma cópia" não exibe o colapse.
+
+§ Adicionar Novo Destinatário: Ao pressionar este botão, o sistema irá incluir um novo "CARD" para inclusão de mais um signatário.
+
+Ao adicionar um novo CARD, caso no processo se esteja usando ordem de assinatura, o próximo CARD já vem com o campo Ordem preenchido com o número subsequente ao último existente na tela.
+
+§ Voltar: Ao pressionar este botão, o sistema irá voltar para o GRID de workflow mantendo o estado de filtro anterior da tela.
+
+§ Salvar: Ao pressionar este botão, o sistema salva os dados que foram incluídos/editados na tela.
+
+o É obrigatório informar ao menos um destinatário com a ação de “Assinar Online como Pessoa Física” ou “Assinar Online como Pessoa Jurídica”, sem que a flag “Este signatário NÃO precisa existir para enviar ao ArqSIGN” esteja marcada.
+
+o Quando o processo não possuir ordem, não permitir selecionar o mesmo campo do formulário para destinatários diferentes.
+
+o Quando o processo possuir ordem, não permitir selecionar o mesmo campo do formulário para destinatários diferentes na mesma ordem.
+
+1.2.2.2.3.1 Configurações Adicionais : Aba Dados Cadastrais
+
+Esta aba é exibida somente para signatários que no campo "Tipo de Assinatura" estiver selecionada a opção "Assinatura Eletrônica".
+
+1\) Nome da Pessoa Física
+
+§ Campo onde extrair o nome a preencher na tela da assinatura: Campo de preenchimento opcional para informar um campo de formulário onde se extrair o nome do signatário para enviar ao ArqSIGN. Neste campo deverão ser listados somente campos do tipo texto.
+
+Este nome será usado para que no momento da assinatura por parte do signatário o nome já venha preenchido na tela de assinatura.
+
+§ Obrigar o preenchimento do nome: Campo de marcação opcional para definir a obrigatoriedade ou não do nome do signatário.
+
+Se estiver marcado, significa que o preenchimento do nome é obrigatório por parte do signatário no momento da assinatura. Se NÃO estiver marcado, significa que o preenchimento do nome NÃO é obrigatório.
+
+2\) Documento da Pessoa Física
+
+§ Documento: Campo de preenchimento obrigatório para informar o tipo do documento do signatário, que é exibido preenchido com a opção CPF por default.
+
+O sistema lista as opções:
+
+§ CPF (Valor default)
+
+§ CNH
+
+§ RG
+
+§ Outro
+
+§ Obrigar o preenchimento do documento: Campo de marcação opcional para definir a obrigatoriedade ou não do documento do signatário.
+
+Se estiver marcado, significa que o preenchimento do documento é obrigatório por parte do signatário no momento da assinatura. Se NÃO estiver marcado, significa que o preenchimento do documento NÃO é obrigatório.
+
+§ Nome Documento: Este campo é exibido somente se em "Documento" estiver selecionada a opção "Outro".
+
+Quando este campo estiver sendo exibido na tela, seu preenchimento é obrigatório.
+
+O usuário deve informar a label do documento, quando se escolher a opção "Outro".
+
+§ Formato: Este campo será exibido somente se em "Documento" estiver selecionada a
+{% endtab %}
+{% endtabs %}
