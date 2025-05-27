@@ -173,7 +173,7 @@ O sistema exige que **ao menos um card permaneça na tela**.
 Campo para nomear o tipo de signatário (ex: Cliente, Funcionário, Diretor, Testemunha).
 
 {% hint style="info" %}
-Essa informação é **somente para organização interna** e **não será enviada ao ArqSIGN**.
+Essa informação é **somente para organização interna** e **não será enviada ao ArqSign**.
 {% endhint %}
 
 **5. Prazo para disparar notificações via ArqGED** _(opcional)_\
@@ -186,8 +186,72 @@ O tempo em "Minuto(s)", "Hora(s)", caso o Cliente possua horário de trabalho ma
 &#x20;O tempo em "Dia(s) Útil(eis) ", caso o Cliente possua horário de trabalho para definição das folgas e calendário para definição de feriados como referência "para Usuários Externos", serão contados somente dias úteis. Caso contrário, serão considerados dias corridos.
 
 {% hint style="success" %}
-O tempo definido neste campo será usado na aplicação como referência para definição de atraso para a assinatura de cada signatário. Os gatilhos para os envios das mensagens serão configurados no componente ArqSIGN do fluxograma. Desta forma será necessário controlar o início de assinatura de cada signatário: Se o documento não tiver ordem de assinatura, o início de assinatura é o momento do envio do processo, mas para os signatários com ordem de assinatura, o início de assinatura é o horário de conclusão da assinatura de ordem anterior.
+O tempo definido neste campo será usado na aplicação como referência para definição de atraso para a assinatura de cada signatário. Os gatilhos para os envios das mensagens serão configurados no componente ArqSign do fluxograma. Desta forma será necessário controlar o início de assinatura de cada signatário: Se o documento não tiver ordem de assinatura, o início de assinatura é o momento do envio do processo, mas para os signatários com ordem de assinatura, o início de assinatura é o horário de conclusão da assinatura de ordem anterior.
 
 Este campo deve ser preenchido somente se o Cliente precisar notificar alguém em relação ao atraso da assinatura por parte de algum signatário.
 {% endhint %}
 
+### Informações do formulário
+
+**6. Campo onde extrair o nome** _(obrigatório)_\
+Campo para definir de onde será extraído o nome do signatário no formulário.
+
+Serão listados apenas **campos do tipo texto**.
+
+**7. Enviar por** _(obrigatório)_\
+Define o meio de envio do processo ao destinatário. Opções:
+
+* E-mail
+* WhatsApp (exibido somente se o serviço ArqSign possuir subserviço WhatsApp)
+
+{% hint style="info" %}
+A forma de envio determina o tipo de campo permitido em “Campo onde extrair o e-mail ou telefone”.
+{% endhint %}
+
+**8. Campo onde extrair o e-mail ou telefone** _(obrigatório)_\
+Define o campo do formulário onde será extraído o o e-mail ou telefone do destinatário.
+
+{% hint style="info" %}
+O sistema só aceita campos compatíveis com o canal de envio (e-mail ou telefone).\
+Não é permitido repetir a mesma referência de campo em destinatários com mesma ordem ou sem ordem.
+{% endhint %}
+
+### Configurações de assinatura
+
+**9. Este destinatário irá:** _(obrigatório)_\
+Define o tipo de participação do destinatário no processo. Opções:
+
+* Assinar Online como Pessoa Física
+* Assinar Online como Pessoa Jurídica
+* Receber uma Cópia
+
+Ao selecionar “Receber uma Cópia”, as opções de assinatura serão desmarcadas automaticamente.
+
+**10. Assinatura de Pessoa Física como** _(opcional)_\
+Disponível apenas se o item "_Este destinatário irá"_ “Assinar Online como Pessoa Física”.
+
+**11. Assinatura de Pessoa Jurídica como** _(opcional)_\
+Disponível apenas se o item "_Este destinatário irá"_ for “Assinar Online como Pessoa Jurídica”.
+
+{% hint style="warning" %}
+Ao clicar nestes campos (10 e 11), o sistema lista os papeis de signatário da conta no ArqSign, assim como o valor default da conta marcado (caso exista valor default). Embora possa ter um valor default, ele pode ser desmarcado e não será obrigatório que haja alguma marcação.
+{% endhint %}
+
+**12. Tipo de Assinatura** _(obrigatório)_\
+Define o tipo de assinatura permitida. Opções:
+
+* Assinatura Eletrônica
+* Certificado Digital Pessoal do Tipo ICP-Brasil
+* Certificado Digital Pessoal Todos os Tipos
+
+**13. Estilo de Assinatura** _(opcional)_\
+Define a forma de apresentação da assinatura. Opções:
+
+* Padrão
+* Desenho
+* Imagem
+
+**14. Este signatário NÃO precisa existir para enviar ao ArqSign** _(opcional)_\
+Permite que o processo seja criado mesmo se os dados do signatário estiverem ausentes.
+
+Exemplo: fluxos com **testemunhas variáveis** entre 1 ou 2 pessoas.
