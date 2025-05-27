@@ -193,6 +193,8 @@ Este campo deve ser preenchido somente se o Cliente precisar notificar alguém e
 
 ### Informações do formulário
 
+<figure><img src="../../.gitbook/assets/image (286).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
 **6. Campo onde extrair o nome** _(obrigatório)_\
 Campo para definir de onde será extraído o nome do signatário no formulário.
 
@@ -225,13 +227,21 @@ Define o tipo de participação do destinatário no processo. Opções:
 * Assinar Online como Pessoa Jurídica
 * Receber uma Cópia
 
+<figure><img src="../../.gitbook/assets/image (287).png" alt=""><figcaption></figcaption></figure>
+
 Ao selecionar “Receber uma Cópia”, as opções de assinatura serão desmarcadas automaticamente.
+
+Se forem selecionados ambas as opções, para pessoa física e jurídica, a assinatura terá de ser feita pelo mesmo signatário como os dois papeis distintos, conforme marcação.&#x20;
 
 **10. Assinatura de Pessoa Física como** _(opcional)_\
 Disponível apenas se o item "_Este destinatário irá"_ “Assinar Online como Pessoa Física”.
 
+<figure><img src="../../.gitbook/assets/image (288).png" alt=""><figcaption></figcaption></figure>
+
 **11. Assinatura de Pessoa Jurídica como** _(opcional)_\
 Disponível apenas se o item "_Este destinatário irá"_ for “Assinar Online como Pessoa Jurídica”.
+
+<figure><img src="../../.gitbook/assets/image (289).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Ao clicar nestes campos (10 e 11), o sistema lista os papeis de signatário da conta no ArqSign, assim como o valor default da conta marcado (caso exista valor default). Embora possa ter um valor default, ele pode ser desmarcado e não será obrigatório que haja alguma marcação.
@@ -244,6 +254,8 @@ Define o tipo de assinatura permitida. Opções:
 * Certificado Digital Pessoal do Tipo ICP-Brasil
 * Certificado Digital Pessoal Todos os Tipos
 
+<figure><img src="../../.gitbook/assets/image (290).png" alt=""><figcaption></figcaption></figure>
+
 **13. Estilo de Assinatura** _(opcional)_\
 Define a forma de apresentação da assinatura. Opções:
 
@@ -251,7 +263,15 @@ Define a forma de apresentação da assinatura. Opções:
 * Desenho
 * Imagem
 
+<figure><img src="../../.gitbook/assets/image (291).png" alt=""><figcaption></figcaption></figure>
+
 **14. Este signatário NÃO precisa existir para enviar ao ArqSign** _(opcional)_\
 Permite que o processo seja criado mesmo se os dados do signatário estiverem ausentes.
 
-Exemplo: fluxos com **testemunhas variáveis** entre 1 ou 2 pessoas.
+<figure><img src="../../.gitbook/assets/image (293).png" alt=""><figcaption></figcaption></figure>
+
+Desta forma, estando a flag marcada para algum signatário, quando chegar o momento no fluxo de criar o processo no ArqSign, caso não exista informações de nome e e-mail/telefone para o signatário, o processo será criado sem ele.
+
+{% hint style="success" %}
+<mark style="color:green;">**Exemplo de Uso:**</mark> Isso pode ser usado para processos em que em determinado momento há 1 testemunha e em outro há 2. Então a configuração da segunda testemunha seria opcional.
+{% endhint %}
