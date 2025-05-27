@@ -276,110 +276,53 @@ Desta forma, estando a flag marcada para algum signatário, quando chegar o mome
 <mark style="color:green;">**Exemplo de Uso:**</mark> Isso pode ser usado para processos em que em determinado momento há 1 testemunha e em outro há 2. Então a configuração da segunda testemunha seria opcional.
 {% endhint %}
 
-### Configurações Adicionais (campo colapsável)
+### Colapse: Configurações Adicionais
 
-{% tabs %}
-{% tab title="Dados Cadastrais" %}
-a
+O colapse **Configurações Adicionais** estará disponível **somente** para destinatários cuja opção **“Este destinatário irá”** esteja configurada como **Assinatura Online** (Pessoa Física ou Jurídica).
 
-a
+<figure><img src="../../.gitbook/assets/image (294).png" alt=""><figcaption></figcaption></figure>
 
-a
+Ao expandir esse colapse, o sistema apresenta **abas complementares de configuração** para o signatário selecionado. Todas as abas são opcionais.
 
-a
+As abas disponíveis são:
 
-a
+* **Dados Cadastrais**
+* **Anexos**
+* **Mensagem**
+* **Código de Segurança**
 
-a
+<figure><img src="../../.gitbook/assets/image (295).png" alt=""><figcaption></figcaption></figure>
 
-a
-{% endtab %}
+### Ações disponíveis na tela
 
-{% tab title="Anexos" %}
-AA
+1. **Adicionar Novo Destinatário**\
+   Adiciona um novo **card** de signatário à tela.
 
-a
+{% hint style="info" %}
+Se o processo estiver utilizando **ordem de assinatura**, o campo **Ordem** do novo card será automaticamente preenchido com o número subsequente ao último card existente.
+{% endhint %}
 
-a
+1. **Voltar**\
+   Retorna ao **GRID de workflows**, preservando os filtros aplicados anteriormente na tela.
+2. **Salvar**\
+   Salva as informações preenchidas ou alteradas referentes aos destinatários e suas configurações.
 
-a
+<figure><img src="../../.gitbook/assets/image (297).png" alt=""><figcaption></figcaption></figure>
 
-a
-{% endtab %}
+{% hint style="danger" %}
+#### Regras de validação obrigatórias
 
-{% tab title="Mensagem" %}
+<mark style="color:red;">É obrigatório informar</mark> <mark style="color:red;"></mark><mark style="color:red;">**ao menos um destinatário**</mark> <mark style="color:red;"></mark><mark style="color:red;">com a opção:</mark>
 
-{% endtab %}
+* <mark style="color:red;">**Assinar Online como Pessoa Física**</mark><mark style="color:red;">, ou</mark>
+* <mark style="color:red;">**Assinar Online como Pessoa Jurídica**</mark><mark style="color:red;">,</mark>\ <mark style="color:red;">sem que a flag</mark> <mark style="color:red;"></mark><mark style="color:red;">**“Este signatário NÃO precisa existir para enviar ao ArqSIGN”**</mark> <mark style="color:red;"></mark><mark style="color:red;">esteja marcada.</mark>
 
-{% tab title="Código de Segurança" %}
-§ Colapse "Configurações Adicionais": Este campo somente será exibido para destinatários que no campo "Este destinatário irá", estiver selecionada a opção de "Assinatura Online".
+<mark style="color:red;">**Quando o processo não possui ordem de assinatura:**</mark>
 
-Ao expandir o colapse “Configurações Adicionais”, o sistema exibe as abas para o usuário incluir mais configurações, que são opcionais, para o signatário em questão.
+* <mark style="color:red;">Não é permitido selecionar o</mark> <mark style="color:red;"></mark><mark style="color:red;">**mesmo campo do formulário**</mark> <mark style="color:red;"></mark><mark style="color:red;">para múltiplos destinatários.</mark>
 
-O detalhamento das abas está descrito nos tópicos:
+<mark style="color:red;">**Quando o processo possui ordem de assinatura:**</mark>
 
-o Dados Cadastrais (Aba)
+* <mark style="color:red;">Não é permitido repetir o mesmo campo do formulário entre destinatários com a</mark> <mark style="color:red;"></mark><mark style="color:red;">**mesma ordem**</mark><mark style="color:red;">.</mark>
+{% endhint %}
 
-o Anexos (Aba)
-
-o Mensagem (Aba)
-
-o Código de Segurança (Aba)
-
-Este colapse somente será exibido se no campo "Este destinatário irá", estiver selecionada pelo menos uma opção de "Assinatura Online". A opção de "Receber uma cópia" não exibe o colapse.
-
-§ Adicionar Novo Destinatário: Ao pressionar este botão, o sistema irá incluir um novo "CARD" para inclusão de mais um signatário.
-
-Ao adicionar um novo CARD, caso no processo se esteja usando ordem de assinatura, o próximo CARD já vem com o campo Ordem preenchido com o número subsequente ao último existente na tela.
-
-§ Voltar: Ao pressionar este botão, o sistema irá voltar para o GRID de workflow mantendo o estado de filtro anterior da tela.
-
-§ Salvar: Ao pressionar este botão, o sistema salva os dados que foram incluídos/editados na tela.
-
-o É obrigatório informar ao menos um destinatário com a ação de “Assinar Online como Pessoa Física” ou “Assinar Online como Pessoa Jurídica”, sem que a flag “Este signatário NÃO precisa existir para enviar ao ArqSIGN” esteja marcada.
-
-o Quando o processo não possuir ordem, não permitir selecionar o mesmo campo do formulário para destinatários diferentes.
-
-o Quando o processo possuir ordem, não permitir selecionar o mesmo campo do formulário para destinatários diferentes na mesma ordem.
-
-1.2.2.2.3.1 Configurações Adicionais : Aba Dados Cadastrais
-
-Esta aba é exibida somente para signatários que no campo "Tipo de Assinatura" estiver selecionada a opção "Assinatura Eletrônica".
-
-1\) Nome da Pessoa Física
-
-§ Campo onde extrair o nome a preencher na tela da assinatura: Campo de preenchimento opcional para informar um campo de formulário onde se extrair o nome do signatário para enviar ao ArqSIGN. Neste campo deverão ser listados somente campos do tipo texto.
-
-Este nome será usado para que no momento da assinatura por parte do signatário o nome já venha preenchido na tela de assinatura.
-
-§ Obrigar o preenchimento do nome: Campo de marcação opcional para definir a obrigatoriedade ou não do nome do signatário.
-
-Se estiver marcado, significa que o preenchimento do nome é obrigatório por parte do signatário no momento da assinatura. Se NÃO estiver marcado, significa que o preenchimento do nome NÃO é obrigatório.
-
-2\) Documento da Pessoa Física
-
-§ Documento: Campo de preenchimento obrigatório para informar o tipo do documento do signatário, que é exibido preenchido com a opção CPF por default.
-
-O sistema lista as opções:
-
-§ CPF (Valor default)
-
-§ CNH
-
-§ RG
-
-§ Outro
-
-§ Obrigar o preenchimento do documento: Campo de marcação opcional para definir a obrigatoriedade ou não do documento do signatário.
-
-Se estiver marcado, significa que o preenchimento do documento é obrigatório por parte do signatário no momento da assinatura. Se NÃO estiver marcado, significa que o preenchimento do documento NÃO é obrigatório.
-
-§ Nome Documento: Este campo é exibido somente se em "Documento" estiver selecionada a opção "Outro".
-
-Quando este campo estiver sendo exibido na tela, seu preenchimento é obrigatório.
-
-O usuário deve informar a label do documento, quando se escolher a opção "Outro".
-
-§ Formato: Este campo será exibido somente se em "Documento" estiver selecionada a
-{% endtab %}
-{% endtabs %}
