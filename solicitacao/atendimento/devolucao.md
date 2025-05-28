@@ -12,7 +12,7 @@ Nesta tela são exibidas as solicitações de devolução feitas pelos clientes 
 
 No cabeçalho são apresentadas as opções de filtros disponíveis:
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Caixa ou Subcaixa:** Permite a busca do pedido de devolução pelo número da caixa ou da subcaixa.
 
@@ -28,7 +28,7 @@ No cabeçalho são apresentadas as opções de filtros disponíveis:
 
 Ao selecionar um pedido são habilitados os ícones:
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Editar:** Permite a edição do pedido para atendimento da devolução.
 
@@ -38,7 +38,7 @@ Ao selecionar um pedido são habilitados os ícones:
 
 Selecione a solicitação que deseja atender e clique em "Editar".
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para editar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para editar.</p></figcaption></figure>
 
 Será aberta a tela de atendimento do pedido que é dividida em duas abas:
 
@@ -48,13 +48,13 @@ Nesta aba são exibidas algumas informações inativas para edição, trata-se d
 
 Selecione na lista o nome do atendente responsável por realizar a devolução do volume no sistema, depois clique "salvar".
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ### Aba Detalhes
 
 Nesta aba é encontrado o detalhamento dos documentos ou caixa ou subcaixas devolvidos pelo cliente (solicitante).
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Clique para "Receber". Neste momento os volumes ainda não foram conferidos fisicamente, trata-se de um recebimento da quantidade de volumes.
 
@@ -66,12 +66,12 @@ Já de posse dos volumes em meio físico, faça a conferência dos códigos list
 
 Marque na tela os códigos efetivamente recebidos e clique em "Conferir".
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="danger" %}
 Quando identificados volumes listados no pedido, porém, não recebidos fisicamente, estes devem ficar desmarcados na tela, pois deverão ser checados pelos responsáveis.
 
-![](<../../.gitbook/assets/image (4) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png>)
 {% endhint %}
 
 Neste caso, somente os volumes selecionados serão validados:

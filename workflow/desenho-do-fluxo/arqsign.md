@@ -124,7 +124,7 @@ A mensagem padrão é composta por:
 2. **Texto da mensagem padrão para todos os signatários** _(opcional)_\
    Campo de texto utilizado para redigir o **corpo da mensagem padrão** que acompanhará a solicitação de assinatura.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="warning" %}
 Caso um destinatário tenha uma mensagem personalizada configurada, essa substituirá a mensagem padrão.
@@ -458,3 +458,65 @@ O sistema **não permite nomes repetidos** para anexos do mesmo signatário.
   * **Permitir a visualização deste anexo por todos os signatários após a assinatura via ArqSign**
 
 Esse processo pode ser repetido quantas vezes forem necessárias, criando diferentes etapas de envio por parte do mesmo signatário.
+
+#### Aba Mensagem
+
+A aba **Mensagem** estará sempre visível para signatários configurados com a opção **Assinatura Online**.
+
+Essa aba permite configurar uma **mensagem personalizada** para cada signatário, substituindo a mensagem padrão definida na aba **ArqSign**.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+#### Campos disponíveis
+
+1. **Título** _(opcional)_\
+   Campo de texto utilizado para definir um **título personalizado** da mensagem que será enviada ao signatário.
+2.  **Mensagem** _(opcional)_\
+    Campo de texto para redigir o **conteúdo personalizado da mensagem** enviada ao signatário.
+
+
+
+{% hint style="warning" %}
+Ao preencher estes campos, o signatário **não receberá** a mensagem padrão definida na aba ArqSign.
+{% endhint %}
+
+### Aba Código de Segurança
+
+A aba **Código de Segurança** estará sempre visível para signatários configurados com a opção **Assinatura Online**.
+
+Essa aba permite configurar o envio de um **código de segurança adicional**, que será solicitado ao signatário no momento da assinatura do documento.
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+#### Campos disponíveis
+
+* **Campo onde extrair o código de segurança** _(opcional)_\
+  Campo para definir de qual campo do formulário será extraído o código de segurança a ser enviado ao signatário.
+  * O preenchimento deste campo é opcional, mas, ao ser preenchido, ativa a obrigatoriedade dos campos seguintes.
+* **Enviar código de segurança por** _(obrigatório se houver código)_\
+  Campo para selecionar o **meio de envio** do código de segurança.\
+  Opções disponíveis:
+  * SMS
+  * WhatsApp
+  * E-mail
+  * Não enviar
+
+{% hint style="warning" %}
+<mark style="color:orange;">As opções</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**SMS**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">e</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**WhatsApp**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">só estarão disponíveis se o serviço</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Plataforma ArqSign**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">selecionado no fluxo possuir os respectivos</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**subserviços habilitados**</mark><mark style="color:orange;">.</mark>&#x20;
+
+<mark style="color:orange;">A escolha do meio de envio</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**determina o tipo de campo a ser selecionado**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">no item seguinte:</mark>
+{% endhint %}
+
+* Se **E-mail** for selecionado, o campo de origem deverá conter um **endereço de e-mail**.
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+* Se **SMS** ou **WhatsApp** forem selecionados, o campo deverá conter um **telefone**.
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+* **Campo onde extrair o e-mail ou telefone** _(obrigatório se houver envio)_\
+  Campo do formulário de onde será extraído o **contato** (e-mail ou telefone) para envio do código de segurança.
+  * O tipo de dado aceito depende da opção selecionada no campo anterior.
+* **Reenviar código de segurança** _(exibido apenas para SMS ou WhatsApp)_\
+  Se o envio for realizado via **SMS** ou **WhatsApp**, o sistema apresentará a opção de **reenviar o código de segurança** caso necessário.
