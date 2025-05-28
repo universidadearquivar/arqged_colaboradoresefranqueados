@@ -412,3 +412,49 @@ Os dados de Pessoa Jurídica, abaixo, somente serão exibidos quando o campo **E
 * **Usar valor de documento para validar** _(opcional)_
   * Se marcado, o número será usado para **validação obrigatória** durante a assinatura.
   * Se desmarcado, será apenas **pré-preenchido automaticamente**.
+
+### Aba Anexos
+
+A aba **Anexos** estará sempre visível para signatários configurados com a opção **Assinatura Online** (Pessoa Física ou Jurídica).
+
+Essa aba permite configurar se o signatário deverá ou poderá enviar documentos durante o processo de assinatura, além de definir como esses anexos serão armazenados e visualizados.
+
+<figure><img src="../../.gitbook/assets/image (302).png" alt=""><figcaption></figcaption></figure>
+
+#### Permitir anexar documentos durante a assinatura
+
+* Campo de marcação **opcional**.
+* Se **marcado**, o sistema exibirá campos adicionais para configurar o envio de anexos por parte do signatário.
+* Durante a assinatura, o signatário visualizará a opção de **fazer upload de arquivos**.
+
+#### Campos exibidos ao marcar a opção de anexar documentos
+
+* **Armazenar todos os anexos como Anexo do Fluxo** _(opcional)_\
+  Define que os arquivos enviados pelos signatários serão armazenados no ArqGED.
+* **Nome Anexo** _(obrigatório)_\
+  Campo de texto onde o usuário define o **campo** do anexo a ser enviado pelo signatário.&#x20;
+
+{% hint style="danger" %}
+O sistema **não permite nomes repetidos** para anexos do mesmo signatário.
+{% endhint %}
+
+* **Obrigar o upload do anexo** _(opcional)_
+  * Se **marcado**, o upload do anexo será obrigatório para concluir a assinatura.
+  * Se **desmarcado**, o campo será exibido, mas o envio será opcional.
+* **Permitir a visualização deste anexo por todos os signatários após a assinatura via ArqSign** _(opcional)_
+  * Se **marcado**, o anexo ficará **disponível para todos os signatários** após a conclusão do processo de assinatura.
+  * Se **desmarcado**, o anexo estará disponível **somente para o remetente**.
+
+{% hint style="warning" %}
+<mark style="color:orange;">**Importante:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">O acesso aos anexos enviados ao ArqGED seguirá o</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**nível de acesso configurado no ArqGED**</mark><mark style="color:orange;">. A opção acima se refere apenas ao comportamento dentro da</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**plataforma ArqSign**</mark><mark style="color:orange;">.</mark>
+{% endhint %}
+
+#### Adicionar mais anexos
+
+* O botão **Adicionar Mais Anexos** permite configurar múltiplos campos de upload para o mesmo signatário.
+* Ao pressioná-lo, o sistema exibirá novos grupos de campos como:
+  * **Nome Anexo 2**
+  * **Obrigar o upload do anexo**
+  * **Permitir a visualização deste anexo por todos os signatários após a assinatura via ArqSign**
+
+Esse processo pode ser repetido quantas vezes forem necessárias, criando diferentes etapas de envio por parte do mesmo signatário.
