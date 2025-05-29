@@ -385,7 +385,45 @@ Ao selecionar o componente ArqSign no fluxograma, o sistema exibirá automaticam
 
 ### Configuração
 
+* **Título** _(somente leitura):_ Exibe o nome atribuído ao componente ArqSign no fluxograma.
+* **Configuração** _(obrigatório):_ Campo para selecionar a **configuração ArqSign** que será utilizada nesta etapa. _O sistema listará todas as configurações previamente cadastradas na aba **ArqSign** do desenho do fluxo._
+* **Status** _(obrigatório):_ Define o **status do fluxo** quando estiver nesta etapa do processo.
+* **Tipo de Responsável** _(obrigatório):_ Campo para definir **quem acompanhará a execução da etapa ArqSign**.\
+  Opções disponíveis:
+  * Chefe imediato (Quem ativou) – _visível apenas em fluxos com ativação manual_
+  * Grupo – _habilita o campo adicional de seleção de grupo_
+  * Quem ativou – _visível apenas em fluxos com ativação manual_
+  * Quem executou uma tarefa interna
+  * Selecionado
+  * Usuário – _habilita o campo adicional de seleção de usuário_
 
+{% hint style="warning" %}
+**Importante:** Ao selecionar a opção **Grupo**, a etapa será tratada automaticamente como uma **atividade conjunta**, sem exibição das opções “Atividade Conjunta” ou “Atividade Individual”. O percentual de consenso não será considerado.\
+Neste caso, o fluxo gerará uma execução separada para cada membro do grupo.
+{% endhint %}
+
+#### Ações Avançadas
+
+Os campos abaixo definem permissões especiais que podem ser concedidas ao responsável por acompanhar a etapa:
+
+1. **Permitir cancelar o processo ArqSign** _(opcional)_
+   * Autoriza o cancelamento manual do processo de assinaturas via ArqSign.
+   * Ao marcar, o campo **Obrigar comentário antes desta ação** será habilitado.
+2. **Permitir atualizar o token ArqSign expirado** _(opcional)_
+   * Autoriza a atualização manual de tokens expirados no processo de assinaturas.
+   * Ao marcar, o campo **Obrigar comentário antes desta ação** será habilitado.
+3. **Permitir editar signatários que não assinaram** _(opcional)_
+   * Autoriza a edição manual de signatários ainda pendentes de assinatura.
+   * Ao marcar, o campo **Obrigar comentário antes desta ação** será habilitado.
+
+{% hint style="success" %}
+Quando qualquer uma dessas ações avançadas estiver marcada, e a opção **Obrigar comentário antes desta ação** também for ativada, o sistema exigirá que o usuário insira uma justificativa antes de realizar a operação correspondente.
+{% endhint %}
+
+#### Descrição da Etapa
+
+* **Descrição da Etapa** _(opcional)_\
+  Campo para registrar uma descrição textual sobre a etapa ArqSign, podendo servir como **orientação adicional** aos usuários definidos como responsáveis por acompanhá-la.
 
 ### Notificações
 
