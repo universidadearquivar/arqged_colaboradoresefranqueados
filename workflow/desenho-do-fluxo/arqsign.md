@@ -120,7 +120,7 @@ A mensagem padrão é composta por:
 2. **Texto da mensagem padrão para todos os signatários** _(opcional)_\
    Campo de texto utilizado para redigir o **corpo da mensagem padrão** que acompanhará a solicitação de assinatura.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="warning" %}
 Caso um destinatário tenha uma mensagem personalizada configurada, essa substituirá a mensagem padrão.
@@ -461,7 +461,7 @@ A aba **Mensagem** estará sempre visível para signatários configurados com a 
 
 Essa aba permite configurar uma **mensagem personalizada** para cada signatário, substituindo a mensagem padrão definida na aba **ArqSign**.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 #### Campos disponíveis
 
@@ -482,7 +482,7 @@ A aba **Código de Segurança** estará sempre visível para signatários config
 
 Essa aba permite configurar o envio de um **código de segurança adicional**, que será solicitado ao signatário no momento da assinatura do documento.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Campos disponíveis
 
@@ -505,11 +505,11 @@ Essa aba permite configurar o envio de um **código de segurança adicional**, q
 
 * Se **E-mail** for selecionado, o campo de origem deverá conter um **endereço de e-mail**.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Se **SMS** ou **WhatsApp** forem selecionados, o campo deverá conter um **telefone**.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Campo onde extrair o e-mail ou telefone** _(obrigatório se houver envio)_\
   Campo do formulário de onde será extraído o **contato** (e-mail ou telefone) para envio do código de segurança.

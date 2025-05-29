@@ -19,7 +19,7 @@ O menu Serviço Avulso é utilizado para lançamento de serviços que não são 
 * <mark style="color:green;">Elaboração de projetos, entre outros.</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Cliue na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Cliue na imagem para ampliar.</p></figcaption></figure>
 
 **Unidade:** Informe o nome da Unidade Arquivar responsável pela execução do serviço.
 
@@ -31,7 +31,7 @@ O menu Serviço Avulso é utilizado para lançamento de serviços que não são 
 
 **Excluir:** Clique para excluir um lançamento existente.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Coluna Pedido:** Exibe o número criado para o lançamento realizado.
 
@@ -53,7 +53,7 @@ Ao clicar na opção de Adicionar é aberta a tela de lançamento.
 
 Preencha os campos apresentados na tela:
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Unidade:** É exibido já preenchido, pois considera a informação da tela anterior.
 

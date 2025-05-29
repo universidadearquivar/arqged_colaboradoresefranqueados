@@ -143,7 +143,7 @@ _<mark style="color:blue;">Registro de Documento:</mark>_ <mark style="color:blu
 * **Visualização:** Se marcada essa opção o usuário terá acesso ao modelo PDF cadastrado.&#x20;
 * **Campos do modelo:** Neste espaço são exibidos todos os campos que o sistema extraiu do modelo PDF cadastrado no fluxo. Aqui o usuário deverá marcar como o executor da tarefa poderá interagir com cada campo, sendo `C =` Cadastrar, `O =` Cadastrar Obrigatoriamente e `E =` Editar. O usuário poderá marcar um capo por vez ou marcar todos utilizando a opção o "campos do modelo".
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 * **Assinar modelo:** Marque essa opção caso seja solicitado ao executor que assine o modelo PDF durante o fluxo.
 
@@ -158,7 +158,7 @@ _<mark style="color:blue;">Registro de Documento:</mark>_ <mark style="color:blu
 <mark style="color:orange;">**Os campos que forem ocultos com a opção V (Visualiza) desmarcada só serão ocultados naquela tarefa e não em todo o fluxo, ou seja, em outras tarefas eles aparecerão no formulário normalmente.**</mark>
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/desenho14.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -526,14 +526,86 @@ Esta opção estará disponível para todas as **configurações de notificaçõ
 
 ### Assinatura
 
+A aba **Assinatura** permite ao usuário indicar quais documentos do fluxo serão enviados para assinatura por meio da plataforma ArqSign na etapa configurada.
 
+É **obrigatório marcar ao menos uma das opções** disponíveis para que o componente funcione corretamente.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+O sistema exibe os seguintes campos:
+
+* **Modelo do fluxo**\
+  Exibido somente quando o fluxo possui um modelo configurado.\
+  Ao marcar essa opção, o modelo será incluído no processo de assinatura via ArqSign nesta etapa.
+* **Anexo(s) do fluxo marcados para assinar**\
+  Indica que os anexos adicionados ao fluxo, e previamente marcados para assinatura, serão assinados na plataforma ArqSign.
+* **Anexo(s) do registro marcados para assinar**\
+  Indica que os anexos do registro/documento principal, também marcados para assinatura, serão enviados ao ArqSign na etapa em questão.
 
 ### Formulário
 
+A aba **Formulário** estará sempre visível para etapas configuradas com o serviço **ArqSign**, pois o uso de formulário é obrigatório nesse tipo de fluxo.
 
+Nesta aba, o usuário poderá **definir quais campos do formulário serão exibidos** na tarefa de acompanhamento da etapa de assinatura digital.
+
+#### Funcionamento da configuração
+
+* Na etapa ArqSign, será possível visualizar apenas o formulário que foi preenchido em etapas anteriores do fluxo. Portanto, certifique-se de que os campos desejados estejam preenchidos antes do envio para assinatura.
+* A lista exibida corresponde aos **campos disponíveis no formulário associado ao fluxo**.
+* Para cada campo, é possível selecionar:
+  * **V (Visualizar):** o campo será exibido para leitura na tarefa.
+  * **T (Exibir tarefa):** o campo será destacado no painel da tarefa.
+
+{% hint style="danger" %}
+Em etapas do tipo **ArqSign**, a coluna **T** permite a seleção de no máximo **4 campos**.
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="188"><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ### Conector
 
+Para que o componente do tipo **ArqSign** funcione corretamente no fluxograma, é necessário configurar **conectores de saída** que definem os possíveis caminhos do fluxo a partir dessa etapa, com base no status do processo de assinatura.
 
+O componente ArqSign deve conter **no mínimo 1 e no máximo 5 conectores de saída**.\
+Cada conector deve conter **pelo menos uma das opções de avanço** listadas abaixo — e nenhuma opção pode ser repetida no mesmo conector nem entre conectores diferentes.
+
+#### Opções de avanço disponíveis
+
+* **Concluído**\
+  Avança o fluxo quando o processo de assinatura for concluído com sucesso — ou seja, todos os signatários assinaram. A informação é recebida via WebHook e o fluxo segue automaticamente.
+* **Quando alguém recusar assinar**\
+  Avança o fluxo quando um dos signatários recusa a assinatura, causando o cancelamento do processo. A recusa é recebida via WebHook e tratada pela aplicação.
+* **Cancelado**\
+  Esta opção contempla três situações:
+  1. Cancelamento realizado diretamente na plataforma ArqSign pelo remetente.
+  2. Cancelamento realizado no ArqGED por um responsável com permissão na etapa ArqSign.
+  3. Cancelamento do próprio fluxo por um usuário com permissão, enquanto a etapa ArqSign está em andamento.
+* **Link de assinatura expirado** _(opcional)_\
+  Disponível apenas se **não estiver marcada** a opção **"Permitir atualizar token ArqSign expirado"** nas configurações da etapa.\
+  Avança o fluxo automaticamente quando o link de assinatura expira sem que todos os signatários tenham concluído a assinatura.
+
+{% hint style="info" %}
+Se o documento precisar ser **gerado novamente**, esta opção deve ser utilizada.\
+Caso contrário, basta manter o fluxo na etapa e permitir que os responsáveis reenviem o token manualmente.
+{% endhint %}
+
+* **Não possuir todos os dados para envio**\
+  Avança o fluxo se, ao tentar enviar os documentos para assinatura, o ArqGED identificar que faltam dados obrigatórios para realizar a operação.
+
+#### Regras importantes
+
+* O **componente ArqSign deve obrigatoriamente conter pelo menos 4 das 5 opções listadas** acima.
+* A opção **"Link de assinatura expirado"** é **obrigatória** **caso a etapa não permita a atualização manual do token expirado**.
+* A presença dessa opção no fluxograma indica que, ao expirar, o documento deverá ser **recriado e reenviado** para assinatura.
+
+#### Campos exibidos
+
+* **Origem:**\
+  Campo somente leitura, exibe o nome do componente de origem no fluxograma.
+* **Destino:**\
+  Campo somente leitura, exibe o nome do componente de destino.
+* **Avançar etapa, se processo for:**\
+  Aqui o usuário define, para cada conector, qual condição levará ao avanço do fluxo, conforme as opções descritas acima.
 
 ### Validação do fluxo
+
