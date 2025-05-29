@@ -609,3 +609,33 @@ Caso contrário, basta manter o fluxo na etapa e permitir que os responsáveis r
 
 ### Validação do fluxo
 
+#### Validação do Fluxo
+
+Ao ativar um fluxo, a aplicação realiza a validação dos **serviços vinculados ao desenho do fluxo**, verificando se estão **ativos e vigentes** — tanto o **Serviço de Workflow** quanto o **Serviço de ArqSign**.
+
+{% hint style="warning" %}
+Um fluxo **somente poderá ser ativado** se **todos os serviços vinculados estiverem ativos** no contrato do cliente e na unidade correspondente.
+{% endhint %}
+
+#### Integração automática com webhooks
+
+Caso o fluxo contenha ao menos uma etapa do tipo **ArqSign** e seja validado com sucesso, a aplicação criará automaticamente **dois webhooks** por integração:
+
+* **Webhook de acompanhamento:** permite o monitoramento do andamento do processo de assinatura.
+* **Webhook de conclusão:** recebe a confirmação de que todos os signatários finalizaram a assinatura.
+
+#### Validações específicas – Etapas ArqSign
+
+Durante a validação, a aplicação também verifica regras específicas relacionadas à configuração de assinaturas. São elas:
+
+1. **Obrigatoriedade de marcação de documentos para assinatura:**\
+   Toda etapa do tipo ArqSign deve ter **pelo menos uma das opções abaixo marcadas**:
+   * **Modelo do fluxo** (visível apenas se houver modelo configurado)
+   * **Anexo(s) do fluxo marcados para assinar**
+   * **Anexo(s) do registro marcados para assinar**
+2. **Exclusividade do envio do modelo:**\
+   Apenas **uma etapa do tipo ArqSign** em todo o fluxograma pode ter a opção **“Enviar ao ArqSign para assinar: Modelo do fluxo”** marcada.
+3. **Consistência com etapas anteriores:**\
+   Se a etapa do tipo ArqSign estiver configurada para enviar anexos (fluxo e/ou registro), é necessário que, em etapas anteriores:
+   * Os **anexos do fluxo** estejam marcados para assinatura.
+   * Os **anexos do registro** estejam igualmente marcados para assinatura.
