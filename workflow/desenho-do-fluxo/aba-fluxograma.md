@@ -388,14 +388,20 @@ Ao selecionar o componente ArqSign no fluxograma, o sistema exibirá automaticam
 * **Título** _(somente leitura):_ Exibe o nome atribuído ao componente ArqSign no fluxograma.
 * **Configuração** _(obrigatório):_ Campo para selecionar a **configuração ArqSign** que será utilizada nesta etapa. _O sistema listará todas as configurações previamente cadastradas na aba **ArqSign** do desenho do fluxo._
 * **Status** _(obrigatório):_ Define o **status do fluxo** quando estiver nesta etapa do processo.
-* **Tipo de Responsável** _(obrigatório):_ Campo para definir **quem acompanhará a execução da etapa ArqSign**.\
-  Opções disponíveis:
-  * Chefe imediato (Quem ativou) – _visível apenas em fluxos com ativação manual_
-  * Grupo – _habilita o campo adicional de seleção de grupo_
-  * Quem ativou – _visível apenas em fluxos com ativação manual_
-  * Quem executou uma tarefa interna
-  * Selecionado
-  * Usuário – _habilita o campo adicional de seleção de usuário_
+
+<figure><img src="../../.gitbook/assets/image (304).png" alt=""><figcaption></figcaption></figure>
+
+*   **Tipo de Responsável** _(obrigatório):_ Campo para definir **quem acompanhará a execução da etapa ArqSign**.\
+    Opções disponíveis:
+
+    * Chefe imediato (Quem ativou) – _visível apenas em fluxos com ativação manual_
+    * Grupo – _habilita o campo adicional de seleção de grupo_
+    * Quem ativou – _visível apenas em fluxos com ativação manual_
+    * Quem executou uma tarefa interna
+    * Selecionado
+    * Usuário – _habilita o campo adicional de seleção de usuário_
+
+    <figure><img src="../../.gitbook/assets/image (305).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 **Importante:** Ao selecionar a opção **Grupo**, a etapa será tratada automaticamente como uma **atividade conjunta**, sem exibição das opções “Atividade Conjunta” ou “Atividade Individual”. O percentual de consenso não será considerado.\
@@ -412,9 +418,12 @@ Os campos abaixo definem permissões especiais que podem ser concedidas ao respo
 2. **Permitir atualizar o token ArqSign expirado** _(opcional)_
    * Autoriza a atualização manual de tokens expirados no processo de assinaturas.
    * Ao marcar, o campo **Obrigar comentário antes desta ação** será habilitado.
-3. **Permitir editar signatários que não assinaram** _(opcional)_
-   * Autoriza a edição manual de signatários ainda pendentes de assinatura.
-   * Ao marcar, o campo **Obrigar comentário antes desta ação** será habilitado.
+3.  **Permitir editar signatários que não assinaram** _(opcional)_
+
+    * Autoriza a edição manual de signatários ainda pendentes de assinatura.
+    * Ao marcar, o campo **Obrigar comentário antes desta ação** será habilitado.
+
+
 
 {% hint style="success" %}
 Quando qualquer uma dessas ações avançadas estiver marcada, e a opção **Obrigar comentário antes desta ação** também for ativada, o sistema exigirá que o usuário insira uma justificativa antes de realizar a operação correspondente.
@@ -425,9 +434,95 @@ Quando qualquer uma dessas ações avançadas estiver marcada, e a opção **Obr
 * **Descrição da Etapa** _(opcional)_\
   Campo para registrar uma descrição textual sobre a etapa ArqSign, podendo servir como **orientação adicional** aos usuários definidos como responsáveis por acompanhá-la.
 
+<figure><img src="../../.gitbook/assets/image (306).png" alt=""><figcaption></figcaption></figure>
+
 ### Notificações
 
+A aba **Notificações** permite configurar os gatilhos e destinatários das mensagens enviadas automaticamente durante o andamento da etapa ArqSign no fluxo de trabalho. Essas notificações são disparadas em momentos estratégicos e podem conter mensagens personalizadas, além de dados relevantes sobre o processo de assinatura.
 
+Estão disponíveis os seguintes gatilhos para envio de notificações:
+
+* **Ao iniciar a tarefa:** Envio realizado assim que o ArqGED dispara o processo de assinatura no ArqSign e inicia a execução da etapa.
+* **Ao avançar a tarefa:** Notificação enviada no momento em que o fluxo é movimentado para a etapa seguinte após a conclusão da etapa ArqSign.
+* **Ao atrasar um percentual do tempo de assinatura de cada signatário:** Envio automático ao ultrapassar o percentual de atraso definido, considerando o prazo individual de cada signatário.
+* **Antes de atrasar um percentual do tempo de assinatura de cada signatário:** Envio antecipado quando o prazo de assinatura está próximo de ultrapassar o percentual configurado.
+* **Quando for executada mais de uma vez:** Notificação enviada ao atingir a quantidade de execuções definida para a etapa.
+* **Quando o link do ArqSign expirar:** Exibido apenas para componentes do tipo ArqSign. A notificação é enviada assim que o link de assinatura expira.
+
+#### Campos disponíveis em cada notificação
+
+Para todos os gatilhos configurados, o sistema permite a definição dos seguintes elementos:
+
+* **Notificar:**\
+  Define quem receberá a notificação. Opções:
+  * Responsável por acompanhar o processo
+  * Signatário
+  * Quem ativou
+  * Chefe imediato (Quem ativou)
+  * Chefe imediato (Responsável)
+  * Grupo
+  * Usuários
+
+{% hint style="info" %}
+As opções **Chefe imediato (Quem ativou)** e **Quem ativou** estão disponíveis apenas em fluxos com ativação manual.
+{% endhint %}
+
+* **E-mails externos:**\
+  Campo para inserção manual de e-mails adicionais a serem notificados.
+* **Mensagem personalizada:**\
+  Campo de texto para redigir o conteúdo da mensagem que será enviada aos destinatários definidos.
+
+#### Incluir na notificação
+
+<figure><img src="../../.gitbook/assets/image (307).png" alt=""><figcaption></figcaption></figure>
+
+Além da mensagem personalizada, é possível incluir informações adicionais na notificação, selecionando:
+
+* **Comentários:**
+  * Todos
+  * Último
+* **Observações**
+* **Campos do Formulário**
+*   **Situação do Processo de Assinatura ArqSign**
+
+    Ao incluir a situação do processo de assinatura, a aplicação enviará os dados dos processos vinculados, conforme o tipo de etapa:
+
+    * Para etapas do tipo **ArqSign**:
+      * Processo em andamento
+      * Todos (Atual + Concluídos + Cancelados)
+    * Para etapas **diferentes de ArqSign**:
+      * Processos concluídos
+      * Todos (Concluídos + Cancelados)
+
+Esta opção estará disponível para todas as **configurações de notificações de um fluxo com integração com a Plataforma ArqSign**. Quando esta opção estiver marcada, a aplicação enviará os seguintes dados:
+
+> **\[Nome do Processo 1] - Status: \[Status do Processo]**
+>
+> Ordem de Assinatura: Nome do Signatário 1 - Assinou como ou Assinará como: Papel do Signatário
+>
+> Ordem de Assinatura: Nome do Signatário 2 - Assinou como ou Assinará como: Papel do Signatário
+>
+> Ordem de Assinatura: Nome do Signatário 3 - Assinou como ou Assinará como: Papel do Signatário
+>
+> Ordem de Assinatura: Nome do Signatário n - Assinou como ou Assinará como: Papel do Signatário
+>
+> **\[IdProcessoArqSIGN] \[Nome do Processo n]  - Status:  \[Status do Processo]**
+>
+> Ordem de Assinatura: Nome do Signatário 1 - Assinou como ou Assinará como: Papel do Signatário
+>
+> Ordem de Assinatura: Nome do Signatário 2 - Assinou como ou Assinará como: Papel do Signatário
+>
+> Ordem de Assinatura: Nome do Signatário 3 - Assinou como ou Assinará como: Papel do Signatário
+>
+> Ordem de Assinatura: Nome do Signatário n - Assinou como ou Assinará como: Papel do Signatário
+
+* Quando houver **papel definido**, será exibido:
+  * **Assinou como:** (para quem já assinou)
+  * **Assinará como:** (para quem ainda não assinou)
+* Quando **não houver papel definido**, será exibido:
+  * **Assinado** ou **Não Assinado**
+* Se houver **recusa de assinatura**, o sistema exibirá:
+  * Ordem de Assinatura: Nome do Signatário 1 – Recusou Assinar - Motivo Recusa.
 
 ### Assinatura
 
