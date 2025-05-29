@@ -10,8 +10,6 @@ Conecta as etapas do fluxo. Deve ser inserido ligando uma tarefa à outra no des
 
 <figure><img src="../../.gitbook/assets/desenho4 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/desenho19 (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
 ### Configurações do Conector
 
 * **Ação de Avanço:** Informe o nome do botão que vai aparecer na tela da tarefa quando o usuário for dar prosseguimento ao fluxo.  Caso seja um conector de uma tarefa que será executada por um usuário externo, informe as obrigatoriedades que ele deverá executar para dar prosseguimento ao fluxo. &#x20;
@@ -376,3 +374,33 @@ O conector de avanço de uma decisão do tipo Gateway Exclusivo, irá exibir o c
 * **Ao delegar a responsabilidade:** Marque essa opção para que seja enviada uma notificação sempre que o responsável pela tarefa a delegue a outra pessoa. Essa opção só estará disponível caso o campo “Inibe opção de delegar” esteja desabilitado na aba Configurações. Se a tarefa for de execução externa, essa opção não será exibida.&#x20;
 
 <figure><img src="../../.gitbook/assets/desenho11.png" alt=""><figcaption></figcaption></figure>
+
+## ArqSign
+
+Para integrar o **ArqFlow** com o **ArqSign**, é necessário que o desenho do fluxo inclua uma etapa configurada com o componente específico de decisão **ArqSign**, conforme a necessidade do cliente.
+
+Esse componente estará disponível apenas se o desenho do fluxo possuir um **serviço do tipo ArqSign Plataforma** previamente configurado na aba **Dados Gerais**.
+
+Ao selecionar o componente ArqSign no fluxograma, o sistema exibirá automaticamente as abas **Configurações** (selecionada por padrão), **Notificações**, **Assinatura** e **Formulário**, onde serão realizadas as definições necessárias para a execução da etapa de assinatura digital no fluxo.
+
+### Configuração
+
+
+
+### Notificações
+
+
+
+### Assinatura
+
+
+
+### Formulário
+
+
+
+### Conector
+
+
+
+### Validação do fluxo
