@@ -143,7 +143,7 @@ _<mark style="color:blue;">Registro de Documento:</mark>_ <mark style="color:blu
 * **Visualização:** Se marcada essa opção o usuário terá acesso ao modelo PDF cadastrado.&#x20;
 * **Campos do modelo:** Neste espaço são exibidos todos os campos que o sistema extraiu do modelo PDF cadastrado no fluxo. Aqui o usuário deverá marcar como o executor da tarefa poderá interagir com cada campo, sendo `C =` Cadastrar, `O =` Cadastrar Obrigatoriamente e `E =` Editar. O usuário poderá marcar um capo por vez ou marcar todos utilizando a opção o "campos do modelo".
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 * **Assinar modelo:** Marque essa opção caso seja solicitado ao executor que assine o modelo PDF durante o fluxo.
 
@@ -158,7 +158,7 @@ _<mark style="color:blue;">Registro de Documento:</mark>_ <mark style="color:blu
 <mark style="color:orange;">**Os campos que forem ocultos com a opção V (Visualiza) desmarcada só serão ocultados naquela tarefa e não em todo o fluxo, ou seja, em outras tarefas eles aparecerão no formulário normalmente.**</mark>
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/desenho14.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -530,7 +530,7 @@ A aba **Assinatura** permite ao usuário indicar quais documentos do fluxo serã
 
 É **obrigatório marcar ao menos uma das opções** disponíveis para que o componente funcione corretamente.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 O sistema exibe os seguintes campos:
 
@@ -560,7 +560,7 @@ Nesta aba, o usuário poderá **definir quais campos do formulário serão exibi
 Em etapas do tipo **ArqSign**, a coluna **T** permite a seleção de no máximo **4 campos**.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="188"><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt="" width="188"><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ### Conector
 
