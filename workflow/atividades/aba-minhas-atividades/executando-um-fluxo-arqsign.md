@@ -157,7 +157,7 @@ Para isso, o usuário deve acionar o **ícone de assinatura** localizado ao lado
 
 * Visualizar os dados de cada signatário;
 * Consultar data e hora das assinaturas;
-* 📥 Baixar o **registro completo de assinaturas**.
+* Baixar o **registro completo de assinaturas**.
 
 Essa funcionalidade é essencial para fins de auditoria, comprovação legal e rastreabilidade dos documentos assinados digitalmente via ArqSign.
 
