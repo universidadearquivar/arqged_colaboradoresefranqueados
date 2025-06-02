@@ -153,4 +153,117 @@ Quando o serviço ArqNFe for adicionado, serão exibidos os campos “**Pacote d
 
 <figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-&#x20;
+## Serviço ArqSign Plataforma
+
+### O que é o serviço ArqSign Plataforma
+
+A **ArqSign** é a **plataforma de gestão de processos com assinaturas digitais da Arquivar**, projetada para integrar, automatizar e monitorar o ciclo completo de trâmite de documentos. Muito além da assinatura eletrônica, a ArqSign permite controlar fluxos de envio, acompanhamento, recebimento, prazos, notificações e ações específicas relacionadas à formalização documental dentro de processos organizacionais.
+
+Ao integrar a ArqSign ao **ArqGED**, por meio de um **componente específico no Workflow**, o cliente pode configurar etapas inteligentes e automatizadas com regras claras sobre quando um documento deve ser enviado para assinatura, como será acompanhado, quem deve assinar e o que acontece caso ocorram recusas, atrasos ou vencimentos.
+
+Diferente de outros serviços oferecidos na plataforma, o ArqSign Plataforma **possui uma forma de cadastro exclusiva**, que requer atenção especial no momento da inclusão ao contrato do cliente no ArqGED.
+
+Ao selecionar o serviço **ArqSign Plataforma**, além das configurações habituais vistas nessa página, o sistema exigirá **campos específicos e validações adicionais**, como:
+
+* **ID da Conta ArqSign** (associada à plataforma)
+* **Validação ativa da conta e do plano em vigor**
+* **Cadastro dos subserviços** utilizados: **Envios**, **WhatsApp** e **SMS**
+
+Esses dados garantem que a comunicação entre o ArqGED e a plataforma ArqSign ocorra de maneira segura, eficiente e compatível com o plano contratado.
+
+{% hint style="danger" %}
+<mark style="color:red;">Para que o serviço funcione corretamente, a conta ArqSign vinculada precisa estar:</mark>
+
+* <mark style="color:red;">**Ativa**</mark> <mark style="color:red;"></mark><mark style="color:red;">e com</mark> <mark style="color:red;"></mark><mark style="color:red;">**plano vigente**</mark> <mark style="color:red;"></mark><mark style="color:red;">diretamente na plataforma ArqSign;</mark>
+* <mark style="color:red;">Em</mark> <mark style="color:red;"></mark><mark style="color:red;">**conformidade com o plano registrado no ArqGED**</mark><mark style="color:red;">;</mark>
+* <mark style="color:red;">Sem bloqueios ou divergências contratuais.</mark>
+
+<mark style="color:red;">Caso sejam identificadas inconsistências (ex.: plano vencido, bloqueado ou divergente), o ArqGED exibirá alertas automáticos e poderá realizar o</mark> <mark style="color:red;"></mark><mark style="color:red;">**ajuste automático da conta**</mark><mark style="color:red;">, conforme as regras previstas para cada cenário.</mark>
+{% endhint %}
+
+### Inclusão do serviço
+
+Ao selecionar o serviço **ArqSign Plataforma**, o sistema exibe os seguintes campos para informar os dados da conta ArqSign:
+
+* **ID Conta ArqSign**
+* **Ícone “Validar Conta”**
+* **Nome da Conta ArqSign**
+* **Ícone “Informações da Conta”**
+* **GRID para cadastro dos subserviços** (Envios, WhatsApp e SMS)
+
+#### ID Conta ArqSign
+
+O usuário deve informar o ID da conta ArqSign no campo “ID da Conta ArqSign” e clicar no ícone para validar a conta.
+
+**Regra:**\
+Uma conta ArqSign pode estar vinculada somente a um contrato-serviço no ArqGED.
+
+**Validações:**
+
+* **ID da conta inválido:**\
+  &#xNAN;_&#x45;rro! ID de conta ArqSign não existe._
+* **ID da conta usado em outro contrato:**\
+  &#xNAN;_&#x45;rro! Não é permitido associar um ID de conta ArqSign já associado a outro serviço vigente._
+
+Após validação bem-sucedida, o sistema retorna os dados da conta e, ao salvar, vincula essa conta ao serviço “ArqSign Plataforma” no contrato do cliente.
+
+#### Nome da Conta ArqSign
+
+Esse campo é preenchido automaticamente quando o ID da conta é validado com sucesso. O nome é exibido conforme os dados retornados e a situação da conta:
+
+* **Plano Divergente**
+  * Status = Ativo
+  * PeríodoFinal > data atual
+  * IdPlano ≠ IdPlanoArqSign
+* **Conta Bloqueada ou Plano Vencido**
+  * Status ≠ Ativo
+  * PeríodoFinal ≤ data atual
+* **Conta em conformidade**
+  * Status = Ativo
+  * PeríodoFinal > data atual
+  * IdPlano = IdPlanoArqSign
+
+#### Informações da Conta
+
+Ao clicar no ícone “Informações da Conta”, o sistema exibe uma modal com os dados retornados da validação. Dependendo da situação, a mensagem varia:
+
+**a) Plano Divergente**
+
+* _IMPORTANTE: Esta conta possui um plano diferente do faturado pelo ArqGED. Fique atento à sua vigência e aos créditos existentes no ArqSign para o fluxograma não parar de funcionar._
+* Campo: “**Ajustar a conta no ArqSign ao salvar o serviço no contrato**”\
+  &#xNAN;_(opcional)_
+
+**b) Conta Bloqueada ou Plano Vencido**
+
+* _IMPORTANTE: Esta conta não está mais ativa ou a data fim da assinatura está vencida. A conta será ajustada automaticamente ao incluir o serviço vinculada a mesma ao contrato._
+* **Neste caso, o ajuste é obrigatório e automático** (campo de ajuste não é exibido).
+
+**c) Conta em conformidade**
+
+* _IMPORTANTE: Conta em conformidade para uso no ArqGED._
+* **Nenhum campo adicional será exibido**.
+
+#### GRID para Cadastro dos Subserviços
+
+No GRID são listados os itens ArqSign adicionados ao serviço e que estarão disponíveis no Workflow:
+
+* **Envios**
+* **SMS**
+* **WhatsApp**
+
+**Condições por tipo de conta:**
+
+* **Plano Divergente:**
+  * Se o campo “Ajustar a conta no ArqSign...” **não estiver marcado**, só é possível incluir os itens contidos no plano atual da conta.
+  * Se o campo estiver **marcado**, é possível incluir todos os itens.
+* **Conta Bloqueada ou com Plano Vencido:**
+  * Permite incluir todos os itens, pois a conta será ajustada automaticamente ao salvar.
+* **Conta em Conformidade:**
+  * Permite incluir todos os itens.
+
+#### Ajuste da Conta ArqSign
+
+O ajuste da conta no ArqSign ocorre **automaticamente** ao salvar (inclusão ou edição) o serviço no contrato com status **POC** ou **Desbloqueado**, nas seguintes situações:
+
+* Conta com **Plano Divergente** e o usuário **marcou** a opção “Ajustar a conta...” na modal de informações;
+* Conta **Bloqueada** ou com **Plano Vencido**.
