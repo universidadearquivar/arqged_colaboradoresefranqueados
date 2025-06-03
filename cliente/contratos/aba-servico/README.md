@@ -169,6 +169,8 @@ Ao selecionar o serviço **Assinador** **ArqSign**, além das configurações ha
 * **Validação ativa da conta e do plano em vigor**
 * **Cadastro dos subserviços** utilizados: **Envios**, **WhatsApp** e **SMS**
 
+<figure><img src="../../../.gitbook/assets/image (308).png" alt=""><figcaption></figcaption></figure>
+
 Esses dados garantem que a comunicação entre o ArqGED e a plataforma ArqSign ocorra de maneira segura, eficiente e compatível com o plano contratado.
 
 {% hint style="danger" %}
@@ -194,6 +196,8 @@ Ao selecionar o serviço **Assinador ArqSign**, o sistema exibe os seguintes cam
 #### ID Conta ArqSign
 
 O usuário deve informar o ID da conta ArqSign no campo “ID da Conta ArqSign” e clicar no ícone para validar a conta.
+
+<figure><img src="../../../.gitbook/assets/image (309).png" alt=""><figcaption></figcaption></figure>
 
 **Regra:**\
 Uma conta ArqSign pode estar vinculada somente a um contrato-serviço no ArqGED.
@@ -225,7 +229,9 @@ Esse campo é preenchido automaticamente quando o ID da conta é validado com su
 
 #### Informações da Conta
 
-Ao clicar no ícone “Informações da Conta”, o sistema exibe uma modal com os dados retornados da validação. Dependendo da situação, a mensagem varia:
+<figure><img src="../../../.gitbook/assets/image (310).png" alt=""><figcaption></figcaption></figure>
+
+Ao clicar no ícone “Informações da Conta” <mark style="color:green;">(ícone verde com letra i ao centro)</mark>, o sistema exibe uma modal com os dados retornados da validação. Dependendo da situação, a mensagem varia:
 
 **a) Plano Divergente**
 
@@ -242,6 +248,8 @@ Ao clicar no ícone “Informações da Conta”, o sistema exibe uma modal com 
 
 * _IMPORTANTE: Conta em conformidade para uso no ArqGED._
 * **Nenhum campo adicional será exibido**.
+
+<figure><img src="../../../.gitbook/assets/image (311).png" alt=""><figcaption></figcaption></figure>
 
 #### GRID para Cadastro dos Subserviços
 
