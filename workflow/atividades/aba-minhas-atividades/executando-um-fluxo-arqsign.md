@@ -20,7 +20,7 @@ Durante esse período, os usuários podem **monitorar o andamento do processo de
 * **Reenviar o processo**, caso o link de assinatura tenha expirado antes da conclusão;
 * **Editar signatários** que ainda não assinaram.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 #### Interação com Token e Signatários
 

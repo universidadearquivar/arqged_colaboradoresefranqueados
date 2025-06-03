@@ -118,7 +118,7 @@ O faturamento parcelado é cobrado uma única vez, podendo ser parcelado ou não
 
 **Quantidade para o Limite Gratuito:** Neste campo deve ser informada a quantidade de requisições que podem ser realizadas (via API) no dia ou no mês de forma gratuita.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 O faturamento para a quantidade do serviço ArqAPI, segue o mesmo padrão dos demais softwares que usam a combinação de campos: &#x20;
 
@@ -258,6 +258,28 @@ No GRID são listados os itens ArqSign adicionados ao serviço e que estarão di
 * **Envios**
 * **SMS**
 * **WhatsApp**
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+* **Coluna Nome do Espelho** _(Obrigatório)_**:** Exibe o nome do campo que será exibido no relatório de faturamento.
+
+<figure><img src="../../../.gitbook/assets/image (314).png" alt=""><figcaption></figcaption></figure>
+
+* **Coluna Nome do Item** _(Obrigatório)_**:** Exibe o nome do item ArqSign.
+
+<figure><img src="../../../.gitbook/assets/image (313).png" alt=""><figcaption></figcaption></figure>
+
+* **Coluna Pacote Periódico - Preço** _(opcional)_**:** Valor configurado para quando o item é cobrado de forma recorrente (mesmo padrão dos outros serviços).
+
+<figure><img src="../../../.gitbook/assets/image (315).png" alt=""><figcaption></figcaption></figure>
+
+* **Coluna Pacote Unitário - Preço** _(obrigatório)_**:** Valor configurado para quando o item é cobrado de forma unitária  (mesmo padrão dos outros serviços).
+
+<figure><img src="../../../.gitbook/assets/image (316).png" alt=""><figcaption></figcaption></figure>
+
+**Visão geral da janela**
+
+<figure><img src="../../../.gitbook/assets/image (312).png" alt=""><figcaption></figcaption></figure>
 
 **Condições por tipo de conta:**
 
