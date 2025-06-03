@@ -74,7 +74,7 @@ Serviço de digitalização de páginas.&#x20;
 <mark style="color:orange;">**Neste serviço, o ideal é que seja cadastrada pelo menos a cobrança de pacote unitário, mesmo que não haja cobrança de mensalidade periódica.**</mark>
 {% endhint %}
 
-### ArqSIGN
+### Assinador ArqGED: ArqGED (Antigo ArqSIGN no ArqGED)
 
 Habilita o serviço de assinatura eletrônica de documentos que não estejam vinculados a nenhum fluxo dentro do sistema.
 
@@ -86,7 +86,7 @@ Habilita o serviço de assinatura eletrônica de documentos que não estejam vin
 <mark style="color:orange;">**Neste serviço, o ideal é que seja cadastrada pelo menos a cobrança de pacote unitário, mesmo que não haja cobrança de mensalidade periódica.**</mark>
 {% endhint %}
 
-### ArqSIGN no ArqFLOW
+### Assinador ArqGED: ArqFLOW (Antigo ArqSIGN no ArqFLOW)
 
 Habilita o serviço de assinatura eletrônica de documentos. A diferença deste serviço para o serviço “ArqSIGN” é que neste caso, são contabilizadas as assinaturas realizadas em documentos dentro de algum fluxo do ArqFLOW.
 
