@@ -153,17 +153,17 @@ Quando o serviço ArqNFe for adicionado, serão exibidos os campos “**Pacote d
 
 <figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-## Serviço ArqSign Plataforma
+## Serviço Assinador ArqSign&#x20;
 
-### O que é o serviço ArqSign Plataforma
+### O que é o serviço Assinador ArqSign&#x20;
 
 A **ArqSign** é a **plataforma de gestão de processos com assinaturas digitais da Arquivar**, projetada para integrar, automatizar e monitorar o ciclo completo de trâmite de documentos. Muito além da assinatura eletrônica, a ArqSign permite controlar fluxos de envio, acompanhamento, recebimento, prazos, notificações e ações específicas relacionadas à formalização documental dentro de processos organizacionais.
 
 Ao integrar a ArqSign ao **ArqGED**, por meio de um **componente específico no Workflow**, o cliente pode configurar etapas inteligentes e automatizadas com regras claras sobre quando um documento deve ser enviado para assinatura, como será acompanhado, quem deve assinar e o que acontece caso ocorram recusas, atrasos ou vencimentos.
 
-Diferente de outros serviços oferecidos na plataforma, o ArqSign Plataforma **possui uma forma de cadastro exclusiva**, que requer atenção especial no momento da inclusão ao contrato do cliente no ArqGED.
+Diferente de outros serviços oferecidos na plataforma, o Assinador ArqSign **possui uma forma de cadastro exclusiva**, que requer atenção especial no momento da inclusão ao contrato do cliente no ArqGED.
 
-Ao selecionar o serviço **ArqSign Plataforma**, além das configurações habituais vistas nessa página, o sistema exigirá **campos específicos e validações adicionais**, como:
+Ao selecionar o serviço **Assinador** **ArqSign**, além das configurações habituais vistas nessa página, o sistema exigirá **campos específicos e validações adicionais**, como:
 
 * **ID da Conta ArqSign** (associada à plataforma)
 * **Validação ativa da conta e do plano em vigor**
@@ -183,7 +183,7 @@ Esses dados garantem que a comunicação entre o ArqGED e a plataforma ArqSign o
 
 ### Inclusão do serviço
 
-Ao selecionar o serviço **ArqSign Plataforma**, o sistema exibe os seguintes campos para informar os dados da conta ArqSign:
+Ao selecionar o serviço **Assinador ArqSign**, o sistema exibe os seguintes campos para informar os dados da conta ArqSign:
 
 * **ID Conta ArqSign**
 * **Ícone “Validar Conta”**
@@ -205,7 +205,7 @@ Uma conta ArqSign pode estar vinculada somente a um contrato-serviço no ArqGED.
 * **ID da conta usado em outro contrato:**\
   &#xNAN;_&#x45;rro! Não é permitido associar um ID de conta ArqSign já associado a outro serviço vigente._
 
-Após validação bem-sucedida, o sistema retorna os dados da conta e, ao salvar, vincula essa conta ao serviço “ArqSign Plataforma” no contrato do cliente.
+Após validação bem-sucedida, o sistema retorna os dados da conta e, ao salvar, vincula essa conta ao serviço “Assinador ArqSign" no contrato do cliente.
 
 #### Nome da Conta ArqSign
 
