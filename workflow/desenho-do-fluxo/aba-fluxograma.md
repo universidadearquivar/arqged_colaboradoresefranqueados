@@ -32,7 +32,7 @@ Conecta as etapas do fluxo. Deve ser inserido ligando uma tarefa à outra no des
 ### Configurações do Conector de Decisão tipo Gateway Exclusivo
 
 * **Avançar Automaticamente**: Ao marcar esta opção, o campo numérico “% Atraso” ficará habilitado para o usuário informar o % de atraso para que a decisão avance para este caminho de forma automática conforme o tempo de atraso. &#x20;
-* **Condição para este avanço:** Selecione esta opção caso deseje que o fluxo avance automaticamente a partir da condição de preenchimento de um campo específico do formulário. &#x20;
+* **Condição para este campo:** Selecione esta opção caso deseje que o fluxo avance automaticamente a partir da condição de preenchimento de um campo específico do formulário. &#x20;
 * **Quando o campo:** Neste campo já virá preenchido de forma automática o campo do formulário informado nas configurações da tarefa do tipo Gateway Exclusivo associada ao conector.&#x20;
 * **For**: Este campo será do tipo dropdown e terão os seguintes valores: “=”, “>=”, “<=” e “<>”. &#x20;
 * **Ao valor:** Este campo sempre irá obedecer ao formato do campo que está sendo exibido no “Campo do formulário”. Ou seja, se o “Campo do formulário” for um campo de lista do tipo lista, este campo deverá ser exibido como dropdown exibindo as opções existentes para ele. Se o “Campo do formulário” for numérico, este campo deverá ser exibido no formato numérico. Se o “Campo do formulário” for monetário, este campo deverá ser exibido no formato monetário.&#x20;
