@@ -231,7 +231,7 @@ Esse campo é preenchido automaticamente quando o ID da conta é validado com su
 
 <figure><img src="../../../.gitbook/assets/image (310).png" alt=""><figcaption></figcaption></figure>
 
-Ao clicar no ícone “Informações da Conta” <mark style="color:green;">(ícone verde com letra i ao centro)</mark>, o sistema exibe uma modal com os dados retornados da validação. Dependendo da situação, a mensagem varia:
+Ao clicar no ícone “Informações da Conta” <mark style="color:green;">(ícone verde com letra "i" ao centro)</mark>, o sistema exibe uma modal com os dados retornados da validação. Dependendo da situação, a mensagem varia:
 
 **a) Plano Divergente**
 
@@ -239,17 +239,21 @@ Ao clicar no ícone “Informações da Conta” <mark style="color:green;">(íc
 * Campo: “**Ajustar a conta no ArqSign ao salvar o serviço no contrato**”\
   &#xNAN;_(opcional)_
 
+<figure><img src="../../../.gitbook/assets/image (317).png" alt=""><figcaption></figcaption></figure>
+
 **b) Conta Bloqueada ou Plano Vencido**
 
 * _IMPORTANTE: Esta conta não está mais ativa ou a data fim da assinatura está vencida. A conta será ajustada automaticamente ao incluir o serviço vinculada a mesma ao contrato._
 * **Neste caso, o ajuste é obrigatório e automático** (campo de ajuste não é exibido).
+
+<figure><img src="../../../.gitbook/assets/image (318).png" alt=""><figcaption></figcaption></figure>
 
 **c) Conta em conformidade**
 
 * _IMPORTANTE: Conta em conformidade para uso no ArqGED._
 * **Nenhum campo adicional será exibido**.
 
-<figure><img src="../../../.gitbook/assets/image (311).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (319).png" alt=""><figcaption></figcaption></figure>
 
 #### GRID para Cadastro dos Subserviços
 
