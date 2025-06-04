@@ -183,6 +183,14 @@ Esses dados garantem que a comunicação entre o ArqGED e a plataforma ArqSign o
 <mark style="color:red;">Caso sejam identificadas inconsistências (ex.: plano vencido, bloqueado ou divergente), o ArqGED exibirá alertas automáticos e poderá realizar o</mark> <mark style="color:red;"></mark><mark style="color:red;">**ajuste automático da conta**</mark><mark style="color:red;">, conforme as regras previstas para cada cenário.</mark>
 {% endhint %}
 
+### Limites e Métricas do Serviço/Sistema
+
+<table><thead><tr><th width="221">Ação</th><th width="369">Descrição</th><th width="140">Métrica</th></tr></thead><tbody><tr><td>Cadastro de Documento</td><td>Tamanho máximo permitido para um arquivo individual no momento do cadastro.</td><td>500 MB</td></tr><tr><td>Download em Massa</td><td>Tamanho máximo permitido para o download em massa de arquivos.</td><td>500 MB</td></tr><tr><td>Assinatura ArqSign</td><td>Quantidade máxima de arquivos enviados em um único processo de assinatura na ArqSign.</td><td>25 Arquivos</td></tr><tr><td>Assinatura ArqSign</td><td>Tamanho máximo da soma dos arquivos em um único processo de assinatura na ArqSign.</td><td>100 MB</td></tr><tr><td>Assinatura ArqGED</td><td>Quantidade máxima de arquivos enviados simultaneamente para a fila de assinatura da ArqGED.</td><td>300 Arquivos</td></tr><tr><td>Localização Avançada</td><td>Exportação de documentos para arquivos CSV sem geração de download em massa.</td><td>20000 registros</td></tr><tr><td>Localização Avançada</td><td>Exportação de documentos para arquivos CSV com geração de download em massa.</td><td>de 20000 registros até 1.000.000 registros*</td></tr></tbody></table>
+
+{% hint style="info" %}
+\*Acima de 1.000.000 de registros, é necessário abrir chamado para o suporte técnico.
+{% endhint %}
+
 ### Inclusão do serviço
 
 Ao selecionar o serviço **Assinador ArqSign**, o sistema exibe os seguintes campos para informar os dados da conta ArqSign:
