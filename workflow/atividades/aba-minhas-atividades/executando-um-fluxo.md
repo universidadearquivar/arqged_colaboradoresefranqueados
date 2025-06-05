@@ -451,3 +451,33 @@ Caso o idioma escolhido seja Inglês, a tela será apresentada nesse idioma e se
 {% hint style="warning" %}
 <mark style="color:orange;">**Quando uma tarefa externa cobra mais de uma obrigatoriedade de assinatura (Assinar Anexo do Fluxo, Assinar Avanço, Assinar Anexo do Registro, Assinar Anexos enviados e Assinar modelo), ao assinar na tarefa o usuário estará cumprindo todas as obrigatoriedades de uma só vez, não sendo necessário que ele execute a ação mais de uma vez.**</mark>
 {% endhint %}
+
+## Tarefas Obrigatórias - Serviço Assinatura ArqSign
+
+Algumas etapas de fluxos que utilizam a integração com a **Plataforma ArqSign** poderão apresentar **tarefas obrigatórias**, dependendo das configurações aplicadas na etapa do tipo ArqSign. As tarefas abaixo podem ser exigidas durante a execução do fluxo:
+
+**1. Inserir Comentário**
+
+A tarefa de **inserir comentário** será exibida nos seguintes casos, desde que a etapa esteja configurada com a obrigatoriedade de comentário:
+
+* Ao cancelar o processo enviado para assinatura na ArqSign.
+* Ao atualizar o token expirado do processo.
+* Ao editar os signatários que ainda não assinaram.
+
+{% hint style="warning" %}
+**Importante:** A exigência de comentário **não é obrigatória por padrão**, sendo uma configuração opcional que pode ser habilitada por etapa.
+{% endhint %}
+
+Sempre que a obrigatoriedade estiver ativa, o sistema exibirá um campo para que o usuário justifique a ação antes de prosseguir.
+
+<figure><img src="../../../.gitbook/assets/image.png" alt="" width="379"><figcaption></figcaption></figure>
+
+**2. Enviar Processo ArqSign**
+
+Quando o fluxo alcançar uma etapa do tipo ArqSign, o sistema poderá exigir o envio manual do processo à ArqSign, dependendo da lógica de configuração da etapa.
+
+O(s) botão(ões) <mark style="color:blue;">**\[Enviar/Reenviar/Editar Processo ArqSign]**</mark> será exibido na tarefa, e o usuário deverá acionar essa opção para que o processo de assinatura seja iniciado.
+
+{% hint style="success" %}
+Uma vez enviado, o processo passará a ser acompanhado automaticamente pelo ArqGED, e a tarefa de acompanhamento ficará disponível aos responsáveis configurados na etapa.
+{% endhint %}
