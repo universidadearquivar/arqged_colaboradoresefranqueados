@@ -256,7 +256,7 @@ As obrigatoriedades das tarefas são ações que devem ser realizadas para a con
 
 2\. Na aba “Anexos” selecione o documento que será compartilhado e clique no ícone “Compartilhar”.&#x20;
 
-<figure><img src="../../../.gitbook/assets/obrig18.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (321).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 3\. Defina se o compartilhamento será por prazo indeterminado ou determinado. Se for determinado, informe a data final de validade (até quando o link de compartilhamento ficará disponível) e clique em Compartilhar.&#x20;
 
@@ -278,9 +278,9 @@ As obrigatoriedades das tarefas são ações que devem ser realizadas para a con
 
 <figure><img src="../../../.gitbook/assets/obrig2.png" alt=""><figcaption></figcaption></figure>
 
-2\. Na aba "Anexos do Documento" selecione na coluna “Assinar” do documento que deve ser assinado.&#x20;
+2\. Na aba "Anexos" selecione na coluna “Assinar” do documento que deve ser assinado.&#x20;
 
-<figure><img src="../../../.gitbook/assets/obrig21.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ScreenRecorderProject86 (1).gif" alt=""><figcaption></figcaption></figure>
 
 3\. Feche a janela e retorne para a tela da tarefa.&#x20;
 
