@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # ➡️ Executando um fluxo - ArqSign
 
 ## Envio dos Documentos para Assinatura via ArqSign
