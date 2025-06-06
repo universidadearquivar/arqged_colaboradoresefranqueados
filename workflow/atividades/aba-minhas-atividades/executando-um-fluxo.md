@@ -36,13 +36,13 @@ As obrigatoriedades das tarefas são ações que devem ser realizadas para a con
 <mark style="color:orange;">**A maior parte das tarefas não apresentará todas as obrigatoriedades. Para verificar quais são as obrigatoriedades da tarefa exigidas, clique sobre o ícone “Obrigatoriedades da tarefa” durante a execução do fluxo.**</mark>
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="309"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="309"><figcaption></figcaption></figure>
 
 ### 1. Anexos
 
 1\. Clique no ícone "Anexos" para adicionar um anexo.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2\. Na aba "Anexos", clique no ícone de upload.&#x20;
 
@@ -477,6 +477,8 @@ Sempre que a obrigatoriedade estiver ativa, o sistema exibirá um campo para que
 Quando o fluxo alcançar uma etapa do tipo ArqSign, o sistema poderá exigir o envio manual do processo à ArqSign, dependendo da lógica de configuração da etapa.
 
 O(s) botão(ões) <mark style="color:blue;">**\[Enviar/Reenviar/Editar Processo ArqSign]**</mark> será exibido na tarefa, e o usuário deverá acionar essa opção para que o processo de assinatura seja iniciado.
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 Uma vez enviado, o processo passará a ser acompanhado automaticamente pelo ArqGED, e a tarefa de acompanhamento ficará disponível aos responsáveis configurados na etapa.
