@@ -122,9 +122,9 @@ As obrigatoriedades das tarefas são ações que devem ser realizadas para a con
 
 <figure><img src="../../../.gitbook/assets/obrig2.png" alt=""><figcaption></figcaption></figure>
 
-2\. Na aba “Anexos do Fluxo” selecione o anexo do fluxo que deseja disponibilizar para assinatura externa marcando o checkbox no campo "Assinar".&#x20;
+2\. Na aba “Anexos” selecione o anexo do fluxo que deseja disponibilizar para assinatura externa arrastando o documento para a área "Selecionados para assinar/visualizar".&#x20;
 
-<figure><img src="../../../.gitbook/assets/obrig8.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ScreenRecorderProject86.gif" alt=""><figcaption></figcaption></figure>
 
 3\. Feche a janela e retorne para a tela da tarefa.&#x20;
 
