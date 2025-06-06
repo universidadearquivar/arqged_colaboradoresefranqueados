@@ -62,7 +62,7 @@ As obrigatoriedades das tarefas são ações que devem ser realizadas para a con
 
 1\. Clique no ícone "Anexos".&#x20;
 
-<figure><img src="../../../.gitbook/assets/obrig2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (320).png" alt=""><figcaption></figcaption></figure>
 
 2\. Na aba "Anexos do Fluxo", clique no ícone “Assinar”. É possível realizar a assinatura em lote clicando no ícone de "Assinar". Depois, selecione entre "Assinar os arquivos selecionados no GRID" ou "Assinar todos os arquivos do GRID (Limitado a 300)".&#x20;
 
