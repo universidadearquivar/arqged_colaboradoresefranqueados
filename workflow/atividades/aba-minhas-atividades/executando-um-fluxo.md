@@ -64,7 +64,7 @@ As obrigatoriedades das tarefas são ações que devem ser realizadas para a con
 
 <figure><img src="../../../.gitbook/assets/image (320).png" alt=""><figcaption></figcaption></figure>
 
-2\. Na aba "Anexos do Fluxo", clique no ícone “Assinar”. É possível realizar a assinatura em lote clicando no ícone de "Assinar". Depois, selecione entre "Assinar os arquivos selecionados no GRID" ou "Assinar todos os arquivos do GRID (Limitado a 300)".&#x20;
+2\. Na aba "Anexos", clique no ícone “Assinar”. É possível realizar a assinatura em lote clicando no ícone de "Assinar". Depois, selecione entre "Assinar os arquivos selecionados no GRID" ou "Assinar todos os arquivos do GRID (Limitado a 300)".&#x20;
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Só é possível assinar em lote arquivos que estejam no mesmo fluxo.**</mark> &#x20;
@@ -94,7 +94,7 @@ As obrigatoriedades das tarefas são ações que devem ser realizadas para a con
 
 <figure><img src="../../../.gitbook/assets/obrig2.png" alt=""><figcaption></figcaption></figure>
 
-2\. Na aba "Anexos do Fluxo", clique no ícone “Assinar”. É possível realizar a assinatura em lote clicando no ícone de "Assinar". Depois, selecione entre "Assinar os arquivos selecionados no GRID" ou "Assinar todos os arquivos do GRID (Limitado a 300)".&#x20;
+2\. Na aba "Anexos", clique no ícone “Assinar”. É possível realizar a assinatura em lote clicando no ícone de "Assinar". Depois, selecione entre "Assinar os arquivos selecionados no GRID" ou "Assinar todos os arquivos do GRID (Limitado a 300)".&#x20;
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Só é possível assinar em lote arquivos que estejam no mesmo fluxo.**</mark> &#x20;
@@ -228,7 +228,7 @@ As obrigatoriedades das tarefas são ações que devem ser realizadas para a con
 
 <figure><img src="../../../.gitbook/assets/obrig2.png" alt=""><figcaption></figcaption></figure>
 
-2\. Na aba "Anexos do Fluxo", clique no ícone “Assinar”. É possível realizar a assinatura em lote clicando no ícone de "Assinar". Depois, selecione entre "Assinar os arquivos selecionados no GRID" ou "Assinar todos os arquivos do GRID (Limitado a 300)".&#x20;
+2\. Na aba "Anexos", clique no ícone “Assinar”. É possível realizar a assinatura em lote clicando no ícone de "Assinar". Depois, selecione entre "Assinar os arquivos selecionados no GRID" ou "Assinar todos os arquivos do GRID (Limitado a 300)".&#x20;
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Só é possível assinar em lote arquivos que estejam no mesmo fluxo.**</mark> &#x20;
@@ -254,7 +254,7 @@ As obrigatoriedades das tarefas são ações que devem ser realizadas para a con
 
 <figure><img src="../../../.gitbook/assets/obrig2.png" alt=""><figcaption></figcaption></figure>
 
-2\. Na aba “Anexos do Documento” selecione o documento que será compartilhado e clique no ícone “Compartilhar”.&#x20;
+2\. Na aba “Anexos” selecione o documento que será compartilhado e clique no ícone “Compartilhar”.&#x20;
 
 <figure><img src="../../../.gitbook/assets/obrig18.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
