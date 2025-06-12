@@ -10,7 +10,7 @@ Sempre que o usuário acessar esta tela, no período fechado ou já faturado par
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-{% embed url="https://app.supademo.com/demo/cm9a7qk4l29e2pxcbo054ucmn" %}
+{% embed url="https://app.supademo.com/demo/cmbrzp39zcv5tsn1rir1ixgpg" %}
 
 ### Faturamento período "Em aberto"
 
