@@ -1,5 +1,7 @@
 # 🏭 Produção
 
+{% embed url="https://app.heygen.com/share/ed2dc822591a4cf9a205413977a036dd" %}
+
 O menu Produção refere-se ao módulo ArqIndex do ArqGED. Este menu refere-se à configuração do processo de indexação dos documentos, como controle de filas de trabalho, configuração das etapas de indexação e possíveis correções de documentos digitalizados.&#x20;
 
 Quando os documentos de um cliente são digitalizados por este menu, é possível acompanhar todo o processo de digitalização, desde a criação dos documentos, indexação dos metadados e sua exportação para a aplicação ArqGED.&#x20;
