@@ -1,5 +1,7 @@
 # 🏬 Cliente
 
+{% embed url="https://app.heygen.com/share/4954469866944638b05da6fa13dd7cb0" %}
+
 No menu Cliente são cadastradas todas as informações sobre o cliente, como dados comerciais, endereço, tempo de atendimento (SLA), entre outras.&#x20;
 
 Esse menu é de visualização exclusiva da Arquivar Master e das unidades franqueadas.
