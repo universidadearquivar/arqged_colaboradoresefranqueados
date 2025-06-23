@@ -1,5 +1,7 @@
 # 📄 Árvore Documental
 
+{% embed url="https://app.heygen.com/share/90dcf4c732e6413db22608f9de9db762" %}
+
 A Árvore Documental é a estrutura que organiza os tipos documentais do cliente. A empresa do cliente é formada por diversos departamentos. Cada um dos departamentos possui documentos específicos do setor e a árvore documental é que organiza esses documentos.  &#x20;
 
 O objetivo da Árvore Documental é organizar todos os tipos de documentos que a empresa utiliza de acordo com a sua estrutura organizacional. &#x20;
