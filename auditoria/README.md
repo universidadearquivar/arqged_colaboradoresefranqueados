@@ -1,6 +1,6 @@
 # 🔍 Auditoria
 
-{% embed url="https://app.heygen.com/share/67ca5f7c511048d88c5a5e8df5a0c939" %}
+{% embed url="https://app.heygen.com/share/14a12ad16c1345fa8d2f1e0de299dd7f" %}
 
 No menu Auditoria são apresentadas as regras de auditoria criadas para os clientes para indicar documentos faltantes. O menu Auditoria é composto pelos seguintes submenus:
 
