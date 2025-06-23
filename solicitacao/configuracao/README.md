@@ -1,5 +1,7 @@
 # 🟩 Configuração
 
+{% embed url="https://app.heygen.com/share/beb5ba8b941a481aa9e91dc179780e45" %}
+
 Neste menu é realizada a configuração do Fluxo de Solicitações e Devoluções do cliente, ou seja, aqui são definidos os processos que serão realizados no sistema para atendimento das demandas do cliente.
 
 {% hint style="danger" %}
