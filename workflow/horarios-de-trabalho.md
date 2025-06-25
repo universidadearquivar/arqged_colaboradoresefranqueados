@@ -1,5 +1,7 @@
 # 🟩 Horários de Trabalho
 
+{% embed url="https://app.supademo.com/demo/cmacv3p167ro913m0k48e2mox" %}
+
 O menu Horários de Trabalho objetiva sinalizar ao sistema informações importantes que devem ser consideradas sobre o prazo de execução das tarefas. Neste menu deve ser cadastrado o horário de expediente das unidades e setores da empresa. &#x20;
 
 O cadastro dos horários de trabalho é importante para que o sistema considere o expediente da empresa ou de um funcionário ao fazer a contagem do prazo para execução das tarefas. Empresas com mais de uma unidade, por exemplo, podem ter expedientes diferentes, ou mesmo setores de uma mesma unidade podem funcionar em horários distintos. &#x20;
