@@ -1,5 +1,7 @@
 # 🟩 Grupo de Usuários
 
+{% embed url="https://app.supademo.com/demo/cmae139gi068h4s1bvu67xjk0" %}
+
 Grupos de Usuários no WorkFlow são um conjunto de usuários que serão responsáveis por uma tarefa durante a execução de um processo. Muitas vezes uma tarefa pode ser executada por qualquer um dos membros de um setor, ou uma mesma tarefa demanda que mais de uma pessoa a execute devido à complexidade da sua execução, por exemplo. Nestes casos a tarefa será delegada a um grupo de pessoas e não a um usuário específico.&#x20;
 
 &#x20;A distribuição de tarefas delegadas a um grupo a seus membros será determinada durante a [Configuração da Tarefa no Desenho do Fluxo.](desenho-do-fluxo/aba-fluxograma.md#configuracoes-da-tarefa)
