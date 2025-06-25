@@ -1,5 +1,7 @@
 # 🟩 Árvore Organizacional
 
+{% embed url="https://app.supademo.com/demo/cmao566e10r5rho3rfk61k3b3" %}
+
 No menu Árvore Organizacional serão organizadas as informações da árvore do cliente (selecionado no campo “Cliente”) definidas anteriormente nos menus Tipo de Estrutura, Estrutura do Cliente, Estrutura Organizacional e Campo Customizado. Por meio da estrutura de árvore é possível separar os documentos por filial, área, e/ou departamento e ainda restringir acessos de usuários conforme os níveis da árvore.​
 
 <figure><img src="../.gitbook/assets/arvore9.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
