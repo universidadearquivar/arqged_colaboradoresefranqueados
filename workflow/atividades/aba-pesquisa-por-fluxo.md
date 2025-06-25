@@ -1,5 +1,7 @@
 # 🔹 Aba Pesquisa por Fluxo
 
+{% embed url="https://app.supademo.com/demo/cmab73fg16iu413m0k96yvi18" %}
+
 A aba Pesquisa por Fluxo permite que o usuário aplique filtros e realize buscas de fluxos existentes no sistema, inclusive fluxos já encerrados ou cancelados. Permite também a exportação do resultado da pesquisa para o Excel.&#x20;
 
 Para realizar a pesquisa, preencha os campos de filtro no lado esquerdo da tela para realizar a pesquisa. É possível utilizar os seguintes filtros para pesquisa: &#x20;
