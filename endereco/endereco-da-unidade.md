@@ -1,5 +1,7 @@
 # 🟩 Endereço da Unidade
 
+{% embed url="https://app.supademo.com/demo/cmb9rm2js19xssn1rdnnlczex" %}
+
 Na tela Endereço da Unidade são mostradas todas as unidades Arquivar.
 
 {% hint style="warning" %}
@@ -78,15 +80,7 @@ Ao ser criado o quadrante, no lado esquerdo da tela serão exibidos os lotes de 
 
 Nesta aba também é possível baixar uma lista com todos os endereços automáticos, bloqueados, livres e manuais disponíveis na unidade.&#x20;
 
-<div>
-
-<figure><img src="../.gitbook/assets/endereco10.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/endereco11.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/endereco10.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure> <figure><img src="../.gitbook/assets/endereco11.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure></div>
 
 ***
 
