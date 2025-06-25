@@ -1,5 +1,7 @@
 # 🟩 Ordenação Campos
 
+{% embed url="https://app.supademo.com/demo/cmapc0b9m1kc9ho3rg1frurjz" %}
+
 A Ordenação de Campos da Árvore Documental é utilizada para a funcionalidade de download em massa e para mudar a ordem de indexação dos campos de um tipo documental.&#x20;
 
 Para exibir um documento e mudar a ordem, selecione o Cliente, o Universo de Trabalho e a Árvore Organizacional. &#x20;
