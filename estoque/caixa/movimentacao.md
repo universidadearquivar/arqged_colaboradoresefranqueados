@@ -1,5 +1,7 @@
 # 🔹 Movimentação
 
+{% embed url="https://app.supademo.com/demo/cmbf0kbu13cpbsn1rtwtisoua" %}
+
 No menu Movimentação são lançadas as movimentações de entrada (compra) e saída (descarte) das caixas.  &#x20;
 
 {% hint style="warning" %}
