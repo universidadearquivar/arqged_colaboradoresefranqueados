@@ -1,5 +1,7 @@
 # 🟩 Endereços
 
+{% embed url="https://app.supademo.com/demo/cmbqx71lpc3jmsn1re52yh7lw" %}
+
 A tela Endereços é uma tela informativa, utilizada somente para apresentar os endereços físicos das unidades cadastradas. &#x20;
 
 As colunas da tela principal da aba Endereços apresentam o logradouro, bairro, cidade e estado da unidade. A coluna “Endereço” informa se aquele endereço é o principal da unidade ou se trata-se do endereço de uma filial, por exemplo.&#x20;
