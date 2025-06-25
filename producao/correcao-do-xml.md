@@ -1,5 +1,7 @@
 # 🟩 Correção do XML
 
+{% embed url="https://app.supademo.com/demo/cmb81f5ln5enzppkpyun42zy5" %}
+
 Esta tela foi criada para a correção de possíveis erros na validação dos documentos gerados pela digitalização.
 
 Durante o processo de leitura do XML são realizadas validações no arquivo XML. A aplicação ArqIndex valida códigos de caixas, árvore documental, campos customizados e os Id's do cliente e da Unidade.
@@ -10,7 +12,7 @@ Caso haja alguma inconsistência no arquivo gerado pela digitalização, ao ler 
 <mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">No início do processo de digitalização, o operador responsável pela operação precisa informar alguns dados referentes ao documento que está sendo digitalizado, como código da caixa em que a versão física será arquivada, informações sobre a árvore documental, etc. Se o número da caixa física for informado erroneamente pelo operador, ao fazer a leitura do arquivo XML, o sistema informará que a caixa não existe, enviando o lote de documentos para correção.</mark>
 {% endhint %}
 
-&#x20;Depois de selecionar o Local de Trabalho e a Empresa, são exibidos todos os arquivos XML com erro que não puderam ser processados. Caso seja escolhida uma unidade Arquivar, serão exibidos todos os arquivos de clientes com erro. &#x20;
+Depois de selecionar o Local de Trabalho e a Empresa, são exibidos todos os arquivos XML com erro que não puderam ser processados. Caso seja escolhida uma unidade Arquivar, serão exibidos todos os arquivos de clientes com erro. &#x20;
 
 <figure><img src="../.gitbook/assets/conf17.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
