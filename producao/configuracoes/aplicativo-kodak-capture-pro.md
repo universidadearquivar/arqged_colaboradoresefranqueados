@@ -10,6 +10,8 @@ Depois de instalado o aplicativo ArqIndex, é preciso configurar o aplicativo do
 
 ## Configuração de trabalho
 
+{% embed url="https://app.supademo.com/demo/cmb6un73b48fzppkp0nimkfwo" %}
+
 Esta é a configuração da estrutura de saída do arquivo, ou seja, a estrutura de pastas onde as imagens que serão digitalizadas pelo scanner ficarão armazenadas. Para iniciar, clique em Arquivo > Configuração de trabalho.&#x20;
 
 <figure><img src="../../.gitbook/assets/app13.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
@@ -168,6 +170,8 @@ Insira na coluna “Índices atuais” as seguintes informações e clique em OK
 ***
 
 ## Realizando uma indexação no aplicativo Kodak Capture Pro&#x20;
+
+{% embed url="https://app.supademo.com/demo/cmb7x154458x8ppkpug4oseko" %}
 
 Depois de conectar o scanner devidamente e inserir os documentos que devem ser digitalizados na bandeja do scanner, clique no ícone “Novo lote” para iniciar a digitalização.&#x20;
 
