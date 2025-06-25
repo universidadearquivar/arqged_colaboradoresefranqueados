@@ -1,5 +1,7 @@
 # 🟩 Alocar e Desalocar
 
+{% embed url="https://app.supademo.com/demo/cmb9h8mjo11e3sn1r6nrwh25j" %}
+
 Neste menu é definido o endereço para uma caixa ou pasta ser alocada e pode também ser retirado o endereço de uma caixa ou pasta.&#x20;
 
 ## Caixa da Unidade&#x20;
