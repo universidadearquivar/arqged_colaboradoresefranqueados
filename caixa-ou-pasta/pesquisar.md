@@ -1,5 +1,7 @@
 # 🟩 Pesquisar
 
+{% embed url="https://app.supademo.com/demo/cmb88nbua5o0tppkpuwwsfk8g" %}
+
 É possível pesquisar informações sobre as caixas alocadas. &#x20;
 
 Para realizar uma Pesquisa Simplificada, informe o “Cliente”, a “Unidade” e o código da caixa ou pasta e clique em “Pesquisar”.&#x20;
