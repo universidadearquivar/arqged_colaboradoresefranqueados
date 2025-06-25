@@ -1,5 +1,7 @@
 # 🔹 Fluxo de Solicitação
 
+{% embed url="https://app.supademo.com/demo/cm88wi82j00axxqhlxvfgxjho" %}
+
 Nesta tela são exibidos todos os fluxos da unidade ou cliente selecionado no campo “Empresa”.&#x20;
 
 <figure><img src="../../.gitbook/assets/solicita01.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
