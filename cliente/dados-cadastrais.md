@@ -1,5 +1,7 @@
 # 🟩 Dados Cadastrais
 
+{% embed url="https://app.supademo.com/demo/cmbf5eykj3jjzsn1rc135q9mk" %}
+
 No menu Dados Cadastrais são exibidas todas as informações dos clientes da unidade selecionada no campo “Unidade”.&#x20;
 
 <figure><img src="../.gitbook/assets/clientes8.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
