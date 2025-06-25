@@ -1,5 +1,7 @@
 # 🟩 Download em Massa
 
+{% embed url="https://app.supademo.com/demo/cmb0qo5q510ktppkp9gzvahet" %}
+
 Nos três tipos de pesquisa de documento (Explorar, Localização Simples e Localização Avançada) é oferecido ao usuário a opção de solicitar o download em massa dos arquivos associados aos documentos localizados.&#x20;
 
 <figure><img src="../.gitbook/assets/documento13.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
