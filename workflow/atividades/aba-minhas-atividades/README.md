@@ -1,5 +1,7 @@
 # 🔹 Aba Minhas Atividades
 
+{% embed url="https://app.supademo.com/demo/cma2kc5jz2g2x13m0b25kcxwy" %}
+
 A aba Minhas Atividades funciona como uma “caixa de entrada” na qual o usuário consegue visualizar informações sobre as tarefas que precisa executar.&#x20;
 
 A aba Minhas Atividades agrupa todas as atividades pendentes para o usuário logado, ou seja, tudo que está em nome dele como tarefa para execução. Nesta tela o usuário visualiza suas atividades para tratamento de forma estruturada na tela e consegue realizar a ativação de novos fluxos de trabalho.&#x20;
