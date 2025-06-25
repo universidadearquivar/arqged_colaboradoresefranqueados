@@ -1,5 +1,7 @@
 # 🟩 Estrutura do Cliente
 
+{% embed url="https://app.supademo.com/demo/cmah6y38w1nxn10snx7y3s240" %}
+
 Ao se criar a Estrutura do Cliente estamos determinando quais [Tipos de Estrutura](tipo-de-estrutura.md) serão utilizadas na sua árvore documental específica. &#x20;
 
 Para exibir a estrutura de um cliente, selecione-o no campo “Cliente”.&#x20;
