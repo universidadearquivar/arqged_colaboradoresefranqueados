@@ -1,5 +1,7 @@
 # 🟩 Endereços
 
+{% embed url="https://app.supademo.com/demo/cmbfcfdvp3u45sn1rx31wzfad" %}
+
 A tela Endereços exibe todos os endereços cadastrados do cliente. &#x20;
 
 Este endereço é utilizado para identificação de Coleta e/ou Entrega de consulta de Documentos e/ou Caixas.&#x20;
