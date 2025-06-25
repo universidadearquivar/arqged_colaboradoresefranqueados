@@ -40,6 +40,8 @@ Os botões “Cancelar” e “Voltar Etapa” só serão exibidos se o usuário
 
 ## Ícones de Ação das Tarefas
 
+{% embed url="https://app.supademo.com/demo/cma6vf5af04w3x20ijax1gvem" %}
+
 <figure><img src="../../../.gitbook/assets/image (261).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
