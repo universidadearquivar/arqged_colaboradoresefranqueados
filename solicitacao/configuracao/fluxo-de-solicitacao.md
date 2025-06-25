@@ -20,10 +20,6 @@ Aqui são criados os fluxos das solicitações possíveis, ou seja, são configu
 
 ## Dados Gerais
 
-{% embed url="https://app.supademo.com/demo/cm88wi82j00axxqhlxvfgxjho" %}
-Clique na legenda e siga o passo a passo.
-{% endembed %}
-
 Ao clicar em adicionar é habilitada a tela **Dados Gerais do processo de Solicitação** para preenchimento dos dados iniciais:
 
 <figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
