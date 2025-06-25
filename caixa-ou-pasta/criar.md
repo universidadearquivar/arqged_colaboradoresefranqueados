@@ -6,6 +6,8 @@ Depois de criar um tipo de caixa ou pasta e de vinculá-lo a uma unidade ou a um
 
 ## Caixa da Unidade&#x20;
 
+{% embed url="https://app.supademo.com/demo/cmb9axuky0u7hsn1r2jwmszqm" %}
+
 Para criar uma caixa da unidade, selecione no campo “Unidade” e clique no ícone “Adicionar”.&#x20;
 
 <figure><img src="../.gitbook/assets/caixa7.png" alt=""><figcaption></figcaption></figure>
@@ -73,6 +75,8 @@ Para cancelar a criação das caixas, clique no botão “Cancelar Códigos”. 
 ***
 
 ## Caixa do Cliente &#x20;
+
+{% embed url="https://app.supademo.com/demo/cmb9fbv700ypzsn1rjr51rqj0" %}
 
 No menu Caixa do Cliente são criadas caixas controladas pelo próprio cliente. Para criar uma caixa do cliente, selecione-o no campo “Cliente” e clique no ícone “Adicionar”. &#x20;
 
