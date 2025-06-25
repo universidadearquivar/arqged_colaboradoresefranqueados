@@ -1,5 +1,7 @@
 # 🔹 Aba Histórico Serviços
 
+{% embed url="https://app.supademo.com/demo/cmbgvmr6a55yssn1rvg93ob4x" %}
+
 Esta aba apresenta todas as alterações ou acréscimos de serviços feitos no contrato do cliente. &#x20;
 
 **Ícone Visualizar:** Utilizado para visualizar mais detalhes do registro selecionado.&#x20;
