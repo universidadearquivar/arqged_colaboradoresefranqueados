@@ -1,5 +1,7 @@
 # 🟩 Excluir
 
+{% embed url="https://app.supademo.com/demo/cmb9mk7lw167zsn1rskl0j06c" %}
+
 Neste menu é feita a exclusão de caixas ou pastas. Esta funcionalidade é utilizada quando um cliente deixa de utilizar serviços de guarda e é necessário dar baixa em suas caixas e pastas. Quando uma caixa ou pasta é excluída o endereço onde ela estava alocada é automaticamente liberado para receber um novo arquivo. &#x20;
 
 ***
