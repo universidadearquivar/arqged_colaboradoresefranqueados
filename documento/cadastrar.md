@@ -14,6 +14,8 @@ Independentemente do tipo de documento, no momento do cadastro é importante e n
 
 ## Cadastro de Documento
 
+{% embed url="https://app.supademo.com/demo/cmawkqwny6maqho3r0zu6aby6" %}
+
 ### Eletrônico
 
 Depois de selecionar o Universo de Trabalho e a Árvore Organizacional será solicitado preencher os metadados do documento.  Os campos de preenchimento aqui foram aqueles anteriormente criados nos menus[ Árvore Documental > Campos Customizados](../arvore-documental/campo-customizado.md) e [Lista](../lista/criar-listas.md). &#x20;
@@ -117,6 +119,8 @@ Depois de salvar o documento serão habilitadas as abas “Dados Cadastrais”, 
 ***
 
 ## Aba Dados Cadastrais
+
+{% embed url="https://app.supademo.com/demo/cmawud1zb6w9sho3rgvagk75c" %}
 
 Nesta aba são exibidas as informações cadastradas do documento e o código gerado para ele, que pode ser visualizado no campo “Código do Documento”. No caso de documentos de Guarda Interna e Guarda Terceirizada será exibido também o campo “Nº Caixa ou Pasta”, que mostrará o número da caixa ou pasta em que o documento está armazenado e o ícone do status da caixa (em indexação ou armazenada) e informações sobre a tabela de temporalidade do documento e destinação final, se houver.&#x20;
 
