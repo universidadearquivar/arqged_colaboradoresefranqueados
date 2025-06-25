@@ -1,5 +1,7 @@
 # 🟩 Perfis de Usuários
 
+{% embed url="https://app.supademo.com/demo/cmapmjtij1vtuho3r3iapvwnq" %}
+
 Neste menu são criados todos os perfis de usuários da plataforma. Um perfil de usuário é criado de acordo com as permissões que o usuário terá de acesso às funcionalidades da plataforma. Os perfis de usuário podem ser de quatro tipos:&#x20;
 
 * **Root:** Perfis com acesso a todas as funcionalidades e permissões da plataforma. Apenas usuários do setor de TI da Arquivar Master possuem esse tipo de perfil.&#x20;
