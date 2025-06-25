@@ -6,6 +6,8 @@ description: Ícones do Fluxograma
 
 ## Conector
 
+{% embed url="https://app.supademo.com/demo/cmbzdmqzjho2ssn1rxffnz12q" %}
+
 Conecta as etapas do fluxo. Deve ser inserido ligando uma tarefa à outra no desenho. Para cada conector será exibido para o usuário um botão de prosseguimento no fluxo.
 
 <figure><img src="../../.gitbook/assets/desenho4 (1).png" alt=""><figcaption></figcaption></figure>
