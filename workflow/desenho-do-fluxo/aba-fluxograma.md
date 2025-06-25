@@ -57,6 +57,8 @@ Conecta as etapas do fluxo. Deve ser inserido ligando uma tarefa à outra no des
 
 ## Tarefa
 
+{% embed url="https://app.supademo.com/demo/cmbzgb0ezhozgsn1rfqzpva0s" %}
+
 Representa as tarefas do fluxo. Ao inserir uma tarefa, insira o seu nome ou uma breve descrição do que deve ser feito naquela tarefa. 
 
 <figure><img src="../../.gitbook/assets/desenho5.png" alt=""><figcaption></figcaption></figure>
@@ -97,6 +99,8 @@ Todas as tarefas criadas no desenho do fluxo devem ser configuradas individualme
 
 #### Aba E-mail
 
+{% embed url="https://app.supademo.com/demo/cmc0gzblril1msn1rjabxklyz" %}
+
 * **Notificar quando:** Informe quando será enviada a notificação sobre a tarefa.
 
 <figure><img src="../../.gitbook/assets/desenho9.png" alt=""><figcaption></figcaption></figure>
@@ -116,6 +120,8 @@ Todas as tarefas criadas no desenho do fluxo devem ser configuradas individualme
 
 #### Aba Anexos
 
+{% embed url="https://app.supademo.com/demo/cmc0muoh5itqysn1rruxngim6" %}
+
 * **Anexo do fluxo, obrigar:** Marque a opção “O upload de pelo menos um arquivo” caso deseje obrigar o usuário a anexar pelo menos um documento ao fluxo. &#x20;
 * **Registro de Documento, obrigar:** Selecione as opções desejadas sobre as obrigatoriedades de cadastrar um novo documento ou associar um documento já cadastrado anteriormente ao fluxo. &#x20;
 
@@ -133,6 +139,8 @@ _<mark style="color:blue;">Registro de Documento:</mark>_ <mark style="color:blu
 <figure><img src="../../.gitbook/assets/desenho7.png" alt=""><figcaption></figcaption></figure>
 
 #### Aba Assinaturas
+
+{% embed url="https://app.supademo.com/demo/cmc0r1g9piz6xsn1r4wqlyi30" %}
 
 * **Assinar:** Selecione as opções sobre o que deverá ser assinado pelo responsável da tarefa. &#x20;
 * **Tarefas de Acesso Externo do Fluxo:** Marque as opções se um usuário externo precisar assinar um anexo ou um registro de documento do fluxo.&#x20;
@@ -191,6 +199,8 @@ Defina os nomes que serão exibidos para o usuário externo que receber uma atri
 ***
 
 ## Decisão
+
+{% embed url="https://app.supademo.com/demo/cmc1y0zz6jxntsn1rkiajpuzy" %}
 
 Indica que naquele momento do fluxo é necessário que o executor da tarefa tome uma decisão sobre a próxima etapa. Neste caso é preciso indicar os caminhos que o usuário poderá seguir. Cada decisão pode ter até seis caminhos distintos.
 
@@ -296,6 +306,8 @@ Indica quando um grupo de tarefas independentes devem ser concluídas para que o
 ***
 
 ## Tarefa do tipo Gateway Exclusivo
+
+{% embed url="https://app.supademo.com/demo/cmc25u1alk8yqsn1r7ozzsutd" %}
 
 Em um desenho de fluxo que possuir formulário, a tarefa do tipo Gateway Exclusivo irá exibir todos os campos existentes neste formulário para que o usuário possa configurar qual campo será o responsável pelo avanço. Este é um tipo de tarefa que será utilizado somente para avanço automático via preenchimento de campo de formulário.
 
