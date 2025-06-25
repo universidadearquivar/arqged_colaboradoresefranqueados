@@ -1,5 +1,7 @@
 # 🟩 Estrutura Organizacional
 
+{% embed url="https://app.supademo.com/demo/cmal0r36435ym10snj6b74p5h" %}
+
 Estrutura organizacional é a nomeação da dada à estrutura física da empresa do cliente. Neste menu são nomeados os setores, unidades, documentos e outros elementos que compõem a estrutura da empresa.&#x20;
 
 {% hint style="warning" %}
@@ -55,7 +57,7 @@ Informe o nome da Estrutura Organizacional.
 Se no momento da criação da [Estrutura do Cliente](estrutura-do-cliente.md) tiver sido definido que será usada codificação para identificar a estrutura, o campo “Código” será mostrado. Informe um código numérico para identificar o item da estrutura organizacional que está sendo cadastrado.
 
 {% hint style="info" %}
-<mark style="color:blue;">O</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**código numérico**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">geralmente é utilizado quando a empresa utiliza uma tabela de classificação documental para a organização de seus documentos, como por exemplo a utilizada pelo CONARQ.</mark> [<mark style="color:blue;">**Clique aqui**</mark>](https://www.gov.br/arquivonacional/pt-br/servicos/gestao-de-documentos/orientacao-tecnica-1/codigo-de-classificacao-e-tabela-de-temporalidade-e-destinacao-de-documentos-de-arquivo/copy\_of\_cod\_classif\_-e\_tab\_temp\_2019\_m\_book\_digital\_25jun2020.pdf) <mark style="color:blue;">e confira.</mark>
+<mark style="color:blue;">O</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**código numérico**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">geralmente é utilizado quando a empresa utiliza uma tabela de classificação documental para a organização de seus documentos, como por exemplo a utilizada pelo CONARQ.</mark> [<mark style="color:blue;">**Clique aqui**</mark>](https://www.gov.br/arquivonacional/pt-br/servicos/gestao-de-documentos/orientacao-tecnica-1/codigo-de-classificacao-e-tabela-de-temporalidade-e-destinacao-de-documentos-de-arquivo/copy_of_cod_classif_-e_tab_temp_2019_m_book_digital_25jun2020.pdf) <mark style="color:blue;">e confira.</mark>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/arvoredoc06.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
