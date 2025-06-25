@@ -1,5 +1,7 @@
 # 🟩 Grupos
 
+{% embed url="https://app.supademo.com/demo/cmaqpwp8g2qb7ho3rt86kqmlz" %}
+
 No menu Grupos são criados grupos de usuários com permissão de acesso a algumas funcionalidades do sistema, que são:&#x20;
 
 * **Relatórios:** Usuários com permissão para visualizar relatórios deste grupo - Ao criar um relatório é possível restringir seu acesso apenas a quem for membro de um grupo de relatórios.&#x20;
