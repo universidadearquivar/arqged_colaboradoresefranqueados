@@ -1,5 +1,7 @@
 # 🔹 Aba Atividades da Minha Equipe
 
+{% embed url="https://app.supademo.com/demo/cmab5a9lx6h1k13m0nlf7bnvy" %}
+
 {% hint style="warning" %}
 <mark style="color:orange;">**Esta aba só será exibida caso o usuário tenha outros usuários subordinados a ele no sistema.**</mark>
 {% endhint %}
