@@ -1,5 +1,7 @@
 # 🔹 Parâmetros Gerais
 
+{% embed url="https://app.supademo.com/demo/cmb5b8p3531ngppkp90mngje7" %}
+
 No menu Parâmetros Gerais são configurados os locais de trabalho que serão posteriormente associados à aplicação ArqIndex. Cada Unidade ou cliente pode ter um ou mais locais de trabalho configurados, mas a aplicação ArqIndex pode ter relacionado apenas um local de trabalho.
 
 {% hint style="info" %}
