@@ -1,5 +1,7 @@
 # 🟩 Endereço do Cliente
 
+{% embed url="https://app.supademo.com/demo/cmbawkiw21yr0sn1rl8jfu263" %}
+
 Na tela de Endereço do Cliente são mostradas todas as posições de armazenamento que o cliente possui em seu espaço físico, como salas, galpões, armários etc.&#x20;
 
 ## Endereço do Cliente – Tela inicial&#x20;
