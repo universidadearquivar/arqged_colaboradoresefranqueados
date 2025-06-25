@@ -1,5 +1,7 @@
 # 🟩 Tipo de Estrutura
 
+{% embed url="https://app.supademo.com/demo/cmah0v82k1i3f10snlc64y9xc" %}
+
 Neste menu são criados todos os tipos de estrutura possíveis dentro de uma Árvore Documental.  As estruturas criadas nesse menu ficam disponíveis para todas as unidades e clientes e sua criação é feita pela Arquivar Master. &#x20;
 
 {% hint style="info" %}
