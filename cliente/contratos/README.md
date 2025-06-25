@@ -1,5 +1,7 @@
 # 🟩 Contratos
 
+{% embed url="https://app.supademo.com/demo/cmbfev8et3x7rsn1r6mzou3cj" %}
+
 Na tela Contratos são exibidas as informações dos contratos celebrados entre cliente e unidade selecionados no campo “Unidade – Cliente”.&#x20;
 
 <figure><img src="../../.gitbook/assets/clientes6.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
