@@ -8,6 +8,8 @@ O objetivo do menu Explorar é localizar documentos por meio de uma busca feita 
 
 ## **Visualizar estrutura documental**
 
+{% embed url="https://app.supademo.com/demo/cmaxwhd4z7p9fho3r1wz4sajj" %}
+
 ### **Por Árvore Organizacional**
 
 Ao escolher visualizar a estrutura documental agrupada pela Árvore Organizacional, para localizar um documento será preciso explorar todos os níveis da árvore do cliente até chegar ao último, que enfim exibirá o tipo documental desejado. Esse tipo de busca só é recomendado se o usuário souber exatamente em que nível da árvore se encontra o documento que está buscando. Depois de localizar o tipo documental, na parte direita da tela serão exibidos os arquivos existentes.
@@ -23,6 +25,8 @@ Também é possível localizar utilizando-se as listas criadas para o cliente no
 ***
 
 ## Visualizar documentos
+
+{% embed url="https://app.supademo.com/demo/cmaxy411l7r6sho3rssvwqkfp" %}
 
 No campo “Visualizar documentos agrupados por” é possível escolher entre visualizar os documentos agrupados por metadados ou por arquivos. &#x20;
 
