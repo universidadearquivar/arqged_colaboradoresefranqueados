@@ -73,6 +73,31 @@ Informe o nome do campo. Em “Definição de Campo” selecione se o formato do
 <mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Se for solicitado que a resposta contenha obrigatoriamente quatro letras, um dígito e quatro números, no campo Máscara informe “XXXX-9999”.</mark>
 {% endhint %}
 
-**Campo Pai:** Se o campo que está sendo criado for derivado de algum outro campo, selecione o campo pai. Neste caso para que o campo seja liberado para preenchimento deverá ser preenchido antes o campo pai. &#x20;
+**Tamanho mínimo:** No campo tamanho mínimo pode ser informado a quantidade mínima de caracteres do campo.
+
+**Tamanho máximo:** No campo tamanho máximo pode ser informado a quantidade máxima de caracteres do campo.
+
+{% hint style="info" %}
+<mark style="color:blue;">**Exemplo:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">se a definição de um campo for para o preenchimento de uma data, e o sistema aceitar diferentes formatos como</mark> <mark style="color:blue;"></mark><mark style="color:blue;">`ddmmaa`</mark><mark style="color:blue;">,</mark> <mark style="color:blue;"></mark><mark style="color:blue;">`ddmmaaaa`</mark> <mark style="color:blue;"></mark><mark style="color:blue;">ou</mark> <mark style="color:blue;"></mark><mark style="color:blue;">`dd/mm/aaaa`</mark><mark style="color:blue;">, é possível definir um comprimento mínimo de 6 caracteres e máximo de 10 caracteres. Isso garante flexibilidade na entrada do dado sem comprometer a validação da informação.</mark>
+{% endhint %}
+
+**Operador:** O campo **Operador** é utilizado para estabelecer uma condição de dependência entre o **Campo Pai** e o campo atual. Ele define a lógica de comparação que será aplicada ao valor informado no **Campo Pai** para que o campo atual seja habilitado para preenchimento.
+
+Os operadores disponíveis são:
+
+* `=`   (igual a)
+* `>`   (maior que)
+* `<`   (menor que)
+* `>=`  (maior ou igual a)
+* `<=`  (menor ou igual a)
+* `<>`  (entre)
+
+Essa configuração é útil em cenários em que o campo que está sendo criado depende de uma condição prévia estabelecida no **Campo Pai**. Somente quando essa condição for atendida — ou seja, quando o valor informado no Campo Pai satisfizer o operador e o valor definidos — o novo campo será liberado para preenchimento.
+
+{% hint style="info" %}
+<mark style="color:blue;">**Exemplo:**</mark>\ <mark style="color:blue;">Se o</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Campo Pai**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">for “Idade”, o</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Operador**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">for</mark> <mark style="color:blue;"></mark><mark style="color:blue;">`>=`</mark> <mark style="color:blue;"></mark><mark style="color:blue;">e o valor definido for</mark> <mark style="color:blue;"></mark><mark style="color:blue;">`18`</mark><mark style="color:blue;">, o campo atual só será exibido quando o usuário informar no campo “Idade” um valor maior ou igual a 18.</mark>
+{% endhint %}
+
+**Campo Pai:** O **Campo Pai** é aquele do qual o campo atual depende para ser exibido ou habilitado. Ao selecionar um Campo Pai, você estabelece uma relação de dependência condicional: o campo que está sendo configurado só ficará disponível para preenchimento se o Campo Pai for previamente preenchido e atender à condição definida pelo **Operador** e o **Valor de Referência** (tamanho mínimo e máximo).
 
 <figure><img src="../.gitbook/assets/arvoredoc11.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
