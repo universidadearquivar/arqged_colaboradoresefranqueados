@@ -98,6 +98,20 @@ Essa configuração é útil em cenários em que o campo que está sendo criado 
 <mark style="color:blue;">**Exemplo:**</mark>\ <mark style="color:blue;">Se o</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Campo Pai**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">for “Idade”, o</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Operador**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">for</mark> <mark style="color:blue;"></mark><mark style="color:blue;">`>=`</mark> <mark style="color:blue;"></mark><mark style="color:blue;">e o valor definido for</mark> <mark style="color:blue;"></mark><mark style="color:blue;">`18`</mark><mark style="color:blue;">, o campo atual só será exibido quando o usuário informar no campo “Idade” um valor maior ou igual a 18.</mark>
 {% endhint %}
 
-**Campo Pai:** O **Campo Pai** é aquele do qual o campo atual depende para ser exibido ou habilitado. Ao selecionar um Campo Pai, você estabelece uma relação de dependência condicional: o campo que está sendo configurado só ficará disponível para preenchimento se o Campo Pai for previamente preenchido e atender à condição definida pelo **Operador** e o **Valor de Referência** (tamanho mínimo e máximo).
+**Campo Pai:** O Campo Pai é aquele do qual o campo atual depende para ser exibido ou habilitado. Ao selecionar um Campo Pai, você estabelece uma relação de dependência condicional: o campo que está sendo configurado só ficará disponível para preenchimento se o Campo Pai for previamente preenchido e atender à condição definida pelo Operador e o Valor de Referência.
+
+Essa funcionalidade permite criar fluxos de preenchimento mais inteligentes, nos quais certos campos só aparecem ou se tornam obrigatórios conforme o contexto fornecido pelo usuário.
+
+{% hint style="warning" %}
+<mark style="color:orange;">**Importante:**</mark>
+
+* <mark style="color:orange;">A seleção de um Campo Pai exige que também sejam definidos um</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Operador**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">e um</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Valor de Referência**</mark><mark style="color:orange;">, que juntos determinam a lógica de exibição do campo.</mark>
+* <mark style="color:orange;">Se o Campo Pai não for preenchido, ou se o valor informado não atender à condição configurada, o campo dependente permanecerá oculto ou desabilitado.</mark>
+* <mark style="color:orange;">**Para que a associação entre campos funcione corretamente, ambos os campos (Campo Pai e campo dependente) devem possuir a mesma definição de tipo.**</mark>\ <mark style="color:orange;">Por exemplo: para que “Data Final > Data Inicial” seja uma condição válida, os dois campos precisam estar definidos como do tipo</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Data**</mark><mark style="color:orange;">.</mark>
+{% endhint %}
+
+{% hint style="info" %}
+<mark style="color:blue;">**Exemplo:**</mark>\ <mark style="color:blue;">Se o Campo Pai for “Tipo de Pessoa” e o valor esperado for “Jurídica”, o campo “CNPJ” (campo atual) só será exibido quando o usuário selecionar “Jurídica” no campo “Tipo de Pessoa”.</mark>
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/arvoredoc11.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
