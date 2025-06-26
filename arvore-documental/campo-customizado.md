@@ -53,7 +53,8 @@ Informe o nome do campo. Em “Definição de Campo” selecione se o formato do
 * _CNPJ/CPF:_ Campo em que o usuário deverá informar um número de CNPJ ou de CPF válido.&#x20;
 * _CPF:_ Campo em que o usuário deverá informar um número de CPF válido.&#x20;
 * _Data:_ O usuário deverá informar uma data válida, com dia, mês e ano.&#x20;
-* _Lista:_ Deverá ser criada uma lista de opções para que o usuário selecione a opção que deseja.&#x20;
+* _Lista:_ Deverá ser criada uma lista de opções para que o usuário selecione a opção que deseja.
+  * Aqui, por exemplo, podem ser incluídos em lista novos prestadores aprovados para executar determinado serviço.
 * _Monetário:_ Campo em que o usuário deverá informar um valor monetário, com vírgula.&#x20;
 * _Numérico:_ Campo em que o usuário deverá informar um valor numérico.&#x20;
 * _Texto:_ Campo em que o usuário poderá informar qualquer valor, seja de texto ou numérico. Este tipo de campo aceita qualquer caractere como resposta. &#x20;
