@@ -37,43 +37,43 @@ Além da possibilidade de filtrar os resultados por meio dos indexadores, é pos
 
 **Busca por conteúdo (Padrão)**
 
-Por padrão, o sistema busca por qualquer registro que contenha o texto digitado.
+Por padrão, o sistema localiza qualquer registro que contenha o texto digitado, mesmo que ele faça parte de uma palavra ou frase maior.
 
-* **Exemplo:** Pesquisar por Relatório encontrará “Relatório Anual” e “Novo relatório de vendas”.
+* **Exemplo:** Pesquisar por Relatório encontrará resultados como “Relatório Anual” e “Novo relatório de vendas”.
 
 **Busca Exata**
 
-Para encontrar um texto exato, coloque sua pesquisa entre aspas duplas (“).
+Para localizar uma expressão exatamente como foi digitada, utilize aspas duplas (“) ao redor do termo.
 
-* **Exemplo:** Pesquisar por “Relatório Anual” encontrará apenas os registros que correspondem exatamente a “Relatório Anual”.
+* **Exemplo:** Pesquisar por “Relatório Anual” trará apenas os registros que correspondem exatamente a “Relatório Anual”.
 
 **Busca com Curinga (%),**
 
-Se você incluir o caractere % na sua busca, ele funcionará como um curinga para qualquer sequência de caracteres.
+Ao incluir o caractere % na sua pesquisa, ele atuará como um curinga, representando qualquer sequência de caracteres.
 
-* **Exemplo:** Pesquisar por Nota%Fiscal encontrará registros como “Nota Fiscal” e “Nota de Serviço Fiscal”.
+* **Exemplo:** Pesquisar por Nota%Fiscal retornará registros como “Nota Fiscal” e “Nota de Serviço Fiscal”.
 
 ### CPF&#xD; \- CNPJ&#xD; \- CNPJ/CPF
 
 **Ignora Formatação**
 
-Você pode digitar os números com ou sem formatação (pontos, traços ou barras).
+Você pode digitar os números com ou sem pontuação, como pontos, traços ou barras. O sistema considera apenas os números, independentemente do formato.
 
-* **Exemplo:** Pesquisar por 123.456.789-00 ou por 12345678900 trará o mesmo resultado.
+* **Exemplo:** Pesquisar por 123.456.789-00 ou por 12345678900 retornará os mesmos resultados.
 
 ### Numérico
 
 **Busca Numérica Exata**
 
-O sistema compara os valores como números, não como texto. Digite o número exato que deseja encontrar.
+O sistema interpreta os valores como números, e não como texto. Por isso, a busca deve ser feita com o número exato que deseja encontrar.
 
-* **Exemplo:** Pesquisar por 2024 encontrará o campo com o número “2024”.
+* **Exemplo:** Pesquisar por 2024 localizará o campo que contém exatamente o número “2024”.
 
 ### Data
 
 **Busca por Data Exata**
 
-A busca deve ser feita usando o formato de data dd/mm/aaaa.
+A pesquisa deve ser feita utilizando o formato completo da data no padrão dd/mm/aaaa.
 
 * **Exemplo:** Para encontrar registros do dia 15 de julho de 2025, pesquise por 15/07/2025.
 
@@ -81,7 +81,7 @@ A busca deve ser feita usando o formato de data dd/mm/aaaa.
 
 **Busca por Hora Exata**
 
-A busca deve ser feita usando o formato de hora (hh:mm:ss).
+Utilize o formato de hora hh:mm:ss para localizar registros em um horário específico.
 
 * **Exemplo:** Para encontrar registros das 14h30, pesquise por 14:30:00.
 
@@ -89,31 +89,31 @@ A busca deve ser feita usando o formato de hora (hh:mm:ss).
 
 **Busca por Data e Hora Exata**
 
-A busca deve combinar o formato de data e hora (dd/mm/aaaa hh:mm:ss).
+A pesquisa deve combinar o formato de data e hora no padrão dd/mm/aaaa hh:mm:ss.
 
-* **Exemplo:** Para encontrar registros de 15/07/2025 às 14:30, pesquise por 15/07/2025 14:30:00.
+* **Exemplo:** Para encontrar registros do dia 15/07/2025 às 14h30, pesquise por 15/07/2025 14:30:00.
 
 ### Monetário
 
 **Busca Exata**
 
-A pesquisa busca pelo valor exato informado.
+A pesquisa deve ser feita com o valor exato, incluindo vírgulas ou pontos decimais conforme registrados no sistema.
 
-* Exemplo: Se o valor no sistema for 150,50, você deve pesquisar por 150,50.
+* **Exemplo:** Se o valor cadastrado for 150,50, você deve pesquisar exatamente por 150,50.
 
 ### CheckBox
 
 **Busca Exata**
 
-A pesquisa busca pelo valor exato, somente será considerado para filtro caso o CheckBox for marcado.
+A busca considera apenas os campos em que a opção estiver exatamente marcada. O filtro só é aplicado se o CheckBox estiver selecionado.
 
 ### Outros Tipos
 
 **Busca Exata**
 
-Para qualquer outro tipo de campo não listado acima, a regra padrão é a busca por correspondência exata. O valor pesquisado deve ser idêntico ao valor no campo.
+Para todos os demais tipos de campos não especificados acima, aplica-se a busca por correspondência exata. O conteúdo digitado deve ser idêntico ao que está no campo.
 
-* **Exemplo:** Se um campo de e-mail contém nome@exemplo.com, você deve pesquisar por nome@exemplo.com.
+* **Exemplo:** Se o campo de e-mail contiver nome@exemplo.com, você deve pesquisar exatamente por nome@exemplo.com.
 
 ***
 
