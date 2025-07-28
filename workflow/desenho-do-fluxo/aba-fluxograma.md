@@ -292,6 +292,16 @@ As opções de configuração para cópia dos dados são:&#x20;
 * **Cópia somente dos arquivos marcados para assinar:** Quando esta opção estiver marcada, a aplicação deverá copiar para o fluxo destino somente os anexos do fluxo marcados para assinar.&#x20;
 * **Cópia dos arquivos anexos com as marcações de assinatura:** Quando esta opção estiver marcada, a aplicação deverá além de copiar os anexos do fluxo de origem, também marcar os anexos selecionados para assinar no fluxo de origem.&#x20;
 
+{% hint style="danger" %}
+<mark style="color:red;">**Ao ativar um fluxo, o sistema realiza automaticamente uma validação dos usuários e grupos envolvidos. Caso sejam identificados usuários inativos — seja diretamente vinculados ao fluxo ou pertencentes a algum grupo participante — a ativação será bloqueada, e o sistema exibirá a seguinte mensagem de erro:**</mark>
+
+![](<../../.gitbook/assets/image (323).png>)
+
+<mark style="color:red;">**Essa restrição é uma medida preventiva que visa assegurar a correta execução de todas as etapas do processo, evitando falhas na atribuição de tarefas ou no envio de notificações.**</mark>
+
+<mark style="color:red;">**Para garantir o bom funcionamento dos fluxos, recomenda-se revisar previamente todos os usuários e grupos envolvidos, certificando-se de que estejam ativos no sistema. A manutenção regular dos cadastros e a atualização dos grupos de usuários também são práticas importantes para prevenir esse tipo de bloqueio.**</mark>
+{% endhint %}
+
 ***
 
 ## Grupo

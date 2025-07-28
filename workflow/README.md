@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 🔄 Workflow
 
 {% embed url="https://app.heygen.com/share/1877107e9e5c4679a8fab122bf640bd9" %}
