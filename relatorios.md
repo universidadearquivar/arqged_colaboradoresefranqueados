@@ -17,6 +17,16 @@ Clique na legenda e siga o passo a passo.
 <mark style="color:red;">Essas informações ajudarão no</mark> <mark style="color:red;"></mark><mark style="color:red;">**levantamento do custo para construção do relatório,**</mark> <mark style="color:red;"></mark><mark style="color:red;">quando aplicável e na correta elaboração e entrega.</mark>
 {% endhint %}
 
+**Relatórios:** **Permissões de Visualização e Edição por Grupo**
+
+Ao criar um relatório, é possível restringir o acesso apenas aos usuários que fazem parte de um grupo de relatórios. Somente os usuários que possuem permissão específica e que pertencem ao grupo poderão acessar a aba de **Relatórios** e visualizar os dados correspondentes.
+
+**Permissões por tipo de usuário:**
+
+* **Usuário 006:** possui permissão para **visualizar e editar** os relatórios e os grupos de relatórios.
+* **Usuário 01:** possui permissão para **visualizar relatórios**, mas **não pode visualizar os grupos**.
+* **Usuário 02:** possui permissão para **visualizar os grupos**, mas **não pode visualizar os relatórios**.
+
 <figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Tanto clientes quanto unidades podem consultar esses relatórios, que ficam agrupados por módulo.&#x20;
