@@ -115,3 +115,53 @@ Essa funcionalidade permite criar fluxos de preenchimento mais inteligentes, nos
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/arvoredoc11.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
+
+***
+
+## Edição de Campo Customizado
+
+<figure><img src="../.gitbook/assets/image (324).png" alt="" width="361"><figcaption></figcaption></figure>
+
+Ao clicar em **“Editar”**, você poderá **alterar os dados de um registro**.
+
+{% hint style="warning" %}
+<mark style="color:orange;">**Importante:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">As opções de edição</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**vão depender da Definição de Campo**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">escolhida no momento da criação do registro.</mark>
+{% endhint %}
+
+* _**Checkbox:**_ Campo em que o usuário deverá marcar uma caixa de seleção de acordo com a pergunta apresentada. É possível alterar a Definição de Campo, Nome do registro, Expressão, Tamanho Mínimo, Tamanho Máximo, Operador e Campo Pai.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (326).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+* _**CNPJ:**_ Campo em que o usuário deverá informar um número de CNPJ válido. É possível alterar o Nome do registro, Expressão, Tamanho Mínimo, Tamanho Máximo, Operador e Campo Pai.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (327).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+* _**CNPJ/CPF:**_ Campo em que o usuário deverá informar um número de CNPJ ou de CPF válido. É possível alterar a Definição de Campo, Nome do registro, Expressão, Tamanho Mínimo, Tamanho Máximo, Operador e Campo Pai.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (328).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+* _**CPF:**_ Campo em que o usuário deverá informar um número de CPF válido. É possível alterar a Definição de Campo, Nome do registro, Expressão, Tamanho Mínimo, Tamanho Máximo, Operador e Campo Pai.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (329).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+* _**Data:**_ O usuário deverá informar uma data válida, com dia, mês e ano. É possível alterar a Definição de Campo, Nome do registro, Expressão, Tamanho Mínimo, Tamanho Máximo, Operador e Campo Pai.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (330).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+* _**Lista:**_ Deverá ser criada uma lista de opções para que o usuário selecione a opção que deseja.
+  * Aqui, por exemplo, podem ser incluídos em lista novos prestadores aprovados para executar determinado serviço. É possível alterar a Definição de Campo, Nome do registro.
+  * **Adicionar lista de valores para o campo:** clique no ícone "+" para adicionar o nome da lista desejada e, caso queira retirar alguma lista, selecione a lista desejada e clique no ícone de lixeira para eliminá-la da lista.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (331).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+* _**Monetário:**_ Campo em que o usuário deverá informar um valor monetário, com vírgula. É possível alterar a Definição de Campo, Nome do registro, Expressão, Tamanho Mínimo, Tamanho Máximo, Operador e Campo Pai.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (332).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+* _**Numérico:**_ Campo em que o usuário deverá informar um valor numérico. É possível alterar o Nome do registro, Expressão, Tamanho Mínimo, Tamanho Máximo, Operador e Campo Pai.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (333).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+* _**Texto:**_ Campo em que o usuário poderá informar qualquer valor, seja de texto ou numérico. Este tipo de campo aceita qualquer caractere como resposta. É possível alterar o Nome do registro, Expressão, Tamanho Mínimo, Tamanho Máximo, Operador e Campo Pai.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (334).png" alt="" width="375"><figcaption></figcaption></figure></div>
