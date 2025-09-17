@@ -6,11 +6,11 @@
 
 <summary>17/04 Autenticação multifator (MFA)</summary>
 
-**Workflow > Desenho do fluxo**&#x20;
+**MFA**&#x20;
 
-A tela de configuração para o componente de [“**Novo Fluxo**”](https://arquivar.gitbook.io/manual-arqged-or-colaboradores-e-franqueados/workflow/desenho-do-fluxo/aba-fluxograma#configuracoes-de-fluxo), foi alterada para possibilitar ao usuário copiar os dados do fluxo atual para o novo fluxo.&#x20;
+O "Login com MFA" refere-se ao acesso por meio de autenticação multifator. A sigla MFA (do inglês _Multifactor Authentication_) representa um método de segurança que exige que o usuário forneça duas ou mais formas de autenticação para acessar uma aplicação.
 
-Anteriormente, no avanço para este componente apenas a aplicação ativava um novo fluxo. Com esta alteração, o usuário poderá configurar previamente, quais informações do fluxo atual poderão ser copiadas para o fluxo de destino.&#x20;
+Essa abordagem adiciona uma camada extra de proteção, tornando o acesso não autorizado mais difícil, mesmo que a senha do usuário seja comprometida.
 
 </details>
 
