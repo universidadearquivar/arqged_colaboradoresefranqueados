@@ -4,7 +4,7 @@
 
 <details>
 
-<summary>29/04: Etiqueta e Rótulos - Guarda Interna e Terceirizada</summary>
+<summary>29/04 - Etiqueta e Rótulos - Guarda Interna e Terceirizada</summary>
 
 <mark style="color:green;">**Etiquetas Zebra - Rolo**</mark>
 

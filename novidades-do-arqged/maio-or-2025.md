@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>21/05 ArqGED - Integração ArqSIGN</summary>
+<summary>21/05 - ArqGED - Integração ArqSIGN</summary>
 
 **Integração com o ArqSIGN**
 

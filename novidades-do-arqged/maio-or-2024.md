@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>30/05: Componente de Notificação E-mail</summary>
+<summary>30/05 - Componente de Notificação E-mail</summary>
 
 **Workflow > Desenho do Fluxo - Componente de e-mail**&#x20;
 
@@ -16,7 +16,7 @@ Conforme a imagem abaixo, o componente de e-mail recebe 3 avanços de tarefas, s
 
 <details>
 
-<summary>30/05: Selecionar campos do Formulário e Modelo de Documento</summary>
+<summary>30/05 - Selecionar campos do Formulário e Modelo de Documento</summary>
 
 1\.    **Workflow > Desenho do Fluxo > Formulário**
 
@@ -38,7 +38,7 @@ O comportamento da tela permitia marcar apenas um campo por vez, com esta altera
 
 <details>
 
-<summary>27/05: Melhoria de Usabilidade - Uso do modelo Formulário em PDF</summary>
+<summary>27/05 - Melhoria de Usabilidade - Uso do modelo Formulário em PDF</summary>
 
 O [modelo de documento](https://arquivar.gitbook.io/manual-arqged-or-colaboradores-e-franqueados/workflow/atividades/aba-minhas-atividades#id-7.-modelo-de-documento) foi alterado para dar destaque os campos de preenchimento obrigatórios e não obrigatórios.
 
@@ -46,7 +46,7 @@ O [modelo de documento](https://arquivar.gitbook.io/manual-arqged-or-colaborador
 
 <details>
 
-<summary>23/05: Inclusão do Menu > API > Gerenciador de Chave de API</summary>
+<summary>23/05 - Inclusão do Menu > API > Gerenciador de Chave de API</summary>
 
 Foi criado em [**Administração um novo Menu chamado API**](https://arquivar.gitbook.io/manual-arqged-or-colaboradores-e-franqueados/administracao/api). Seu objetivo é disponibilizar ao cliente a(s) chave(s) de acesso que será(ão) utilizada(s) para gerenciamento e controle das requisições via API.
 
@@ -54,7 +54,7 @@ Foi criado em [**Administração um novo Menu chamado API**](https://arquivar.gi
 
 <details>
 
-<summary>23/05: Contrato - Inclusão de Serviço API</summary>
+<summary>23/05 - Contrato - Inclusão de Serviço API</summary>
 
 Foi criado um novo tipo de serviço chamado **ArqAPI.**
 

@@ -4,7 +4,7 @@
 
 <details>
 
-<summary>10/11: ArqFlow - Ativar fluxo via ArqSCAN</summary>
+<summary>10/11 - ArqFlow Ativar fluxo via ArqSCAN</summary>
 
 A ativação de fluxo via ArqSCAN foi alterada para permitir a copia dos dados do registro para os campos do formulário quando estes possuírem os mesmos campos configurados.&#x20;
 
@@ -16,7 +16,7 @@ Quando é realizado o upload de arquivos no ArqSCAN, é criado um documento com 
 
 <details>
 
-<summary>10/11: ArqFlow - Quem Ativou e Chefe imediato (Quem Ativou)</summary>
+<summary>10/11 - ArqFlow Quem Ativou e Chefe imediato (Quem Ativou)</summary>
 
 A configuração de tarefas para desenhos de fluxos automáticos, baseados em ocorrência “Quando um registro é inserido”, foi alterado para permitir a inclusão dos tipos de responsáveis “Quem Ativou” e “Chefe imediato(Quem Ativou)”.&#x20;
 
@@ -26,7 +26,7 @@ Anteriormente, estes tipos de responsáveis não eram exibidos para esta configu
 
 <details>
 
-<summary>10/11: ArqIndex – Excluir arquivos da pasta processos</summary>
+<summary>10/11 - ArqIndex Excluir arquivos da pasta processos</summary>
 
 A tela Fluxo de Trabalho foi alterada para inclusão do parâmetro "Deletar os "Arquivos em Processo" após a etapa de conversão".
 
@@ -40,7 +40,7 @@ O Robô ArqIndex também foi alterado para identificar se irá ou não excluir o
 
 <details>
 
-<summary>10/11: ArqFlow – Excluir fluxos ativos</summary>
+<summary>10/11 - ArqFlow Excluir fluxos ativos</summary>
 
 A pesquisa por fluxo do workflow foi alterada para adicionar a funcionalidade de exclusão de fluxos ativos. Foi incluído um ícone em cada fluxo no retorno da pesquisa por fluxo.
 

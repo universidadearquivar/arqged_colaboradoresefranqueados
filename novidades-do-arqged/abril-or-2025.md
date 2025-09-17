@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>17/04 Autenticação multifator (MFA)</summary>
+<summary>17/04 - Autenticação multifator (MFA)</summary>
 
 **MFA**&#x20;
 

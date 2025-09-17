@@ -1,8 +1,8 @@
-# ▫ Agosto | 2023
+# ▫️ Agosto | 2023
 
 <details>
 
-<summary>30/08: Árvore Organizacional</summary>
+<summary>30/08 - Árvore Organizacional</summary>
 
 A configuração de TTD para um nível de árvore foi alterado para permitir a inclusão de campos do tipo Data de uma lista.
 
@@ -14,7 +14,7 @@ Anteriormente, a configuração de TTD na árvore somente permitia a inclusão d
 
 <details>
 
-<summary>30/08: Pesquisa Avançada e Simples</summary>
+<summary>30/08 - Pesquisa Avançada e Simples</summary>
 
 As pesquisas avançada e simples foram alteradas para permitir a visualização do Vencimento TTD configurados a partir de um campo de lista na arvore organizacional.
 
@@ -24,7 +24,7 @@ Anteriormente, somente campos customizados possuíam vencimento TTD no documento
 
 <details>
 
-<summary>30/08: ArqFlow - TTD antes de vencer em dias</summary>
+<summary>30/08 - ArqFlow TTD antes de vencer em dias</summary>
 
 O desenho de fluxo foi alterado para incluir a opção TTD antes de vencer em dias: para o Tipo de Ativação: Automática e Parâmetro de Ativação: Baseado na TTD.
 
@@ -45,7 +45,7 @@ Para ver detalhes dessa funcionalidade acesse [Workflow > Desenho do Fluxo> Aba 
 
 <details>
 
-<summary>30/08: ArqFlow - Copiar dados de um documento para o Formulário</summary>
+<summary>30/08 - ArqFlow Copiar dados de um documento para o Formulário</summary>
 
 A aplicação foi alterada para copiar os dados dos campos de um documento para o formulário, quando estes possuírem os mesmos campos em comum.
 
@@ -59,7 +59,7 @@ A aplicação foi alterada para copiar os dados dos campos de um documento para 
 
 <details>
 
-<summary>08/08: API Integração Incluir e alterar dados de um formulário</summary>
+<summary>08/08 - API Integração Incluir e alterar dados de um formulário</summary>
 
 Foi adicionado o serviço “api/Workflow/EtapaExecucao/{IdWorkflowEtapaExecucao}/Cliente/{idCliente}/atualizar-dados-formulario” na API Integração Workflow, que permite incluir ou alterar os dados de um formulário a partir da execução de fluxo.
 

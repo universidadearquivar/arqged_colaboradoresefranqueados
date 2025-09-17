@@ -4,7 +4,7 @@
 
 <details>
 
-<summary>17/06: Ajustes nas permissões</summary>
+<summary>17/06 - Ajustes nas permissões</summary>
 
 A aplicação foi alterada para possibilitar ao usuário utilizar as telas do menu Documentos de forma isolada, conforme a necessidade de acesso ou política de segurança da empresa.
 

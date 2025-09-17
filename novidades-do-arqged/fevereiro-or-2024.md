@@ -4,7 +4,7 @@
 
 <details>
 
-<summary>07/02: ArqFlow - Resiliência para as Notificações</summary>
+<summary>07/02 - ArqFlow Resiliência para as Notificações</summary>
 
 O envio das notificações do workflow foi alterado para garantir a entrega e eficiência no menor tempo possível.
 

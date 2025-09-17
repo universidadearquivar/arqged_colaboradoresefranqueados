@@ -4,7 +4,7 @@
 
 <details>
 
-<summary>28/07: ArqFlow - Consenso Selecionado Externo Vários</summary>
+<summary>28/07 - ArqFlow Consenso Selecionado Externo Vários</summary>
 
 A aplicação foi alterada para considerar o percentual de consenso em conclusão de tarefas cujo responsável seja “Selecionado Externo Vários”.
 
@@ -20,7 +20,7 @@ Os detalhes dessas funcionalidades estão na página [Workflow > Desenho do Flux
 
 <details>
 
-<summary>24/07: ArqFlow - Visualizar arquivos selecionados a serem assinados em tarefas externas</summary>
+<summary>24/07 - ArqFlow Visualizar arquivos selecionados a serem assinados em tarefas externas</summary>
 
 A tela de anexos do fluxo e anexos dos documentos foram alteradas para exibir os arquivos marcados para assinatura em etapas que não há obrigatoriedade de selecionar anexos a serem assinados.
 
@@ -36,4 +36,3 @@ Os detalhes dessas funcionalidades estão na página [Workflow > Atividades > Ab
 ![](<../.gitbook/assets/image (9) (1) (1) (1).png>)
 
 </details>
-

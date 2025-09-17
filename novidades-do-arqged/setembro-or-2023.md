@@ -1,10 +1,10 @@
-# ▫ Setembro | 2023
+# ▫️ Setembro | 2023
 
 
 
 <details>
 
-<summary>14/09: ArqFlow - Bloquear ativação manual sem um documento associado</summary>
+<summary>14/09 - ArqFlow Bloquear ativação manual sem um documento associado</summary>
 
 A tela [Dados Gerais](../workflow/desenho-do-fluxo/aba-dados-gerais.md) no menu Desenho de um Fluxo foi alterada para incluir o parâmetro “Bloquear a ativação manual deste fluxo sem um documento associado.”
 
@@ -20,7 +20,7 @@ Para ver detalhes dessa funcionalidade acesse [Workflow > Desenho do Fluxo > Aba
 
 <details>
 
-<summary>13/09: ArqFlow - Substituição de pessoas</summary>
+<summary>13/09 - ArqFlow Substituição de pessoas</summary>
 
 Na tela de substituição de pessoas, quando o usuário escolher a opção "Substituição Definitiva - Transferir todas as atividades em execução", a aplicação irá verificar todos os fluxos em execução do cliente e enviar todas as tarefas do usuário substituído para o usuário substituto.&#x20;
 
@@ -34,7 +34,7 @@ Para ver detalhes dessa funcionalidade acesse [Workflow > Substituição de Pess
 
 <details>
 
-<summary>13/09: ArqFlow - Grupo de Usuários</summary>
+<summary>13/09 - ArqFlow Grupo de Usuários</summary>
 
 A tela de Grupo de Usuários foi alterada para possibilitar inativar/ativar usuários em um grupo.&#x20;
 

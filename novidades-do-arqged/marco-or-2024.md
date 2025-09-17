@@ -4,7 +4,7 @@
 
 <details>
 
-<summary>25/03: Mudança na Cobrança ArqSign no ArqGED e ArqScan</summary>
+<summary>25/03 - Mudança na Cobrança ArqSign no ArqGED e ArqScan</summary>
 
 Foram realizadas melhorias em:
 
@@ -20,7 +20,7 @@ A apuração da quantidade a faturar para o serviço ArqSCAN foi alterada para c
 
 <details>
 
-<summary>18/03: Contrato - Serviço ArqNFe</summary>
+<summary>18/03 - Contrato - Serviço ArqNFe</summary>
 
 <mark style="color:blue;">**• Cliente > Contrato > Serviço**</mark>
 
@@ -36,7 +36,7 @@ Estes campos foram criados pra guardar a quantidade e valor para utilização ex
 
 <details>
 
-<summary>18/03: Melhoria de Usabilidade: Tela de Reajuste de Contrato</summary>
+<summary>18/03 - Melhoria de Usabilidade: Tela de Reajuste de Contrato</summary>
 
 <mark style="color:blue;">**• Layout da tela Reajustar Contratos.**</mark>
 
@@ -52,7 +52,7 @@ A alteração visa facilitar visualmente os novos valores dos contratos a serem 
 
 <details>
 
-<summary>14/03: Melhorias no Relatório de Faturamento</summary>
+<summary>14/03 - Melhorias no Relatório de Faturamento</summary>
 
 <mark style="color:blue;">**• Usabilidade**</mark>
 
