@@ -119,6 +119,7 @@
 
 ## 📣 Novidades do ArqGED
 
+* [▫️ Abril | 2025](novidades-do-arqged/abril-or-2025.md)
 * [▫️ Julho | 2024](novidades-do-arqged/julho-or-2024.md)
 * [▫️ Junho | 2024](novidades-do-arqged/junho-or-2024.md)
 * [▫️ Maio | 2024](novidades-do-arqged/maio-or-2024.md)
