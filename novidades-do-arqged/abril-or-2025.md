@@ -12,5 +12,7 @@ O "Login com MFA" refere-se ao acesso por meio de autenticação multifator. A s
 
 Essa abordagem adiciona uma camada extra de proteção, tornando o acesso não autorizado mais difícil, mesmo que a senha do usuário seja comprometida.
 
+<div align="left"><figure><img src="../.gitbook/assets/image (343).png" alt="" width="179"><figcaption></figcaption></figure></div>
+
 </details>
 
