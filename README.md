@@ -8,6 +8,10 @@ O software ArqGED é um BPM (Business Process Management), desenvolvido pela Arq
 
 Neste guia  você encontrará diversos conteúdos que te ajudarão a utilizar nossa ferramenta da melhor forma. Utilize a navegação à esquerda para conhecer as funcionalidades de cada menu do software ArqGED.
 
+
+
+***
+
 ## Autenticação – MFA
 
 ### Login com MFA (Autenticação Multifator)
