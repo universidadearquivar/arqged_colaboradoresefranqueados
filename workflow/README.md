@@ -1,6 +1,6 @@
 # 🔄 Workflow
 
-{% embed url="https://app.heygen.com/share/1877107e9e5c4679a8fab122bf640bd9" %}
+{% embed url="https://app.heygen.com/videos/1877107e9e5c4679a8fab122bf640bd9" %}
 
 O Workflow é um módulo integrado do ArqGED que possibilita a criação de fluxos de trabalho, onde é possível controlar tarefas por usuário responsável, por tipo de atendimento, por prazo e por tipo de fluxo.
 

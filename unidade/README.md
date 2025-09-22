@@ -1,6 +1,6 @@
 # 🏛️ Unidade
 
-{% embed url="https://app.heygen.com/share/d1239d093eef45c9a3c8ebd818c3aa87" %}
+{% embed url="https://app.heygen.com/videos/d1239d093eef45c9a3c8ebd818c3aa87" %}
 
 No menu Unidade são exibidas todas as unidades franqueadas da Arquivar. O objetivo deste menu é exibir o detalhamento dos dados cadastrais de cada unidade franqueada. O menu Unidade é composto pelos seguintes submenus:&#x20;
 

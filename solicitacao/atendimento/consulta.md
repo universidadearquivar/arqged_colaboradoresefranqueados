@@ -1,6 +1,6 @@
 # 🔹 Consulta
 
-{% embed url="https://app.heygen.com/share/146a4f7e6c934ec78e23b24db407852a" %}
+{% embed url="https://app.heygen.com/videos/146a4f7e6c934ec78e23b24db407852a" %}
 
 Nesta tela são exibidas as solicitações do cliente feitas pelo menu Solicitações > Consulta. Toda a reserva transformada em **Pedido**, fica disponível para atendimento neste local, seja para atendimento realizado pela Unidade Arquivar (Guarda Terceirizada) ou pelo CEDOC do cliente (Guarda Interna).
 

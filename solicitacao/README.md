@@ -1,6 +1,6 @@
 # 🛒 Solicitação
 
-{% embed url="https://app.heygen.com/share/1462e8b2b98740f9bee3ea931c441e17" %}
+{% embed url="https://app.heygen.com/videos/1462e8b2b98740f9bee3ea931c441e17" %}
 
 No menu Solicitação são apresentadas todas as solicitações feitas por clientes referentes a serviços de guarda de documentos.
 

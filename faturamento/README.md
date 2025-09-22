@@ -1,6 +1,6 @@
 # 💵 Faturamento
 
-{% embed url="https://app.heygen.com/share/55cbe3fd230a4c1a9c4e6092fbf9b462" %}
+{% embed url="https://app.heygen.com/videos/55cbe3fd230a4c1a9c4e6092fbf9b462" %}
 
 No menu Faturamento são apresentadas informações referentes ao faturamento das unidades Arquivar. O menu Faturamento é composto pelos seguintes submenus:
 

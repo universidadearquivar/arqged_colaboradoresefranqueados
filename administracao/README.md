@@ -1,6 +1,6 @@
 # ⚙️ Administração
 
-{% embed url="https://app.heygen.com/share/61a675f70c1e4813bba7cc337c6d6597" %}
+{% embed url="https://app.heygen.com/videos/61a675f70c1e4813bba7cc337c6d6597" %}
 
 No menu Administração são feitas as configurações gerais da plataforma. O menu Administração é composto pelos seguintes submenus:
 

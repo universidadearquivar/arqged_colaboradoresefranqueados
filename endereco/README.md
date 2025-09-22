@@ -1,6 +1,6 @@
 # 📪 Endereço
 
-{% embed url="https://app.heygen.com/share/f748bf9a642344d380a8fb6d417824b9" %}
+{% embed url="https://app.heygen.com/videos/f748bf9a642344d380a8fb6d417824b9" %}
 
 A tela Endereço não se refere ao endereço postal das unidades e clientes Arquivar, mas sim aos endereços de armazenamento, que são criados e gerenciados neste menu. O menu Endereço é composto pelos seguintes submenus:
 

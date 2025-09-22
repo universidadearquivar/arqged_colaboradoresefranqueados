@@ -1,6 +1,6 @@
 # 📦 Caixa ou Pasta
 
-{% embed url="https://app.heygen.com/share/305182f328f24575b85cbda6fafe5834" %}
+{% embed url="https://app.heygen.com/videos/305182f328f24575b85cbda6fafe5834" %}
 
 No menu Caixa ou Pasta são criadas as caixas e pastas disponibilizadas aos clientes e unidades franqueadas da Arquivar. O menu Caixa ou Pasta é composto pelos seguintes submenus:
 

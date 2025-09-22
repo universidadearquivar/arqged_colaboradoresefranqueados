@@ -1,6 +1,6 @@
 # 📓 Documento
 
-{% embed url="https://app.heygen.com/share/ca13439c021c4cf0b2f8ac14a4e86267" %}
+{% embed url="https://app.heygen.com/videos/ca13439c021c4cf0b2f8ac14a4e86267" %}
 
 No menu Documento são cadastrados, gerenciados e disponibilizados todos os documentos do cliente. &#x20;
 

@@ -1,6 +1,6 @@
 # 🏬 Cliente
 
-{% embed url="https://app.heygen.com/share/4954469866944638b05da6fa13dd7cb0" %}
+{% embed url="https://app.heygen.com/videos/4954469866944638b05da6fa13dd7cb0" %}
 
 No menu Cliente são cadastradas todas as informações sobre o cliente, como dados comerciais, endereço, tempo de atendimento (SLA), entre outras.&#x20;
 
