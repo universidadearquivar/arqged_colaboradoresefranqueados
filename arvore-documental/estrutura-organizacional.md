@@ -61,3 +61,19 @@ Se no momento da criação da [Estrutura do Cliente](estrutura-do-cliente.md) ti
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/arvoredoc06.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
+
+**Indexação Automatizada:** Quando este parâmetro estiver marcado para uma Estrutura Organizacional, significa que o usuário poderá configurar na Tela da Árvore Organizacional, para esta estrutura, quais extensões de arquivos serão obrigadas para uma indexação via API.
+
+&#x20;Ou seja, em uma Árvore Organizacional, o usuário poderá configurar que na criação de um documento deverá ser obrigado o upload de um ou mais arquivo PDF ou XML.
+
+**Exemplo:**
+
+Para uma Nota Fiscal, o usuário configura em seu nível de árvore como **Parâmetros para obrigatoriedade de arquivo**: 1 PDF e 1 XML.
+
+Durante a Indexação da Nota Fiscal para este nível de árvore, a aplicação não irá permitir que o documento seja indexado se não houver pelo menos 1 arquivo com extensão PDF e 1 arquivo com extensão XML.
+
+Essa funcionalidade, garante que documentos importantes sejam indexados com seus respectivos arquivos, quantos foram configurados e quantas extensões forem indicadas. Levando em consideração integrações com a API, um documento nunca será indexado com arquivos faltantes.
+
+{% hint style="warning" %}
+<mark style="color:orange;">Não há leitura do conteúdo do arquivo, apenas a indicação da extensão do arquivo.</mark>
+{% endhint %}
