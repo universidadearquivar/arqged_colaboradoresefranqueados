@@ -95,6 +95,22 @@ Se o cliente possuir o serviço de Assinatura Digital contratado, será exibido 
 
 <figure><img src="../../.gitbook/assets/doc28.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
+{% hint style="warning" %}
+<mark style="color:orange;">Para assinatura de documentos tratados em conformidade com o Decreto 10.278, os arquivos que atingirem 300MB ou mais deverão ser tratados com o fracionamento em partes sequenciais devidamente nomeadas. Caso haja numeração preexistente, como o número de atendimento, sugerimos utilizar essa identificação no nome do arquivo para facilitar a organização e a futura localização do registro no ArqGED.</mark>
+
+<mark style="color:orange;">**Exemplo:**</mark>
+
+<mark style="color:orange;">Prontuário de atendimento nº 100, o fracionamento correto do arquivo deve ser:</mark>
+
+<mark style="color:orange;">100 parte 01/03.pdf</mark>
+
+<mark style="color:orange;">100 parte 02/03.pdf</mark>
+
+<mark style="color:orange;">100 parte 03/03.pdf</mark>
+
+<mark style="color:orange;">Esse procedimento visa otimizar o manuseio e a entrega dos arquivos, evitando possíveis dificuldades no processo de assinatura do acervo.</mark>
+{% endhint %}
+
 ### Configurar colunas da tela ![](<../../.gitbook/assets/image (135).png>)
 
 As colunas exibidas na tela podem ser escolhidas de acordo com o que se deseja que seja exibido. No campo “Colunas com os dados de identificação do documento”, é possível escolher as colunas que serão exibidas ao se realizar a busca de arquivos do tipo documental selecionado. No campo à esquerda são exibidas as colunas disponíveis e no campo à direita são mostradas as colunas selecionadas que serão exibidas. &#x20;
