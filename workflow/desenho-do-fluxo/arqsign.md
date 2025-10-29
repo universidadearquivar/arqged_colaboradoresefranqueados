@@ -494,9 +494,12 @@ Essa aba permite configurar o envio de um **código de segurança adicional**, q
 
 #### Campos disponíveis
 
-* **Campo onde extrair o código de segurança** _(opcional)_\
-  Campo para definir de qual campo do formulário será extraído o código de segurança a ser enviado ao signatário.
-  * O preenchimento deste campo é opcional, mas, ao ser preenchido, ativa a obrigatoriedade dos campos seguintes.
+* **Campo onde extrair o código de segurança** _(obrigatório se houver envio)_
+
+Campo do formulário de onde será extraído o código de segurança a ser enviado ao signatário. Este campo precisa ser numérico com a configuração de tamanho mínimo e máximo com valor  igual a **"4".**
+
+<figure><img src="../../.gitbook/assets/image (345).png" alt=""><figcaption></figcaption></figure>
+
 * **Enviar código de segurança por** _(obrigatório se houver código)_\
   Campo para selecionar o **meio de envio** do código de segurança.\
   Opções disponíveis:
@@ -518,12 +521,6 @@ Essa aba permite configurar o envio de um **código de segurança adicional**, q
 * Se **SMS** ou **WhatsApp** forem selecionados, o campo deverá conter um **telefone**.
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-* **Campo onde extrair o código de segurança (**_obrigatório se houver envio)_
-
-Campo do formulário de onde será extraído o código de segurança a ser enviado ao signatário. Este campo precisa ser numérico com a configuração de tamanho mínimo e máximo com valor  **"4".**
-
-<figure><img src="../../.gitbook/assets/image (345).png" alt=""><figcaption></figcaption></figure>
 
 * **Campo onde extrair o e-mail ou telefone** _(obrigatório se houver envio)_\
   Campo do formulário de onde será extraído o **contato** (e-mail ou telefone) para envio do código de segurança.
