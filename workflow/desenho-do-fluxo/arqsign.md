@@ -519,6 +519,12 @@ Essa aba permite configurar o envio de um **código de segurança adicional**, q
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
+* **Campo onde extrair o código de segurança (**_obrigatório se houver envio)_
+
+Campo do formulário de onde será extraído o código de segurança a ser enviado ao signatário. Este campo precisa ser numérico com a configuração de tamanho mínimo e máximo com valor  **"4".**
+
+<figure><img src="../../.gitbook/assets/image (345).png" alt=""><figcaption></figcaption></figure>
+
 * **Campo onde extrair o e-mail ou telefone** _(obrigatório se houver envio)_\
   Campo do formulário de onde será extraído o **contato** (e-mail ou telefone) para envio do código de segurança.
   * O tipo de dado aceito depende da opção selecionada no campo anterior.
