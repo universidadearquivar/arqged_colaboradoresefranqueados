@@ -223,11 +223,11 @@ Ao definir uma área para exibição, o campo "Nome para a área" é automaticam
 
 **Arquivos:** É composto pelos anexos do fluxo, anexos do registro e o arquivo modelo. Por padrão, na modal de Anexos do fluxo,  já são exibidos os anexos do documento e os anexos do fluxo que são inseridos no sistema via upload durante o decorrer do processo no sistema, além do modelo, quando se aplica. Considerando a configuração de Layout, é possível restringir esse acesso:
 
-• Ao manter a seleção "Arquivos": serão exibidos ao usuário somente os arquivos do fluxo.
+• **Ao manter a seleção "Arquivos":** serão exibidos ao usuário somente os arquivos do fluxo.
 
-• Ao manter a seleção "Exibir Modelo": serão exibidos ao usuário somente o arquivo modelo associado ao fluxo.
+• **Ao manter a seleção "Exibir Modelo":** serão exibidos ao usuário somente o arquivo modelo associado ao fluxo.
 
-• Ao manter a seleção "Exibir anexo do Registro": serão exibidos somente os anexos do registro, quando houver imagem disponível para exibição.
+• **Ao manter a seleção "Exibir anexo do Registro":** serão exibidos somente os anexos do registro, quando houver imagem disponível para exibição.
 
 {% hint style="success" %}
 É possível selecionar mais de uma opção, ou todas elas. Importante avaliar a necessidade de exibição no momento da execução do processo pelo usuário.
