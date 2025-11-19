@@ -217,7 +217,9 @@ Ao definir uma área para exibição, o campo "Nome para a área" é automaticam
 **Por exemplo:** Ao definir a exibição da área "Documentos", o usuário poderá visualizar ou cadastrar um documento na etapa, porém, ele seguirá com o fluxo tendo ou não realizado a inclusão desse documento ao processo.
 {% endhint %}
 
+**Modelo de Documento:** Se houver um modelo de documento castrado para o fluxo, é possível definir se o usuário deve ver esse modelo e ainda qual deve ser o nome apresentado ao usuário, neste caso, a aplicação carrega como padrão o nome dado ao arquivo modelo e não o nome do campo. Ajuste para o nome familiar utilizado pelos participantes do processo.
 
+<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 
 
