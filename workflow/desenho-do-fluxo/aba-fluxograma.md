@@ -106,7 +106,7 @@ Todas as tarefas criadas no desenho do fluxo devem ser configuradas individualme
 
 <figure><img src="../../.gitbook/assets/desenho1.png" alt=""><figcaption></figcaption></figure>
 
-#### E-mail
+#### Aba E-mail
 
 {% @supademo/embed demoId="cmc0gzblril1msn1rjabxklyz" url="https://app.supademo.com/demo/cmc0gzblril1msn1rjabxklyz" %}
 
@@ -127,7 +127,7 @@ Todas as tarefas criadas no desenho do fluxo devem ser configuradas individualme
 
 <figure><img src="../../.gitbook/assets/desenho11.png" alt=""><figcaption></figcaption></figure>
 
-#### Anexos
+#### Aba Anexos
 
 {% @supademo/embed demoId="cmc0muoh5itqysn1rruxngim6" url="https://app.supademo.com/demo/cmc0muoh5itqysn1rruxngim6" %}
 
@@ -156,7 +156,7 @@ _<mark style="color:blue;">Registro de Documento:</mark>_ <mark style="color:blu
 
 <figure><img src="../../.gitbook/assets/desenho8.png" alt=""><figcaption></figcaption></figure>
 
-#### Modelo Documento
+#### Aba Modelo Documento
 
 * **Modelo:** Neste campo é exibido o modelo PDF cadastrado anteriormente no campo “Modelo de Arquivo PDF com campos”, na aba Dados Gerais.
 * **Visualização:** Se marcada essa opção o usuário terá acesso ao modelo PDF cadastrado.
@@ -168,7 +168,7 @@ _<mark style="color:blue;">Registro de Documento:</mark>_ <mark style="color:blu
 
 <figure><img src="../../.gitbook/assets/desenho13.png" alt=""><figcaption></figcaption></figure>
 
-#### Formulário
+#### Aba Formulário
 
 * **Formulário:** Neste campo é exibido o nome do formulário cadastrado anteriormente no campo “Formulário”, na [aba Dados Gerais](aba-dados-gerais.md).
 * **Campos:** Neste espaço são exibidos todos os campos do formulário cadastrado associado ao fluxo. Aqui o usuário deverá marcar como o executor da tarefa poderá interagir com cada campo, sendo `V =` Visualiza, `C =` Cadastra, `O =` Cadastra Obrigatoriamente, `E =` Edita e `T =` Exibir na Tarefa. O usuário poderá marcar um capo por vez ou marcar todos utilizando a opção o "campos". É possível ocultar campos e permitir que o executor tarefa edite determinado campo se necessário. Os campos marcados com T (Exibir na Tarefa) serão mostrados na tela Minhas Atividades, na descrição da tarefa.
@@ -181,7 +181,7 @@ _<mark style="color:blue;">Registro de Documento:</mark>_ <mark style="color:blu
 
 <figure><img src="../../.gitbook/assets/desenho14.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-#### Layout Tarefa Externa
+#### Aba Layout Tarefa Externa
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Essa aba só será exibida caso o responsável da tarefa seja um usuário externo.**</mark>
@@ -195,11 +195,11 @@ Defina os nomes que serão exibidos para o usuário externo que receber uma atri
 
 <figure><img src="../../.gitbook/assets/desenho16.png" alt=""><figcaption></figcaption></figure>
 
-#### Layout Tarefa Interna
+#### Aba Layout Tarefa Interna
 
 
 
-#### Automação
+#### Aba Automação
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Essa aba só será exibida caso o responsável da tarefa seja um usuário externo.**</mark>
