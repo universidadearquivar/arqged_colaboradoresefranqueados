@@ -199,7 +199,7 @@ Defina os nomes que serão exibidos para o usuário externo que receber uma atri
 
 Permite configurar quais ícones devem ser exibidos durante a execução da tarefa ao responsável para interação, ou seja, quais funcionalidades ele irá utilizar, como por exemplo: cadastro de documento, upload de arquivo no fluxo, preenchimento de modelo e etc. É nessa aba, que a definição de restrição ou não de algumas funcionalidades durante a execução do fluxo deverá acontecer.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Exibição**: Checkbox onde é definida qual área deve ser exibida para o usuário responsável na execução do processo.
 
@@ -209,13 +209,17 @@ Permite configurar quais ícones devem ser exibidos durante a execução da tare
 
 Ao definir uma área para exibição, o campo "Nome para a área" é automaticamente apresentado na tela para definição de um novo nome, importante utilizar um nome que seja familiar ao usuário dentro do processo. Caso não seja aplicável, é só manter o nome padrão já definido pelo sistema.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 **Importante:** Ao passar pelas abas anteriores sem definir configurações para as "áreas", elas poderão ser definidas na "**Aba Layout Tarefa Interna**", porém, elas serão tratadas como sendo de execução **não obrigatória** para o usuário. A obrigatoriedade só pode ser definida na aba específica da configuração.
 
-**Por exemplo:** Ao definir a exibição da área "Documentos", o usuário poderá visualizar ou cadastrar um documento na etapa, porém, ele seguirá com o fluxo tendo ou não realizado a inclusão desse documento ao processo.
+_**Por exemplo:** Ao definir a exibição da área "Comentários", o usuário poderá ou não incluir um comentário na etapa, porém, ele seguirá com o fluxo tendo ou não realizado a inclusão desse comentário no processo._
+
+Se o contrário for feito, ou seja, se na aba de configuração da etapa for sinalizado "Obrigar comentário na etapa", ao acessar a aba de Layout Tarefa Interna, não é possível tirar a seleção de exibição da área e o processo somente avançará após inclusão do comentário na etapa.
 {% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 **Modelo de Documento:** Se houver um modelo de documento castrado para o fluxo, é possível definir se o usuário deve ver esse modelo e ainda qual deve ser o nome apresentado ao usuário, neste caso, a aplicação carrega como padrão o nome dado ao arquivo modelo e não o nome do campo. Ajuste para o nome familiar utilizado pelos participantes do processo.
 
@@ -235,9 +239,9 @@ Ao definir uma área para exibição, o campo "Nome para a área" é automaticam
 
 **Download em Massa:** ao marcar essa opção a **aba de download em massa** será exibida na área de **anexos** e na área de **documentos.**&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 Ao realizar a configuração do Download em Massa, não é possível definir sua ordem de exibição, isso ocorre pelo fato do download em massa acontecer dentro de outra área. Ele vai acontecer dentro de "Arquivos" e "Documentos".
