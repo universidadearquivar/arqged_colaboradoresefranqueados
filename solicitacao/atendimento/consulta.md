@@ -69,7 +69,7 @@ O relatório de “Informações dos Atendimentos” é muito utilizado para val
 <figure><img src="../../.gitbook/assets/image (107).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="info" %}
-<mark style="color:blue;">**Caixa Temporária:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Somente a unidade consegue fazer este tipo de pedido. Ele deve ser usado quando a caixa ainda não foi indexada e o setor de atendimento precisa procurar um documento dentro desta caixa para enviar ao Cliente. Desta forma nesta consulta se seleciona a caixa, é realizada a busca pelo documento que é enviado  para o cliente. Feito desta forma é gerada uma cobrança de consulta de documento e a caixa não muda o status para "Enviado ao Cliente".</mark>
+<mark style="color:blue;">**Caixa Temporária:**</mark> <mark style="color:blue;">Somente a unidade consegue fazer este tipo de pedido. Ele deve ser usado quando a caixa ainda não foi indexada e o setor de atendimento precisa procurar um documento dentro desta caixa para enviar ao Cliente. Desta forma nesta consulta se seleciona a caixa, é realizada a busca pelo documento que é enviado para o cliente. Feito desta forma é gerada uma cobrança de consulta de documento e a caixa não muda o status para "Enviado ao Cliente".</mark>
 {% endhint %}
 
 **Coluna Pedido:** Exibe o número de pedido gerado no momento do envio da solicitação de consulta.
@@ -113,7 +113,7 @@ O ideal, quando o usuário não tiver certeza de como foi escrito o texto que bu
 <figure><img src="../../.gitbook/assets/image (110).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="info" %}
-<mark style="color:blue;">O usuário</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**solicitante**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">poderá acessar o painel de atendimento para</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**visualizar**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">o andamento da sua solicitação, consultar seu pedido ou exportar dados do pedido em .CSV, porém, não é permitido ao solicitante nenhuma interação com o atendimento da demanda. Apenas o atendente da Unidade Arquivar ou do CEDOC do cliente, poderá prosseguir com o atendimento do pedido no sistema. Para o usuário solicitante não é habilitada a opção de "Editar" o pedido.</mark>
+<mark style="color:blue;">O usuário</mark> <mark style="color:blue;">**solicitante**</mark> <mark style="color:blue;">poderá acessar o painel de atendimento para</mark> <mark style="color:blue;">**visualizar**</mark> <mark style="color:blue;">o andamento da sua solicitação, consultar seu pedido ou exportar dados do pedido em .CSV, porém, não é permitido ao solicitante nenhuma interação com o atendimento da demanda. Apenas o atendente da Unidade Arquivar ou do CEDOC do cliente, poderá prosseguir com o atendimento do pedido no sistema. Para o usuário solicitante não é habilitada a opção de "Editar" o pedido.</mark>
 {% endhint %}
 
 ***
@@ -195,7 +195,7 @@ No cabeçalho da Guia é exibido:
   * Nome do solicitante no ArqGED
   * Telefone do solicitante
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Abaixo é exibida:
 
@@ -217,7 +217,7 @@ Por fim, são exibidos campos que identificam os atores atuantes no atendimento:
 <figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="info" %}
-<mark style="color:blue;">Quando a Unidade possui configuração definida para</mark> [<mark style="color:blue;">Grupo de Endereços</mark>](../configuracao/grupo-de-endereco.md)<mark style="color:blue;">, é gerada uma guia de busca por grupo. Isso é feito para que o auxiliar de arquivo responsável pela busca dos volumes  no arquivo tenha maior facilidade e produtividade na separação do acervo.</mark>
+<mark style="color:blue;">Quando a Unidade possui configuração definida para</mark> [<mark style="color:blue;">Grupo de Endereços</mark>](../configuracao/grupo-de-endereco.md)<mark style="color:blue;">, é gerada uma guia de busca por grupo. Isso é feito para que o auxiliar de arquivo responsável pela busca dos volumes no arquivo tenha maior facilidade e produtividade na separação do acervo.</mark>
 {% endhint %}
 
 Concluído o processo de busca no arquivo, o atendente precisa informar para o sistema que a etapa foi realizada para prosseguir com o atendimento.
@@ -240,7 +240,7 @@ Nesta aba, são listados todos os documentos do pedido. É nesta tela que são a
 
 <figure><img src="../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-**Grupo:** Quando a Unidade possui configuração definida para [Grupo de Endereços](../configuracao/grupo-de-endereco.md), este campo é apresentado na tela e é considerado para organização do pedido. Isso é feito para que o auxiliar de arquivo responsável pela busca dos volumes  no arquivo tenha maior facilidade e produtividade na separação do acervo.
+**Grupo:** Quando a Unidade possui configuração definida para [Grupo de Endereços](../configuracao/grupo-de-endereco.md), este campo é apresentado na tela e é considerado para organização do pedido. Isso é feito para que o auxiliar de arquivo responsável pela busca dos volumes no arquivo tenha maior facilidade e produtividade na separação do acervo.
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -289,7 +289,7 @@ Uma nova tela será exibida na tela para preenchimento:
 **Código:** Este campo deve ser preenchido considerando o código de consulta. O código de consulta é controlado por unidade e geralmente é fornecido pela Master que disponibiliza uma planilha para acompanhamento da unidade. Os códigos são gerados considerando o padrão EAN-8, que é reconhecido pelo ArqGED que verifica se o código informado já foi utilizado para aquela unidade.
 
 {% hint style="success" %}
-<mark style="color:green;">A Master orienta que de posse da planilha de códigos, cada Unidade realize a impressão do seu sequencial com códigos de barras para que no momento do atendimento da consulta a etiqueta seja colada no verso do documento para identificar a movimentação, facilitar o processo de devolução e torná-lo mais seguro. Neste cenário é muito utilizada a impressão de etiquetas em rolo. Caso a Unidade opte por não realizar a impressão de seus códigos, o atendente deve anotar manualmente no verso do documento o código utilizado no atendimento da consulta.</mark>&#x20;
+<mark style="color:green;">A Master orienta que de posse da planilha de códigos, cada Unidade realize a impressão do seu sequencial com códigos de barras para que no momento do atendimento da consulta a etiqueta seja colada no verso do documento para identificar a movimentação, facilitar o processo de devolução e torná-lo mais seguro. Neste cenário é muito utilizada a impressão de etiquetas em rolo. Caso a Unidade opte por não realizar a impressão de seus códigos, o atendente deve anotar manualmente no verso do documento o código utilizado no atendimento da consulta.</mark>
 {% endhint %}
 
 **Buscas:** Registre neste campo a quantidade de buscas realizadas para localização do documento em questão.
@@ -454,7 +454,7 @@ Por fim, são exibidos campos que identificam os atores atuantes no atendimento:
 <figure><img src="../../.gitbook/assets/image (121).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="info" %}
-<mark style="color:blue;">Quando a Unidade possui configuração definida para</mark> [<mark style="color:blue;">Grupo de Endereços</mark>](../configuracao/grupo-de-endereco.md)<mark style="color:blue;">, é gerada uma guia de busca por grupo. Isso é feito para que o auxiliar de arquivo responsável pela busca dos volumes  no arquivo tenha maior facilidade e produtividade na separação do acervo.</mark>
+<mark style="color:blue;">Quando a Unidade possui configuração definida para</mark> [<mark style="color:blue;">Grupo de Endereços</mark>](../configuracao/grupo-de-endereco.md)<mark style="color:blue;">, é gerada uma guia de busca por grupo. Isso é feito para que o auxiliar de arquivo responsável pela busca dos volumes no arquivo tenha maior facilidade e produtividade na separação do acervo.</mark>
 {% endhint %}
 
 Concluído o processo de busca no arquivo, o atendente precisa informar para o sistema que a etapa foi realizada para prosseguir com o atendimento.
@@ -552,7 +552,7 @@ Realizado o processamento do pedido, a lista de ações é atualizada.
 
 No Painel de Atendimento, as informações são atualizadas podendo ser visualizadas pelo solicitante.
 
-<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">Sempre que o pedido é encerrado no ArqGED, o solicitante é notificado por e-mail quanto ao encerramento do seu pedido.</mark>
