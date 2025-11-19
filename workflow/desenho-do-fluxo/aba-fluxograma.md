@@ -212,7 +212,9 @@ Ao definir uma área para exibição, o campo "Nome para a área" é automaticam
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-**Importante:** Ao passar pelas abas anteriores sem definir configurações para as "áreas", elas poderão ser definidas na "**Aba Layout Tarefa Interna**", porém, elas serão tratadas como sendo de preenchimento **não obrigatório** para o usuário. A obrigatoriedade só pode ser definida na aba específica da configuração.
+**Importante:** Ao passar pelas abas anteriores sem definir configurações para as "áreas", elas poderão ser definidas na "**Aba Layout Tarefa Interna**", porém, elas serão tratadas como sendo de execução **não obrigatório** para o usuário. A obrigatoriedade só pode ser definida na aba específica da configuração.
+
+**Por exemplo:** Ao definir a exibição da área "Documentos", o usuário poderá visualizar ou cadastrar um documento na etapa, porém, ele seguirá com o fluxo tendo ou não realizado a inclusão desse documento ao processo.
 {% endhint %}
 
 
