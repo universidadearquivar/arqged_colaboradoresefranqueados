@@ -255,6 +255,12 @@ Concluídas essas definições o usuário não mais verá todos os ícones do pr
 
 <figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
+#### Fluxos com contrato de Integração ArqSign
+
+Neste cenário, existe uma particularidade, na aba de assinatura.
+
+Quando o fluxo possui assinatura via a ArqSign, não é possível realizar assinatura internas, portanto a aba assinatura, não será configurada para assinatura, será necessário apenas informar qual deve ser a "Seleção" para assinatura.&#x20;
+
 #### Aba Automação
 
 {% hint style="warning" %}
