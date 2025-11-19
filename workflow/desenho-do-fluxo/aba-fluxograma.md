@@ -212,7 +212,7 @@ Ao definir uma área para exibição, o campo "Nome para a área" é automaticam
 <figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-**Importante:** Ao passar pelas abas anteriores sem definir configurações para as "áreas", elas poderão ser definidas na "**Aba Layout Tarefa Interna**", porém, elas serão tratadas como sendo de execução **não obrigatório** para o usuário. A obrigatoriedade só pode ser definida na aba específica da configuração.
+**Importante:** Ao passar pelas abas anteriores sem definir configurações para as "áreas", elas poderão ser definidas na "**Aba Layout Tarefa Interna**", porém, elas serão tratadas como sendo de execução **não obrigatória** para o usuário. A obrigatoriedade só pode ser definida na aba específica da configuração.
 
 **Por exemplo:** Ao definir a exibição da área "Documentos", o usuário poderá visualizar ou cadastrar um documento na etapa, porém, ele seguirá com o fluxo tendo ou não realizado a inclusão desse documento ao processo.
 {% endhint %}
@@ -242,7 +242,7 @@ Ao definir uma área para exibição, o campo "Nome para a área" é automaticam
 {% hint style="danger" %}
 Ao realizar a configuração do Download em Massa, não é possível definir sua ordem de exibição, isso ocorre pelo fato do download em massa acontecer dentro de outra área. Ele vai acontecer dentro de "Arquivos" e "Documentos".
 
-![](<../../.gitbook/assets/image (73).png>)
+<p align="center"><img src="../../.gitbook/assets/image (73).png" alt=""></p>
 {% endhint %}
 
 Concluídas essas definições o usuário não mais verá todos os ícones do processo, serão exibidos apenas aqueles devidamente configuração para exibição.
