@@ -28,7 +28,7 @@ No cabeçalho são apresentadas as opções de filtros disponíveis:
 
 Ao selecionar um pedido são habilitados os ícones:
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Editar:** Permite a edição do pedido para atendimento da devolução.
 
@@ -54,7 +54,7 @@ Selecione na lista o nome do atendente responsável por realizar a devolução d
 
 Nesta aba é encontrado o detalhamento dos documentos ou caixa ou subcaixas devolvidos pelo cliente (solicitante).
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Clique para "Receber". Neste momento os volumes ainda não foram conferidos fisicamente, trata-se de um recebimento da quantidade de volumes.
 
@@ -71,7 +71,7 @@ Marque na tela os códigos efetivamente recebidos e clique em "Conferir".
 {% hint style="danger" %}
 Quando identificados volumes listados no pedido, porém, não recebidos fisicamente, estes devem ficar desmarcados na tela, pois deverão ser checados pelos responsáveis.
 
-![](<../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+<img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
 {% endhint %}
 
 Neste caso, somente os volumes selecionados serão validados:
@@ -93,5 +93,5 @@ Ao concluir o processo de devolução o Status do pedido é alterado para “Gua
 <figure><img src="../../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="danger" %}
-<mark style="color:red;">Encerrado o processo de devolução no sistema, a Unidade Arquivar deve se organizar para retornar com os volumes para seus devidos locais de alocação no arquivo, evitando que o volume seja novamente solicitado pelo cliente e não seja encontrado em seu local de guarda.  Cuide para que o processo de devolução dos volumes seja devidamente concluído.</mark>
+<mark style="color:red;">Encerrado o processo de devolução no sistema, a Unidade Arquivar deve se organizar para retornar com os volumes para seus devidos locais de alocação no arquivo, evitando que o volume seja novamente solicitado pelo cliente e não seja encontrado em seu local de guarda. Cuide para que o processo de devolução dos volumes seja devidamente concluído.</mark>
 {% endhint %}

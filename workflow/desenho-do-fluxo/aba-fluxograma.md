@@ -197,7 +197,15 @@ Defina os nomes que serão exibidos para o usuário externo que receber uma atri
 
 #### Aba Layout Tarefa Interna
 
+Permite configurar quais ícones devem ser exibidos durante a execução da tarefa ao responsável para interação, ou seja, quais funcionalidades ele irá utilizar como por exemplo: cadastro de documento, upload de arquivo no fluxo, preenchimento de modelo e etc. É nessa aba, que a definição de restrição ou não de algumas funcionalidades durante a execução deverá acontecer.&#x20;
 
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+Ao marcar o check box "Exibição", é definido qual área deve ser exibida para o usuário responsável na execução do processo. O campo "Ordem" define a ordem em que a área deve ser exibida no processo.
+
+Ao definir uma área para exibição, o campo "Nome para a área" é automaticamente apresentado na tela para preenchimento, aqui é possível definir um novo nome, devendo ser definido o nome que for mais familiar ao usuário dentro do processo ou é possível manter o nome padrão já apresentado na tela.
+
+####
 
 #### Aba Automação
 
