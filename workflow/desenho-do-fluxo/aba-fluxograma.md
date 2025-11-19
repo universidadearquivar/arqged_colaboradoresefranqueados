@@ -207,11 +207,21 @@ Permite configurar quais ícones devem ser exibidos durante a execução da tare
 
 **Área:** Identificação dos ícones utilizados no decorrer do processo.
 
-Ao definir uma área para exibição, o campo "Nome para a área" é automaticamente apresentado na tela para definição de um novo nome, importante utilizar um nome familiar ao usuário dentro do processo. Caso não seja aplicável, é só manter o nome padrão já definido pelo sistema.
+Ao definir uma área para exibição, o campo "Nome para a área" é automaticamente apresentado na tela para definição de um novo nome, importante utilizar um nome que seja familiar ao usuário dentro do processo. Caso não seja aplicável, é só manter o nome padrão já definido pelo sistema.
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-####
+{% hint style="warning" %}
+**Importante:** Ao passar pelas abas anteriores sem definir configurações para as "áreas", elas poderão ser definidas na "**Aba Layout Tarefa Interna**", porém, elas serão tratadas como sendo de preenchimento **não obrigatório** para o usuário. A obrigatoriedade só pode ser definida na aba específica da configuração.
+{% endhint %}
+
+
+
+
+
+
+
+
 
 #### Aba Automação
 
