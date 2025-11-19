@@ -66,7 +66,7 @@ Se a opção **“Obrigar comentário antes desta ação”** estiver habilitada
 
 Ao clicar nesta ação, o sistema exibirá a **modal “Editar e Reenviar Processo”**, onde será possível ajustar os dados dos signatários que ainda não assinaram e reenviar o processo à plataforma ArqSign.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ### Ícone: Anexos
 

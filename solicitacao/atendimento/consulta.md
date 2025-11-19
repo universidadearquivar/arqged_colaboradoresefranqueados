@@ -154,7 +154,7 @@ Para “Aprovar” ou “Cancelar” o pedido, o responsável deverá acessar a 
 
 Aprovado o pedido, o status é alterado e uma nova ação é registrada.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Feita a aprovação, o status do pedido é alterado para "Triagem" e o pedido fica disponível para andamento do atendimento, além de gerar uma nova ação para o atendimento.
 
@@ -242,7 +242,7 @@ Nesta aba, são listados todos os documentos do pedido. É nesta tela que são a
 
 **Grupo:** Quando a Unidade possui configuração definida para [Grupo de Endereços](../configuracao/grupo-de-endereco.md), este campo é apresentado na tela e é considerado para organização do pedido. Isso é feito para que o auxiliar de arquivo responsável pela busca dos volumes no arquivo tenha maior facilidade e produtividade na separação do acervo.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Coluna Seleção:** Exibe um local para seleção do atendimento.
 
@@ -513,7 +513,7 @@ Nesta aba, são listados todas as caixas ou subcaixas do pedido. É nesta tela q
 
 Para o preenchimento destes dados, é necessário acessar o ícone de "Atendimento" para cada uma das caixas ou subcaixas solicitadas. Clique no ícone para prosseguir:
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Uma nova tela será aberta para preenchimento dos dados de atendimento.
 

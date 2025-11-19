@@ -19,7 +19,7 @@ O menu Serviço Avulso é utilizado para lançamento de serviços que não são 
 * <mark style="color:green;">Elaboração de projetos, entre outros.</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Cliue na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Cliue na imagem para ampliar.</p></figcaption></figure>
 
 **Unidade:** Informe o nome da Unidade Arquivar responsável pela execução do serviço.
 

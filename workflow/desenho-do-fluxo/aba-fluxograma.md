@@ -199,7 +199,7 @@ Defina os nomes que serão exibidos para o usuário externo que receber uma atri
 
 Permite configurar quais ícones devem ser exibidos durante a execução da tarefa ao responsável para interação, ou seja, quais funcionalidades ele irá utilizar, como por exemplo: cadastro de documento, upload de arquivo no fluxo, preenchimento de modelo e etc. É nessa aba, que a definição de restrição ou não de algumas funcionalidades durante a execução do fluxo deverá acontecer.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Exibição**: Checkbox onde é definida qual área deve ser exibida para o usuário responsável na execução do processo.
 
@@ -209,7 +209,7 @@ Permite configurar quais ícones devem ser exibidos durante a execução da tare
 
 Ao definir uma área para exibição, o campo "Nome para a área" é automaticamente apresentado na tela para definição de um novo nome, importante utilizar um nome que seja familiar ao usuário dentro do processo. Caso não seja aplicável, é só manter o nome padrão já definido pelo sistema.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 **Importante:** Ao passar pelas abas anteriores sem definir configurações para as "áreas", elas poderão ser definidas na "**Aba Layout Tarefa Interna**", porém, elas serão tratadas como sendo de execução **não obrigatório** para o usuário. A obrigatoriedade só pode ser definida na aba específica da configuração.
@@ -233,7 +233,11 @@ Ao definir uma área para exibição, o campo "Nome para a área" é automaticam
 É possível selecionar mais de uma opção, ou todas elas. Importante avaliar a necessidade de exibição no momento da execução do processo pelo usuário.
 {% endhint %}
 
-**Download em Massa:** ao marcar essa opção a **aba de download em massa** será exibida na área de **modelo** e na área de **anexos.**&#x20;
+**Download em Massa:** ao marcar essa opção a **aba de download em massa** será exibida na área de **anexos** e na área de **documentos.**&#x20;
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Concluídas essas definições o usuário não mais verá todos os ícones do processo, serão exibidos apenas aqueles devidamente configuração para exibição.
 
@@ -636,7 +640,7 @@ Nesta aba, o usuário poderá **definir quais campos do formulário serão exibi
 Em etapas do tipo **ArqSign**, a coluna **T** permite a seleção de no máximo **4 campos**.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="188"><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="188"><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ### Conector
 
