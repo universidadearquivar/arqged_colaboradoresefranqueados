@@ -239,6 +239,10 @@ Ao definir uma área para exibição, o campo "Nome para a área" é automaticam
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="danger" %}
+Ao realizar a configuração do Download em Massa, não é possível definir sua ordem de exibição, isso ocorre pelo fato do download em massa acontecer dentro de outra área. Ele vai acontecer dentro de "Arquivos" e "Documentos".
+{% endhint %}
+
 Concluídas essas definições o usuário não mais verá todos os ícones do processo, serão exibidos apenas aqueles devidamente configuração para exibição.
 
 <figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
