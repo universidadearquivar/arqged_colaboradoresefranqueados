@@ -216,7 +216,7 @@ Ao definir uma área para exibição, o campo "Nome para a área" é automaticam
 
 _**Por exemplo:** Ao definir a exibição da área "Comentários", o usuário poderá ou não incluir um comentário na etapa, porém, ele seguirá com o fluxo tendo ou não realizado a inclusão desse comentário no processo._
 
-Se o contrário for feito, ou seja, se na aba de configuração da etapa for sinalizado "Obrigar comentário na etapa", ao acessar a aba de Layout Tarefa Interna, não é possível tirar a seleção de exibição da área e o processo somente avançará após inclusão do comentário na etapa.
+Se o contrário for feito, ou seja, se na aba de configuração da etapa for sinalizado "Obrigar comentário na etapa", ao acessar a aba de Layout Tarefa Interna, não é possível tirar a seleção de exibição da área e o processo somente avançará após inclusão do comentário na etapa. Neste momento somente os campos de "Ordem" e "Nome para a área" poderão ser editados.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
