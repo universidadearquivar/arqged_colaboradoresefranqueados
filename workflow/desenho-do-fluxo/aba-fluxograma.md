@@ -259,7 +259,11 @@ Concluídas essas definições o usuário não mais verá todos os ícones do pr
 
 Neste cenário, existe uma particularidade, na aba de assinatura.
 
-Quando o fluxo possui assinatura via a ArqSign, não é possível realizar assinatura internas, portanto a aba assinatura, não será configurada para assinatura, será necessário apenas informar qual deve ser a "Seleção" para assinatura.&#x20;
+Quando o fluxo possui assinatura via a ArqSign, não é possível realizar assinatura internas, portanto a aba assinatura, não será configurada para este fim, será necessário é necessário informar qual deve ser a "Seleção" considerada para assinatura.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+
+
 
 #### Aba Automação
 
