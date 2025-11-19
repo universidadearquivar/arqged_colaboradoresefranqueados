@@ -233,9 +233,11 @@ Ao definir uma área para exibição, o campo "Nome para a área" é automaticam
 É possível selecionar mais de uma opção, ou todas elas. Importante avaliar a necessidade de exibição no momento da execução do processo pelo usuário.
 {% endhint %}
 
+**Download em Massa:** ao marcar essa opção a **aba de download em massa** será exibida na área de **modelo** e na área de **anexos.**&#x20;
 
+Concluídas essas definições o usuário não mais verá todos os ícones do processo, serão exibidos apenas aqueles devidamente configuração para exibição.
 
-
+<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
 #### Aba Automação
 
