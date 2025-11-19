@@ -195,7 +195,9 @@ Defina os nomes que serão exibidos para o usuário externo que receber uma atri
 
 <figure><img src="../../.gitbook/assets/desenho16.png" alt=""><figcaption></figcaption></figure>
 
-#### Aba Layout Tarefa Interna
+### Aba Layout Tarefa Interna
+
+#### Fluxos sem contrato de Integração ArqSign
 
 Permite configurar quais ícones devem ser exibidos durante a execução da tarefa ao responsável para interação, ou seja, quais funcionalidades ele irá utilizar, como por exemplo: cadastro de documento, upload de arquivo no fluxo, preenchimento de modelo e etc. É nessa aba, que a definição de restrição ou não de algumas funcionalidades durante a execução do fluxo deverá acontecer.&#x20;
 
