@@ -284,9 +284,11 @@ Se marcada a opção "Permitir cancelar o processo ArqSign" com a obrigatoriedad
 
 <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-{% hint style="warning" %}
-#### O  mesmo comportamento se aplica às demais obrigatoriedades disponíveis na configuração da etapa, quando marcada a obrigatoriedade, a área é automaticamente marcada e desabilitada na aba de "Layout de tarefa de acesso interno".
+{% hint style="info" %}
+O mesmo comportamento se aplica às demais obrigatoriedades disponíveis na configuração a etapa, quando marcada a obrigatoriedade, a área é automaticamente marcada e desabilitada na aba de "Layout de tarefa de acesso interno".
 {% endhint %}
+
+Quano o fluxo possui um processo de assinatura ArqSign associado, obrigatoriamente será apresentada na tela de "Layout de tarefa de acesso interno" a opção já marcada e desabilitada "Processo ArqSign".
 
 #### Aba Automação
 
