@@ -327,7 +327,7 @@ Representa o início e fim de fluxo, ou seja, deve ser inserido no início e no 
 
 * **Tipo:** Selecione se o ícone está representando o início ou fim do fluxo.
 
-<figure><img src="../../.gitbook/assets/desenho20.png" alt=""><figcaption></figcaption></figure>
+{% include "../../.gitbook/includes/untitled (1).md" %}
 
 ***
 
