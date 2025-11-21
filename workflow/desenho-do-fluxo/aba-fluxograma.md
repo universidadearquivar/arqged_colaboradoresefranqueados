@@ -403,7 +403,9 @@ As opções de configuração para cópia dos dados são:
 
 Indica quando um grupo de tarefas independentes devem ser concluídas para que o fluxo continue.
 
-<div><figure><img src="../../.gitbook/assets/desenho26.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/desenho27.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure></div>
+<figure><img src="../../.gitbook/assets/desenho26.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/desenho27.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ### Configurações de Grupo
 
