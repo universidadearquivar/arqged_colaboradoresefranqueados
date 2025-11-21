@@ -271,13 +271,18 @@ Quando marcada a opção "Anexos(s) do(s) registro(s)", automaticamente a área 
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="success" %}
+<mark style="color:$success;">Nas tarefas do tipo ArqSign é definido o que deve ser assinado, os anexos do registro ou os anexos do fluxo sendo essa uma tarefa de acompanhamento, onde é possível reenviar o token para assinatura, ou cancelar o processo de assinatura.</mark>\
+
+{% endhint %}
+
 #### Aba Automação
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Essa aba só será exibida caso o responsável da tarefa seja um usuário externo.**</mark>
 {% endhint %}
 
-* **Usar o(s) email(s) como responsável(is) pels etapa:** Se marcada essa opção ao invés de solicitar que o usuário informe o e-mail externo para recebimento da tarefa, o sistema extrairá esse e-mail de algum dos campos do formulário cadastrado. Neste caso é preciso apontar de qual campo será extraída a informação.
+* **Usar o(s) email(s) como responsável(is) pela etapa:** Se marcada essa opção ao invés de solicitar que o usuário informe o e-mail externo para recebimento da tarefa, o sistema extrairá esse e-mail de algum dos campos do formulário cadastrado. Neste caso é preciso apontar de qual campo será extraída a informação.
 
 <figure><img src="../../.gitbook/assets/desenho17.png" alt=""><figcaption></figcaption></figure>
 
