@@ -280,9 +280,13 @@ Após configurar o processo ArqSign definido para esta tarefa, é preciso defini
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-Se marcada a opção "Permitir cancelar o processo ArqSign" com a obrigatoriedade "Obrigar comentário antes desta ação", a configuração de "Layout de tarefa de acesso interno" muda, sendo realizada a marcação automática da área "Comentário".
+Se marcada a opção "Permitir cancelar o processo ArqSign" com a obrigatoriedade "Obrigar comentário antes desta ação", a configuração de "Layout de tarefa de acesso interno" muda, sendo realizada a marcação automática da área "Comentário".&#x20;
 
 <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+{% hint style="warning" %}
+#### O  mesmo comportamento se aplica às demais obrigatoriedades disponíveis na configuração da etapa, quando marcada a obrigatoriedade, a área é automaticamente marcada e desabilitada na aba de "Layout de tarefa de acesso interno".
+{% endhint %}
 
 #### Aba Automação
 
