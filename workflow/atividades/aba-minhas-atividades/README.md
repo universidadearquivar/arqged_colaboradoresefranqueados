@@ -11,14 +11,15 @@ A aba Minhas Atividades agrupa todas as atividades pendentes para o usuário log
 ## Minhas Atividades – Visão Geral
 
 1. **Botão Ativos/Agendados:** A alternância desse botão permite exibir as tarefas ativas (que já iniciaram) ou agendadas (com data futura para início) que são de responsabilidade de execução do usuário.
-2. **Barra de Filtro:** É possível realizar a busca de tarefas utilizando a barra de filtro, que faz a busca de tarefas do usuário utilizando palavras-chave.
-3. **Botão Ativar Novo Fluxo:** Botão para a ativação de novos fluxos.
-4. **Legendas:** Aqui são exibidas as legendas de cores que indicam de forma visual e clara o estado da Ação. Ela marca ações com uma linha vermelha em caso de <mark style="color:red;">"Ação obrigatória Pendente"</mark>, verde em caso de <mark style="color:green;">"Ação concluída"</mark> e azul em caso de <mark style="color:blue;">"Ação opcional"</mark>.
-5. **Grupo de informações sobre o fluxo de trabalho e sobre a tarefa:** Aqui são exibidas as seguintes informações: se a tarefa é em grupo ou individual; nome e número do fluxo; data da ativação e nome de quem ativou o fluxo; nome, status e descrição da tarefa; responsável pela tarefa e prazo para a sua execução e status da etapa. É mostrado também quem foi o executor da tarefa anterior e qual foi a ação que ele executou.
-6. **Observação:** Mostra a informação adicionada no momento da ativação do fluxo no campo “Observação”.
-7. **Formulário:** Mostra os dados do formulário associado ao fluxo. Os campos exibidos aqui devem ter sido previamente indicados na configuração da tarefa, no menu no menu Workflow > Desenho do Fluxo > Fluxograma.
-8. **Último Comentário:** Mostra o último comentário feito na tarefa.
-9.  **Próximo Passo:** Nesta área estão concentrados os botões que definem o próximo passo da tarefa. Para cada tarefa de decisão, serão apresentados botões com opções para diferentes caminhos, como por exemplo: Com Validação / Sem Validação, Com Aprovação Técnica / Sem Aprovação Técnica, Validar / Recusar etc. Esses botões servem para direcionar qual caminho deve ser percorrido para atingir o objetivo do fluxo de trabalho. O texto exibido nos botões é inserido nas configurações do conector das tarefas, no menu [Workflow > Desenho do Fluxo > Fluxograma](../../desenho-do-fluxo/aba-fluxograma.md).
+2. **Botão Dados/Listagem:** A alternância desse botão permite alterar a forma de visualização dos fluxos para o usuário. Quando selecionada a visão "Dados", são exibidos na tela os fluxos de responsabilidade do usuário logado considerando um resumo do fluxo, além de exibir também os ícones da etapa e as orientações de pendências.
+3. **Barra de Filtro:** É possível realizar a busca de tarefas utilizando a barra de filtro, que faz a busca de tarefas do usuário utilizando palavras-chave.
+4. **Botão Ativar Novo Fluxo:** Botão para a ativação de novos fluxos.
+5. **Legendas:** Aqui são exibidas as legendas de cores que indicam de forma visual e clara o estado da Ação. Ela marca ações com uma linha vermelha em caso de <mark style="color:red;">"Ação obrigatória Pendente"</mark>, verde em caso de <mark style="color:green;">"Ação concluída"</mark> e azul em caso de <mark style="color:blue;">"Ação opcional"</mark>.
+6. **Grupo de informações sobre o fluxo de trabalho e sobre a tarefa:** Aqui são exibidas as seguintes informações: se a tarefa é em grupo ou individual; nome e número do fluxo; data da ativação e nome de quem ativou o fluxo; nome, status e descrição da tarefa; responsável pela tarefa e prazo para a sua execução e status da etapa. É mostrado também quem foi o executor da tarefa anterior e qual foi a ação que ele executou.
+7. **Observação:** Mostra a informação adicionada no momento da ativação do fluxo no campo “Observação”.
+8. **Formulário:** Mostra os dados do formulário associado ao fluxo. Os campos exibidos aqui devem ter sido previamente indicados na configuração da tarefa, no menu no menu Workflow > Desenho do Fluxo > Fluxograma.
+9. **Último Comentário:** Mostra o último comentário feito na tarefa.
+10. **Próximo Passo:** Nesta área estão concentrados os botões que definem o próximo passo da tarefa. Para cada tarefa de decisão, serão apresentados botões com opções para diferentes caminhos, como por exemplo: Com Validação / Sem Validação, Com Aprovação Técnica / Sem Aprovação Técnica, Validar / Recusar etc. Esses botões servem para direcionar qual caminho deve ser percorrido para atingir o objetivo do fluxo de trabalho. O texto exibido nos botões é inserido nas configurações do conector das tarefas, no menu [Workflow > Desenho do Fluxo > Fluxograma](../../desenho-do-fluxo/aba-fluxograma.md).
 
     Os botões “Cancelar” e “Voltar Etapa” só serão exibidos se o usuário tiver permissão para executar essas ações no fluxo. Essa permissão é definida no cadastro de usuário, no menu Administração > Usuários.
 
@@ -174,7 +175,7 @@ Ao abrir o documento, os <mark style="color:red;">campos de preenchimento obriga
 
 Se tratado de tarefa externa, são exibidos os campos "**Tela cheia**" e "**Dividir Tela**". Quando o usuário clica no arquivo o modelo de documento é aberto dividindo a tela com a tarefa.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Para voltar a dividir a tela com a tarefa, clique no botão "**Dividir Tela**".
 

@@ -38,13 +38,13 @@ As obrigatoriedades das tarefas são ações que devem ser realizadas para a con
 <mark style="color:orange;">**A maior parte das tarefas não apresentará todas as obrigatoriedades. Para verificar quais são as obrigatoriedades da tarefa exigidas, clique sobre o ícone “Obrigatoriedades da tarefa” durante a execução do fluxo.**</mark>
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="309"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="309"><figcaption></figcaption></figure>
 
 ### 1. Anexos
 
 1\. Clique no ícone "Anexos" para adicionar um anexo.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2\. Na aba "Anexos", clique no ícone de upload.
 
