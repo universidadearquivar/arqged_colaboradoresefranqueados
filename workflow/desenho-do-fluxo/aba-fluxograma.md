@@ -162,7 +162,7 @@ _<mark style="color:blue;">Registro de Documento:</mark>_ <mark style="color:blu
 * **Visualização:** Se marcada essa opção o usuário terá acesso ao modelo PDF cadastrado.
 * **Campos do modelo:** Neste espaço são exibidos todos os campos que o sistema extraiu do modelo PDF cadastrado no fluxo. Aqui o usuário deverá marcar como o executor da tarefa poderá interagir com cada campo, sendo `C =` Cadastrar, `O =` Cadastrar Obrigatoriamente e `E =` Editar. O usuário poderá marcar um capo por vez ou marcar todos utilizando a opção o "campos do modelo".
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 * **Assinar modelo:** Marque essa opção caso seja solicitado ao executor que assine o modelo PDF durante o fluxo.
 
@@ -177,7 +177,7 @@ _<mark style="color:blue;">Registro de Documento:</mark>_ <mark style="color:blu
 <mark style="color:orange;">**Os campos que forem ocultos com a opção V (Visualiza) desmarcada só serão ocultados naquela tarefa e não em todo o fluxo, ou seja, em outras tarefas eles aparecerão no formulário normalmente.**</mark>
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/desenho14.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -201,7 +201,7 @@ Defina os nomes que serão exibidos para o usuário externo que receber uma atri
 
 Permite configurar quais ícones devem ser exibidos durante a execução da tarefa ao responsável para interação, ou seja, quais funcionalidades ele irá utilizar, como por exemplo: cadastro de documento, upload de arquivo no fluxo, preenchimento de modelo e etc. É nessa aba, que a definição de restrição ou não de algumas funcionalidades durante a execução do fluxo deverá acontecer.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Exibição**: Checkbox onde é definida qual área deve ser exibida para o usuário responsável na execução do processo.
 
@@ -211,7 +211,7 @@ Permite configurar quais ícones devem ser exibidos durante a execução da tare
 
 Ao definir uma área para exibição, o campo "Nome para a área" é automaticamente apresentado na tela para definição de um novo nome, importante utilizar um nome que seja familiar ao usuário dentro do processo. Caso não seja aplicável, é só manter o nome padrão já definido pelo sistema.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 **Importante:** Ao passar pelas abas anteriores sem definir configurações para as "áreas", elas poderão ser definidas na "**Aba Layout Tarefa Interna**", porém, elas serão tratadas como sendo de execução **não obrigatória** para o usuário. A obrigatoriedade só pode ser definida na aba específica da configuração.
@@ -221,7 +221,7 @@ _**Por exemplo:** Ao definir a exibição da área "Comentários", o usuário po
 Se o contrário for feito, ou seja, se na aba de configuração da etapa for sinalizado "Obrigar comentário na etapa", ao acessar a aba de Layout Tarefa Interna, não é possível tirar a seleção de exibição da área e o processo somente avançará após inclusão do comentário na etapa. Neste momento somente os campos de "Ordem" e "Nome para a área" poderão ser editados.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Modelo de Documento:** Se houver um modelo de documento castrado para o fluxo, é possível definir se o usuário deve ver esse modelo e ainda qual deve ser o nome apresentado ao usuário, neste caso, a aplicação carrega como padrão o nome dado ao arquivo modelo e não o nome do campo. Ajuste para o nome familiar utilizado pelos participantes do processo.
 
@@ -241,9 +241,9 @@ Se o contrário for feito, ou seja, se na aba de configuração da etapa for sin
 
 **Download em Massa:** ao marcar essa opção a **aba de download em massa** será exibida na área de **anexos** e na área de **documentos.**&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 Ao realizar a configuração do Download em Massa, não é possível definir sua ordem de exibição, isso ocorre pelo fato do download em massa acontecer dentro de outra área. Ele vai acontecer dentro de "Arquivos" e "Documentos".
@@ -257,13 +257,19 @@ Concluídas essas definições o usuário não mais verá todos os ícones do pr
 
 #### Fluxos com contrato de Integração ArqSign
 
-Neste cenário, existe uma particularidade, na aba de assinatura.
+Neste cenário, existe uma particularidade na aba de assinatura.
 
-Quando o fluxo possui assinatura via a ArqSign, não é possível realizar assinatura internas, portanto a aba assinatura, não será configurada para este fim, será necessário é necessário informar qual deve ser a "Seleção" considerada para assinatura.&#x20;
+Quando o fluxo possui assinatura via a ArqSign, não é possível realizar assinatura interna de arquivos, assinatura é realizada somente pela plataforma ArqSign, portanto a aba assinatura não será configurada para este fim.  Na aba assinatura, será necessário informar qual deve ser a "Seleção" de arquivos considerada para assinatura via ArqSign.
 
 <figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
 
+Quando marcada a opção "Anexo(s) do fluxo, automaticamente a área "Arquivos" no Layout da tarefa interna" é marcada também, pois é o único lugar onde é possível selecionar anexos do fluxo.
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Quando marcada a opção "Anexos(s) do(s) registro(s)", automaticamente a área "Arquivos" no Layout da tarefa interna" é marcada, com seleção ativa também de "Exibir Anexo do Registro". Isso ocorre pois só é possível selecionar anexos do registro pela ArqSign na área "Arquivos".
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Aba Automação
 
