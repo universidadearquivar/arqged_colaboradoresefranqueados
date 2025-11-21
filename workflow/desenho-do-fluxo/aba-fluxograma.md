@@ -276,11 +276,11 @@ Quando marcada a opção "Anexos(s) do(s) registro(s)", automaticamente a área 
 
 {% endhint %}
 
-Após configurar o processo ArqSign definido para esta tarefa, é preciso definir o acompanhamento. Então se marcada a opção "Permitir cancelar o processo ArqSign", o usuário pode ou não fazer um comentário, não existe essa obrigatoriedade definida, então neste caso nas configurações de Layout interno, a área não é marcada automaticamente.
+Após configurar o processo ArqSign definido para esta tarefa, é preciso definir o acompanhamento. Então se marcada a opção "Permitir cancelar o processo ArqSign", o usuário pode ou não fazer um comentário, não existe essa obrigatoriedade definida, então neste caso nas configurações de "Layout de tarefa de acesso interno", a área não é marcada automaticamente.
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-Se marcada a opção "Permitir cancelar o processo ArqSign" com a obrigatoriedade "Obrigar comentário antes desta ação", a configuração de Layout Interno muda, sendo realizada a marcação automática da área "Comentário".
+Se marcada a opção "Permitir cancelar o processo ArqSign" com a obrigatoriedade "Obrigar comentário antes desta ação", a configuração de "Layout de tarefa de acesso interno" muda, sendo realizada a marcação automática da área "Comentário".
 
 <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
