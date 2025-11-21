@@ -2,16 +2,14 @@
 
 {% @supademo/embed demoId="cma2kc5jz2g2x13m0b25kcxwy" url="https://app.supademo.com/demo/cma2kc5jz2g2x13m0b25kcxwy" %}
 
-A aba Minhas Atividades funciona como uma “caixa de entrada” na qual o usuário consegue visualizar informações sobre as tarefas que precisa executar.
-
-A aba Minhas Atividades agrupa todas as atividades pendentes para o usuário logado, ou seja, tudo que está em nome dele como tarefa para execução. Nesta tela o usuário visualiza suas atividades para tratamento de forma estruturada na tela e consegue realizar a ativação de novos fluxos de trabalho.
+A aba Minhas Atividades funciona como uma “caixa de entrada” na qual o usuário consegue visualizar informações sobre as tarefas que precisa executar. Ela agrupa todas as atividades pendentes para o usuário logado, ou seja, tudo que está em nome dele como tarefa para execução. Nesta tela o usuário visualiza suas atividades para tratamento de forma estruturada na tela, além de conseguir realizar a ativação de novos fluxos de trabalho.
 
 ***
 
 ## Minhas Atividades – Visão Geral
 
 1. **Botão Ativos/Agendados:** A alternância desse botão permite exibir as tarefas ativas (que já iniciaram) ou agendadas (com data futura para início) que são de responsabilidade de execução do usuário.
-2. **Botão Dados/Listagem:** A alternância desse botão permite alterar a forma de visualização dos fluxos para o usuário. Quando selecionada a visão "Dados", são exibidos na tela os fluxos de responsabilidade do usuário logado considerando um resumo do fluxo, além de exibir também os ícones da etapa e as orientações de pendências.
+2. **Botão Dados/Listagem:** A alternância desse botão permite alterar a forma de visualização dos fluxos para o usuário. Quando selecionada a visão "Dados", são exibidos na tela os fluxos de responsabilidade do usuário logado considerando um resumo do fluxo, além de exibir também os ícones da etapa e as orientações de pendências. Quando selecionada a visão "Listagem", são exibidos na tela os fluxos de responsabilidade do usuário logado de forma simplificada, trata-se de uma listagem com as informações mais importantes do fluxo.
 3. **Barra de Filtro:** É possível realizar a busca de tarefas utilizando a barra de filtro, que faz a busca de tarefas do usuário utilizando palavras-chave.
 4. **Botão Ativar Novo Fluxo:** Botão para a ativação de novos fluxos.
 5. **Legendas:** Aqui são exibidas as legendas de cores que indicam de forma visual e clara o estado da Ação. Ela marca ações com uma linha vermelha em caso de <mark style="color:red;">"Ação obrigatória Pendente"</mark>, verde em caso de <mark style="color:green;">"Ação concluída"</mark> e azul em caso de <mark style="color:blue;">"Ação opcional"</mark>.
