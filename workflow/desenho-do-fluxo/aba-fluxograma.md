@@ -288,7 +288,7 @@ Se marcada a opção "Permitir cancelar o processo ArqSign" com a obrigatoriedad
 O mesmo comportamento se aplica às demais obrigatoriedades disponíveis na configuração a etapa, quando marcada a obrigatoriedade, a área é automaticamente marcada e desabilitada na aba de "Layout de tarefa de acesso interno".
 {% endhint %}
 
-Quando o fluxo possui um processo de assinatura ArqSign associado, obrigatoriamente será apresentada na tela de "Layout de tarefa de acesso interno" a opção já marcada e desabilitada "Processo ArqSign".
+Quando o fluxo possui um processo de assinatura ArqSign associado, obrigatoriamente será apresentada na tela de "Layout de tarefa de acesso interno" a opção já marcada e desabilitada "Processo ArqSign", porque ela é uma área de acompanhamento.
 
 <figure><img src="../../.gitbook/assets/image (75).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
