@@ -488,7 +488,7 @@ A aba **Código de Segurança** estará sempre visível para signatários config
 
 Essa aba permite configurar o envio de um **código de segurança adicional**, que será solicitado ao signatário no momento da assinatura do documento.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Campos disponíveis
 
@@ -514,7 +514,7 @@ Campo do formulário de onde será extraído o código de segurança a ser envia
 
 * Se **E-mail** for selecionado, o campo de origem deverá conter um **endereço de e-mail**.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Se **SMS** ou **WhatsApp** forem selecionados, o campo deverá conter um **telefone**.
 
