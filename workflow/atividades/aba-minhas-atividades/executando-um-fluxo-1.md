@@ -87,7 +87,7 @@ Ao abrir o fluxo, será exibida a seguinte tela:
 
 <figure><img src="../../../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
 
-9\. **Áreas:** São exibibas as áreas configuradas para o processo.
+9\. **Áreas:** São exibidas as áreas configuradas para o processo no desenho do fluxo, considerando obrigatoriedades e a definição da ordem em que as áreas devem ser exibidas.
 
 ## Tipos de obrigatoriedades
 
