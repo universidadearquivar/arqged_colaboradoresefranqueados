@@ -1,7 +1,5 @@
 # ▫️ Julho | 2023
 
-
-
 <details>
 
 <summary>28/07 - ArqFlow Consenso Selecionado Externo Vários</summary>
@@ -31,8 +29,8 @@ Com esta funcionalidade, a coluna “Assinar” será sempre exibida na tela par
 
 Anteriormente, esta coluna era exibida somente em etapa com obrigatoriedade de selecionar anexos para serem assinados em tarefas externas.
 
-Os detalhes dessas funcionalidades estão na página [Workflow > Atividades > Aba Minhas Atividades > Executando um fluxo](../workflow/atividades/aba-minhas-atividades/executando-um-fluxo.md).&#x20;
+Os detalhes dessas funcionalidades estão na página [Workflow > Atividades > Aba Minhas Atividades > Executando um fluxo](../workflow/atividades/aba-minhas-atividades/executando-um-fluxo.md).
 
-![](<../.gitbook/assets/image (9) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (9) (1) (1) (1) (1).png>)
 
 </details>

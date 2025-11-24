@@ -38,17 +38,17 @@ As obrigatoriedades das tarefas são ações que devem ser realizadas para a con
 <mark style="color:orange;">**A maior parte das tarefas não apresentará todas as obrigatoriedades. Para verificar quais são as obrigatoriedades da tarefa exigidas, clique sobre o ícone “Obrigatoriedades da tarefa” durante a execução do fluxo.**</mark>
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="309"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="309"><figcaption></figcaption></figure>
 
 ### 1. Anexos
 
 1\. Clique no ícone "Anexos" para adicionar um anexo.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2\. Na aba "Anexos", clique no ícone de upload.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. No campo “Arquivos dos registros” selecione o arquivo que deseja anexar.
 
@@ -430,15 +430,15 @@ Os nomes das obrigatoriedades serão exibidos de forma diferente da maneira apre
 <mark style="color:orange;">**Os dados solicitados variam de acordo com a escolha do usuário entre assinar como pessoa física ou pessoa jurídica.**</mark>
 {% endhint %}
 
-<div><figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Assinatura de pessoa física. Clique na imagem para ampliar.</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (11) (1) (1) (1).png" alt=""><figcaption><p>Assinatura de pessoa jurídica. Clique na imagem para ampliar.</p></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Assinatura de pessoa física. Clique na imagem para ampliar.</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (11) (1) (1) (1) (1).png" alt=""><figcaption><p>Assinatura de pessoa jurídica. Clique na imagem para ampliar.</p></figcaption></figure></div>
 
 É importante destacar que a tela de assinatura apresentada ao usuário externo exibe os textos no idioma definido no cadastro do cliente detentor do fluxo, no menu [Cliente > Dados Cadastrais > Aba Dados Cadastrais](../../../cliente/dados-cadastrais.md#aba-dados-cadastrais). Caso o idioma escolhido seja Espanhol, a tela será apresentada nesse idioma e será solicitado o NIT do signatário e, no caso de pessoas jurídicas, outras informações específicas.
 
-<div><figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Assinatura de pessoa física em Espanhol. Clique na imagem para ampliar.</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (12) (1) (1) (1).png" alt=""><figcaption><p>Assinatura de pessoa jurídica em Espanhol. Clique na imagem para ampliar.</p></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Assinatura de pessoa física em Espanhol. Clique na imagem para ampliar.</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (12) (1) (1) (1) (1).png" alt=""><figcaption><p>Assinatura de pessoa jurídica em Espanhol. Clique na imagem para ampliar.</p></figcaption></figure></div>
 
 Caso o idioma escolhido seja Inglês, a tela será apresentada nesse idioma e será solicitado o número do seguro social do signatário e, no caso de pessoas jurídicas, outras informações específicas.
 
-<div><figure><img src="../../../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>Assinatura de pessoa física em Inglês. Clique na imagem para ampliar.</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (15) (1).png" alt=""><figcaption><p>Assinatura de pessoa jurídica em Inglês. Clique na imagem para ampliar.</p></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption><p>Assinatura de pessoa física em Inglês. Clique na imagem para ampliar.</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption><p>Assinatura de pessoa jurídica em Inglês. Clique na imagem para ampliar.</p></figcaption></figure></div>
 
 4\. Se a assinatura for via Certificado Digital, será necessário selecionar o certificado que será utilizado para a assinatura.
 
@@ -470,7 +470,7 @@ A tarefa de **inserir comentário** será exibida nos seguintes casos, desde que
 
 Sempre que a obrigatoriedade estiver ativa, o sistema exibirá um campo para que o usuário justifique a ação antes de prosseguir.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="379"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="379"><figcaption></figcaption></figure>
 
 **2. Enviar Processo ArqSign**
 
@@ -478,7 +478,7 @@ Quando o fluxo alcançar uma etapa do tipo ArqSign, o sistema poderá exigir o e
 
 O(s) botão(ões) <mark style="color:blue;">**\[Enviar/Reenviar/Editar Processo ArqSign]**</mark> será exibido na tarefa, e o usuário deverá acionar essa opção para que o processo de assinatura seja iniciado.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 Uma vez enviado, o processo passará a ser acompanhado automaticamente pelo ArqGED, e a tarefa de acompanhamento ficará disponível aos responsáveis configurados na etapa.
