@@ -30,9 +30,9 @@ Quando selecionada a opção "Listagem", são exibidos na tela os fluxos de resp
 
 **Coluna Concluir Até:** Exibe a data limite para execução da tarefa, convertendo o prazo configurado para uma data/hora específica de conclusão. Tarefas do tipo ArqSign exibirão o campo vazio, pois não possuem prazo de conclusão e por este motivo serão exibidas sempre no topo da lista.
 
-**Coluna Detalhes:** Exibe os detalhes do fluxo, que são os "Dados Gerais do Processo" mais os "Dados da Tarefa Atual".
+**Coluna Detalhes:** Exibe os detalhes do fluxo, que são os "Dados Gerais do Processo" , a "Ação da Tarefa Anterior", o nome do responsável anterior, o último comentário, o formulário e os "Dados da Tarefa Atual". Quando houver, serão exibidas também na modal de detalhes as "Instruções para a Tarefa", que são as informações adicionadas no campo "Descrição da Etapa" no momento da configuração da etapa no desenho do fluxo.&#x20;
 
-**Coluna Ações:**
+**Coluna Ações:** Exibe além da opção de "Abrir" o fluxo para tratamento,  a lista de botões  de avanço disponíveis para o processo, como por exemplo: delegar tarefa, voltar para a etapa anterior, cancelar fluxo ou visualizar fluxograma.
 
 3. **Barra de Filtro:** É possível realizar a busca de tarefas utilizando a barra de filtro, que faz a busca de tarefas do usuário utilizando palavras-chave.
 
