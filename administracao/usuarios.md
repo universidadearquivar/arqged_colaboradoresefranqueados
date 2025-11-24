@@ -1,6 +1,6 @@
 # 🟩 Usuários
 
-{% @supademo/embed %}
+{% @supademo/embed demoId="cmaqucp0y2x9rho3rji94pgln" url="https://app.supademo.com/demo/cmaqucp0y2x9rho3rji94pgln" %}
 
 No menu Usuários são criados todos os usuários que utilizam o sistema ArqGED e atribuídas as permissões de acesso às funcionalidades do sistema.
 
@@ -190,7 +190,7 @@ Nesta aba temos configurações voltadas para o layout do sistema que será apre
 
 **Idioma:** Selecione o idioma que será utilizado, podendo ser Português ou Espanhol.
 
-**Tela padrão em Workflow Atividades:** Permite definir qual será o padrão de visualização das atividades pendentes do workflow pelo usuário - Dados ou Listagem.
+**Tela padrão em Workflow Atividades:** Permite definir qual será o padrão de visualização das atividades pendentes do workflow pelo usuário - [Dados ou Listagem](../workflow/atividades/aba-minhas-atividades/#botao-dados-listagem).
 
 **Foto de Perfil:** Utilize para fazer o upload da foto do usuário.
 
