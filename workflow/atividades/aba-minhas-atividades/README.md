@@ -34,7 +34,7 @@ A aba Minhas Atividades funciona como uma “caixa de entrada” na qual o usuá
 
 {% @supademo/embed demoId="cma6vf5af04w3x20ijax1gvem" url="https://app.supademo.com/demo/cma6vf5af04w3x20ijax1gvem" %}
 
-<figure><img src="../../../.gitbook/assets/image (261).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (261).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Nem todos os ícones apresentados nessa tela serão utilizados em todos os processos. Em algumas situações, algumas das funcionalidades dessa tela não serão necessárias.**</mark>  
