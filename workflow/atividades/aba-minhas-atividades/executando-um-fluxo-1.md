@@ -56,13 +56,23 @@ Ou pelo botão "**Abrir Tarefa"**, disponível na lista de "**Ações"**:
 
 <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-##
+Ao abrir o fluxo, será exibida a seguinte tela:
 
-##
+<figure><img src="../../../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 
-##
+1. **Título:** Exibe o nome do Fluxo.
+2. **Fechar:** Apenas fecha o fluxo, retornando para a tela inicial com a lista de fluxos pendentes.
+3. **Outras ações:** Exibe uma lista de outros caminhos possíveis no fluxo, tais como:
 
-##
+• **Delegar Tarefa:** Permite o envio da Tarefa para outro usuário apenas para conhecimento da demanda ou delegando totalmente.
+
+<figure><img src="../../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
+
+• **Cancelar Fluxo:** Permite cancelar o Processo de Trabalho.
+
+<figure><img src="../../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
+
+• Visualizar Fluxograma: Permite que o&#x20;
 
 ## Tipos de obrigatoriedades
 
