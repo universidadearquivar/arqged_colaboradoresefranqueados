@@ -1,6 +1,6 @@
-# ➡️ Executando um fluxo
+# ➡️ Executando um fluxo - Exibição Dados
 
-{% embed url="https://app.supademo.com/demo/cma6vr2hl56dt13m0ysuzv91f" %}
+{% @supademo/embed demoId="cma6vr2hl56dt13m0ysuzv91f" url="https://app.supademo.com/demo/cma6vr2hl56dt13m0ysuzv91f" %}
 
 ## Ativar Novo Fluxo
 
