@@ -89,6 +89,10 @@ Ao abrir o fluxo, será exibida a seguinte tela:
 
 9\. **Áreas:** São exibidas as áreas configuradas para o processo no desenho do fluxo, considerando obrigatoriedades e a definição da ordem em que elas devem ser exibidas para o usuário.
 
+{% hint style="info" %}
+O nome exibido para a Área, é o nome definido pelo usuário no momento da configuração do campo.
+{% endhint %}
+
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Ao posicionar o mouse sobre o ícone de "Ação obrigatória pendente", é exibida a lista de pendências que deve ser verificada pelo usuário para aquela área em específico.&#x20;
