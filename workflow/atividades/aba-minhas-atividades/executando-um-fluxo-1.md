@@ -1,10 +1,12 @@
 # ➡️ Executando um fluxo - Exibição Listagem
 
+## Visualização Listagem
+
 No modo de exibição "Listagem", são apresentados na tela os fluxos de responsabilidade do usuário logado de forma simplificada, ou seja, em uma lista com as informações mais importantes do fluxo.
 
 Essa exibição pode ser definida como padrão no [perfil do usuário](../../../administracao/usuarios.md#aba-perfil).&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Coluna Nº:** Exibe o número/código do fluxo ou número do processo.
 
@@ -44,6 +46,24 @@ Essa exibição pode ser definida como padrão no [perfil do usuário](../../../
 
 ***
 
+### Executando o Fluxo
+
+Para executar um fluxo, é possível acessá-lo pelo botão **"Abrir Tarefa"**, disponível no botão de "**Detalhes**":
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Ou pelo botão "**Abrir Tarefa"**, disponível na lista de "**Ações"**:
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+##
+
+##
+
+##
+
+##
+
 ## Tipos de obrigatoriedades
 
 As obrigatoriedades das tarefas são ações que devem ser realizadas para a conclusão de uma tarefa. Existem as obrigatoriedades que devem ser cumpridas pelos usuários internos, ou seja, aqueles que estão autenticados no sistema, e as obrigatoriedades das tarefas externas, que são ações que devem ser executadas por usuários que não estarão autenticados no sistema ArqGED.
@@ -56,17 +76,17 @@ As obrigatoriedades das tarefas são ações que devem ser realizadas para a con
 <mark style="color:orange;">**A maior parte das tarefas não apresentará todas as obrigatoriedades. Para verificar quais são as obrigatoriedades da tarefa exigidas, clique sobre o ícone “Obrigatoriedades da tarefa” durante a execução do fluxo.**</mark>
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="309"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="309"><figcaption></figcaption></figure>
 
 ### 1. Anexos
 
 1\. Clique no ícone "Anexos" para adicionar um anexo.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2\. Na aba "Anexos", clique no ícone de upload.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. No campo “Arquivos dos registros” selecione o arquivo que deseja anexar.
 
@@ -452,7 +472,7 @@ Os nomes das obrigatoriedades serão exibidos de forma diferente da maneira apre
 
 É importante destacar que a tela de assinatura apresentada ao usuário externo exibe os textos no idioma definido no cadastro do cliente detentor do fluxo, no menu [Cliente > Dados Cadastrais > Aba Dados Cadastrais](../../../cliente/dados-cadastrais.md#aba-dados-cadastrais). Caso o idioma escolhido seja Espanhol, a tela será apresentada nesse idioma e será solicitado o NIT do signatário e, no caso de pessoas jurídicas, outras informações específicas.
 
-<div><figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Assinatura de pessoa física em Espanhol. Clique na imagem para ampliar.</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (12) (1) (1) (1) (1).png" alt=""><figcaption><p>Assinatura de pessoa jurídica em Espanhol. Clique na imagem para ampliar.</p></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Assinatura de pessoa física em Espanhol. Clique na imagem para ampliar.</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (12) (1) (1) (1) (1).png" alt=""><figcaption><p>Assinatura de pessoa jurídica em Espanhol. Clique na imagem para ampliar.</p></figcaption></figure></div>
 
 Caso o idioma escolhido seja Inglês, a tela será apresentada nesse idioma e será solicitado o número do seguro social do signatário e, no caso de pessoas jurídicas, outras informações específicas.
 
