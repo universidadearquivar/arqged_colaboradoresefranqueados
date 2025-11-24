@@ -1,6 +1,24 @@
 # ➡️ Executando um fluxo - Exibição Listagem
 
-{% @supademo/embed demoId="cma6vr2hl56dt13m0ysuzv91f" url="https://app.supademo.com/demo/cma6vr2hl56dt13m0ysuzv91f" %}
+No modo de exibição "Listagem", são exibidos na tela os fluxos de responsabilidade do usuário logado de forma simplificada em uma lista com as informações mais importantes do fluxo.
+
+Essa exibição pode ser definida como padrão no perfil do usuário.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Coluna Nº:** Exibe o número/código do fluxo ou número do processo.
+
+**Coluna Processo:** Exibe o nome que é dado ao fluxo na configuração da etapa realizada no momento do desenho do fluxo.
+
+**Coluna Tarefa:** Exibe o nome definido para a tarefa no momento das configurações e desenho do fluxo e ao direcionar o mouse sobre o ícone, é exibida a situação do fluxo (em dia - ícone verde, atrasado - ícone vermelho), o status e a classificação, além das obrigatoriedades.
+
+**Coluna Início Tarefa:** Exibe a data/hora de chegada da tarefa para execução do responsável.
+
+**Coluna Concluir Até:** Exibe a data limite para execução da tarefa, convertendo o prazo configurado para uma data/hora específica de conclusão. Tarefas do tipo ArqSign exibirão o campo vazio, pois não possuem prazo de conclusão e por este motivo serão exibidas sempre no topo da lista.
+
+**Coluna Detalhes:** Exibe os detalhes do fluxo, que são os "Dados Gerais do Processo" , a "Ação da Tarefa Anterior", o nome do responsável anterior, o último comentário, o formulário e os "Dados da Tarefa Atual". Quando houver, serão exibidas também na modal de detalhes as "Instruções para a Tarefa", que são as informações adicionadas no campo "Descrição da Etapa" no momento da configuração da etapa no desenho do fluxo.&#x20;
+
+**Coluna Ações:** Exibe além da opção de "Abrir" o fluxo para tratamento,  a lista de botões  de avanço disponíveis para o processo, como por exemplo: delegar tarefa, voltar para a etapa anterior, cancelar fluxo ou visualizar fluxograma.
 
 ## Ativar Novo Fluxo
 
@@ -483,3 +501,4 @@ O(s) botão(ões) <mark style="color:blue;">**\[Enviar/Reenviar/Editar Processo 
 {% hint style="success" %}
 Uma vez enviado, o processo passará a ser acompanhado automaticamente pelo ArqGED, e a tarefa de acompanhamento ficará disponível aos responsáveis configurados na etapa.
 {% endhint %}
+
