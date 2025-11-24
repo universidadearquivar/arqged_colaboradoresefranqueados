@@ -2,7 +2,7 @@
 
 No modo de exibição "Listagem", são exibidos na tela os fluxos de responsabilidade do usuário logado de forma simplificada em uma lista com as informações mais importantes do fluxo.
 
-Essa exibição pode ser definida como padrão no perfil do usuário.&#x20;
+Essa exibição pode ser definida como padrão no [perfil do usuário](../../../administracao/usuarios.md#aba-perfil).&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
