@@ -158,6 +158,8 @@ _<mark style="color:blue;">Registro de Documento:</mark>_ <mark style="color:blu
 
 #### Aba Modelo Documento
 
+{% @supademo/embed demoId="cmid3r35h00xe170iigwr0sxq" url="https://app.supademo.com/demo/cmid3r35h00xe170iigwr0sxq" %}
+
 * **Modelo:** Neste campo é exibido o modelo PDF cadastrado anteriormente no campo “Modelo de Arquivo PDF com campos”, na aba Dados Gerais.
 * **Visualização:** Se marcada essa opção o usuário terá acesso ao modelo PDF cadastrado.
 * **Campos do modelo:** Neste espaço são exibidos todos os campos que o sistema extraiu do modelo PDF cadastrado no fluxo. Aqui o usuário deverá marcar como o executor da tarefa poderá interagir com cada campo, sendo `C =` Cadastrar, `O =` Cadastrar Obrigatoriamente e `E =` Editar. O usuário poderá marcar um capo por vez ou marcar todos utilizando a opção o "campos do modelo".
@@ -169,6 +171,8 @@ _<mark style="color:blue;">Registro de Documento:</mark>_ <mark style="color:blu
 <figure><img src="../../.gitbook/assets/desenho13.png" alt=""><figcaption></figcaption></figure>
 
 #### Aba Formulário
+
+{% @supademo/embed demoId="cmid484mo01zk1v0i3fc2dbzz" url="https://app.supademo.com/demo/cmid484mo01zk1v0i3fc2dbzz" %}
 
 * **Formulário:** Neste campo é exibido o nome do formulário cadastrado anteriormente no campo “Formulário”, na [aba Dados Gerais](aba-dados-gerais.md).
 * **Campos:** Neste espaço são exibidos todos os campos do formulário cadastrado associado ao fluxo. Aqui o usuário deverá marcar como o executor da tarefa poderá interagir com cada campo, sendo `V =` Visualiza, `C =` Cadastra, `O =` Cadastra Obrigatoriamente, `E =` Edita e `T =` Exibir na Tarefa. O usuário poderá marcar um capo por vez ou marcar todos utilizando a opção o "campos". É possível ocultar campos e permitir que o executor tarefa edite determinado campo se necessário. Os campos marcados com T (Exibir na Tarefa) serão mostrados na tela Minhas Atividades, na descrição da tarefa.
@@ -182,6 +186,8 @@ _<mark style="color:blue;">Registro de Documento:</mark>_ <mark style="color:blu
 <figure><img src="../../.gitbook/assets/desenho14.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 #### Aba Layout Tarefa Externa
+
+{% @supademo/embed demoId="cmid4ety303dp3i0i5qz9zyc3" url="https://app.supademo.com/demo/cmid4ety303dp3i0i5qz9zyc3" %}
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Essa aba só será exibida caso o responsável da tarefa seja um usuário externo.**</mark>
@@ -293,6 +299,8 @@ Quando o fluxo possui um processo de assinatura ArqSign associado, obrigatoriame
 <figure><img src="../../.gitbook/assets/image (75).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 #### Aba Automação
+
+{% @supademo/embed demoId="cmid4ipy2000h1s0j51nbaqnq" url="https://app.supademo.com/demo/cmid4ipy2000h1s0j51nbaqnq" %}
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Essa aba só será exibida caso o responsável da tarefa seja um usuário externo.**</mark>
