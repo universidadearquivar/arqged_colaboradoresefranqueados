@@ -1,6 +1,6 @@
 # ➡️ Executando um fluxo - Exibição Listagem
 
-No modo de exibição "Listagem", são exibidos na tela os fluxos de responsabilidade do usuário logado de forma simplificada em uma lista com as informações mais importantes do fluxo.
+No modo de exibição "Listagem", são apresentados na tela os fluxos de responsabilidade do usuário logado de forma simplificada, ou seja, em uma lista com as informações mais importantes do fluxo.
 
 Essa exibição pode ser definida como padrão no [perfil do usuário](../../../administracao/usuarios.md#aba-perfil).&#x20;
 
