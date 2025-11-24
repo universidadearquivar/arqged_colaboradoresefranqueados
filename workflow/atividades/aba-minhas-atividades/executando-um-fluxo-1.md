@@ -72,7 +72,24 @@ Ao abrir o fluxo, será exibida a seguinte tela:
 
 <figure><img src="../../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
 
-• Visualizar Fluxograma: Permite que o&#x20;
+• **Visualizar Fluxograma:** Permite que o usuário acesse o Desenho do Processo.
+
+<figure><img src="../../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
+
+4. **Botões de Avanço:** Exibe para o usuário os caminhos disponíveis para tratamento do fluxo.
+
+<figure><img src="../../../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
+
+5. **Dados Gerais do Processo:** Exibe as informações do processo de trabalho, incluindo Ação da tarefa anterior e responsável.
+6. **Dados da Tarefa Atual:** Exibe as informações da etapa atual.
+7. **Instrução para tarefa:** Exibe as orientações para execução da tarefa atual, quando se aplica.
+8. **Legenda das Cores:** Exibe a classificação de cores para ações obrigatórias (vermelho), ações concluídas (verde) e ação opcional (azul).
+
+
+
+##
+
+##
 
 ## Tipos de obrigatoriedades
 
