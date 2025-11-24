@@ -4,13 +4,13 @@
 
 <summary>30/05 - Componente de Notificação E-mail</summary>
 
-**Workflow > Desenho do Fluxo - Componente de e-mail**
+**Workflow > Desenho do Fluxo - Componente de e-mail**&#x20;
 
-O desenho de fluxo foi alterado para permitir "N" entradas para configuração do componente de e-mail, ou seja, é possível ter várias tarefas terminando neste componente, responsável por enviar notificações do andamento das atividades do fluxo.
+O desenho de fluxo foi alterado para permitir "N" entradas para configuração do componente de e-mail, ou seja, é possível ter várias tarefas terminando neste componente, responsável por enviar notificações do andamento das atividades do fluxo.&#x20;
 
-Conforme a imagem abaixo, o componente de e-mail recebe 3 avanços de tarefas, sendo permitido "N" entradas e apenas 1 saída para o componente.
+Conforme a imagem abaixo, o componente de e-mail recebe 3 avanços de tarefas, sendo permitido "N" entradas e apenas 1 saída para o componente.&#x20;
 
-![](<../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 </details>
 
@@ -18,17 +18,17 @@ Conforme a imagem abaixo, o componente de e-mail recebe 3 avanços de tarefas, s
 
 <summary>30/05 - Selecionar campos do Formulário e Modelo de Documento</summary>
 
-1\. **Workflow > Desenho do Fluxo > Formulário**
+1\.    **Workflow > Desenho do Fluxo > Formulário**
 
-A tela de configuração do **formulário** na tarefa, foi alterada para permitir marcar/desmarcar todos os _checkbox’s_ de uma vez.
+A tela de configuração do **formulário** na tarefa, foi alterada para permitir marcar/desmarcar todos os _checkbox’s_  de uma vez.
 
 O comportamento da tela permitia marcar apenas um campo por vez, com esta alteração, em uma tarefa que o usuário precise preencher todos os campos do formulário, será possível marcá-los com apenas um clique.
 
 ![](<../.gitbook/assets/image (47).png>)
 
-2\. **Workflow > Desenho do Fluxo > Modelo de Documento**
+2\.    **Workflow > Desenho do Fluxo > Modelo de Documento**
 
-A tela de configuração do **modelo de documento** na tarefa, foi alterada para permitir marcar/desmarcar todos os _checkbox’s_ de uma vez.
+A tela de configuração do **modelo de documento** na tarefa, foi alterada para permitir marcar/desmarcar todos os _checkbox’s_  de uma vez.
 
 O comportamento da tela permitia marcar apenas um campo por vez, com esta alteração, em uma tarefa que o usuário precise preencher todos os campos do modelo de documento, será possível marcá-los com apenas um clique.
 
