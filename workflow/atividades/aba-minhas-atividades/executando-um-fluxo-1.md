@@ -83,13 +83,11 @@ Ao abrir o fluxo, será exibida a seguinte tela:
 5. **Dados Gerais do Processo:** Exibe as informações do processo de trabalho, incluindo Ação da tarefa anterior e responsável.
 6. **Dados da Tarefa Atual:** Exibe as informações da etapa atual.
 7. **Instrução para tarefa:** Exibe as orientações para execução da tarefa atual, quando se aplica.
-8. **Legenda das Cores:** Exibe a classificação de cores para ações obrigatórias (vermelho), ações concluídas (verde) e ação opcional (azul).
+8. **Legenda das Cores:** Exibe a classificação de cores para ações, sendo ações obrigatórias (vermelho), ações concluídas (verde) e ações opcionais (azul).
 
+<figure><img src="../../../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
 
-
-##
-
-##
+9\. **Áreas:** São exibibas as áreas configuradas para o processo.
 
 ## Tipos de obrigatoriedades
 
