@@ -8,11 +8,15 @@ A aba Minhas Atividades funciona como uma “caixa de entrada” na qual o usuá
 
 ## Minhas Atividades – Visão Geral
 
-1. **Botão Ativos/Agendados:** A alternância desse botão permite exibir as tarefas ativas (que já iniciaram) ou agendadas (com data futura para início) que são de responsabilidade de execução do usuário. Por padrão do sistema, ao acessar a tela, são exibidos os dados "Ativos".
+#### **Botão Ativos/Agendados**
+
+A alternância desse botão permite exibir as tarefas ativas (que já iniciaram) ou agendadas (com data futura para início) que são de responsabilidade de execução do usuário. Por padrão do sistema, ao acessar a tela, são exibidos os dados "Ativos".
 
 <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-2. **Botão Dados/Listagem:** A alternância desse botão permite alterar a visualização dos fluxos para o usuário. Quando selecionada a opção "Dados", são exibidos na tela os fluxos de responsabilidade do usuário logado considerando um resumo do fluxo, além de exibir também os ícones da etapa e as orientações de pendências. Essa é a forma de visualização padrão do sistema.
+#### **Botão Dados/Listagem**
+
+A alternância desse botão permite alterar a visualização dos fluxos para o usuário. Quando selecionada a opção "Dados", são exibidos na tela os fluxos de responsabilidade do usuário logado considerando um resumo do fluxo, além de exibir também os ícones da etapa e as orientações de pendências. Essa é a forma de visualização padrão do sistema.
 
 <figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -34,39 +38,57 @@ Quando selecionada a opção "Listagem", são exibidos na tela os fluxos de resp
 
 **Coluna Ações:** Exibe além da opção de "Abrir" o fluxo para tratamento,  a lista de botões  de avanço disponíveis para o processo, como por exemplo: delegar tarefa, voltar para a etapa anterior, cancelar fluxo ou visualizar fluxograma.
 
-3. **Barra de Filtro:** É possível realizar a busca de tarefas utilizando a barra de filtro, que faz a busca de tarefas do usuário utilizando palavras-chave.
+#### **Barra de Filtro**
+
+É possível realizar a busca de tarefas utilizando a barra de filtro, que faz a busca de tarefas do usuário utilizando palavras-chave.
 
 <figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-4. **Botão Ativar Novo Fluxo:** Botão para a ativação de novos fluxos.
+#### **Botão Ativar Novo Fluxo**
+
+Botão para a ativação de novos fluxos.
 
 <figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-5. **Gráfico contador de atividades:** Exibe a quantidade de tarefas pendentes de execução e dessas quantas estão atrasadas.
+#### **Gráfico contador de atividades**
+
+Exibe a quantidade de tarefas pendentes de execução e dessas quantas estão atrasadas.
 
 <figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-6. **Legendas:** Aqui são exibidas as legendas de cores que indicam de forma visual e clara o estado da Ação. Ela marca ações com vermelho em caso de <mark style="color:red;">"Ação obrigatória Pendente"</mark>, verde em caso de <mark style="color:green;">"Ação concluída"</mark> e azul em caso de <mark style="color:blue;">"Ação opcional"</mark>.
+#### **Legendas**
+
+Aqui são exibidas as legendas de cores que indicam de forma visual e clara o estado da Ação. Ela marca ações com vermelho em caso de <mark style="color:red;">"Ação obrigatória Pendente"</mark>, verde em caso de <mark style="color:green;">"Ação concluída"</mark> e azul em caso de <mark style="color:blue;">"Ação opcional"</mark>.
 
 <figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-7. **Grupo de informações sobre o fluxo de trabalho e sobre a tarefa:** Aqui são exibidas as seguintes informações: se a tarefa é em grupo ou individual; nome e número do fluxo; data da ativação e nome de quem ativou o fluxo; nome, status e descrição da tarefa; responsável pela tarefa e prazo para a sua execução e status da etapa. É mostrado também quem foi o executor da tarefa anterior e qual foi a ação que ele executou.
+#### **Grupo de informações sobre o fluxo de trabalho e sobre a tarefa**
+
+Aqui são exibidas as seguintes informações: se a tarefa é em grupo ou individual; nome e número do fluxo; data da ativação e nome de quem ativou o fluxo; nome, status e descrição da tarefa; responsável pela tarefa e prazo para a sua execução e status da etapa. É mostrado também quem foi o executor da tarefa anterior e qual foi a ação que ele executou.
 
 <figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-8. **Observação:** Mostra a informação adicionada no momento da ativação do fluxo no campo “Observação”.
+#### **Observação**
+
+Mostra a informação adicionada no momento da ativação do fluxo no campo “Observação”.
 
 <figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-9. **Formulário:** Mostra os dados do formulário associado ao fluxo. Os campos exibidos aqui devem ter sido previamente indicados na configuração da tarefa, no menu no menu Workflow > Desenho do Fluxo > Fluxograma.
+#### **Formulário**
+
+Mostra os dados do formulário associado ao fluxo. Os campos exibidos aqui devem ter sido previamente indicados na configuração da tarefa, no menu no menu Workflow > Desenho do Fluxo > Fluxograma.
 
 <figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-10. **Último Comentário:** Mostra o último comentário feito na tarefa.
+#### **Último Comentário**
+
+Mostra o último comentário feito na tarefa.
 
 <figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-11. **Próximo Passo:** Nesta área estão concentrados os botões que definem o próximo passo da tarefa. Para cada tarefa de decisão, serão apresentados botões com opções para diferentes caminhos, como por exemplo: Com Validação / Sem Validação, Com Aprovação Técnica / Sem Aprovação Técnica, Validar / Recusar etc.&#x20;
+#### **Próximo Passo**
+
+Nesta área estão concentrados os botões que definem o próximo passo da tarefa. Para cada tarefa de decisão, serão apresentados botões com opções para diferentes caminhos, como por exemplo: Com Validação / Sem Validação, Com Aprovação Técnica / Sem Aprovação Técnica, Validar / Recusar etc.&#x20;
 
 Esses botões servem para direcionar qual caminho deve ser percorrido para atingir o objetivo do fluxo de trabalho. O texto exibido nos botões é inserido nas configurações do conector das tarefas, no menu [Workflow > Desenho do Fluxo > Fluxograma](../../desenho-do-fluxo/aba-fluxograma.md).
 
