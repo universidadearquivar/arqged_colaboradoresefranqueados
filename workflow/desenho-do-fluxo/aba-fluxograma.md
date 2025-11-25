@@ -209,22 +209,32 @@ Na configuração de uma tarefa, no desenho do fluxo, a tela de **Layout de Tare
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-**Exibição**: Checkbox onde é definida qual área deve ser exibida para o usuário responsável na execução do processo.
+**Exibição**: Indica se a área será apresentada ou não durante a execução da tarefa. Este campo pode ser marcado opcionalmente pelo usuário ou definido automaticamente pela aplicação, de acordo com a obrigatoriedade correspondente.
 
-**Ordem:** É utilizado para definir a ordem em que a área deve ser exibida no processo.
+**Ordem:** Define a posição da área na tela durante a execução da tarefa.
 
-**Área:** Identificação dos ícones utilizados no decorrer do processo.
+**Área:** Indica as obrigatoriedades ou ações opcionais que devem ser realizadas durante a execução da tarefa.
 
 Ao marcar uma área para exibição, o campo "Nome para a área" é apresentado automaticamente com um nome padrão da aplicação. Esse nome será usado como título da área durante a execução da tarefa. É importante escolher um nome que seja familiar ao usuário dentro do processo; caso não seja necessário, basta manter o nome padrão definido pela aplicação.
 
 <figure><img src="../../.gitbook/assets/image (196).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="warning" %}
-**Importante:** Ao passar pelas abas anteriores sem definir configurações para as "áreas", elas poderão ser definidas na "**Aba Layout Tarefa Interna**", porém, elas serão tratadas como sendo de execução **não obrigatória** para o usuário. A obrigatoriedade só pode ser definida na aba específica da configuração.
+**Importante:** Esta tela sempre será apresentada com as áreas **Comentários**, **Documentos**, **Modelo de Documento** (quando houver) e **Arquivos** desabilitadas para seleção.&#x20;
 
-_**Por exemplo:** Ao definir a exibição da área "Comentários", o usuário poderá ou não incluir um comentário na etapa, porém, ele seguirá com o fluxo tendo ou não realizado a inclusão desse comentário no processo._
+Quando não houver obrigatoriedades configuradas para uma tarefa, as áreas poderão ser marcadas para exibição durante a execução da atividade, mas serão tratadas como ações opcionais para o responsável.
 
-Se o contrário for feito, ou seja, se na aba de configuração da etapa for sinalizado "Obrigar comentário na etapa", ao acessar a aba de Layout Tarefa Interna, não é possível tirar a seleção de exibição da área e o processo somente avançará após inclusão do comentário na etapa. Neste momento somente os campos de "Ordem" e "Nome para a área" poderão ser editados.
+**Exemplo:** Se não houver configuração de 'Obrigar comentário na etapa', mas o usuário marcar a exibição da área 'Comentários' na tela de layout, o responsável verá a área sem a obrigatoriedade de comentar — será uma ação opcional.
+
+&#x20;
+
+Sempre que uma obrigatoriedade for configurada, a área correspondente será marcada e desabilitada automaticamente pela aplicação.
+
+**Exemplo:** Se a tarefa estiver configurada para 'Obrigar comentário na etapa', ao acessar a aba de Layout da Tarefa Interna, a área estará marcada e desabilitada, indicando que é uma ação obrigatória para o responsável pela execução da tarefa.
+
+&#x20;
+
+Apenas o campo 'Ordem' permanece sempre habilitado quando uma área é selecionada para exibição. Isso permite que o usuário defina a posição das áreas conforme necessário.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
