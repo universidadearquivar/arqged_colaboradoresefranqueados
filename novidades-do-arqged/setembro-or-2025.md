@@ -20,7 +20,7 @@ No momento da [configuração da etapa](../workflow/desenho-do-fluxo/aba-fluxogr
 
 <summary>XX/XX -  Permissão de Visualização padrão da Tela de Atividades</summary>
 
-Agora é possível definir nas permissões do usuário se a visualização padrão da sua tela de Atividades deve ser por  "Listagem" ou "Dados", clique para mais detalhes.
+Agora é possível definir nas permissões do usuário se a exibição padrão da sua tela de Atividades deve ser realizada por  "Listagem" ou "Dados",  [clique para mais detalhes.](../administracao/usuarios.md#aba-perfil)
 
 </details>
 
