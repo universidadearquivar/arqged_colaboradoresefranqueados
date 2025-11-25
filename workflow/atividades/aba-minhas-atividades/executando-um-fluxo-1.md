@@ -22,6 +22,12 @@ Esse modo de visualização pode ser definido como padrão no [perfil do usuári
 
 **Coluna Ações:** Exibe além da opção de "Abrir" o fluxo para tratamento,  a lista de botões  de avanço disponíveis para o processo, como por exemplo: delegar tarefa, voltar para a etapa anterior, cancelar fluxo ou visualizar fluxograma.
 
+#### **Barra de Filtro**
+
+É possível realizar a busca de tarefas utilizando a barra de filtro, que faz a busca de tarefas do usuário utilizando palavras-chave.
+
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
 ## Ativar Novo Fluxo
 
 1\. Para ativar um novo fluxo, no menu [Workflow > Atividades > Aba Minhas Atividades](./) clique no botão “Ativar Novo Fluxo”.
