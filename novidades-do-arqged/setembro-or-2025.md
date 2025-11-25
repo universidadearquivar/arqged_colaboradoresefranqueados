@@ -12,7 +12,7 @@ Foi adicionada a opção de visualização por "[Listagem](../workflow/atividade
 
 <summary>XX/XX - Configuração de Layout de Tarefa Interna</summary>
 
-No momento da configuração da etapa, é possível fazer uma definição mais detalhada das áreas que devem ser visíveis e/ou obrigatórias ao usuário no momento da execução do fluxo, tornando o processo mais limpo, fluido e reduzindo a quantidade de cliques no processo.
+No momento da [configuração da etapa](../workflow/desenho-do-fluxo/aba-fluxograma.md#aba-layout-tarefa-interna), é possível fazer uma definição mais detalhada das áreas que devem ser visíveis e/ou obrigatórias ao usuário no momento da execução do fluxo, tornando o processo mais limpo, fluido e reduzindo a quantidade de cliques no processo.
 
 </details>
 
