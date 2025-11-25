@@ -135,6 +135,6 @@ Ao posicionar o mouse sobre o ícone de "Ação obrigatória pendente" em cada �
 
 <figure><img src="../../../.gitbook/assets/image (188).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-
+Na área de Comentários, as mensagens são exibidas em formato de chat, o que proporciona melhor visualização e exibição das mensagens incluídas pelos responsáveis de cada etapa.
 
 ***
