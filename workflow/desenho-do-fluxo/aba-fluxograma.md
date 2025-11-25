@@ -241,15 +241,15 @@ Apenas o campo 'Ordem' permanece sempre habilitado quando uma área é seleciona
 
 **Modelo de Documento:** Se houver um modelo de documento castrado para o fluxo, é possível definir se o usuário deve ver esse modelo e ainda qual deve ser o nome apresentado ao usuário, neste caso, a aplicação carrega como padrão o nome dado ao arquivo modelo e não o nome do campo. Ajuste para o nome familiar utilizado pelos participantes do processo.
 
-<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (197).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-**Arquivos:** É composto pelos anexos do fluxo, anexos do registro e o arquivo modelo. Por padrão, na modal de Anexos do fluxo,  já são exibidos os anexos do documento e os anexos do fluxo que são inseridos no sistema via upload durante o decorrer do processo no sistema, além do modelo, quando se aplica. Considerando a configuração de Layout, é possível restringir esse acesso:
+**Arquivos:** Esta área indica que serão exibidos os anexos do fluxo. Além disso, possui as opções **'Exibir Modelo'** e **'Exibir anexo do Registro'**.
 
-• **Ao manter a seleção "Arquivos":** serão exibidos ao usuário somente os arquivos do fluxo.
+**Exibir Modelo:** Quando marcada, a área Arquivos exibirá tanto os anexos do fluxo quanto o modelo de documento relacionado ao processo.
 
-• **Ao manter a seleção "Exibir Modelo":** serão exibidos ao usuário somente o arquivo modelo associado ao fluxo.
+**Exibir anexo do Registro:** Quando marcada, a área Arquivos exibirá os anexos do fluxo e também os anexos dos documentos relacionados ao processo.
 
-• **Ao manter a seleção "Exibir anexo do Registro":** serão exibidos somente os anexos do registro, quando houver imagem disponível para exibição.
+<figure><img src="../../.gitbook/assets/image (199).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="success" %}
 É possível selecionar mais de uma opção, ou todas elas. Importante avaliar a necessidade de exibição no momento da execução do processo pelo usuário.
