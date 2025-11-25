@@ -16,51 +16,13 @@ A alternância desse botão permite exibir as tarefas ativas (que já iniciaram)
 
 #### **Botão Dados/Listagem**
 
-A alternância desse botão permite alterar a visualização dos fluxos para o usuário. Quando selecionada a opção "Dados", são exibidos na tela os fluxos de responsabilidade do usuário logado considerando um resumo do fluxo, além de exibir também os ícones da etapa e as orientações de pendências. Essa é a forma de visualização padrão do sistema.
+A alternância desse botão permite alterar a visualização dos fluxos para o usuário. Quando selecionada a opção "Dados", são exibidos na tela os fluxos de responsabilidade do usuário logado considerando um resumo do fluxo, além de exibir também os ícones da etapa e as orientações de pendências. Essa é a forma de visualização padrão do sistema, quando não existe uma configuração de exibição para o perfil do usuário.
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Quando selecionada a opção "Listagem", são exibidos na tela os fluxos de responsabilidade do usuário logado de forma simplificada em uma listagem com as informações mais importantes do fluxo.
 
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
-**Coluna Nº:** Exibe o número/código do fluxo ou número do processo.
-
-**Coluna Processo:** Exibe o nome que é dado ao fluxo na configuração da etapa realizada no momento do desenho do fluxo.
-
-**Coluna Tarefa:** Exibe o nome definido para a tarefa no momento das configurações e desenho do fluxo e ao direcionar o mouse sobre o ícone, é exibida a situação do fluxo (em dia - ícone verde, atrasado - ícone vermelho), o status e a classificação, além das obrigatoriedades.
-
-**Coluna Início Tarefa:** Exibe a data/hora de chegada da tarefa para execução do responsável.
-
-**Coluna Concluir Até:** Exibe a data limite para execução da tarefa, convertendo o prazo configurado para uma data/hora específica de conclusão. Tarefas do tipo ArqSign exibirão o campo vazio, pois não possuem prazo de conclusão e por este motivo serão exibidas sempre no topo da lista.
-
-**Coluna Detalhes:** Exibe os detalhes do fluxo, que são os "Dados Gerais do Processo" , a "Ação da Tarefa Anterior", o nome do responsável anterior, o último comentário, o formulário e os "Dados da Tarefa Atual". Quando houver, serão exibidas também na modal de detalhes as "Instruções para a Tarefa", que são as informações adicionadas no campo "Descrição da Etapa" no momento da configuração da etapa no desenho do fluxo.&#x20;
-
-**Coluna Ações:** Exibe além da opção de "Abrir" o fluxo para tratamento,  a lista de botões  de avanço disponíveis para o processo, como por exemplo: delegar tarefa, voltar para a etapa anterior, cancelar fluxo ou visualizar fluxograma.
-
-#### **Barra de Filtro**
-
-É possível realizar a busca de tarefas utilizando a barra de filtro, que faz a busca de tarefas do usuário utilizando palavras-chave.
-
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
-#### **Botão Ativar Novo Fluxo**
-
-Botão para a ativação de novos fluxos.
-
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
-#### **Gráfico contador de atividades**
-
-Exibe a quantidade de tarefas pendentes de execução e dessas quantas estão atrasadas.
-
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
-#### **Legendas**
-
-Aqui são exibidas as legendas de cores que indicam de forma visual e clara o estado da Ação. Ela marca ações com vermelho em caso de <mark style="color:red;">"Ação obrigatória Pendente"</mark>, verde em caso de <mark style="color:green;">"Ação concluída"</mark> e azul em caso de <mark style="color:blue;">"Ação opcional"</mark>.
-
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 #### **Grupo de informações sobre o fluxo de trabalho e sobre a tarefa**
 

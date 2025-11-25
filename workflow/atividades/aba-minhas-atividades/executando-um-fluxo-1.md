@@ -28,6 +28,24 @@ Esse modo de visualização pode ser definido como padrão no [perfil do usuári
 
 <figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
+#### **Botão Ativar Novo Fluxo**
+
+Botão para a ativação de novos fluxos.
+
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+#### **Gráfico contador de atividades**
+
+Exibe a quantidade de tarefas pendentes de execução e dessas quantas estão atrasadas.
+
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+#### **Legendas**
+
+Aqui são exibidas as legendas de cores que indicam de forma visual e clara o estado da Ação. Ela marca ações com vermelho em caso de <mark style="color:red;">"Ação obrigatória Pendente"</mark>, verde em caso de <mark style="color:green;">"Ação concluída"</mark> e azul em caso de <mark style="color:blue;">"Ação opcional"</mark>.
+
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
 ## Ativar Novo Fluxo
 
 1\. Para ativar um novo fluxo, no menu [Workflow > Atividades > Aba Minhas Atividades](./) clique no botão “Ativar Novo Fluxo”.
