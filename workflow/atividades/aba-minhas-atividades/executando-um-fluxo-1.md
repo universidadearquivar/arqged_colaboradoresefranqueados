@@ -137,7 +137,7 @@ Ao posicionar o mouse sobre o ícone de "Ação obrigatória pendente" em cada �
 
 **Comentários:** As mensagens são exibidas em formato de chat, o que proporciona melhor visualização e exibição das mensagens incluídas pelos responsáveis de cada etapa.
 
-**Acompanhamento do processo de assinatura via Plataforma ArqSIGN:** Sempre que o usuário abrir a tarefa para execução, essa área será exibida automaticamente aberta, facilitando o acompanhamento das assinaturas dos destinatários.
+**Processo ArqSIGN:** Sempre que o usuário abrir a tarefa para execução, essa área será exibida automaticamente aberta, facilitando o acompanhamento das assinaturas dos destinatários.
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
