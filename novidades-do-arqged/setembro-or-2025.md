@@ -4,7 +4,7 @@
 
 <summary>XX/XX - Nova Tela de Atividades Workflow</summary>
 
-Foi adicionada a opção de visualização por "Listagem" na tela de Atividades, assim as informações são apresentadas de forma mais simples e organizada ao usuário logado.
+Foi adicionada a opção de visualização por "[Listagem](../workflow/atividades/aba-minhas-atividades/#botao-dados-listagem)" na tela de Atividades, assim as informações são apresentadas de forma mais simples e organizada ao usuário logado.
 
 </details>
 
