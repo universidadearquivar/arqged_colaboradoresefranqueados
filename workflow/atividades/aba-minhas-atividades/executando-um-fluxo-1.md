@@ -78,7 +78,7 @@ Ao clicar no botão **'v'**, são exibidos os botões de avanço da tarefa, alé
 
 Para executar uma tarefa no modo 'Listagem' das atividades, basta clicar no botão **"Abrir"** correspondente a cada processo/fluxo.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Ou, na coluna **Detalhes**, clicar no ícone correspondente a cada processo/fluxo e, em seguida, acionar o botão **"Abrir"** na tela.:
 
@@ -129,12 +129,16 @@ Ao abrir o fluxo, será exibida a seguinte tela:
 O nome exibido para a Área, é o nome definido pelo usuário no momento da configuração do layout na tarefa.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Ao posicionar o mouse sobre o ícone de "Ação obrigatória pendente" em cada área, é exibida a lista de pendências que deve ser executada pelo usuário, além dos botões de avanço para cada obrigatoriedade.
 
 <figure><img src="../../../.gitbook/assets/image (188).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-Na área de Comentários, as mensagens são exibidas em formato de chat, o que proporciona melhor visualização e exibição das mensagens incluídas pelos responsáveis de cada etapa.
+**Comentários:** As mensagens são exibidas em formato de chat, o que proporciona melhor visualização e exibição das mensagens incluídas pelos responsáveis de cada etapa.
+
+**Acompanhamento do processo de assinatura via Plataforma ArqSIGN:** Sempre que o usuário abrir a tarefa para execução, essa área será exibida automaticamente aberta, facilitando o acompanhamento das assinaturas dos destinatários.
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***

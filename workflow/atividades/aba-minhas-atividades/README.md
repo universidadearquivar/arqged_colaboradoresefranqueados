@@ -12,13 +12,13 @@ A aba Minhas Atividades funciona como uma “caixa de entrada” na qual o usuá
 
 A alternância desse botão permite exibir as tarefas ativas (que já iniciaram) ou agendadas (com data futura para início) que são de responsabilidade de execução do usuário. Por padrão do sistema, ao acessar a tela, são exibidos os dados "Ativos".
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 #### **Botão Dados/Listagem**
 
 A alternância desse botão permite alterar a visualização dos fluxos para o usuário. Quando selecionada a opção "Dados", são exibidos na tela os fluxos de responsabilidade do usuário logado considerando um resumo do fluxo, além de exibir também os ícones da etapa e as orientações de pendências. Essa é a forma de visualização padrão do sistema, quando não existe uma configuração de exibição para o perfil do usuário.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Quando selecionada a opção "Listagem", são exibidos na tela os fluxos de responsabilidade do usuário logado de forma simplificada em uma listagem com as informações mais importantes do fluxo.
 
