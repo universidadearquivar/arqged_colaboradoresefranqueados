@@ -32,27 +32,23 @@ No topo da tela será exibido um gráfico que permite ao usuário visualizar qua
 
 <figure><img src="../../../.gitbook/assets/image (170).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-
-
 **Coluna Nº:** Exibe o número/código do fluxo ou número do processo.
 
-**Coluna Processo:** Exibe o nome que é dado ao fluxo na configuração da etapa realizada no momento do desenho do fluxo.
+**Coluna Processo:** Exibe o nome do fluxo definido no desenho do processo.
 
-**Coluna Tarefa:** Exibe o nome definido para a tarefa no momento das configurações e desenho do fluxo e ao direcionar o mouse sobre o ícone, é exibida a situação do fluxo (em dia - ícone verde, atrasado - ícone vermelho), o status e a classificação, além das obrigatoriedades.
+**Coluna Tarefa:** Exibe o nome definido para a tarefa configurada no desenho do fluxo. Ao posicionar o mouse sobre o nome da tarefa, é exibido um _Tooltip_ indicando a situação do fluxo, o status, a classificação (Individual ou Grupo) e as obrigatoriedades com os respectivos botões de avanço.\
+Cada tarefa também possui um ícone que indica o andamento da atividade do usuário: verde para "Em dia", vermelho para "Em atraso" e azul para "atividades delegadas", "aguardando ciência" de outro usuário.
 
 **Coluna Início Tarefa:** Exibe a data/hora de chegada da tarefa para execução do responsável.
 
-**Coluna Concluir Até:** Exibe a data limite para execução da tarefa, convertendo o prazo configurado para uma data/hora específica de conclusão. Tarefas do tipo ArqSign exibirão o campo vazio, pois não possuem prazo de conclusão e por este motivo serão exibidas sempre no topo da lista.
+**Coluna Concluir Até:** Exibe a previsão de término da atividade, conforme o prazo definido na configuração da tarefa. As etapas de acompanhamento do processo de assinatura via plataforma ArqSIGN não possuem prazo de conclusão e, por esse motivo, são sempre exibidas no topo da lista.
 
-**Coluna Detalhes:** Exibe os detalhes do fluxo, que são os "Dados Gerais do Processo" , a "Ação da Tarefa Anterior", o nome do responsável anterior, o último comentário, o formulário e os "Dados da Tarefa Atual". Quando houver, serão exibidas também na modal de detalhes as "Instruções para a Tarefa", que são as informações adicionadas no campo "Descrição da Etapa" no momento da configuração da etapa no desenho do fluxo.&#x20;
+**Coluna Detalhes:** Esta coluna apresenta apenas um ícone. Ao clicar nele, o usuário visualiza uma tela com as informações do fluxo, incluindo os 'Dados Gerais do Processo', a 'Ação da Tarefa Anterior', o nome do responsável que executou a tarefa anterior, o último comentário, os campos do formulário configurados para exibição na tarefa e os 'Dados da Tarefa Atual'.\
+Além disso, a tela também exibe a 'Observação do Fluxo', quando adicionada no momento da ativação, e as 'Instruções para a Tarefa', correspondentes às informações inseridas no campo 'Descrição da Etapa' durante a configuração da tarefa no desenho do fluxo.
 
-**Coluna Ações:** Exibe além da opção de "Abrir" o fluxo para tratamento,  a lista de botões  de avanço disponíveis para o processo, como por exemplo: delegar tarefa, voltar para a etapa anterior, cancelar fluxo ou visualizar fluxograma.
-
-
-
-
-
-
+**Coluna Ações:** Nesta coluna são exibidos dois botões: o **'Abrir'** e o **'v'**.\
+Ao clicar em **'Abrir'**, uma nova aba é aberta para que o usuário execute as ações da tarefa, como cadastrar ou associar documentos, incluir anexos ao fluxo, preencher formulários, adicionar  comentários, entre outras atividades.\
+Ao clicar no botão **'v'**, são exibidos os botões de avanço da tarefa, além das ações 'Abrir Tarefa', 'Delegar Tarefa', 'Cancelar Fluxo', 'Voltar para Tarefa Anterior' e 'Visualizar Fluxograma'.
 
 ## Ativar Novo Fluxo
 
