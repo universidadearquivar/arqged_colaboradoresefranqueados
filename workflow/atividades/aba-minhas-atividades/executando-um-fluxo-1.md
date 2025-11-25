@@ -76,13 +76,13 @@ Ao clicar no botão **'v'**, são exibidos os botões de avanço da tarefa, alé
 
 ### Executando o Fluxo
 
-Para executar um fluxo, é possível acessá-lo pelo botão **"Abrir Tarefa"**, disponível na tela de "**Detalhes**":
-
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
-Ou pelo botão "**Abrir Tarefa"**, disponível na lista de "**Ações"**:
+Para executar uma tarefa no modo 'Listagem' das atividades, basta clicar no botão **"Abrir"** correspondente a cada processo/fluxo.
 
 <figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Ou, na coluna **Detalhes**, clicar no ícone correspondente a cada processo/fluxo e, em seguida, acionar o botão **"Abrir"** na tela.:
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Ao abrir o fluxo, será exibida a seguinte tela:
 
