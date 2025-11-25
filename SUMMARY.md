@@ -120,7 +120,7 @@
 
 ## 📣 Novidades do ArqGED
 
-* [▫️ Novembro | 2025](novidades-do-arqged/setembro-or-2025.md)
+* [▫️ Workflow](novidades-do-arqged/setembro-or-2025.md)
 * [▫️ Setembro | 2025](novidades-do-arqged/setembro-or-2025-1.md)
 * [▫️ Maio | 2025](novidades-do-arqged/maio-or-2025.md)
 * [▫️ Abril | 2025](novidades-do-arqged/abril-or-2025.md)
