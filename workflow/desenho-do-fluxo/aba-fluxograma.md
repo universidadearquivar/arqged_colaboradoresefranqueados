@@ -205,7 +205,7 @@ Defina os nomes que serão exibidos para o usuário externo que receber uma atri
 
 #### Fluxos sem contrato de Integração ArqSign
 
-Permite configurar quais ícones devem ser exibidos durante a execução da tarefa ao responsável para interação, ou seja, quais funcionalidades ele irá utilizar, como por exemplo: cadastro de documento, upload de arquivo no fluxo, preenchimento de modelo e etc. É nessa aba, que a definição de restrição ou não de algumas funcionalidades durante a execução do fluxo deverá acontecer.&#x20;
+Na configuração de uma tarefa, no desenho do fluxo, a tela de **Layout de Tarefa interna**, permite definir quais áreas devem ser exibidas ao responsável durante a execução da tarefa, ou seja, quais funcionalidades ele poderá utilizar, como cadastro de documentos, upload de arquivos no fluxo, preenchimento de formulário, entre outras. É nesta tela que deve ser definida a restrição ou liberação de determinadas funcionalidades durante a execução do fluxo.
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -215,9 +215,9 @@ Permite configurar quais ícones devem ser exibidos durante a execução da tare
 
 **Área:** Identificação dos ícones utilizados no decorrer do processo.
 
-Ao definir uma área para exibição, o campo "Nome para a área" é automaticamente apresentado na tela para definição de um novo nome, importante utilizar um nome que seja familiar ao usuário dentro do processo. Caso não seja aplicável, é só manter o nome padrão já definido pelo sistema.
+Ao marcar uma área para exibição, o campo "Nome para a área" é apresentado automaticamente com um nome padrão da aplicação. Esse nome será usado como título da área durante a execução da tarefa. É importante escolher um nome que seja familiar ao usuário dentro do processo; caso não seja necessário, basta manter o nome padrão definido pela aplicação.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (196).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="warning" %}
 **Importante:** Ao passar pelas abas anteriores sem definir configurações para as "áreas", elas poderão ser definidas na "**Aba Layout Tarefa Interna**", porém, elas serão tratadas como sendo de execução **não obrigatória** para o usuário. A obrigatoriedade só pode ser definida na aba específica da configuração.
