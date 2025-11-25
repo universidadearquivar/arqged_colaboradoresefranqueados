@@ -76,7 +76,7 @@ Ao clicar no botão **'v'**, são exibidos os botões de avanço da tarefa, alé
 
 ### Executando o Fluxo
 
-Para executar um fluxo, é possível acessá-lo pelo botão **"Abrir Tarefa"**, disponível no botão de "**Detalhes**":
+Para executar um fluxo, é possível acessá-lo pelo botão **"Abrir Tarefa"**, disponível na tela de "**Detalhes**":
 
 <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -89,18 +89,18 @@ Ao abrir o fluxo, será exibida a seguinte tela:
 <figure><img src="../../../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 
 1. **Título:** Exibe o nome do Fluxo.
-2. **Fechar:** Apenas fecha o fluxo, retornando para a tela inicial com a lista de fluxos pendentes.
+2. **Fechar:** Apenas fecha a tela, retornando para a tela inicial com a lista de atividades pendentes.
 3. **Outras ações:** Exibe uma lista de outros caminhos possíveis no fluxo, tais como:
 
 • **Delegar Tarefa:** Permite o envio da Tarefa para outro usuário apenas para conhecimento da demanda ou delegando totalmente.
 
 <figure><img src="../../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
 
-• **Cancelar Fluxo:** Permite cancelar o Processo de Trabalho.
+• **Cancelar Fluxo:** Permite cancelar a execução do Processo/Fluxo totalmente.
 
 <figure><img src="../../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
 
-• **Visualizar Fluxograma:** Permite que o usuário acesse o Desenho do Processo.
+• **Visualizar Fluxograma:** Permite que o usuário visualize o Desenho do Processo/Fluxo.
 
 <figure><img src="../../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
 
@@ -111,19 +111,19 @@ Ao abrir o fluxo, será exibida a seguinte tela:
 5. **Dados Gerais do Processo:** Exibe as informações do processo de trabalho, incluindo Ação da tarefa anterior e responsável.
 6. **Dados da Tarefa Atual:** Exibe as informações da etapa atual.
 7. **Instrução para tarefa:** Exibe as orientações para execução da tarefa atual, quando se aplica.
-8. **Legenda das Cores:** Exibe a classificação de cores para ações, sendo ações obrigatórias (vermelho), ações concluídas (verde) e ações opcionais (azul).
+8. **Legenda das Cores:** Exibe a classificação de cores para ações, sendo ações obrigatórias pendentes (vermelho), ações concluídas (verde) e ações opcionais (azul).
 
 <figure><img src="../../../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
 
 9\. **Áreas:** São exibidas as áreas configuradas para o processo no desenho do fluxo, considerando obrigatoriedades e a definição da ordem em que elas devem ser exibidas para o usuário.
 
-{% hint style="info" %}
-O nome exibido para a Área, é o nome definido pelo usuário no momento da configuração do campo.
+{% hint style="warning" %}
+O nome exibido para a Área, é o nome definido pelo usuário no momento da configuração do layout na tarefa.
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Ao posicionar o mouse sobre o ícone de "Ação obrigatória pendente", é exibida a lista de pendências que deve ser verificada pelo usuário para aquela área em específico.&#x20;
+Ao posicionar o mouse sobre o ícone de "Ação obrigatória pendente" em cada área, é exibida a lista de pendências que deve ser executada pelo usuário, além dos botões de avanço para cada obrigatoriedade.
 
 <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
