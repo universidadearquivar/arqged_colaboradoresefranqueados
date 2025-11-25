@@ -8,6 +8,32 @@ Esse modo de visualização pode ser definido como padrão no [perfil do usuári
 
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
+A tela será exibida conforme a imagem acima, apresentando as seguintes informações:
+
+#### **Barra de Filtro**
+
+É possível realizar a busca de tarefas utilizando a barra de filtro, que faz a busca de tarefas do usuário utilizando palavras-chave.
+
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+#### **Botão Ativar Novo Fluxo**
+
+Botão para a ativação de novos fluxos.
+
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+#### **Gráfico**
+
+No topo da tela será exibido um gráfico que permite ao usuário visualizar quantos fluxos estão em atraso, com base no total de fluxos sob sua responsabilidade para execução.
+
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+#### Detalhamento das Colunas
+
+<figure><img src="../../../.gitbook/assets/image (170).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+
+
 **Coluna Nº:** Exibe o número/código do fluxo ou número do processo.
 
 **Coluna Processo:** Exibe o nome que é dado ao fluxo na configuração da etapa realizada no momento do desenho do fluxo.
@@ -22,29 +48,11 @@ Esse modo de visualização pode ser definido como padrão no [perfil do usuári
 
 **Coluna Ações:** Exibe além da opção de "Abrir" o fluxo para tratamento,  a lista de botões  de avanço disponíveis para o processo, como por exemplo: delegar tarefa, voltar para a etapa anterior, cancelar fluxo ou visualizar fluxograma.
 
-#### **Barra de Filtro**
 
-É possível realizar a busca de tarefas utilizando a barra de filtro, que faz a busca de tarefas do usuário utilizando palavras-chave.
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-#### **Botão Ativar Novo Fluxo**
 
-Botão para a ativação de novos fluxos.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
-#### **Gráfico contador de atividades**
-
-Exibe a quantidade de tarefas pendentes de execução e dessas quantas estão atrasadas.
-
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
-#### **Legendas**
-
-Aqui são exibidas as legendas de cores que indicam de forma visual e clara o estado da Ação. Ela marca ações com vermelho em caso de <mark style="color:red;">"Ação obrigatória Pendente"</mark>, verde em caso de <mark style="color:green;">"Ação concluída"</mark> e azul em caso de <mark style="color:blue;">"Ação opcional"</mark>.
-
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ## Ativar Novo Fluxo
 
