@@ -2,9 +2,9 @@
 
 ## Visualização Listagem
 
-No modo de exibição "Listagem", são apresentados na tela os fluxos de responsabilidade do usuário logado de forma simplificada, ou seja, em uma lista com as informações mais importantes do fluxo.
+No modo de exibição 'Listagem', os fluxos sob responsabilidade do usuário logado são exibidos de forma simplificada, em uma lista que destaca as informações mais importantes.
 
-Essa exibição pode ser definida como padrão no [perfil do usuário](../../../administracao/usuarios.md#aba-perfil).&#x20;
+Esse modo de visualização pode ser definido como padrão no [perfil do usuário](../../../administracao/usuarios.md#aba-perfil), garantindo que, ao acessar a aplicação, a tela de Minhas Atividades seja sempre apresentada nessa configuração.
 
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
