@@ -18,7 +18,7 @@ Anteriormente, esse Tipo de Responsável somente era avançado com 100% das exec
 
 Os detalhes dessas funcionalidades estão na página [Workflow > Desenho do Fluxo > Configurações da Tarefa](../workflow/desenho-do-fluxo/aba-fluxograma.md#configuracoes-da-tarefa).
 
-![](<../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 </details>
 
@@ -35,7 +35,7 @@ Com esta funcionalidade, a coluna “Assinar” será sempre exibida na tela par
 
 Anteriormente, esta coluna era exibida somente em etapa com obrigatoriedade de selecionar anexos para serem assinados em tarefas externas.
 
-Os detalhes dessas funcionalidades estão na página [Workflow > Atividades > Aba Minhas Atividades > Executando um fluxo](../workflow/atividades/aba-minhas-atividades/executando-um-fluxo-exibicao-dados.md).&#x20;
+Os detalhes dessas funcionalidades estão na página [Workflow > Atividades > Aba Minhas Atividades > Executando um fluxo](../workflow/atividades/aba-minhas-atividades/executando-um-fluxo.md).&#x20;
 
 ![](<../.gitbook/assets/image (9) (1) (1) (1).png>)
 
