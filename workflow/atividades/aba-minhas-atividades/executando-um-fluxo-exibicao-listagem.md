@@ -78,7 +78,7 @@ Para executar uma tarefa no modo 'Listagem' das atividades, basta clicar no bot�
 
 Ou, na coluna **Detalhes**, clicar no ícone correspondente a cada processo/fluxo e, em seguida, acionar o botão **"Abrir"** na tela.:
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (353).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Ao abrir o fluxo, será exibida a seguinte tela:
 
