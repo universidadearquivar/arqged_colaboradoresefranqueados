@@ -69,7 +69,7 @@ O relatório de “Informações dos Atendimentos” é muito utilizado para val
 <figure><img src="../../.gitbook/assets/image (107).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="info" %}
-<mark style="color:blue;">**Caixa Temporária:**</mark> <mark style="color:blue;">Somente a unidade consegue fazer este tipo de pedido. Ele deve ser usado quando a caixa ainda não foi indexada e o setor de atendimento precisa procurar um documento dentro desta caixa para enviar ao Cliente. Desta forma nesta consulta se seleciona a caixa, é realizada a busca pelo documento que é enviado para o cliente. Feito desta forma é gerada uma cobrança de consulta de documento e a caixa não muda o status para "Enviado ao Cliente".</mark>
+<mark style="color:blue;">**Caixa Temporária:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Somente a unidade consegue fazer este tipo de pedido. Ele deve ser usado quando a caixa ainda não foi indexada e o setor de atendimento precisa procurar um documento dentro desta caixa para enviar ao Cliente. Desta forma nesta consulta se seleciona a caixa, é realizada a busca pelo documento que é enviado  para o cliente. Feito desta forma é gerada uma cobrança de consulta de documento e a caixa não muda o status para "Enviado ao Cliente".</mark>
 {% endhint %}
 
 **Coluna Pedido:** Exibe o número de pedido gerado no momento do envio da solicitação de consulta.
@@ -113,7 +113,7 @@ O ideal, quando o usuário não tiver certeza de como foi escrito o texto que bu
 <figure><img src="../../.gitbook/assets/image (110).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="info" %}
-<mark style="color:blue;">O usuário</mark> <mark style="color:blue;">**solicitante**</mark> <mark style="color:blue;">poderá acessar o painel de atendimento para</mark> <mark style="color:blue;">**visualizar**</mark> <mark style="color:blue;">o andamento da sua solicitação, consultar seu pedido ou exportar dados do pedido em .CSV, porém, não é permitido ao solicitante nenhuma interação com o atendimento da demanda. Apenas o atendente da Unidade Arquivar ou do CEDOC do cliente, poderá prosseguir com o atendimento do pedido no sistema. Para o usuário solicitante não é habilitada a opção de "Editar" o pedido.</mark>
+<mark style="color:blue;">O usuário</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**solicitante**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">poderá acessar o painel de atendimento para</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**visualizar**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">o andamento da sua solicitação, consultar seu pedido ou exportar dados do pedido em .CSV, porém, não é permitido ao solicitante nenhuma interação com o atendimento da demanda. Apenas o atendente da Unidade Arquivar ou do CEDOC do cliente, poderá prosseguir com o atendimento do pedido no sistema. Para o usuário solicitante não é habilitada a opção de "Editar" o pedido.</mark>
 {% endhint %}
 
 ***
@@ -138,7 +138,7 @@ A aba Dados Gerais exibe vários campos inativos para preenchimento, trata-se de
 <mark style="color:blue;">Tanto para o pedido de documento quanto para o pedido de caixa/subcaixa, a aba “Dados Gerais” apresenta a mesma necessidade de preenchimento para sequência no atendimento do pedido no sistema.</mark>
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Quando no fluxo de atendimento do cliente tiver definida a etapa de “**Aprovação**”, o pedido só poderá entrar em atendimento após o responsável imediato no cliente efetuar a aprovação da solicitação, ou seja, quando ele aprovar o pedido.
 
@@ -150,11 +150,11 @@ Essa medida é geralmente utilizada para evitar o **acesso indevido**, de pessoa
 
 Para “Aprovar” ou “Cancelar” o pedido, o responsável deverá acessar a tela Solicitação > Atendimento > Consulta, identificar e abrir o pedido, clicar em “Salvar” e depois em “Processar” para aprovar ou no caso de cancelamento, clicar em "Salvar" e depois em “Cancelar Pedido”.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Aprovado o pedido, o status é alterado e uma nova ação é registrada.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Feita a aprovação, o status do pedido é alterado para "Triagem" e o pedido fica disponível para andamento do atendimento, além de gerar uma nova ação para o atendimento.
 
@@ -176,7 +176,7 @@ Retornando ao atendimento do pedido, agora aprovado, o atendente deverá iniciar
 
 Preenchidos todos os campos, clique "salvar" para prosseguir. Após salvar, os botões “Cancelar Pedido” e “Guia” são habilitados e para utilização.
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Cancelar Pedido:** O identificar alguma inconsistência, o atendente pode realizar o cancelamento do pedido. Ao optar por desistir do pedido, será apresentada uma mensagem de confirmação da ação. Ao confirmar o pedido é cancelado e o documento volta a ficar disponível para nova reserva.
 
@@ -184,7 +184,7 @@ Preenchidos todos os campos, clique "salvar" para prosseguir. Após salvar, os b
 
 #### **Guia de Busca de Documentos**
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 No cabeçalho da Guia é exibido:
 
@@ -195,7 +195,7 @@ No cabeçalho da Guia é exibido:
   * Nome do solicitante no ArqGED
   * Telefone do solicitante
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Abaixo é exibida:
 
@@ -214,10 +214,10 @@ Por fim, são exibidos campos que identificam os atores atuantes no atendimento:
 * Auxiliar de Arquivo responsável pela Devolução
 * Data/Hora da Impressão da guia
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="info" %}
-<mark style="color:blue;">Quando a Unidade possui configuração definida para</mark> [<mark style="color:blue;">Grupo de Endereços</mark>](../configuracao/grupo-de-endereco.md)<mark style="color:blue;">, é gerada uma guia de busca por grupo. Isso é feito para que o auxiliar de arquivo responsável pela busca dos volumes no arquivo tenha maior facilidade e produtividade na separação do acervo.</mark>
+<mark style="color:blue;">Quando a Unidade possui configuração definida para</mark> [<mark style="color:blue;">Grupo de Endereços</mark>](../configuracao/grupo-de-endereco.md)<mark style="color:blue;">, é gerada uma guia de busca por grupo. Isso é feito para que o auxiliar de arquivo responsável pela busca dos volumes  no arquivo tenha maior facilidade e produtividade na separação do acervo.</mark>
 {% endhint %}
 
 Concluído o processo de busca no arquivo, o atendente precisa informar para o sistema que a etapa foi realizada para prosseguir com o atendimento.
@@ -228,7 +228,7 @@ Para seguir com o atendimento, clique “Processar”.
 
 Ao processar o atendimento, um novo status é definido e uma nova ação é listada na tela.
 
-<figure><img src="../../.gitbook/assets/image (11) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
@@ -238,17 +238,17 @@ Nesta aba, são listados todos os documentos do pedido. É nesta tela que são a
 
 **Detalhes de um Pedido de Documentos**
 
-<figure><img src="../../.gitbook/assets/image (12) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-**Grupo:** Quando a Unidade possui configuração definida para [Grupo de Endereços](../configuracao/grupo-de-endereco.md), este campo é apresentado na tela e é considerado para organização do pedido. Isso é feito para que o auxiliar de arquivo responsável pela busca dos volumes no arquivo tenha maior facilidade e produtividade na separação do acervo.
+**Grupo:** Quando a Unidade possui configuração definida para [Grupo de Endereços](../configuracao/grupo-de-endereco.md), este campo é apresentado na tela e é considerado para organização do pedido. Isso é feito para que o auxiliar de arquivo responsável pela busca dos volumes  no arquivo tenha maior facilidade e produtividade na separação do acervo.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Coluna Seleção:** Exibe um local para seleção do atendimento.
 
 **Coluna Doc:** Ao clicar no ícone o registro é apresentado na tela e é possível navegar entre as abas do registro existente no ArqGED.
 
-<figure><img src="../../.gitbook/assets/image (13) (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Coluna Atend:** Clicando no ícone é possível acessar as particularidades do atendimento, onde de fato são adicionadas as informações para seguir com o processo.
 
@@ -268,11 +268,11 @@ Nesta aba, são listados todos os documentos do pedido. É nesta tela que são a
 
 Para o preenchimento destes dados, é necessário acessar o ícone de "Atendimento" para cada um dos documentos solicitados. Clique no ícone para prosseguir:
 
-<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Uma nova tela será exibida na tela para preenchimento:
 
-<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Considerar / Desconsiderar:** Quando selecionado “Considerar”, o sistema permite o andamento do atendimento com a inclusão dos dados e fechamento do pedido, inclusive obrigando o preenchimento do campo "Descrição do Item". Quando selecionado “Desconsiderar”, o pedido fica “Pendente” aguardando até que o preenchimento dos dados do atendimento seja realizado, isso impedirá que outro atendente finalize o pedido de forma indevida.
 
@@ -289,7 +289,7 @@ Uma nova tela será exibida na tela para preenchimento:
 **Código:** Este campo deve ser preenchido considerando o código de consulta. O código de consulta é controlado por unidade e geralmente é fornecido pela Master que disponibiliza uma planilha para acompanhamento da unidade. Os códigos são gerados considerando o padrão EAN-8, que é reconhecido pelo ArqGED que verifica se o código informado já foi utilizado para aquela unidade.
 
 {% hint style="success" %}
-<mark style="color:green;">A Master orienta que de posse da planilha de códigos, cada Unidade realize a impressão do seu sequencial com códigos de barras para que no momento do atendimento da consulta a etiqueta seja colada no verso do documento para identificar a movimentação, facilitar o processo de devolução e torná-lo mais seguro. Neste cenário é muito utilizada a impressão de etiquetas em rolo. Caso a Unidade opte por não realizar a impressão de seus códigos, o atendente deve anotar manualmente no verso do documento o código utilizado no atendimento da consulta.</mark>
+<mark style="color:green;">A Master orienta que de posse da planilha de códigos, cada Unidade realize a impressão do seu sequencial com códigos de barras para que no momento do atendimento da consulta a etiqueta seja colada no verso do documento para identificar a movimentação, facilitar o processo de devolução e torná-lo mais seguro. Neste cenário é muito utilizada a impressão de etiquetas em rolo. Caso a Unidade opte por não realizar a impressão de seus códigos, o atendente deve anotar manualmente no verso do documento o código utilizado no atendimento da consulta.</mark>&#x20;
 {% endhint %}
 
 **Buscas:** Registre neste campo a quantidade de buscas realizadas para localização do documento em questão.
@@ -454,7 +454,7 @@ Por fim, são exibidos campos que identificam os atores atuantes no atendimento:
 <figure><img src="../../.gitbook/assets/image (121).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="info" %}
-<mark style="color:blue;">Quando a Unidade possui configuração definida para</mark> [<mark style="color:blue;">Grupo de Endereços</mark>](../configuracao/grupo-de-endereco.md)<mark style="color:blue;">, é gerada uma guia de busca por grupo. Isso é feito para que o auxiliar de arquivo responsável pela busca dos volumes no arquivo tenha maior facilidade e produtividade na separação do acervo.</mark>
+<mark style="color:blue;">Quando a Unidade possui configuração definida para</mark> [<mark style="color:blue;">Grupo de Endereços</mark>](../configuracao/grupo-de-endereco.md)<mark style="color:blue;">, é gerada uma guia de busca por grupo. Isso é feito para que o auxiliar de arquivo responsável pela busca dos volumes  no arquivo tenha maior facilidade e produtividade na separação do acervo.</mark>
 {% endhint %}
 
 Concluído o processo de busca no arquivo, o atendente precisa informar para o sistema que a etapa foi realizada para prosseguir com o atendimento.
@@ -495,7 +495,7 @@ Nesta aba, são listados todas as caixas ou subcaixas do pedido. É nesta tela q
 
 #### **Detalhes de um pedido de Subcaixa**
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Coluna Seleção:** Exibe um local para seleção do atendimento.
 
@@ -513,7 +513,7 @@ Nesta aba, são listados todas as caixas ou subcaixas do pedido. É nesta tela q
 
 Para o preenchimento destes dados, é necessário acessar o ícone de "Atendimento" para cada uma das caixas ou subcaixas solicitadas. Clique no ícone para prosseguir:
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Uma nova tela será aberta para preenchimento dos dados de atendimento.
 
@@ -525,11 +525,11 @@ Por padrão a tela é apresentada com uma mensagem de alerta quanto ao status do
 
 **Descrição do Item:** Este campo possibilita a inclusão de informações relevantes ao pedido de caixa/Subcaixa, caso possua, informe no local indicado e clique em salvar.
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Após o lançamento da informação de localização da caixa/subcaixa, é possível emitir o “Protocolo de Consulta de Caixas” ou “Protocolo de Consulta de Subcaixa” para envio ao solicitante, caso o pedido seja de envio do acervo para a área solicitante.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Tanto no protocolo de consulta de Caixa quanto no de consulta de subcaixa, são exibidas as informações:
 
@@ -542,20 +542,20 @@ Tanto no protocolo de consulta de Caixa quanto no de consulta de subcaixa, são 
 
 Emitido o protocolo, retorne para a tela do atendimento e clique “Processar”, para atualização do pedido que vai para “Fechamento”.
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Ao clicar novamente em “Processar”, o pedido é fechado no sistema e a caixa/subcaixa é encaminhada ao cliente.
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Realizado o processamento do pedido, a lista de ações é atualizada.
 
 No Painel de Atendimento, as informações são atualizadas podendo ser visualizadas pelo solicitante.
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">Sempre que o pedido é encerrado no ArqGED, o solicitante é notificado por e-mail quanto ao encerramento do seu pedido.</mark>
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
