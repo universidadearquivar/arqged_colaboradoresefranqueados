@@ -10,7 +10,9 @@ A aba Minhas Atividades agrupa todas as atividades pendentes para o usuário log
 
 ## Minhas Atividades – Visão Geral
 
-**1. Botão Ativos/Agendados:** A alternância desse botão permite exibir as tarefas ativas (que já iniciaram) ou agendadas (com data futura para início) que são de responsabilidade de execução do usuário.&#x20;
+**Botão Ativos/Agendados:** A alternância desse botão permite exibir as tarefas ativas (que já iniciaram) ou agendadas (com data futura para início) que são de responsabilidade de execução do usuário.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (347).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **2. Barra de Filtro:** É possível realizar a busca de tarefas utilizando a barra de filtro, que faz a busca de tarefas do usuário utilizando palavras-chave.   &#x20;
 
