@@ -86,7 +86,7 @@ Ou, na coluna **Detalhes**, clicar no ícone correspondente a cada processo/flux
 
 Ao abrir o fluxo, será exibida a seguinte tela:
 
-<figure><img src="../../../.gitbook/assets/image (77).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (255).png" alt=""><figcaption></figcaption></figure>
 
 1. **Título:** Exibe o nome do Fluxo.
 2. **Fechar:** Apenas fecha a tela, retornando para a tela inicial com a lista de atividades pendentes.

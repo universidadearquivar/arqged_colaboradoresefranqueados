@@ -16,7 +16,7 @@ Durante esse período, os usuários podem **monitorar o andamento do processo de
 * **Reenviar o processo**, caso o link de assinatura tenha expirado antes da conclusão;
 * **Editar signatários** que ainda não assinaram.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 #### Interação com Token e Signatários
 
@@ -66,7 +66,7 @@ Se a opção **“Obrigar comentário antes desta ação”** estiver habilitada
 
 Ao clicar nesta ação, o sistema exibirá a **modal “Editar e Reenviar Processo”**, onde será possível ajustar os dados dos signatários que ainda não assinaram e reenviar o processo à plataforma ArqSign.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ### Ícone: Anexos
 
@@ -86,7 +86,7 @@ O sistema **permite selecionar até 25 arquivos** para envio ao ArqSign, somando
 * Modelo do fluxo.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 #### Etapas do tipo ArqSign
 
@@ -157,7 +157,7 @@ Para isso, o usuário deve acionar o **ícone de assinatura** localizado ao lado
 
 Essa funcionalidade é essencial para fins de auditoria, comprovação legal e rastreabilidade dos documentos assinados digitalmente via ArqSign.
 
-### Workflow > Atividade > Anexos  Visualizar dados de assinaturas
+### Workflow > Atividade > Anexos Visualizar dados de assinaturas
 
 <figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -165,7 +165,7 @@ Essa funcionalidade é essencial para fins de auditoria, comprovação legal e r
 
 <figure><img src="../../../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-### &#x20;Baixar Registro de Assinaturas
+### Baixar Registro de Assinaturas
 
 Na **modal de dados de assinaturas**, o usuário tem a opção de realizar o download do certificado com o registro de assinaturas do documento.
 
