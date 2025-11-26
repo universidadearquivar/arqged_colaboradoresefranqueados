@@ -190,7 +190,7 @@ Nesta aba temos configurações voltadas para o layout do sistema que será apre
 
 **Idioma:** Selecione o idioma que será utilizado, podendo ser Português ou Espanhol.
 
-**Tela Padrão em Workflow Atividades:** Permite definir qual será o padrão de visualização das atividades pendentes do workflow pelo usuário - [Dados ou Listagem](https://manual.arquivar.com/manual-arqged-or-clientes/workflow/atividades/aba-minhas-atividades#botao-dados-listagem).
+**Tela Padrão em Workflow Atividades:** Permite definir qual será o padrão de visualização das atividades pendentes do workflow pelo usuário - Dados ou Listagem.
 
 **Foto de Perfil:** Utilize para fazer o upload da foto do usuário.
 
