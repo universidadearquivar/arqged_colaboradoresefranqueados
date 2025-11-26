@@ -70,8 +70,7 @@
 * [🔄 Workflow](workflow/README.md)
   * [🟩 Atividades](workflow/atividades/README.md)
     * [🔹 Aba Minhas Atividades](workflow/atividades/aba-minhas-atividades/README.md)
-      * [➡️ Executando um fluxo - Exibição Dados](workflow/atividades/aba-minhas-atividades/executando-um-fluxo.md)
-      * [➡️ Executando um fluxo - Exibição Listagem](workflow/atividades/aba-minhas-atividades/executando-um-fluxo-1.md)
+      * [➡️ Executando um fluxo](workflow/atividades/aba-minhas-atividades/executando-um-fluxo.md)
       * [➡️ Executando um fluxo - ArqSign](workflow/atividades/aba-minhas-atividades/executando-um-fluxo-arqsign.md)
     * [🔹 Aba Atividades da Minha Equipe](workflow/atividades/aba-atividades-da-minha-equipe.md)
     * [🔹 Aba Atividades que Criei](workflow/atividades/aba-atividades-que-criei.md)
@@ -120,9 +119,8 @@
 
 ## 📣 Novidades do ArqGED
 
-* [▫️ Workflow](novidades-do-arqged/setembro-or-2025.md)
-* [▫️ Compartilhamento de Arquivos via API](novidades-do-arqged/setembro-or-2025-1.md)
-* [▫️ Integração ArqSign](novidades-do-arqged/maio-or-2025.md)
+* [▫️ Compartilhamento de Arquivos via API](novidades-do-arqged/compartilhamento-de-arquivos-via-api.md)
+* [▫️ Integração ArqSign](novidades-do-arqged/integracao-arqsign.md)
 * [▫️ Abril | 2025](novidades-do-arqged/abril-or-2025.md)
 * [▫️ Julho | 2024](novidades-do-arqged/julho-or-2024.md)
 * [▫️ Junho | 2024](novidades-do-arqged/junho-or-2024.md)

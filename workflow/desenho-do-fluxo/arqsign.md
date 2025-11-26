@@ -126,7 +126,7 @@ A mensagem padrão é composta por:
 2. **Texto da mensagem padrão para todos os signatários** _(opcional)_\
    Campo de texto utilizado para redigir o **corpo da mensagem padrão** que acompanhará a solicitação de assinatura.
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="warning" %}
 Caso um destinatário tenha uma mensagem personalizada configurada, essa substituirá a mensagem padrão.
@@ -143,9 +143,9 @@ Nesta seção, o usuário configura os **signatários que participarão do proce
 <figure><img src="../../.gitbook/assets/image (281).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Importante:**</mark>\ <mark style="color:orange;">As assinaturas serão</mark> <mark style="color:orange;">**posicionadas automaticamente**</mark> <mark style="color:orange;">ao final de cada documento pelo ArqSIGN.</mark>
+<mark style="color:orange;">**Importante:**</mark>\ <mark style="color:orange;">As assinaturas serão</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**posicionadas automaticamente**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">ao final de cada documento pelo ArqSIGN.</mark>
 
-<mark style="color:orange;">O ArqGED</mark> <mark style="color:orange;">**não define a posição visual da assinatura**</mark> <mark style="color:orange;">nos arquivos.</mark>
+<mark style="color:orange;">O ArqGED</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**não define a posição visual da assinatura**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">nos arquivos.</mark>
 {% endhint %}
 
 **1. Usar ordem de assinatura** _(opcional)_\
@@ -185,7 +185,7 @@ Define o tempo de tolerância até o envio da notificação de atraso.
 
 O tempo em "Minuto(s)", "Hora(s)", caso o Cliente possua horário de trabalho marcado como referência "para Usuários Externos", serão contados considerando dia e horário de trabalho. Caso contrário serão considerados minutos e horas corridas a partir do início.
 
-O tempo em "Dia(s) Útil(eis) ", caso o Cliente possua horário de trabalho para definição das folgas e calendário para definição de feriados como referência "para Usuários Externos", serão contados somente dias úteis. Caso contrário, serão considerados dias corridos.
+&#x20;O tempo em "Dia(s) Útil(eis) ", caso o Cliente possua horário de trabalho para definição das folgas e calendário para definição de feriados como referência "para Usuários Externos", serão contados somente dias úteis. Caso contrário, serão considerados dias corridos.
 
 {% hint style="success" %}
 O tempo definido neste campo será usado na aplicação como referência para definição de atraso para a assinatura de cada signatário. Os gatilhos para os envios das mensagens serão configurados no componente ArqSign do fluxograma. Desta forma será necessário controlar o início de assinatura de cada signatário: Se o documento não tiver ordem de assinatura, o início de assinatura é o momento do envio do processo, mas para os signatários com ordem de assinatura, o início de assinatura é o horário de conclusão da assinatura de ordem anterior.
@@ -233,7 +233,7 @@ Define o tipo de participação do destinatário no processo. Opções:
 
 Ao selecionar “Receber uma Cópia”, as opções de assinatura serão desmarcadas automaticamente.
 
-Se forem selecionados ambas as opções, para pessoa física e jurídica, a assinatura terá de ser feita pelo mesmo signatário como os dois papeis distintos, conforme marcação.
+Se forem selecionados ambas as opções, para pessoa física e jurídica, a assinatura terá de ser feita pelo mesmo signatário como os dois papeis distintos, conforme marcação.&#x20;
 
 **10. Assinatura de Pessoa Física como** _(opcional)_\
 Disponível apenas se o item "_Este destinatário irá"_ “Assinar Online como Pessoa Física”.
@@ -270,7 +270,7 @@ Define a forma de apresentação da assinatura. Opções:
 **14. Este signatário NÃO precisa existir para enviar ao ArqSign** _(opcional)_\
 Permite que o processo seja criado mesmo se os dados do signatário estiverem ausentes.
 
-<figure><img src="../../.gitbook/assets/image (292).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (293).png" alt=""><figcaption></figcaption></figure>
 
 Desta forma, estando a flag marcada para algum signatário, quando chegar o momento no fluxo de criar o processo no ArqSign, caso não exista informações de nome e e-mail/telefone para o signatário, o processo será criado sem ele.
 
@@ -312,20 +312,20 @@ Se o processo estiver utilizando **ordem de assinatura**, o campo **Ordem** do n
 <figure><img src="../../.gitbook/assets/image (297).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
-**Regras de validação obrigatórias**
+#### Regras de validação obrigatórias
 
-<mark style="color:red;">É obrigatório informar</mark> <mark style="color:red;">**ao menos um destinatário**</mark> <mark style="color:red;">com a opção:</mark>
+<mark style="color:red;">É obrigatório informar</mark> <mark style="color:red;"></mark><mark style="color:red;">**ao menos um destinatário**</mark> <mark style="color:red;"></mark><mark style="color:red;">com a opção:</mark>
 
 * <mark style="color:red;">**Assinar Online como Pessoa Física**</mark><mark style="color:red;">, ou</mark>
-* <mark style="color:red;">**Assinar Online como Pessoa Jurídica**</mark><mark style="color:red;">,</mark>\ <mark style="color:red;">sem que a flag</mark> <mark style="color:red;">**“Este signatário NÃO precisa existir para enviar ao ArqSIGN”**</mark> <mark style="color:red;">esteja marcada.</mark>
+* <mark style="color:red;">**Assinar Online como Pessoa Jurídica**</mark><mark style="color:red;">,</mark>\ <mark style="color:red;">sem que a flag</mark> <mark style="color:red;"></mark><mark style="color:red;">**“Este signatário NÃO precisa existir para enviar ao ArqSIGN”**</mark> <mark style="color:red;"></mark><mark style="color:red;">esteja marcada.</mark>
 
 <mark style="color:red;">**Quando o processo não possui ordem de assinatura:**</mark>
 
-* <mark style="color:red;">Não é permitido selecionar o</mark> <mark style="color:red;">**mesmo campo do formulário**</mark> <mark style="color:red;">para múltiplos destinatários.</mark>
+* <mark style="color:red;">Não é permitido selecionar o</mark> <mark style="color:red;"></mark><mark style="color:red;">**mesmo campo do formulário**</mark> <mark style="color:red;"></mark><mark style="color:red;">para múltiplos destinatários.</mark>
 
 <mark style="color:red;">**Quando o processo possui ordem de assinatura:**</mark>
 
-* <mark style="color:red;">Não é permitido repetir o mesmo campo do formulário entre destinatários com a</mark> <mark style="color:red;">**mesma ordem**</mark><mark style="color:red;">.</mark>
+* <mark style="color:red;">Não é permitido repetir o mesmo campo do formulário entre destinatários com a</mark> <mark style="color:red;"></mark><mark style="color:red;">**mesma ordem**</mark><mark style="color:red;">.</mark>
 {% endhint %}
 
 ## Configurações Adicionais
@@ -436,7 +436,7 @@ Essa aba permite configurar se o signatário deverá ou poderá enviar documento
 * **Armazenar todos os anexos como Anexo do Fluxo** _(opcional)_\
   Define que os arquivos enviados pelos signatários serão armazenados no ArqGED.
 * **Nome Anexo** _(obrigatório)_\
-  Campo de texto onde o usuário define o **campo** do anexo a ser enviado pelo signatário.
+  Campo de texto onde o usuário define o **campo** do anexo a ser enviado pelo signatário.&#x20;
 
 {% hint style="danger" %}
 O sistema **não permite nomes repetidos** para anexos do mesmo signatário.
@@ -450,7 +450,7 @@ O sistema **não permite nomes repetidos** para anexos do mesmo signatário.
   * Se **desmarcado**, o anexo estará disponível **somente para o remetente**.
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Importante:**</mark> <mark style="color:orange;">O acesso aos anexos enviados ao ArqGED seguirá o</mark> <mark style="color:orange;">**nível de acesso configurado no ArqGED**</mark><mark style="color:orange;">. A opção acima se refere apenas ao comportamento dentro da</mark> <mark style="color:orange;">**plataforma ArqSign**</mark><mark style="color:orange;">.</mark>
+<mark style="color:orange;">**Importante:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">O acesso aos anexos enviados ao ArqGED seguirá o</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**nível de acesso configurado no ArqGED**</mark><mark style="color:orange;">. A opção acima se refere apenas ao comportamento dentro da</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**plataforma ArqSign**</mark><mark style="color:orange;">.</mark>
 {% endhint %}
 
 #### Adicionar mais anexos
@@ -469,14 +469,16 @@ A aba **Mensagem** estará sempre visível para signatários configurados com a 
 
 Essa aba permite configurar uma **mensagem personalizada** para cada signatário, substituindo a mensagem padrão definida na aba **ArqSign**.
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Campos disponíveis
 
 1. **Título** _(opcional)_\
    Campo de texto utilizado para definir um **título personalizado** da mensagem que será enviada ao signatário.
-2. **Mensagem** _(opcional)_\
-   Campo de texto para redigir o **conteúdo personalizado da mensagem** enviada ao signatário.
+2.  **Mensagem** _(opcional)_\
+    Campo de texto para redigir o **conteúdo personalizado da mensagem** enviada ao signatário.
+
+
 
 {% hint style="warning" %}
 Ao preencher estes campos, o signatário **não receberá** a mensagem padrão definida na aba ArqSign.
@@ -488,13 +490,13 @@ A aba **Código de Segurança** estará sempre visível para signatários config
 
 Essa aba permite configurar o envio de um **código de segurança adicional**, que será solicitado ao signatário no momento da assinatura do documento.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Campos disponíveis
 
 * **Campo onde extrair o código de segurança** _(obrigatório se houver envio)_
 
-Campo do formulário de onde será extraído o código de segurança a ser enviado ao signatário. Este campo precisa ser numérico com a configuração de tamanho mínimo e máximo com valor igual a **"4".**
+Campo do formulário de onde será extraído o código de segurança a ser enviado ao signatário. Este campo precisa ser numérico com a configuração de tamanho mínimo e máximo com valor  igual a **"4".**
 
 <figure><img src="../../.gitbook/assets/image (345).png" alt=""><figcaption></figcaption></figure>
 
@@ -507,18 +509,18 @@ Campo do formulário de onde será extraído o código de segurança a ser envia
   * Não enviar
 
 {% hint style="warning" %}
-<mark style="color:orange;">As opções</mark> <mark style="color:orange;">**SMS**</mark> <mark style="color:orange;">e</mark> <mark style="color:orange;">**WhatsApp**</mark> <mark style="color:orange;">só estarão disponíveis se o serviço</mark> <mark style="color:orange;">**Plataforma ArqSign**</mark> <mark style="color:orange;">selecionado no fluxo possuir os respectivos</mark> <mark style="color:orange;">**subserviços habilitados**</mark><mark style="color:orange;">.</mark>
+<mark style="color:orange;">As opções</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**SMS**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">e</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**WhatsApp**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">só estarão disponíveis se o serviço</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Plataforma ArqSign**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">selecionado no fluxo possuir os respectivos</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**subserviços habilitados**</mark><mark style="color:orange;">.</mark>&#x20;
 
-<mark style="color:orange;">A escolha do meio de envio</mark> <mark style="color:orange;">**determina o tipo de campo a ser selecionado**</mark> <mark style="color:orange;">no item seguinte:</mark>
+<mark style="color:orange;">A escolha do meio de envio</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**determina o tipo de campo a ser selecionado**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">no item seguinte:</mark>
 {% endhint %}
 
 * Se **E-mail** for selecionado, o campo de origem deverá conter um **endereço de e-mail**.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Se **SMS** ou **WhatsApp** forem selecionados, o campo deverá conter um **telefone**.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Campo onde extrair o e-mail ou telefone** _(obrigatório se houver envio)_\
   Campo do formulário de onde será extraído o **contato** (e-mail ou telefone) para envio do código de segurança.
