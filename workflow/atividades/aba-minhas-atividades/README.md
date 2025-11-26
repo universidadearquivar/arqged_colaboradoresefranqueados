@@ -54,9 +54,13 @@ Aqui são exibidas as legendas de cores que indicam de forma visual e clara o es
 
 Aqui são exibidas as seguintes informações: se a tarefa é em grupo ou individual; nome e número do fluxo; data da ativação e nome de quem ativou o fluxo; nome, status e descrição da tarefa; responsável pela tarefa e prazo para a sua execução e status da etapa. É mostrado também quem foi o executor da tarefa anterior e qual foi a ação que ele executou.&#x20;
 
+<figure><img src="../../../.gitbook/assets/image (349).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
 #### **Observação**
 
 Mostra a informação adicionada no momento da ativação do fluxo no campo “Observação”.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (350).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 #### **Formulário**
 
