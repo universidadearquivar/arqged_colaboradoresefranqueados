@@ -106,7 +106,7 @@ Ao abrir o fluxo, será exibida a seguinte tela:
 
 4. **Botões de Avanço:** Exibe para o usuário os caminhos disponíveis para tratamento do fluxo.
 
-<figure><img src="../../../.gitbook/assets/image (153).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (283).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="success" %}
 <mark style="color:green;">No lado direito dos títulos de cada área há um botão "v" para expandir ou ocultar as informações de uma área específica. Porém, o usuário não precisa clicar exatamente neste botão: toda a linha do título possui a mesma funcionalidade. Basta posicionar o mouse sobre a linha do título e clicar para expandir ou ocultar as informações da área.</mark>
