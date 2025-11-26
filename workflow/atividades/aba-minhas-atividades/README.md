@@ -28,13 +28,13 @@ Quando selecionada a opção "Listagem", são exibidos na tela os fluxos de resp
 
 É possível realizar a busca de tarefas utilizando a barra de filtro, que faz a busca de tarefas do usuário utilizando palavras-chave.   &#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 #### **Botão Ativar Novo Fluxo**
 
 Botão para a ativação de novos fluxos.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 #### **Gráfico**
 
@@ -58,13 +58,13 @@ Aqui são exibidas as seguintes informações: se a tarefa é em grupo ou indivi
 
 Mostra a informação adicionada no momento da ativação do fluxo no campo “Observação”.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 #### **Formulário**
 
 Mostra os dados do formulário associado ao fluxo. Os campos exibidos aqui devem ter sido previamente indicados na configuração da tarefa, no menu no menu Workflow > Desenho do Fluxo > Fluxograma.
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 #### **Último Comentário**
 
