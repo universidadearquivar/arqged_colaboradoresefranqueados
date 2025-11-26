@@ -181,7 +181,7 @@ _<mark style="color:blue;">Registro de Documento:</mark>_ <mark style="color:blu
 
 <figure><img src="../../.gitbook/assets/desenho14.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-#### Aba Layout Tarefa Externa
+### Aba Layout Tarefa Externa
 
 {% embed url="https://app.supademo.com/demo/cmid4ety303dp3i0i5qz9zyc3?" %}
 
