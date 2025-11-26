@@ -67,7 +67,7 @@ Representa as tarefas do fluxo. Ao inserir uma tarefa, insira o seu nome ou uma 
 
 Todas as tarefas criadas no desenho do fluxo devem ser configuradas individualmente.
 
-#### Aba Configurações&#x20;
+### Aba Configurações&#x20;
 
 * **Título:** Nome da tarefa. Para editar o título da tarefa, clique sobre o ícone da tarefa no fluxograma. &#x20;
 * **Status:** Informe o status para a tarefa. Esse status informará ao usuário em que fase o fluxo se encontra durante a execução daquela tarefa. &#x20;
@@ -102,7 +102,7 @@ Todas as tarefas criadas no desenho do fluxo devem ser configuradas individualme
 
 <figure><img src="../../.gitbook/assets/desenho1.png" alt=""><figcaption></figcaption></figure>
 
-#### Aba E-mail
+### Aba E-mail
 
 {% embed url="https://app.supademo.com/demo/cmc0gzblril1msn1rjabxklyz" %}
 
