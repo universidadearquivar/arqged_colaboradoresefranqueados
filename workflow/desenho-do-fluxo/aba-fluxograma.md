@@ -215,23 +215,29 @@ Ao marcar uma área para exibição, o campo "Nome para a área" é apresentado 
 
 <figure><img src="https://manual.arquivar.com/manual-arqged-or-clientes/~gitbook/image?url=https%3A%2F%2F1023047207-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtM1xGMYoU6wC7tnUUXEo%252Fuploads%252FIMyLXGo93MG6R4higOB1%252Fimage.png%3Falt%3Dmedia%26token%3D42adb610-8348-4e2e-a391-ec6e83165b1d&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=3774c8db&#x26;sv=2" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
+{% hint style="warning" %}
 **Importante:** Esta tela sempre será apresentada com as áreas **Comentários**, **Documentos**, **Modelo de Documento** (quando houver) e **Arquivos** desabilitadas para seleção.
 
 Quando não houver obrigatoriedades configuradas para uma tarefa, as áreas poderão ser marcadas para exibição durante a execução da atividade, mas serão tratadas como ações opcionais para o responsável.
 
 **Exemplo:** Se não houver configuração de 'Obrigar comentário na etapa', mas o usuário marcar a exibição da área 'Comentários' na tela de layout, o responsável verá a área sem a obrigatoriedade de comentar — será uma ação opcional.
 
+
+
 Sempre que uma obrigatoriedade for configurada, a área correspondente será marcada e desabilitada automaticamente pela aplicação.
 
 **Exemplo:** Se a tarefa estiver configurada para 'Obrigar comentário na etapa', ao acessar a aba de Layout da Tarefa Interna, a área estará marcada e desabilitada, indicando que é uma ação obrigatória para o responsável pela execução da tarefa.
 
-Apenas o campo 'Ordem' permanece sempre habilitado quando uma área é selecionada para exibição. Isso permite que o usuário defina a posição das áreas conforme necessário.
 
-![](https://manual.arquivar.com/manual-arqged-or-clientes/~gitbook/image?url=https%3A%2F%2F1023047207-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtM1xGMYoU6wC7tnUUXEo%252Fuploads%252FzPZ70w9OYlqr73bHAVJR%252Fimage.png%3Falt%3Dmedia%26token%3D37ec061d-b7da-4add-86f4-2c88fcf2f193\&width=768\&dpr=4\&quality=100\&sign=7960b97e\&sv=2)Clique na imagem para ampliar.
+
+Apenas o campo 'Ordem' permanece sempre habilitado quando uma área é selecionada para exibição. Isso permite que o usuário defina a posição das áreas conforme necessário.
+{% endhint %}
+
+<figure><img src="https://manual.arquivar.com/manual-arqged-or-clientes/~gitbook/image?url=https%3A%2F%2F1023047207-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtM1xGMYoU6wC7tnUUXEo%252Fuploads%252FzPZ70w9OYlqr73bHAVJR%252Fimage.png%3Falt%3Dmedia%26token%3D37ec061d-b7da-4add-86f4-2c88fcf2f193&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=7960b97e&#x26;sv=2" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Modelo de Documento:** Se houver um modelo de documento castrado para o fluxo, é possível definir se o usuário deve ver esse modelo e ainda qual deve ser o nome apresentado ao usuário, neste caso, a aplicação carrega como padrão o nome dado ao arquivo modelo e não o nome do campo. Ajuste para o nome familiar utilizado pelos participantes do processo.
 
-![](https://manual.arquivar.com/manual-arqged-or-clientes/~gitbook/image?url=https%3A%2F%2F1023047207-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtM1xGMYoU6wC7tnUUXEo%252Fuploads%252FuLumU4NbvMnWO9eC3IwF%252Fimage.png%3Falt%3Dmedia%26token%3Ddd5068e6-a36b-4a79-88be-281e8f0116b5\&width=768\&dpr=4\&quality=100\&sign=e95d40e2\&sv=2)Clique na imagem para ampliar.
+<figure><img src="https://manual.arquivar.com/manual-arqged-or-clientes/~gitbook/image?url=https%3A%2F%2F1023047207-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtM1xGMYoU6wC7tnUUXEo%252Fuploads%252FuLumU4NbvMnWO9eC3IwF%252Fimage.png%3Falt%3Dmedia%26token%3Ddd5068e6-a36b-4a79-88be-281e8f0116b5&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=e95d40e2&#x26;sv=2" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Arquivos:** Esta área indica que serão exibidos os anexos do fluxo. Além disso, possui as opções **'Exibir Modelo'** e **'Exibir anexo do Registro'**.
 
@@ -239,23 +245,27 @@ Apenas o campo 'Ordem' permanece sempre habilitado quando uma área é seleciona
 
 **Exibir anexo do Registro:** Quando marcada, a área Arquivos exibirá os anexos do fluxo e também os anexos dos documentos relacionados ao processo.
 
-![](https://manual.arquivar.com/manual-arqged-or-clientes/~gitbook/image?url=https%3A%2F%2F1023047207-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtM1xGMYoU6wC7tnUUXEo%252Fuploads%252FrIyiZbzv0P9BYeXySUhL%252Fimage.png%3Falt%3Dmedia%26token%3D9e76b457-3096-47ba-a3d1-c148b697842c\&width=768\&dpr=4\&quality=100\&sign=462e6e7e\&sv=2)Clique na imagem para ampliar.
+<figure><img src="https://manual.arquivar.com/manual-arqged-or-clientes/~gitbook/image?url=https%3A%2F%2F1023047207-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtM1xGMYoU6wC7tnUUXEo%252Fuploads%252FrIyiZbzv0P9BYeXySUhL%252Fimage.png%3Falt%3Dmedia%26token%3D9e76b457-3096-47ba-a3d1-c148b697842c&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=462e6e7e&#x26;sv=2" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
+{% hint style="success" %}
 É possível selecionar mais de uma opção, ou todas elas. Importante avaliar a necessidade de exibição no momento da execução do processo pelo usuário.
+{% endhint %}
 
 **Download em Massa:** ao marcar essa opção a **aba de download em massa** será exibida na área de **anexos** e na área de **documentos.**
 
-![](https://manual.arquivar.com/manual-arqged-or-clientes/~gitbook/image?url=https%3A%2F%2F1023047207-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtM1xGMYoU6wC7tnUUXEo%252Fuploads%252F3cnppvw8fOvuBlNRxoUv%252Fimage.png%3Falt%3Dmedia%26token%3D4c675edf-f3a5-42ff-8db4-bcf30891459a\&width=768\&dpr=4\&quality=100\&sign=56b0fa37\&sv=2)Clique na imagem para ampliar.
+<figure><img src="https://manual.arquivar.com/manual-arqged-or-clientes/~gitbook/image?url=https%3A%2F%2F1023047207-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtM1xGMYoU6wC7tnUUXEo%252Fuploads%252F3cnppvw8fOvuBlNRxoUv%252Fimage.png%3Falt%3Dmedia%26token%3D4c675edf-f3a5-42ff-8db4-bcf30891459a&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=56b0fa37&#x26;sv=2" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-![](https://manual.arquivar.com/manual-arqged-or-clientes/~gitbook/image?url=https%3A%2F%2F1023047207-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtM1xGMYoU6wC7tnUUXEo%252Fuploads%252FQFtzbVAfjuj7oHEud6L7%252Fimage.png%3Falt%3Dmedia%26token%3Df6125546-6fd3-44ab-92af-625a8912fb2e\&width=768\&dpr=4\&quality=100\&sign=d9a1c8d4\&sv=2)Clique na imagem para ampliar.
+<figure><img src="https://manual.arquivar.com/manual-arqged-or-clientes/~gitbook/image?url=https%3A%2F%2F1023047207-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtM1xGMYoU6wC7tnUUXEo%252Fuploads%252FQFtzbVAfjuj7oHEud6L7%252Fimage.png%3Falt%3Dmedia%26token%3Df6125546-6fd3-44ab-92af-625a8912fb2e&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=d9a1c8d4&#x26;sv=2" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-Ao realizar a configuração do Download em Massa, não é possível definir sua ordem de exibição, isso ocorre pelo fato do download em massa acontecer dentro de outra área. Ele vai acontecer dentro de "Arquivos" e "Documentos".
+{% hint style="danger" %}
+Ao realizar a configuração do Download em Massa, não é possível definir sua ordem de exibição, isso ocorre pelo fato do download em massa acontecer dentro de outra área. Ele vai acontecer dentro de "Arquivos" e "Documentos".&#x20;
 
-![](https://manual.arquivar.com/manual-arqged-or-clientes/~gitbook/image?url=https%3A%2F%2F1023047207-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtM1xGMYoU6wC7tnUUXEo%252Fuploads%252Fp7OLJhimlXWThTWR5BMF%252Fimage.png%3Falt%3Dmedia%26token%3D67f10857-0b53-4b57-b67e-a24b6dce16d1\&width=300\&dpr=4\&quality=100\&sign=cac2a8e5\&sv=2)
+<p align="center"><img src="../../.gitbook/assets/image (358).png" alt=""></p>
+{% endhint %}
 
 Concluídas essas definições o usuário não mais verá todos os ícones do processo, serão exibidos apenas aqueles devidamente configuração para exibição.
 
-![](https://manual.arquivar.com/manual-arqged-or-clientes/~gitbook/image?url=https%3A%2F%2F1023047207-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtM1xGMYoU6wC7tnUUXEo%252Fuploads%252FZWHfbwrecZumccpO6p7N%252Fimage.png%3Falt%3Dmedia%26token%3D2af85009-92af-40d4-9a41-c1557e468527\&width=768\&dpr=4\&quality=100\&sign=72a304f4\&sv=2)Clique na imagem para ampliar.
+<figure><img src="../../.gitbook/assets/image (359).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Fluxos com contrato de Integração ArqSign**
 
