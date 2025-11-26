@@ -199,11 +199,11 @@ Defina os nomes que serão exibidos para o usuário externo que receber uma atri
 
 ### Aba Layout Tarefa Interna <a href="#aba-layout-tarefa-interna" id="aba-layout-tarefa-interna"></a>
 
-**Fluxos sem contrato de Integração ArqSign**
+#### **Fluxos sem contrato de Integração ArqSign**
 
 Na configuração de uma tarefa, no desenho do fluxo, a tela de **Layout de Tarefa interna**, permite definir quais áreas devem ser exibidas ao responsável durante a execução da tarefa, ou seja, quais funcionalidades ele poderá utilizar, como cadastro de documentos, upload de arquivos no fluxo, preenchimento de formulário, entre outras. É nesta tela que deve ser definida a restrição ou liberação de determinadas funcionalidades durante a execução do fluxo.
 
-![](https://manual.arquivar.com/manual-arqged-or-clientes/~gitbook/image?url=https%3A%2F%2F1023047207-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtM1xGMYoU6wC7tnUUXEo%252Fuploads%252FGYRC4NFfjCgSg6V22GHZ%252Fimage.png%3Falt%3Dmedia%26token%3D114155c5-3531-4f5a-8ab3-7f707ba3849e\&width=768\&dpr=4\&quality=100\&sign=61fe959c\&sv=2)Clique na imagem para ampliar.
+<figure><img src="https://manual.arquivar.com/manual-arqged-or-clientes/~gitbook/image?url=https%3A%2F%2F1023047207-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtM1xGMYoU6wC7tnUUXEo%252Fuploads%252FGYRC4NFfjCgSg6V22GHZ%252Fimage.png%3Falt%3Dmedia%26token%3D114155c5-3531-4f5a-8ab3-7f707ba3849e&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=61fe959c&#x26;sv=2" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Exibição**: Indica se a área será apresentada ou não durante a execução da tarefa. Este campo pode ser marcado opcionalmente pelo usuário ou definido automaticamente pela aplicação, de acordo com a obrigatoriedade correspondente.
 
@@ -213,7 +213,7 @@ Na configuração de uma tarefa, no desenho do fluxo, a tela de **Layout de Tare
 
 Ao marcar uma área para exibição, o campo "Nome para a área" é apresentado automaticamente com um nome padrão da aplicação. Esse nome será usado como título da área durante a execução da tarefa. É importante escolher um nome que seja familiar ao usuário dentro do processo; caso não seja necessário, basta manter o nome padrão definido pela aplicação.
 
-![](https://manual.arquivar.com/manual-arqged-or-clientes/~gitbook/image?url=https%3A%2F%2F1023047207-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtM1xGMYoU6wC7tnUUXEo%252Fuploads%252FIMyLXGo93MG6R4higOB1%252Fimage.png%3Falt%3Dmedia%26token%3D42adb610-8348-4e2e-a391-ec6e83165b1d\&width=768\&dpr=4\&quality=100\&sign=3774c8db\&sv=2)Clique na imagem para ampliar.
+<figure><img src="https://manual.arquivar.com/manual-arqged-or-clientes/~gitbook/image?url=https%3A%2F%2F1023047207-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtM1xGMYoU6wC7tnUUXEo%252Fuploads%252FIMyLXGo93MG6R4higOB1%252Fimage.png%3Falt%3Dmedia%26token%3D42adb610-8348-4e2e-a391-ec6e83165b1d&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=3774c8db&#x26;sv=2" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Importante:** Esta tela sempre será apresentada com as áreas **Comentários**, **Documentos**, **Modelo de Documento** (quando houver) e **Arquivos** desabilitadas para seleção.
 
