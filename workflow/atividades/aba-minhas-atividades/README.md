@@ -84,7 +84,7 @@ Os botões “Cancelar” e “Voltar Etapa” só serão exibidos se o usuário
 <mark style="color:red;">**Ao clicar em “Cancelar” todo o fluxo é cancelado e o processo é interrompido.**</mark>
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (259).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (352).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
