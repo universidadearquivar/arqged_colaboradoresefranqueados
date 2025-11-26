@@ -94,7 +94,7 @@ Ao abrir o fluxo, será exibida a seguinte tela:
 
 • **Delegar Tarefa:** Permite o envio da Tarefa para outro usuário apenas para conhecimento da demanda ou delegando totalmente.
 
-<figure><img src="../../../.gitbook/assets/image (82).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (260).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 • **Cancelar Fluxo:** Permite cancelar a execução do Processo/Fluxo totalmente.
 
