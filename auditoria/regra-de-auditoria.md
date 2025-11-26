@@ -32,7 +32,7 @@ Este processo visa garantir que os documentos obrigatórios sejam registrados co
 <mark style="color:orange;">O processo de auditoria não se limita exclusivamente aos documentos de funcionários, ele é aplicável a todos os tipos documentais que possuem critérios para verificação de sua existência no acervo.</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Cliente:** É apresentado o nome do cliente conforme usuário logado ou conforme selecionado pela Unidade na lista de clientes com o serviço de auditoria ativo em contrato.
 
@@ -128,7 +128,7 @@ Somente **Lista** do tipo **Consolidação** podem ser utilizadas para aplicaç�
 
 **Iniciar a contagem dos intervalos a partir do campo:** Este campo apresenta uma lista onde deve ser selecionada qual data a aplicação deve considerar para a aplicação da regra.
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Selecionando a primeira opção, a regra irá considerar campos do tipo Data existentes na lista, como por exemplo: Quero verificar todos os documentos faltantes entre a data de admissão e demissão. Essas duas datas estão na lista, então a aplicação irá buscá-las para consolidação da regra.
 
@@ -142,33 +142,33 @@ Abaixo alguns exemplos de como pode ser feita a parametrização.
 
 Ao definir por mensal + dia, informe o dia e a quantos meses a regra deve ser consolidada.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Neste caso estamos dizendo que a regra será consolidada mensalmente no 10º dia de cada mês.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Já neste caso estamos dizendo que a regra será consolidada no 5º dia a cada dois meses.
 
 &#x20;Ao definir por mensal + No (a), temos o seguinte:
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Neste caso a regra será consolidada na primeira segunda-feira de cada mês.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Já no segundo caso, a regra será consolidada na segunda segunda-feira a cada dois meses.
 
 Ao definir por Anual + Em, temos:
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Neste caso a regra será consolidada anualmente sempre no primeiro dia de junho.
 
 Ao definir por Anual + No (a), temos:
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Neste caso a regra será consolidada anualmente na primeira segunda-feira do mês de agosto.
 
@@ -176,7 +176,7 @@ Concluído o preenchimento da tela, clique “Salvar” para seguir.
 
 Ao retornar na tela inicial, temos a regra criada, vamos ao detalhamento dos dados apresentados:
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Ao clicar na regra, os demais ícones da parte superior da tela são habilitados, quando antes da regra apenas o ícone “adicionar” aparecia habilitado.
 
@@ -190,7 +190,7 @@ Ao clicar na regra, os demais ícones da parte superior da tela são habilitados
 
 Ainda na tela inicial temos também as informações apresentadas em colunas:
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 As colunas,
 

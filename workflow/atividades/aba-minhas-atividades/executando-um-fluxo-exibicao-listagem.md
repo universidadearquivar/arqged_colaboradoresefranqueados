@@ -6,7 +6,7 @@ No modo de exibição 'Listagem', os fluxos sob responsabilidade do usuário log
 
 Esse modo de visualização pode ser definido como padrão no perfil do usuário, garantindo que, ao acessar a aplicação, a tela de Minhas Atividades seja sempre apresentada nessa configuração.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 A tela será exibida conforme a imagem acima, apresentando as seguintes informações:
 
@@ -14,23 +14,23 @@ A tela será exibida conforme a imagem acima, apresentando as seguintes informa�
 
 É possível realizar a busca de tarefas utilizando a barra de filtro, que faz a busca de tarefas do usuário utilizando palavras-chave.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 #### Botão Ativar Novo Fluxo
 
 Botão para a ativação de novos fluxos.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 #### Gráfico
 
 No topo da tela será exibido um gráfico que permite ao usuário visualizar quantos fluxos estão em atraso, com base no total de fluxos sob sua responsabilidade para execução.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 #### Detalhamento das Colunas
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Coluna Nº:** Exibe o número/código do fluxo ou número do processo.
 
@@ -71,4 +71,69 @@ No topo da tela será exibido um gráfico que permite ao usuário visualizar qua
 ***
 
 ### Executando o Fluxo
+
+Para executar uma tarefa no modo 'Listagem' das atividades, basta clicar no botão **"Abrir"** correspondente a cada processo/fluxo.
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Ou, na coluna **Detalhes**, clicar no ícone correspondente a cada processo/fluxo e, em seguida, acionar o botão **"Abrir"** na tela.:
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Ao abrir o fluxo, será exibida a seguinte tela:
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+1. **Título:** Exibe o nome do Fluxo.
+2. **Fechar:** Apenas fecha a tela, retornando para a tela inicial com a lista de atividades pendentes.
+3. **Outras ações:** Exibe uma lista de outros caminhos possíveis no fluxo, tais como:
+
+• **Delegar Tarefa:** Permite o envio da Tarefa para outro usuário apenas para conhecimento da demanda ou delegando totalmente.
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+• **Cancelar Fluxo:** Permite cancelar a execução do Processo/Fluxo totalmente.
+
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+• **Visualizar Fluxograma:** Permite que o usuário visualize o Desenho do Processo/Fluxo.
+
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+4. **Botões de Avanço:** Exibe para o usuário os caminhos disponíveis para tratamento do fluxo.
+
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+{% hint style="success" %}
+<mark style="color:green;">No lado direito dos títulos de cada área há um botão "v" para expandir ou ocultar as informações de uma área específica. Porém, o usuário não precisa clicar exatamente neste botão: toda a linha do título possui a mesma funcionalidade. Basta posicionar o mouse sobre a linha do título e clicar para expandir ou ocultar as informações da área.</mark>
+{% endhint %}
+
+5. **Dados Gerais do Processo:** Exibe as informações do processo de trabalho, incluindo Ação da tarefa anterior e responsável.
+6. **Dados da Tarefa Atual:** Exibe as informações da etapa atual.
+7. **Instrução para tarefa:** Exibe as orientações para execução da tarefa atual, quando se aplica.
+8. **Legenda das Cores:** Exibe a classificação de cores para ações, sendo ações obrigatórias pendentes (vermelho), ações concluídas (verde) e ações opcionais (azul).
+
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+{% hint style="success" %}
+<mark style="color:green;">No lado direito dos títulos de cada área há um botão "v" para expandir ou ocultar as informações de uma área específica. Porém, o usuário não precisa clicar exatamente neste botão: toda a linha do título possui a mesma funcionalidade. Basta posicionar o mouse sobre a linha do título e clicar para expandir ou ocultar as informações da área.</mark>
+{% endhint %}
+
+9\. **Áreas:** São exibidas as áreas configuradas para o processo no desenho do fluxo, considerando obrigatoriedades e a definição da ordem em que elas devem ser exibidas para o usuário.
+
+{% hint style="warning" %}
+O nome exibido para a Área, é o nome definido pelo usuário no momento da configuração do layout na tarefa.
+{% endhint %}
+
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Ao posicionar o mouse sobre o ícone de "Ação obrigatória pendente" em cada área, é exibida a lista de pendências que deve ser executada pelo usuário, além dos botões de avanço para cada obrigatoriedade.
+
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Comentários:** As mensagens são exibidas em formato de chat, o que proporciona melhor visualização e exibição das mensagens incluídas pelos responsáveis de cada etapa.
+
+**Processo ArqSIGN:** Sempre que o usuário abrir a tarefa para execução, essa área será exibida automaticamente aberta, facilitando o acompanhamento das assinaturas dos destinatários.
+
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 

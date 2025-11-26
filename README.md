@@ -139,7 +139,7 @@ O fluxo de configuração via Login conforme descrito, somente será exibido aos
 
 Todos os usuários do ArqGED, exceto os que utilizam SSO para autenticar, poderão acessar as configurações de MFA, pelo menu abaixo:
 
-<figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ao acessar a tela de “MFA – Autenticação Multifator”, serão exibidas as duas opções de configuração: Aplicativo Autenticador e Email.
 
@@ -189,7 +189,7 @@ Neste caso, a opção de Aplicativo será exibida com pendência de configuraç�
 
 Após autenticar no ArqGED, o usuário poderá acessar o menu **“MFA – Autenticação Multifator”**, conforme tela abaixo:
 
-<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 A aplicação irá exibir as duas opções disponíveis, conforme tela abaixo:
 
