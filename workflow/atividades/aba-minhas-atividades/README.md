@@ -12,17 +12,33 @@ A aba Minhas Atividades funciona como uma “caixa de entrada” na qual o usuá
 
 A alternância desse botão permite exibir as tarefas ativas (que já iniciaram) ou agendadas (com data futura para início) que são de responsabilidade de execução do usuário. Por padrão do sistema, ao acessar a tela, são exibidos os dados "Ativos".
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 #### **Botão Dados/Listagem**
 
 A alternância desse botão permite alterar a visualização dos fluxos para o usuário. Quando selecionada a opção "Dados", são exibidos na tela os fluxos de responsabilidade do usuário logado considerando um resumo do fluxo, além de exibir também os ícones da etapa e as orientações de pendências. Essa é a forma de visualização padrão do sistema, quando não existe uma configuração de exibição para o perfil do usuário.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Quando selecionada a opção "Listagem", são exibidos na tela os fluxos de responsabilidade do usuário logado de forma simplificada em uma listagem com as informações mais importantes do fluxo.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+#### **Barra de Filtro**
+
+É possível realizar a busca de tarefas utilizando a barra de filtro, que faz a busca de tarefas do usuário utilizando palavras-chave.   &#x20;
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+#### **Botão Ativar Novo Fluxo**
+
+Botão para a ativação de novos fluxos.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+#### **Legendas**
+
+Aqui são exibidas as legendas de cores que indicam de forma visual e clara o estado da Ação. Ela marca ações com uma linha vermelha em caso de <mark style="color:red;">"Ação obrigatória Pendente"</mark>, verde em caso de <mark style="color:green;">"Ação concluída"</mark> e azul em caso de <mark style="color:blue;">"Ação opcional"</mark>.
 
 #### **Grupo de informações sobre o fluxo de trabalho e sobre a tarefa**
 
@@ -188,7 +204,7 @@ Ao clicar neste ícone é aberta a tela para realizar o upload do documento/imag
 
 2. **Aba Download em Massa do fluxo:** Opção para baixar todos os documentos do fluxo em uma única ação. são exibidos todos os downloads em massa solicitados durante o fluxo. É mostrada a data de solicitação, o nome do solicitante, o agrupamento realizado, o status e os detalhes. Se o arquivo estiver disponível para download, será exibida uma seta no ícone da coluna Download. Se houver tido algum erro no processamento do arquivo, a seta será exibida no ícone da coluna Log.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ### 6. Formulário
 
@@ -212,7 +228,7 @@ Se tratado de tarefa externa, são exibidos os campos "**Tela cheia**" e "**Divi
 
 Para voltar a dividir a tela com a tarefa, clique no botão "**Dividir Tela**".
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ### 8. Processo ArqSign
 
