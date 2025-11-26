@@ -123,7 +123,7 @@ Todas as tarefas criadas no desenho do fluxo devem ser configuradas individualme
 
 <figure><img src="../../.gitbook/assets/desenho11.png" alt=""><figcaption></figcaption></figure>
 
-#### Aba Anexos
+### Aba Anexos
 
 {% embed url="https://app.supademo.com/demo/cmc0muoh5itqysn1rruxngim6" %}
 
@@ -143,7 +143,7 @@ _<mark style="color:blue;">Registro de Documento:</mark>_ <mark style="color:blu
 
 <figure><img src="../../.gitbook/assets/desenho7.png" alt=""><figcaption></figcaption></figure>
 
-#### Aba Assinaturas
+### Aba Assinaturas
 
 {% embed url="https://app.supademo.com/demo/cmc0r1g9piz6xsn1r4wqlyi30" %}
 
@@ -152,7 +152,7 @@ _<mark style="color:blue;">Registro de Documento:</mark>_ <mark style="color:blu
 
 <figure><img src="../../.gitbook/assets/desenho8.png" alt=""><figcaption></figcaption></figure>
 
-#### Aba Modelo Documento&#x20;
+### Aba Modelo Documento&#x20;
 
 {% embed url="https://app.supademo.com/demo/cmid3r35h00xe170iigwr0sxq?" %}
 
@@ -166,7 +166,7 @@ _<mark style="color:blue;">Registro de Documento:</mark>_ <mark style="color:blu
 
 <figure><img src="../../.gitbook/assets/desenho13.png" alt=""><figcaption></figcaption></figure>
 
-#### Aba Formulário
+### Aba Formulário
 
 {% embed url="https://app.supademo.com/demo/cmid484mo01zk1v0i3fc2dbzz?" %}
 
