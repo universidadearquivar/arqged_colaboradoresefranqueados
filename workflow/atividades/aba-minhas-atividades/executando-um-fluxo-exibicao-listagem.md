@@ -98,7 +98,7 @@ Ao abrir o fluxo, será exibida a seguinte tela:
 
 • **Visualizar Fluxograma:** Permite que o usuário visualize o Desenho do Processo/Fluxo.
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (356).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 4. **Botões de Avanço:** Exibe para o usuário os caminhos disponíveis para tratamento do fluxo.
 
