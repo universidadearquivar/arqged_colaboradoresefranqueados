@@ -34,9 +34,7 @@ A área de trabalho é alterada conforme seleção das opções disponíveis de 
 
 ## Solicitação de Documento <a href="#solicitacao-de-documento" id="solicitacao-de-documento"></a>
 
-{% embed url="https://app.supademo.com/demo/cm8d6qr3a1jc32ugqnqf31qfe" %}
-Clique na legenda e siga o passo a passo.
-{% endembed %}
+{% @supademo/embed demoId="cm8d6qr3a1jc32ugqnqf31qfe" url="https://app.supademo.com/demo/cm8d6qr3a1jc32ugqnqf31qfe" %}
 
 ### Como cancelar uma reserva de documento <a href="#como-cancelar-uma-reserva-de-documento" id="como-cancelar-uma-reserva-de-documento"></a>
 
@@ -64,9 +62,7 @@ Em caso da desistência de todas as reservas, clique no ícone carrinho do lado 
 
 ### Como criar um Pedido de Documento <a href="#como-criar-um-pedido-de-documento" id="como-criar-um-pedido-de-documento"></a>
 
-{% embed url="https://app.supademo.com/demo/cm8daep731os72ugq5flpnh7b" %}
-Clique na legenda e siga o passo a passo.
-{% endembed %}
+{% @supademo/embed %}
 
 Em "Minhas Reservas de Documentos", para cada documento reservado é apresentada uma linha com as principais informações do registro.
 
