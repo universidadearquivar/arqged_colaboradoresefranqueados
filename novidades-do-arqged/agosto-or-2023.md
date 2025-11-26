@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ▫️ Agosto | 2023
 
 <details>
@@ -65,12 +69,12 @@ Foi adicionado o serviço “api/Workflow/EtapaExecucao/{IdWorkflowEtapaExecucao
 
 <img src="../.gitbook/assets/api integracao.png" alt="" data-size="original">
 
-**Request:** [https://integracao.arquivar.com/api/Workflow/EtapaExecucao/{IdWorkflowEtapaExecucao}/Cliente/{idCliente}/\
+**Request:** [https://integracao.arquivar.com/api/Workflow/EtapaExecucao/{IdWorkflowEtapaExecucao}/Cliente/{idCliente}/\
 atualizar-dados-formulario](https://integracao.arquivar.com/api/Workflow/EtapaExecucao/%7BIdWorkflowEtapaExecucao%7D/Cliente/%7BidCliente%7D/atualizar-dados-formulario)
 
-Para atualizar os dados de um formulário no workflow será necessário informar obrigatoriamente o “idCliente”, o “IdWorkflowEtapaExecucao”, o “idWorkflow” ou “codigoWorkflow”.&#x20;
+Para atualizar os dados de um formulário no workflow será necessário informar obrigatoriamente o “idCliente”, o “IdWorkflowEtapaExecucao”, o “idWorkflow” ou “codigoWorkflow”.
 
-Para alterar ou incluir os dados de um formulário, o fluxo em questão deve estar em execução e o IdWorkflowEtapaExecução deve ser a etapa de execução atual do fluxo.&#x20;
+Para alterar ou incluir os dados de um formulário, o fluxo em questão deve estar em execução e o IdWorkflowEtapaExecução deve ser a etapa de execução atual do fluxo.
 
 Para incluir ou alterar qualquer informação de campos de lista, será obrigatório informar o campo chave, o Id da Lista, o Id do Campo e o valor a ser inserido.
 
@@ -80,7 +84,7 @@ Para incluir ou alterar qualquer informação de campos de lista, será obrigat�
 
 Para incluir ou alterar o campo customizado de um formulário, será obrigatório informar apenas o Id do Campo e o valor a ser inserido, o IdLista deve ficar vazio quando for atualização para valor de campo customizado.
 
-**Exemplo:**&#x20;
+**Exemplo:**
 
 <img src="../.gitbook/assets/api integracao 3.png" alt="" data-size="original">
 

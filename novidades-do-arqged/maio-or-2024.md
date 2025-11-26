@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ▫️ Maio | 2024
 
 <details>

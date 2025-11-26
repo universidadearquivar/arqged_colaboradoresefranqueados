@@ -1,10 +1,14 @@
+---
+hidden: true
+---
+
 # ▫️ Abril | 2025
 
 <details>
 
 <summary>17/04 - Autenticação multifator (MFA)</summary>
 
-**MFA**&#x20;
+**MFA**
 
 O "[**Login com MFA**](https://manual.arquivar.com/manual-arqged-or-interno#login-com-mfa-autenticacao-multifator)" refere-se ao acesso por meio de autenticação multifator. A sigla MFA (do inglês _Multifactor Authentication_) representa um método de segurança que exige que o usuário forneça duas ou mais formas de autenticação para acessar uma aplicação.
 
@@ -24,16 +28,16 @@ Esse código é **dinâmico** e muda a cada tentativa de login.
 
 O código pode ser obtido de duas maneiras:
 
-**Via Aplicativo Autenticador**                                                                                                                                                 O usuário pode escolher entre diversos aplicativos gratuitos disponíveis no mercado, como:
+**Via Aplicativo Autenticador** O usuário pode escolher entre diversos aplicativos gratuitos disponíveis no mercado, como:
 
 * Google Authenticator
 * Microsoft Authenticator
 
 Para utilizar essa opção, é necessário instalar o aplicativo escolhido no celular e seguir as instruções de configuração no ArqGED.
 
-**Via E-mail**                                                                                                                                                                                   O código de verificação será enviado para o e-mail cadastrado no usuário. Para utilizar essa opção, é preciso validar previamente o e-mail seguindo o fluxo indicado no ArqGED.
+**Via E-mail** O código de verificação será enviado para o e-mail cadastrado no usuário. Para utilizar essa opção, é preciso validar previamente o e-mail seguindo o fluxo indicado no ArqGED.
 
-&#x20;**Usuários com acesso via SSO**
+**Usuários com acesso via SSO**
 
 Usuários de clientes que utilizam **SSO (Single Sign-On)** para acessar o ArqGED **não utilizarão o MFA do ArqGED**, uma vez que a autenticação com múltiplos fatores estará configurada e gerenciada diretamente pelo SSO do cliente.
 
