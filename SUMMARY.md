@@ -121,7 +121,7 @@
 ## 📣 Novidades do ArqGED
 
 * [▫️ Workflow](novidades-do-arqged/workflow.md)
-* [▫️ Copy of Compartilhamento de Arquivos via API](novidades-do-arqged/copy-of-compartilhamento-de-arquivos-via-api.md)
+* [▫️ Compartilhamento de Arquivos via API](novidades-do-arqged/compartilhamento-de-arquivos-via-api.md)
 * [▫️ Integração ArqSign](novidades-do-arqged/maio-or-2025.md)
 * [▫️ Abril | 2025](novidades-do-arqged/abril-or-2025.md)
 * [▫️ Julho | 2024](novidades-do-arqged/julho-or-2024.md)
