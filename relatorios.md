@@ -14,7 +14,7 @@ Clique na legenda e siga o passo a passo.
 * <mark style="color:red;">O nome do filtro (quando necessário)</mark>
 * <mark style="color:red;">Modelo preenchido com dados reais para validação (somente uma linha preenchida).</mark>
 
-<mark style="color:red;">Essas informações ajudarão no</mark> <mark style="color:red;">**levantamento do custo para construção do relatório,**</mark> <mark style="color:red;">quando aplicável e na correta elaboração e entrega.</mark>
+<mark style="color:red;">Essas informações ajudarão no</mark> <mark style="color:red;"></mark><mark style="color:red;">**levantamento do custo para construção do relatório,**</mark> <mark style="color:red;"></mark><mark style="color:red;">quando aplicável e na correta elaboração e entrega.</mark>
 {% endhint %}
 
 **Relatórios:** **Permissões de Visualização e Edição por Grupo**
@@ -27,15 +27,15 @@ Ao criar um relatório, é possível restringir o acesso apenas aos usuários qu
 * **Usuário 01:** possui permissão para **visualizar relatórios**, mas **não pode visualizar os grupos**.
 * **Usuário 02:** possui permissão para **visualizar os grupos**, mas **não pode visualizar os relatórios**.
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-Tanto clientes quanto unidades podem consultar esses relatórios, que ficam agrupados por módulo.
+Tanto clientes quanto unidades podem consultar esses relatórios, que ficam agrupados por módulo.&#x20;
 
 **Empresa:** Selecione neste campo a Unidade ou Cliente que deseja visualizar os relatórios disponíveis, dependendo do perfil do usuário logado, o campo é apresentado previamente preenchido.
 
 Os relatórios são exibidos na tela separados por grupos, considerando o assunto/tema do relatório.
 
-Ao clicar em um grupo de relatórios, são exibidos todos os relatórios construídos e o usuário tem a opção de fazer o download do último relatório gerado ou de gerar um novo relatório.
+Ao clicar em um grupo de relatórios, são exibidos todos os relatórios construídos e o usuário tem a opção de fazer o download do último relatório gerado ou de gerar um novo relatório.   &#x20;
 
 <figure><img src=".gitbook/assets/image (198).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
