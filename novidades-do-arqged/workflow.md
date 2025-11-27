@@ -16,7 +16,7 @@ A tela de Atividades agora conta com a opção de visualização dos fluxos em m
 
 <summary>02/12 - Configuração de Layout de Tarefa Interna</summary>
 
-Durante a configuração da etapa, agora é possível definir com mais detalhes quais áreas devem ser visíveis e/ou obrigatórias para o usuário durante a execução do fluxo. Isso torna o processo mais limpo, fluido e reduz a quantidade de cliques necessários.
+Durante [a configuração da etapa](../workflow/desenho-do-fluxo/aba-fluxograma.md#aba-layout-tarefa-interna), agora é possível definir com mais detalhes quais áreas devem ser visíveis e/ou obrigatórias para o usuário durante a execução do fluxo. Isso torna o processo mais limpo, fluido e reduz a quantidade de cliques necessários.
 
 </details>
 
