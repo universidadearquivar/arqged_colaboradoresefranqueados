@@ -24,6 +24,6 @@ Durante [a configuração da etapa](../workflow/desenho-do-fluxo/aba-fluxograma.
 
 <summary>02/12 - Permissão de Visualização padrão da Tela de Atividades</summary>
 
-Agora é possível definir, nas permissões do usuário, se a exibição padrão da Tela de Atividades deve ser em "Listagem" ou "Dados", clique para mais detalhes.
+Agora é possível definir, nas permissões do usuário, se a exibição padrão da Tela de Atividades deve ser em "Listagem" ou "Dados", [clique para mais detalhes.](../administracao/usuarios.md#aba-perfil)
 
 </details>
