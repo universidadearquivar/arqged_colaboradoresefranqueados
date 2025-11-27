@@ -182,7 +182,7 @@ Dentro do arquivo interno, o chefe imediato também poderá cancelar reservas re
 
 ### Aba Perfil
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (360).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Nesta aba temos configurações voltadas para o layout do sistema que será apresentado ao usuário.
 
