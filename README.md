@@ -6,7 +6,9 @@ Bem-vindo(a) ao guia do sistema ArqGED da Arquivar!
 
 O software ArqGED é um BPM (Business Process Management), desenvolvido pela Arquivar que **possibilita a gestão de processos, a digitalização, o gerenciamento e o armazenamento de documentos** importantes em um ambiente virtual seguro, acessível apenas por usuários autorizados.
 
-Neste guia você encontrará diversos conteúdos que te ajudarão a utilizar nossa ferramenta da melhor forma. Utilize a navegação à esquerda para conhecer as funcionalidades de cada menu do software ArqGED.
+Neste guia  você encontrará diversos conteúdos que te ajudarão a utilizar nossa ferramenta da melhor forma. Utilize a navegação à esquerda para conhecer as funcionalidades de cada menu do software ArqGED.
+
+
 
 ***
 
@@ -30,26 +32,26 @@ Esse código é **dinâmico** e muda a cada tentativa de login.
 
 O código pode ser obtido de duas maneiras:
 
-**Via Aplicativo Autenticador** O usuário pode escolher entre diversos aplicativos gratuitos disponíveis no mercado, como:
+**Via Aplicativo Autenticador**                                                                                                                                                 O usuário pode escolher entre diversos aplicativos gratuitos disponíveis no mercado, como:
 
 * Google Authenticator
 * Microsoft Authenticator
 
 Para utilizar essa opção, é necessário instalar o aplicativo escolhido no celular e seguir as instruções de configuração no ArqGED.
 
-**Via E-mail** O código de verificação será enviado para o e-mail cadastrado no usuário. Para utilizar essa opção, é preciso validar previamente o e-mail seguindo o fluxo indicado no ArqGED.
+**Via E-mail**                                                                                                                                                                                   O código de verificação será enviado para o e-mail cadastrado no usuário. Para utilizar essa opção, é preciso validar previamente o e-mail seguindo o fluxo indicado no ArqGED.
 
 **Recomendação importante**
 
 É altamente recomendável que o usuário **configure as duas opções de MFA** (Aplicativo Autenticador e E-mail). Dessa forma, caso esteja sem acesso ao celular, poderá utilizar o e-mail para receber o código — e vice-versa.
 
-**Usuários com acesso via SSO**
+&#x20;**Usuários com acesso via SSO**
 
 Usuários de clientes que utilizam **SSO (Single Sign-On)** para acessar o ArqGED **não utilizarão o MFA do ArqGED**, uma vez que a autenticação com múltiplos fatores estará configurada e gerenciada diretamente pelo SSO do cliente.
 
 ### Impor Autenticação MFA
 
-A autenticação MFA será **obrigatória para todos os usuários de Unidade.** Dessa forma, ao acessarem o ArqGED pela primeira vez após a publicação dessa funcionalidade, esses usuários serão direcionados automaticamente para o fluxo de configuração do MFA. Será necessário configurar **pelo menos uma opção de autenticação** antes de terem acesso completo ao ArqGED.
+A autenticação MFA será **obrigatória para todos os usuários de Unidade.**&#x20;Dessa forma, ao acessarem o ArqGED pela primeira vez após a publicação dessa funcionalidade, esses usuários serão direcionados automaticamente para o fluxo de configuração do MFA. Será necessário configurar **pelo menos uma opção de autenticação** antes de terem acesso completo ao ArqGED.
 
 Para os **usuários do Cliente**, o uso do MFA será **opcional por padrão**.
 
@@ -70,7 +72,7 @@ Ao clicar no botão **“Entrar”**, o sistema redirecionará automaticamente p
 
 **b)** Nesta tela será exibido:
 
-* O nome do usuário autenticado.
+* &#x20;O nome do usuário autenticado.
 * A informação de que o MFA foi imposto pela organização.
 * Os passos necessários para configurar a autenticação via aplicativo ou e-mail.
 
@@ -95,7 +97,7 @@ Enquanto o usuário não possuir nenhuma configuração, como primeiro passo, o 
 <figure><img src=".gitbook/assets/image (204).png" alt="" width="479"><figcaption></figcaption></figure>
 
 * Com o código de verificação inserido no campo conforme a imagem, deve-se clicar no botão **“Avançar”**. Neste momento o usuário será direcionado para a tela com a mensagem sucesso.
-* Quando o usuário terminar de configurar o “Aplicativo Autenticador” e ainda faltar a configuração do “E-mail”, a tela além de exibir a mensagem de sucesso, exibira os botões “Entrar no ArqGED” ou “Configurar Outra Opção”.
+* Quando o usuário terminar de configurar o “Aplicativo Autenticador” e ainda faltar a configuração do “E-mail”, a tela além de exibir a mensagem de sucesso, exibira os botões “Entrar no ArqGED” ou “Configurar Outra Opção”. &#x20;
 
 <figure><img src=".gitbook/assets/image (205).png" alt="" width="447"><figcaption></figcaption></figure>
 
@@ -119,7 +121,7 @@ Se o usuário escolher “Configurar outra opção”, ele entrará no fluxo de 
 <figure><img src=".gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
 
 * Com o código de verificação inserido no campo conforme a imagem, ao clicar no botão “Avançar”, o usuário será direcionado para a tela com a mensagem sucesso.
-* Quando o usuário terminar de configurar o “E-mail” e ainda faltar a configuração do “Aplicativo Autenticador”, a tela além de exibir a mensagem de sucesso, exibira os botões “Entrar no ArqGED” ou “Configurar Outra Opção”.
+* Quando o usuário terminar de configurar o “E-mail” e ainda faltar a configuração do “Aplicativo Autenticador”, a tela além de exibir a mensagem de sucesso, exibira os botões “Entrar no ArqGED” ou “Configurar Outra Opção”. &#x20;
 * Se o usuário escolher “Configurar outra opção”, ele entrará no fluxo de configuração do Aplicativo Autenticador. Se ele escolher “Entrar no ArqGED”, ele será autenticado na aplicação, mas em seu próximo login, será lembrado de configurar o Aplicativo Autenticador.
 
 <figure><img src=".gitbook/assets/image (210).png" alt="" width="490"><figcaption></figcaption></figure>
@@ -137,7 +139,7 @@ O fluxo de configuração via Login conforme descrito, somente será exibido aos
 
 Todos os usuários do ArqGED, exceto os que utilizam SSO para autenticar, poderão acessar as configurações de MFA, pelo menu abaixo:
 
-<figure><img src=".gitbook/assets/image (5) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ao acessar a tela de “MFA – Autenticação Multifator”, serão exibidas as duas opções de configuração: Aplicativo Autenticador e Email.
 
@@ -162,7 +164,7 @@ A escolha da opção padrão, deve ser feita pelo link “Definir como padrão�
 {% hint style="warning" %}
 <mark style="color:orange;">**Nota:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Observe que na configuração de</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**“Aplicativo Autenticador”**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">existe a opção</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**“Excluir”**</mark><mark style="color:orange;">. O usuário deve usar este recurso quando quiser trocar de celular ou resetar o acesso pelo aplicativo, então primeiro ele deve</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**“Excluir”**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">a configuração anterior no ArqGED, e seguir novamente os passos de configuração no novo celular.</mark>
 
-<mark style="color:orange;">Observe também que para o e-mail não existe a opção de excluir, mas sempre que</mark>[ <mark style="color:orange;">o e-mail do usuário</mark> ](administracao/usuarios.md#aba-usuario)<mark style="color:orange;">for alterado, caso ele esteja sendo usado como opção de MFA, a sua configuração será excluída e o usuário precisará passar pelo processo de validação do e-mail novamente antes de usar este novo e-mail como opção de MFA.</mark>
+<mark style="color:orange;">Observe também que para o e-mail não existe a opção de excluir, mas sempre que o</mark> [<mark style="color:orange;">e-mail do usuário</mark>](administracao/usuarios.md#aba-usuario) <mark style="color:orange;">for alterado, caso ele esteja sendo usado como opção de MFA, a sua configuração será excluída e o usuário precisará passar pelo processo de validação do e-mail novamente antes de usar este novo e-mail como opção de MFA.</mark>
 {% endhint %}
 
 **c) Quando somente aplicativo configurado:**
@@ -181,7 +183,7 @@ Quando o usuário possuir somente o **“E-mail”** configurado, esta será a s
 
 Neste caso, a opção de Aplicativo será exibida com pendência de configuração, e um botão **“Configurar”** estará disponível para o usuário concluir este processo.
 
-<figure><img src=".gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
 
 **Nota:** Observe que para o e-mail não existe a opção de excluir, mas sempre que o e-mail do usuário for alterado, caso ele esteja sendo usado como opção de MFA, a sua configuração será excluída e o usuário precisará passar pelo processo de validação do e-mail novamente antes de usar este novo e-mail como opção de MFA.
 
@@ -189,7 +191,7 @@ Neste caso, a opção de Aplicativo será exibida com pendência de configuraç�
 
 Após autenticar no ArqGED, o usuário poderá acessar o menu **“MFA – Autenticação Multifator”**, conforme tela abaixo:
 
-<figure><img src=".gitbook/assets/image (5) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 A aplicação irá exibir as duas opções disponíveis, conforme tela abaixo:
 
@@ -233,11 +235,11 @@ Mesmo para os usuários com o uso de MFA obrigatório, ele poderá configurar so
 
 <figure><img src=".gitbook/assets/image (227).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (228) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (229).png" alt=""><figcaption></figcaption></figure>
 
 Vimos também que um usuário de Cliente que não possui a configuração imposta, poderá optar por usar o MFA, fazendo a configuração do mesmo não no fluxo de login, mas dentro do ArqGED. E neste caso também será permitido configurar somente uma opção deixando a outra para configurar mais tarde.
 
-Desta forma, sempre que o usuário possuir somente uma opção de MFA configurada, assim que ele informar seu usuário, senha, captcha e clicar para **“Entrar”** na tela de login, ele será direcionado para uma das duas telas abaixo:
+&#x20;Desta forma, sempre que o usuário possuir somente uma opção de MFA configurada, assim que ele informar seu usuário, senha, captcha e clicar para **“Entrar”** na tela de login, ele será direcionado para uma das duas telas abaixo:
 
 <figure><img src=".gitbook/assets/image (230).png" alt="" width="386"><figcaption></figcaption></figure>
 
@@ -261,7 +263,7 @@ Quando o usuário já estiver com as duas opções de MFA configurada, o fluxo d
 
 **a)** Na tela inicial, o usuário deve inserir seu **nome de usuário, senha, captcha e clicar no botão “Entrar”**, conforme ilustrado abaixo:
 
-<figure><img src=".gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (234).png" alt=""><figcaption></figcaption></figure>
 
 **b)** Assim que o usuário clicar no botão **“Entrar”**, a aplicação seguirá para a tela onde se informa o código MFA. Se a opção padrão do usuário for o **“Aplicativo Autenticador”** então será exibida a tela abaixo:
 
@@ -289,7 +291,7 @@ Observe que quando o usuário possuir as duas configurações de MFA, mesmo exib
 
 O código desta mensagem deve ser inserido na tela abaixo:
 
-<figure><img src=".gitbook/assets/image (236) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (241).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Importante: Uma vez autenticado com o uso do MFA com sucesso, a aplicação irá solicitar novamente o MFA naquele dia somente se:**</mark>
@@ -317,7 +319,7 @@ Tela inicial do aplicativo. Não há necessidade de realizar login para utiliza�
 
 Clicar no botão **“Adicionar um código”** irá exibir uma tela para leitura do QrCorde ou a inserção da chave.
 
-Utilizar a opção **“Ler QR code”** irá abrir a câmera do celular, que deve ser direcionada para o código na tela do ArqGED.
+&#x20;Utilizar a opção **“Ler QR code”** irá abrir a câmera do celular, que deve ser direcionada para o código na tela do ArqGED.
 
 <div align="left"><figure><img src=".gitbook/assets/image (248).png" alt="" width="208"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/image (249).png" alt="" width="201"><figcaption></figcaption></figure></div>
 
