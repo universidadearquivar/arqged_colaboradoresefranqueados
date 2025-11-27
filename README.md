@@ -159,9 +159,11 @@ A escolha da opção padrão, deve ser feita pelo link “Definir como padrão�
 
 <figure><img src=".gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
 
-**Nota:** Observe que na configuração de **“Aplicativo Autenticador”** existe a opção **“Excluir”**. O usuário deve usar este recurso quando quiser trocar de celular, então primeiro ele deve **“Excluir”** a configuração anterior no ArqGED, e seguir novamente os passos de configuração no novo celular.
+{% hint style="warning" %}
+<mark style="color:orange;">**Nota:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Observe que na configuração de</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**“Aplicativo Autenticador”**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">existe a opção</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**“Excluir”**</mark><mark style="color:orange;">. O usuário deve usar este recurso quando quiser trocar de celular ou resetar o acesso pelo aplicativo, então primeiro ele deve</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**“Excluir”**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">a configuração anterior no ArqGED, e seguir novamente os passos de configuração no novo celular.</mark>
 
-Observe também que para o e-mail não existe a opção de excluir, mas sempre que o e-mail do usuário for alterado, caso ele esteja sendo usado como opção de MFA, a sua configuração será excluída e o usuário precisará passar pelo processo de validação do e-mail novamente antes de usar este novo e-mail como opção de MFA.
+<mark style="color:orange;">Observe também que para o e-mail não existe a opção de excluir, mas sempre que o e-mail do usuário for alterado, caso ele esteja sendo usado como opção de MFA, a sua configuração será excluída e o usuário precisará passar pelo processo de validação do e-mail novamente antes de usar este novo e-mail como opção de MFA.</mark>
+{% endhint %}
 
 **c) Quando somente aplicativo configurado:**
 
