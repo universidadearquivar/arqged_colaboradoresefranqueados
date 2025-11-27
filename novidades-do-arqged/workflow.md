@@ -8,7 +8,7 @@ description: Dezembro/2025
 
 <summary>02/12 - Nova Tela de Atividades Workflow</summary>
 
-A tela de Atividades agora conta com a opção de visualização dos fluxos em modo "Listagem", permitindo que as informações sejam exibidas de forma mais simples e organizada para o usuário logado, [clique para mais detalhes](../workflow/atividades/aba-minhas-atividades/#botao-dados-listagem).
+A tela de Atividades agora conta com a opção de visualização dos fluxos em modo "Listagem", permitindo que as informações sejam exibidas de forma mais simples e organizada para o usuário logado, [clique para mais detalhes](../workflow/atividades/aba-minhas-atividades/executando-um-fluxo-exibicao-listagem.md).
 
 </details>
 
