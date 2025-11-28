@@ -91,16 +91,16 @@ Sistema não exibe o botão Alterar Forma de Pagamento quando a assinatura da co
 
 O campo de Renovação Automática é exibido somente para conta com assinatura vigente de um plano pago.
 
-* Quando marcado, significa que a conta possui renovação automática da assinatura do plano.
-* Quando desmarcado, significa que a conta não possui renovação automática da assinatura do plano.
+* Quando **marcado**, significa que a conta possui renovação automática da assinatura do plano.
+* Quando **desmarcado**, significa que a conta não possui renovação automática da assinatura do plano.
 
 <figure><img src="../../.gitbook/assets/14.png" alt=""><figcaption></figcaption></figure>
 
-#### **2.2.1. Assinatura em período TRIAL**
+### **2.2.1. Assinatura em período TRIAL**
 
 * Ao desmarcar este campo o sistema exibe mensagem de confirmação para remover a renovação automática.
 
-<figure><img src="../../.gitbook/assets/15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (553).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 #### **2.2.2. Assinatura sem período TRIAL**
 
