@@ -196,13 +196,13 @@ Abaixo o detalhamento da tela:
 **Compra com status&#x20;**<mark style="color:red;">**Cancelado**</mark>
 
 * Compra com dado de **pagamento não regerado** e **não tiver excedido o limite** de dias permitido para regerar, exibe o link "**Regerar Pagamento**". Ao clicar neste link, o sistema regera os dados de pagamento e apresenta a mensagem "**Link de pagamento regerado com sucesso**."
+* Compra que não permite regerar o pagamento
 
-**Compra que não permite regerar o pagamento**
+**Se compra regerada:** apresenta o ícone informativo com a mensagem no _tooltip_ "Este pagamento já foi regerado."
 
-* Se compra regerada: apresenta o ícone informativo com a mensagem no tooltip "Este pagamento já foi regerado.".
-* Se compra não atender ao critério do prazo de dias para regerar: apresentar o ícone informativo com a mensagem no tooltip "Este pagamento não pode ser regerado, realize a compra novamente.".
+**Se compra não atender ao critério do prazo de dias para regerar:** apresentar o ícone informativo com a mensagem no _tooltip_ "Este pagamento não pode ser regerado, realize a compra novamente.".
 
-Ao clicar em “**Detalhes do plano**” é apresentada a descrição e quantidade detalhada dos itens que compõem o plano, os valores de créditos e valores excedentes (quando adquiridos) e a data de validade de cada um dos itens.
+Ao clicar em “**Detalhes do plano**” é exibido o detalhamento dos itens que compõem o plano, os valores de créditos e valores excedentes (quando adquiridos) e a data de validade de cada um dos itens.
 
 <figure><img src="../../.gitbook/assets/conta09.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
