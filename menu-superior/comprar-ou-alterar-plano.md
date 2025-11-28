@@ -6,7 +6,9 @@ O botão “Comprar Agora” será exibido para usuários da Conta teste grátis
 
 O botão “Alterar Plano” será exibido para usuários com assinatura de plano pago com data de vencimento próxima (30 dias antes da expiração de planos anuais e 10 dias antes da expiração de planos mensais).&#x20;
 
-1\. Para comprar um plano ou alterar o seu plano clique em “Comprar Agora” ou “Alterar plano”. Selecione o plano ideal para o seu negócio, preencha os dados para pagamento e clique em “Finalizar a compra”.
+## 1. Compra ou alteração de Plano
+
+Para comprar um plano ou alterar o seu plano clique em “Comprar Agora” ou “Alterar plano”. Selecione o plano ideal para o seu negócio, preencha os dados para pagamento e clique em “Finalizar a compra”.
 
 <figure><img src="../.gitbook/assets/image (491).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -18,13 +20,11 @@ O botão “Alterar Plano” será exibido para usuários com assinatura de plan
 
 <figure><img src="../.gitbook/assets/image (493).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-1.1. Compra do plano com pagamento por PIX, boleto ou cartão de crédito
+### 1.1. Compra com pagamento por PIX, boleto ou cartão de crédito
 
 Depois de passar pelo passo a passo de compra ou alteração de plano, o usuário será direcionado para a escolha da forma de pagamento.
 
 <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
-
 
 {% hint style="warning" %}
 <mark style="color:orange;">As opções de pagamento por PIX ou BOLETO não possuem a função de parcelamento da compra, esta opção está disponível somente para pagamentos realizados com CARTÃO DE CRÉDITO.</mark>
@@ -50,19 +50,19 @@ Caso o usuário não faça o pagamento, ele recebe a seguinte notificação de c
 <p align="center"><img src="../.gitbook/assets/image (549).png" alt=""></p>
 {% endhint %}
 
-1.2. Plano com período TRIAL
+### 1.2. Plano com período TRIAL
 
 Na tela que seleciona a forma de pagamento, o usuário tem a possibilidade de inserir um cupom que transforma o plano selecionado em um plano com período TRIAL. Dessa forma, ao escolher pagamento por PIX ou boleto, eles são gerados somente ao final do período TRIAL. O usuário recebe um alerta por e-mail o lembrando do término do período TRIAL e enviando o código PIX ou boleto para pagamento.&#x20;
 
-2\. Ao realizar a compra ou alteração de um plano, o sistema verificará se o e-mail informado durante a compra tem vínculo com alguma conta grátis.
+Ao realizar a compra ou alteração de um plano, o sistema verificará se o e-mail informado durante a compra tem vínculo com alguma conta grátis.
 
 Caso não tenha, uma conta será criada e será enviado ao usuário uma notificação para que ele ative sua conta.
 
 <figure><img src="../.gitbook/assets/compra6.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-3\. Caso seja verificado que o e-mail informado durante a compra tem vínculo com alguma conta grátis, serão apresentadas ao usuário duas opções de ação: 1) Migrar a conta de teste grátis para a conta paga ou 2) Criar uma nova conta para o plano adquirido.
+Caso seja verificado que o e-mail informado durante a compra tem vínculo com alguma conta grátis, serão apresentadas ao usuário duas opções de ação: 1) Migrar a conta de teste grátis para a conta paga ou 2) Criar uma nova conta para o plano adquirido.
 
-3.1. Usuário logado na plataforma ArqSIGN, com as devidas permissões, ao clicar no botão Comprar Agora ou Alterar Plano é direcionado para a tela de adicionais do e-commerce, conforme assinatura e plano atual da conta.
+Usuário logado na plataforma ArqSIGN, com as devidas permissões, ao clicar no botão Comprar Agora ou Alterar Plano é direcionado para a tela de adicionais do e-commerce, conforme assinatura e plano atual da conta.
 
 <figure><img src="../.gitbook/assets/6.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -83,9 +83,9 @@ Caso não tenha, uma conta será criada e será enviado ao usuário uma notifica
 
 <figure><img src="../.gitbook/assets/9.png" alt=""><figcaption><p>Todos os dados inseridos são dados de teste</p></figcaption></figure>
 
-4\. Após a conclusão da mudança de plano, se a conta for compartilhada com outros usuários, todos os usuários com perfil de administrador global da conta receberão uma notificação por e-mail sobre a alteração ou renovação do plano.&#x20;
+Após a conclusão da mudança de plano, se a conta for compartilhada com outros usuários, todos os usuários com perfil de administrador global da conta receberão uma notificação por e-mail sobre a alteração ou renovação do plano.&#x20;
 
-5\. Renovaoção de assinatura por PIX ou boleto
+Renovaoção de assinatura por PIX ou boleto
 
 O sistema busca as contas com status ativo que possuem renovação automática, cujo a assinatura com forma de pagamento por PIX ou Boleto que esteja com período final menor ou igual a data atual.
 
