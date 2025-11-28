@@ -83,6 +83,8 @@ O botão Alterar Cartão é exibido somente se a conta possuir a forma de pagame
 
 Ao acionar este botão, o sistema envia o link de alteração do cartão para o usuário.
 
+<figure><img src="../../.gitbook/assets/image (555).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
 #### 2.1.2. Assinatura vencida
 
 Sistema não exibe o botão Alterar Forma de Pagamento quando a assinatura da conta está vencida.
