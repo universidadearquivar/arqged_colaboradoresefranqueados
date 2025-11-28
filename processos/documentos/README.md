@@ -1,0 +1,206 @@
+# 📁 Pastas
+
+No menu Pastas ficam armazenados todos os documentos dos processos da conta do usuário que já foram concluídos, ou seja, foram enviados pelo usuário ou por algum dos membros que fazem parte da conta e já foram assinados por todos os signatários envolvidos no processo de assinatura. Neste menu é possível realizar o gerenciamento da armazenagem desses documentos.&#x20;
+
+Ao clicar no menu é exibida a pasta raiz do diretório, na qual todos os documentos da conta serão hospedados.
+
+<figure><img src="../../.gitbook/assets/image (524).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+## Pasta Raiz de Diretórios&#x20;
+
+A pasta raiz é criada automaticamente no momento da criação da conta do usuário e por padrão será nomeada com o mesmo nome da conta. Para renomeá-la, clique em “Renomear” na coluna “Ações”. &#x20;
+
+<figure><img src="../../.gitbook/assets/documentos2.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+### Acesso à pasta raiz de Diretórios&#x20;
+
+O acesso à pasta raiz do diretório é concedido a usuários que tenham sido designados como administradores globais no menu [Administração > Usuários](../../administracao/administracao/usuarios.md). O acesso a outros usuários com perfil de remetente de processos deve ser feito por grupo, ou seja, é preciso criar um [Grupo de Usuários](../../administracao/administracao/grupo-de-usuarios.md) e conceder o acesso ao grupo. Para isso, na coluna “Ações” clique em “Editar Permissões”. &#x20;
+
+{% hint style="info" %}
+<mark style="color:blue;">**ADMINISTRADOR GLOBAL X REMETENTE DE PROCESSOS**</mark>
+
+<mark style="color:blue;">O</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**administrador globa**</mark><mark style="color:blue;">l, além de ter todas as permissões de um administrador de diretório, possui permissão de acesso a todas as funcionalidades da plataforma, inclusive gestão de usuários. É ele quem define quem serão os administradores de diretórios da conta. Geralmente o administrador global é o proprietário da conta e aqueles usuários que ele designar que poderão ter acesso total.</mark>
+
+<mark style="color:blue;">O</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**remetente de processos**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">é um usuário sem permissão de acesso às funcionalidades de gestão da plataforma.</mark>
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/documentos2.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+{% embed url="https://app.supademo.com/demo/cm9swgm2v09rs11m7f3s7rjoc" %}
+
+Na tela “Editar Permissões” clique no ícone “Incluir”. &#x20;
+
+<figure><img src="../../.gitbook/assets/documentos3.png" alt=""><figcaption></figcaption></figure>
+
+No campo “Grupo” selecione o grupo ao qual será concedido o acesso e habilite permissão de leitura para todos no menu [Pastas > Ações > Editar permissões](./#acoes-individuais-subdiretorios).
+
+No campo “Perfil” selecione o perfil que designa a permissão de acesso do usuário ou grupo a Diretórios. Os perfis de diretório podem ser:
+
+* _Administrador de Documentos e Pastas:_ Um usuário ou grupo de usuários com este perfil de diretórios pode consultar e baixar conteúdo, incluir, mover, compartilhar e renomear documentos, excluir ou incluir novas pastas, além de poder mudar permissões de acesso.
+* _Colaborador de Documentos:_ Um usuário ou grupo de usuários com este perfil de diretórios pode consultar e baixar conteúdo, incluir, mover, compartilhar e renomear documentos à pasta a que tem este perfil.  &#x20;
+* _Leitor de Documentos:_ Um usuário ou grupo de usuários com este perfil de diretórios pode apenas consulta e baixar o conteúdo da pasta e documentos.
+
+<figure><img src="../../.gitbook/assets/documentos4.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+## Subdiretórios&#x20;
+
+Ao clicar na pasta raiz são exibidos os subdiretórios, ou seja, _subpastas_ criadas para organizar os documentos de acordo com a necessidade do usuário. Também podem ser apresentados documentos que não estão armazenados em nenhum desses subdiretórios.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (525).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+### Colunas da tela principal – Subdiretórios&#x20;
+
+**Coluna Nome:** Nome da pasta ou arquivo.&#x20;
+
+**Coluna Responsável:** Em caso de documentos avulsos serão apresentados o nome e e-mail do responsável pelo envio. No caso de pastas, o campo ficará em branco, já que uma pasta é composta por documentos que podem ter diferentes responsáveis.&#x20;
+
+**Coluna Data Conclusão:** Apresenta a data e hora de conclusão do processo ao qual o documento está ligado. No caso de pastas, o campo ficará em branco, já que uma pasta é composta por documentos que podem ter diferentes datas de conclusão.&#x20;
+
+**Coluna Tamanho:** Apresenta o tamanho do documento. No caso de pastas, o campo ficará em branco, já que uma pasta é composta por documentos que podem ter diferentes tamanhos.&#x20;
+
+<figure><img src="../../.gitbook/assets/documentos6.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+
+
+{% hint style="warning" %}
+<mark style="color:orange;">**Na aba Pastas, processos enviados via ArqGED-ArqFlow estarão identificados com a marcação "Enviado via ArqFlow".**</mark>
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (539).png" alt=""><figcaption></figcaption></figure>
+
+### Ações individuais – Subdiretórios&#x20;
+
+**Editar Permissões:** Essa opção só estará disponível para pastas de documentos. As permissões dos subdiretórios são herdadas da pasta raiz, portanto não é possível editá-las. O usuário pode apenas alterar as configurações de permissões da pasta raiz ou retirar a herança de permissões desta pasta.&#x20;
+
+<figure><img src="../../.gitbook/assets/documentos7.png" alt=""><figcaption></figcaption></figure>
+
+**Alterar Proprietário:** Essa opção só estará disponível para documentos avulsos e se o usuário for o remetente do documento. Clicando nesta opção será possível atribuir um novo proprietário para o documento. Para isso, selecione o novo usuário proprietário e clique em “Alterar”. &#x20;
+
+<figure><img src="../../.gitbook/assets/documentos8.png" alt="" width="563"><figcaption></figcaption></figure>
+
+**Baixar Arquivo:** Essa opção só estará disponível para documentos avulsos. Clique nesta opção para fazer o download do documento assinado.&#x20;
+
+**Compartilhar:** Essa opção só estará disponível para documentos avulsos. Essa opção permite que o usuário crie um link de acesso ao documento que poderá ser compartilhado com outras pessoas que não sejam participantes do processo de assinatura. Esse link pode ter prazo de validade determinado ou indeterminado e o usuário pode definir se deseja permitir que as pessoas que acessarem visualizem também os anexos enviados pelos signatários.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (526).png" alt="" width="563"><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Mover:** Essa opção só estará disponível para documentos avulsos. Ao clicar nesta opção será possível alterar a pasta onde os documentos/processos selecionados estão armazenados. Selecione a pasta para a qual os documentos serão movidos e clique em “Mover”.
+
+<figure><img src="../../.gitbook/assets/image (527).png" alt="" width="448"><figcaption></figcaption></figure>
+
+**Renomear:** Opção disponível para documentos avulsos e pastas. Utilizada para renomear o documento/processo ou pasta.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (528).png" alt=""><figcaption></figcaption></figure>
+
+### Ações em lote - Subdiretórios&#x20;
+
+É possível selecionar mais de um documento marcando-se os checkbox ao lado do nome do arquivo e executar ações em lote.
+
+**Incluir Pasta:** Utilizado para a criação de novas pastas no diretório. Ao clicar neste ícone, em “Incluir em” selecione a pasta “pai” da pasta que está sendo criada e informe o nome da pasta. &#x20;
+
+**Mover Processos:** Selecione os documentos/processos que deseja movimentar e clique no ícone “Mover Processos”. Depois, selecione a pasta para a qual os documentos serão movidos e clique em “Mover”.   &#x20;
+
+**Excluir:** Utilizado para excluir documentos do diretório. Essa ação só pode ser realizada por administradores globais ou pelo proprietário do processo ao qual o documento está ligado.&#x20;
+
+**Alterar Proprietário:** Essa opção só estará disponível para documentos avulsos e se o usuário for o remetente do processo/documento. Clicando nesta opção será possível atribuir um novo proprietário para o documento/processo. Para isso, selecione o novo usuário proprietário e clique em “Alterar”. &#x20;
+
+### **Barra de Pesquisa**
+
+A Barra de Pesquisa permite que você busque documentos ou pastas de forma prática e rápida, utilizando diferentes critérios. É possível pesquisar pelo nome do documento ou pasta, nome, telefone e e-mail do destinatário, nome e e-mail do responsável, além de data e período de envio e conclusão. A pesquisa pode ser feita utilizando os campos na parte superior.
+
+<figure><img src="../../.gitbook/assets/image (529).png" alt=""><figcaption></figcaption></figure>
+
+> **Campos de texto (nome, e-mail e telefone):**\
+> Estes campos são campos de texto padrão. Para realizar uma busca, basta digitar o dado desejado. Você pode preencher mais de um campo para realizar uma pesquisa combinada, se necessário.
+>
+> **Campos de data:**\
+> Os campos de data têm um funcionamento específico. Eles apresentam períodos pré-definidos (conforme a imagem abaixo), mas também oferecem a opção de buscar por um **período personalizado**.
+
+<figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+
+> **Uso do período personalizado**
+>
+> Ao selecionar a opção "Personalizado", aparecerá uma nova opção abaixo com um ícone de calendário.
+>
+> ![](<../../.gitbook/assets/image (62).png>)
+>
+> Ao clicar no ícone, o usuário pode escolher o período desejado, arrastando o mouse entre os dias do mês selecionado. Também é possível alterar a pesquisa para um ano específico.
+
+<figure><img src="../../.gitbook/assets/gif calendário_1.gif" alt=""><figcaption></figcaption></figure>
+
+Após selecionar o período desejado, clique em "Filtrar" para visualizar os resultados da busca.
+
+## 🗪 Perguntas e Respostas Frequentes
+
+<details>
+
+<summary>Um usuário pode ver os Processos de outro usuário?</summary>
+
+Os usuários com o perfil Remetente de Processos visualizam apenas os Processos que criou.&#x20;
+
+Para que esse perfil de usuário possa ter acesso compartilhado aos Processos de outros usuários, deve ser utilizada a funcionalidade de diretórios. &#x20;
+
+Caso queira conhecer a funcionalidade de Pastas, [clique aqui](./).
+
+</details>
+
+<details>
+
+<summary>É possível organizar os documentos assinados em cofres na ArqSign?</summary>
+
+Para organizar os documentos você pode acessar um dos tutoriais abaixo:&#x20;
+
+* [Estrutura de diretórios para clientes que ainda não assinaram documentos](configuracao-de-pastas-para-clientes-que-ainda-nao-assinaram-processos.md)
+* [Estrutura de diretórios para clientes que já assinaram documentos](configuracao-de-pastas-para-clientes-que-ja-assinaram-processos.md)
+
+ou seguir o passo a passo descrito abaixo:
+
+**Como Criar Estrutura de Diretórios:**&#x20;
+
+1\. Revise as permissões dos usuários deixando somente o seu usuário como Administrador Global o que irá evitar que outros usuários acessem todas as pastas e documentos. Para isso acesse o menu [Administração > Usuários](../../administracao/administracao/usuarios.md).
+
+2\. Crie a estrutura de diretórios no menu [Processos/Pastas](./).
+
+3\. Se você já tem documentos na pasta raiz, mova-os para as devidas pastas no menu [Processos](./).&#x20;
+
+**Como definir Permissões de acesso aos Diretórios:**&#x20;
+
+1\. Para facilitar, crie grupos de usuários (exemplo: por setores ou funções) no menu [Administração > Grupo de Usuários](../../administracao/administracao/grupo-de-usuarios.md), como no exemplo abaixo:
+
+a) Comercial – Gerência (Perfil de Diretórios – Administrador)&#x20;
+
+b) Comercial – Vendedores (Perfil de Diretórios – Colaborador)&#x20;
+
+c) Comercial – Outras funções com função de leitura (Perfil de Diretórios – Leitor)&#x20;
+
+2\. Insira os grupos criados na pasta raiz e habilite permissão de leitura para todos por meio do menu [Processos > Ações](./#acoes-individuais-subdiretorios).
+
+3\. Ajuste as permissões das pastas setoriais no menu [Processos](./) e selecione a pasta [Ações > Editar permissões; ](./#acoes-individuais-subdiretorios)
+
+4\. Crie ou edite usuários e ajuste permissões de acesso conforme tabela abaixo. Clique na imagem para ampliar.
+
+<div align="left"><figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+**Permissões para Diretórios:**
+
+Somente o Administrador Global da conta terá acesso ao menu de diretórios e por este motivo é tão importante cuidar para que somente pessoas sem restrições de acesso estejam com este perfil. Abaixo algumas das ações permitidas ao Administrador Global no menu Diretórios:&#x20;
+
+**1. Perfil de usuários** – Perfil definido durante a criação do usuário e que designa as ações do usuário na plataforma. Atualmente há duas opções: Remetente de Documentos e Administrador Global.&#x20;
+
+a) Remetente de Documentos – Usuário sem permissão de acesso às funcionalidades de gestão da plataforma.&#x20;
+
+b) Administrador Global – Usuários com permissão de acesso a todas as funcionalidades da plataforma.&#x20;
+
+**2. Perfil de Diretórios** – Perfil que designa a permissão de acesso do usuário ou grupo a Diretórios. Os perfis de diretório podem ser: Administrador, Colaborador e Leitor.&#x20;
+
+a) Administrador – Um usuário ou grupo de usuários com este perfil de diretórios pode consultar e baixar conteúdo, incluir, mover, compartilhar e renomear documentos, excluir ou incluir novas pastas, além de poder mudar permissões de acesso. &#x20;
+
+b) Colaborador – Um usuário ou grupo de usuários com este perfil de diretórios pode consultar e baixar conteúdo, incluir, mover, compartilhar e renomear documentos à pasta a que tem este perfil. &#x20;
+
+c) Leitor – Um usuário ou grupo de usuários com este perfil de diretórios pode apenas consulta e baixar o conteúdo da pasta e documentos. &#x20;
+
+[Clique aqui ](https://youtu.be/FHTsOb1LLSo)e assista ao vídeo explicativo.
+
+</details>
