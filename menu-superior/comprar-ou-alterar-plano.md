@@ -48,17 +48,7 @@ Assim é feita a notificação de pagamento pendente:&#x20;
 Caso o usuário não faça o pagamento, ele recebe a seguinte notificação de conta bloqueada:
 
 <p align="center"><img src="../.gitbook/assets/image (549).png" alt=""></p>
-
-
 {% endhint %}
-
-{% hint style="info" %}
-Caso o usuário não faça o pagamento, ele recebe a seguinte notificação de conta bloqueada:
-
-
-{% endhint %}
-
-<figure><img src="../.gitbook/assets/12.png" alt=""><figcaption></figcaption></figure>
 
 1.2. Plano com período TRIAL
 
