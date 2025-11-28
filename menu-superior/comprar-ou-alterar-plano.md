@@ -56,7 +56,7 @@ Na tela que seleciona a forma de pagamento, o usuário tem a possibilidade de in
 
 Ao realizar a compra ou alteração de um plano, o sistema verificará se o e-mail informado durante a compra tem vínculo com alguma conta grátis.
 
-Caso não tenha, uma conta será criada e será enviado ao usuário uma notificação para que ele ative sua conta.
+Caso não tenha, uma conta será criada e será enviada ao usuário uma notificação para que ele ative sua conta.
 
 <figure><img src="../.gitbook/assets/compra6.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
