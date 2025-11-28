@@ -153,47 +153,49 @@ Na aba Compras é exibido um histórico dos produtos já adquiridos pelo usuári
 
 <figure><img src="../../.gitbook/assets/image (551).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-**Descrição da Compra:** O sistema exibe a descrição da compra, que pode ser:
+Abaixo o detalhamento da tela:
+
+**Descrição da Compra:** Exibe a descrição da compra, que pode ser:
 
 * Compra/Alteração de Plano, exibindo a descrição do plano.
 * Compra de créditos, exibindo a quantidade e os itens extras adquiridos.
 
-**Data da Compra:** O sistema exibe a data da compra.
+**Data da Compra:** Exibe a data em que a compra foi realizada.
 
-**Período de Vigência:** O sistema exibe o período de vigência dos itens (plano e itens extras) adquiridos em uma compra com status de pagamento = Pago.
+**Período de Vigência:** Exibe o período de vigência dos itens (plano e itens extras) adquiridos em uma compra com status de pagamento "Pago".
 
 * Compra de plano exibe o período inicial e final da assinatura do plano.
 * Compra de créditos, exibe o período inicial e final dos itens extras adquiridos.
 
-{% hint style="info" %}
-Obs.: Quando for uma compra com pagamento por PIX ou Boleto que esteja com status do pagamento pendente ou cancelado, não será apresentada a vigência.
+{% hint style="warning" %}
+<mark style="color:orange;">Quando se tratar de uma compra com pagamento por PIX ou Boleto que esteja com status do pagamento pendente ou cancelado, não será apresentada a vigência.</mark>
 {% endhint %}
 
-**Parcela:** O sistema exibe a parcela da compra o registro se refere no formato ""{0} de {1}"".
+**Parcela:** Exibe a parcela da compra o registro se refere no formato ""{0} de {1}"".
 
-**Valor:** O sistema exibe o valor da compra, em reais.
+**Valor:** Exibe o valor da compra, em reais.
 
-**Status:** O sistema exibe o status da compra.
+**Status:** Exibe o status da compra.
 
-* Pago para compra com pagamento confirmado.
-* Pendente para compra com pagamento pendente.
-* Cancelado para compras om pagamento cancelado.
+* **Pago** para compra com pagamento confirmado.
+* **Pendente** para compra com pagamento pendente.
+* **Cancelado** para compras om pagamento cancelado.
 
-**Detalhes:** O sistema exibe link conforme o tipo e status da compra.
+**Detalhes:** Exibe o link conforme o tipo e status da compra.
 
-**Compra com status Pago**
+**Compra com status&#x20;**<mark style="color:green;">**Pago**</mark>
 
-* Compra de Créditos apresenta o link "Detalhes da Compra". Ao clicar neste link, o sistema exibe a modal Detalhes da Compra.
-* Compra de Plano apresenta o link "Detalhes do Plano". Ao clicar no link, o sistema exibe a modal Detalhes do Plano.
+* **Compra de Créditos** apresenta o link "**Detalhes da Compra**". Ao clicar neste link, o sistema exibe a modal Detalhes da Compra.
+* **Compra de Plano** apresenta o link "**Detalhes do Plano**". Ao clicar no link, o sistema exibe a modal Detalhes do Plano.
 
-**Compra de plano ou créditos com status Pendente**
+**Compra de plano ou créditos com status&#x20;**<mark style="color:yellow;">**Pendente**</mark>
 
-* Se pagamento com PIX exibe o link "Pagar com PIX". Ao clicar neste link, o sistema exibe a modal Pagamento com PIX.
-* Se pagamento com boleto exibe o link "Pagar com Boleto". Ao clicar no link, o sistema exibe a modal Pagamento com Boleto.
+* Se **pagamento com PIX** exibe o link "Pagar com PIX". Ao clicar neste link, o sistema exibe a modal Pagamento com PIX.
+* Se **pagamento com boleto** exibe o link "Pagar com Boleto". Ao clicar no link, o sistema exibe a modal Pagamento com Boleto.
 
-**Compra com status Cancelado**
+**Compra com status&#x20;**<mark style="color:red;">**Cancelado**</mark>
 
-* Compra com dado de pagamento não regerado e não tiver excedido o limite de dias permitido para regerar, exibe o link "Regerar Pagamento". Ao clicar neste link, o sistema regera os dados de pagamento e apresenta a mensagem "Link de pagamento regerado com sucesso."
+* Compra com dado de **pagamento não regerado** e **não tiver excedido o limite** de dias permitido para regerar, exibe o link "**Regerar Pagamento**". Ao clicar neste link, o sistema regera os dados de pagamento e apresenta a mensagem "**Link de pagamento regerado com sucesso**."
 
 **Compra que não permite regerar o pagamento**
 
