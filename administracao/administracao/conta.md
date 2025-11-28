@@ -46,10 +46,10 @@ Na sub aba Plano e Consumo é apresentado o tipo de plano, o período de faturam
 
 Por padrão ao criar uma conta a opção “**Renovação Automática**” será automaticamente habilitada. Para cancelar essa renovação, basta desmarcar essa opção.
 
-<figure><img src="../../.gitbook/assets/conta04.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (550).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="info" %}
-<mark style="color:blue;">Ao deixar habilitada a renovação automática, quando o plano vencer o sistema fará a renovação do pagamento de forma automática, utilizando o mesmo meio de pagamento da compra anterior. Se desabilitada a opção, será exibido o botão “Comprar Agora”, para que o usuário faça novamente a compra do mesmo plano ou de outro plano que desejar.</mark>
+<mark style="color:blue;">Ao deixar habilitada a renovação automática, quando o plano vencer o sistema fará a renovação do pagamento de forma automática, utilizando o mesmo meio de pagamento da compra anterior. Se desabilitada a opção, será exibido o botão “Comprar Agora”, para que o usuário faça uma nova compra do plano que desejar.</mark>
 {% endhint %}
 
 ***
