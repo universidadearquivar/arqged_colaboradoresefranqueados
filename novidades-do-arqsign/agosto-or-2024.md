@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ▫️ Agosto | 2024
 
 <details>

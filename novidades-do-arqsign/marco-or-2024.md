@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ▫️ Março | 2024
 
 <details>

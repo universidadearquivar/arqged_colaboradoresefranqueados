@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ◽ Fevereiro | 2024
 
 <details>

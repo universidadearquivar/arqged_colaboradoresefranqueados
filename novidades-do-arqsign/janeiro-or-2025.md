@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ▫️ Janeiro | 2025
 
 

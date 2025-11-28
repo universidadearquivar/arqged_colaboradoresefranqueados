@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ▫️ Setembro | 2024
 
 <details>

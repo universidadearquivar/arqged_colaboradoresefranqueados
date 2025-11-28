@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ▫️ Julho | 2024
 
 <details>

@@ -74,11 +74,12 @@
   * [🟪 Webhook](administracao/integracoes/webhook.md)
   * [Fluxo Ideal de Integração](administracao/integracoes/fluxo-ideal-de-integracao.md)
   * [Histórico de alterações da API](administracao/integracoes/historico-de-alteracoes-da-api.md)
+  * [Histórico Inativo](administracao/integracoes/historico-inativo.md)
 
 ## NOVIDADES DO ARQSIGN
 
-* [▫️ Abril | 2025](novidades-do-arqsign/abril-or-2025.md)
-* [▫️ Março | 2025](novidades-do-arqsign/marco-or-2025.md)
+* [▫️ Importação de Contatos](novidades-do-arqsign/importacao-de-contatos.md)
+* [▫️ Nova possibilidade de filtro](novidades-do-arqsign/nova-possibilidade-de-filtro.md)
 * [▫️ Fevereiro | 2025](novidades-do-arqsign/fevereiro-or-2025.md)
 * [▫️ Janeiro | 2025](novidades-do-arqsign/janeiro-or-2025.md)
 * [▫️ Setembro | 2024](novidades-do-arqsign/setembro-or-2024.md)
