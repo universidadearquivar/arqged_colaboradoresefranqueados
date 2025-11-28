@@ -71,7 +71,7 @@ O botão Alterar Forma de Pagamento é exibido quando:
 
 Ao alterar a forma de pagamento de PIX ou Boleto para **Cartão de Crédito**, o sistema deve exibir mensagem informando que será necessário a alteração do plano quando a assinatura entrar no período de renovação.
 
-<figure><img src="../../.gitbook/assets/Captura de tela 2025-11-18 150251.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (554).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 #### 2.1.1. Alterar cartões de crédito
 
