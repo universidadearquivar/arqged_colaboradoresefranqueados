@@ -8,27 +8,27 @@ O botão “Alterar Plano” será exibido para usuários com assinatura de plan
 
 1\. Para comprar um plano ou alterar o seu plano clique em “Comprar Agora” ou “Alterar plano”. Selecione o plano ideal para o seu negócio, preencha os dados para pagamento e clique em “Finalizar a compra”.
 
-<figure><img src="../.gitbook/assets/image (491).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (491).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (492).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (492).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Caso o usuário tenha deixado marcada a opção “Renovação Automática” na tela**</mark> [<mark style="color:blue;">**Administração > Conta > Aba Faturamento e Uso > Plano e Consumo**</mark>](../administracao/administracao/conta.md#plano-e-consumo)<mark style="color:orange;">**, o botão “Comprar Plano” não será exibido, porque ao expirar o plano, o sistema automaticamente renovará a assinatura no plano atual, utilizando as informações de faturamento já existentes no cadastro do usuário.**</mark> &#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (493).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (493).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 1.1. Compra do plano com pagamento por PIX, boleto ou cartão de crédito
 
 Depois de passar pelo passo a passo de compra ou alteração de plano, o usuário será direcionado para a escolha da forma de pagamento.
 
-<figure><img src="../.gitbook/assets/1 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (3).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2 (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Ao finalizar, o site disponibiliza o botão **ACESSAR ARQSIGN** que direciona e autentica o usuário na plataforma ArqSIGN. Apresentando os dados de pagamento.
 
-<figure><img src="../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="info" %}
 No caso de pagamento por PIX ou boleto, o usuário tem acesso imediato à plataforma, independente do pagamento. O pagamento pode ser feito em até 5 dias.&#x20;
@@ -91,7 +91,7 @@ Dessa forma, o sistema renova automaticamente a assinatura do usuário, e o paga
 
 Assim é o aviso e cobrança de renovação automática:
 
-<figure><img src="../.gitbook/assets/Captura de tela 2025-11-18 134709.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Captura de tela 2025-11-18 134709.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ## 🗪 Perguntas e Respostas Frequentes
 
