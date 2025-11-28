@@ -60,7 +60,11 @@ Caso não tenha, uma conta será criada e será enviada ao usuário uma notifica
 
 <figure><img src="../.gitbook/assets/compra6.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-Caso seja verificado que o e-mail informado durante a compra tem vínculo com alguma conta grátis, serão apresentadas ao usuário duas opções de ação: 1) Migrar a conta de teste grátis para a conta paga ou 2) Criar uma nova conta para o plano adquirido.
+Caso seja verificado que o e-mail informado durante a compra tem vínculo com alguma conta grátis, serão apresentadas ao usuário duas opções de ação:&#x20;
+
+1\) Migrar a conta de teste grátis para a conta paga ou&#x20;
+
+2\) Criar uma nova conta para o plano adquirido.
 
 Usuário logado na plataforma ArqSIGN, com as devidas permissões, ao clicar no botão Comprar Agora ou Alterar Plano é direcionado para a tela de adicionais do e-commerce, conforme assinatura e plano atual da conta.
 
@@ -85,11 +89,11 @@ Usuário logado na plataforma ArqSIGN, com as devidas permissões, ao clicar no 
 
 Após a conclusão da mudança de plano, se a conta for compartilhada com outros usuários, todos os usuários com perfil de administrador global da conta receberão uma notificação por e-mail sobre a alteração ou renovação do plano.&#x20;
 
-Renovaoção de assinatura por PIX ou boleto
+#### Renovação de assinatura por PIX ou boleto
 
-O sistema busca as contas com status ativo que possuem renovação automática, cujo a assinatura com forma de pagamento por PIX ou Boleto que esteja com período final menor ou igual a data atual.
+A plataforma busca as contas com status ativo que possuem renovação automática, cujo a assinatura com forma de pagamento por PIX ou Boleto que esteja com período final menor ou igual a data atual.
 
-O sistema gera os dados de renovação da assinatura e envia notificação com os dados de pagamento por PIX ou Boleto para os usuários com perfil de administrado global.
+A aplicação gera os dados de renovação da assinatura e envia notificação com os dados de pagamento por PIX ou Boleto para os usuários com perfil de administrado global.
 
 Dessa forma, o sistema renova automaticamente a assinatura do usuário, e o pagamento fica pendente durante 5 dias, gerando cobranças automáticas.&#x20;
 
