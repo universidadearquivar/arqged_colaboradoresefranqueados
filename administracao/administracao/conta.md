@@ -87,7 +87,9 @@ Ao acionar este botão, o sistema envia o link de alteração do cartão para o 
 
 #### 2.1.2. Assinatura vencida
 
-Sistema não exibe o botão Alterar Forma de Pagamento quando a assinatura da conta está vencida.
+Sistema não exibe o botão "Alterar Forma de Pagamento" quando a assinatura da conta está vencida. É exibida a mensagem de "Plano Vencido".
+
+<figure><img src="../../.gitbook/assets/image (556).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
