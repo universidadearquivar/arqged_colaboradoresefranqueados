@@ -147,11 +147,11 @@ Se o usuário tiver comprado créditos além daqueles já inclusos no plano clic
 
 ***
 
-## 4. Histórico de Compras
+## 4. Compras
 
-Na aba Histórico de Compras é apresentada a descrição dos produtos já adquiridos pelo usuário, o período de vigência de cada um, o número de parcelas em que foi dividido o pagamento, o valor e status dessas parcelas.
+Na aba Compras é exibido um histórico dos produtos já adquiridos pelo usuário.
 
-<figure><img src="../../.gitbook/assets/13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (551).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Descrição da Compra:** O sistema exibe a descrição da compra, que pode ser:
 
