@@ -60,7 +60,7 @@ Para alterar a forma de pagamento do plano, clique em “**Alterar Forma de Paga
 
 Ao clicar neste botão, o sistema deve exibir a modal de Alterar Forma de Pagamento, oferecendo as 3 opções de pagamento, **Boleto, Cartão de Crédito e PIX**, como na imagem abaixo.
 
-<figure><img src="../../.gitbook/assets/Captura de tela 2025-11-18 145745.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 O botão Alterar Forma de Pagamento é exibido quando:
 
@@ -102,13 +102,13 @@ O campo de Renovação Automática é exibido somente para conta com assinatura 
 
 <figure><img src="../../.gitbook/assets/image (553).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-#### **2.2.2. Assinatura sem período TRIAL**
+### **2.2.2. Assinatura sem período TRIAL**
 
 * Para assinatura com forma de pagamento por PIX ou Boleto, o sistema altera a renovação automática da conta em questão.
 * Para assinatura com forma de pagamento por cartão de crédito, sistema atualizar o período de cobrança automática da assinatura na plataforma Cyclopay e alterar a renovação automática da conta em questão.
 
-{% hint style="info" %}
-**Atenção:** Quando a assinatura não for localizada na plataforma Cyclopay, o sistema exibe a mensagem "Esta alteração não pode ser realizada. Entre em contato com o suporte técnico." e não alterar a renovação automática.
+{% hint style="danger" %}
+<mark style="color:red;">Quando a assinatura não for localizada na plataforma Cyclopay, o sistema exibe a mensagem "Esta alteração não pode ser realizada. Entre em contato com o suporte técnico." e não alterar a renovação automática.</mark>
 {% endhint %}
 
 #### **2.2.3. Assinatura vencida**

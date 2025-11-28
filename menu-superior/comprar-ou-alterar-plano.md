@@ -34,7 +34,7 @@ Ao finalizar a compra, é exibido o botão **ACESSAR ARQSIGN** que direciona e a
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="danger" %}
 No caso de pagamento por PIX ou boleto, o usuário tem acesso imediato à plataforma, independente do pagamento. **O pagamento pode ser feito em até 5 dias.**&#x20;
