@@ -22,7 +22,7 @@ O botão “Alterar Plano” será exibido para usuários com assinatura de plan
 
 Depois de passar pelo passo a passo de compra ou alteração de plano, o usuário será direcionado para a escolha da forma de pagamento.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 
 
@@ -32,9 +32,9 @@ Depois de passar pelo passo a passo de compra ou alteração de plano, o usuári
 
 Ao finalizar a compra, é exibido o botão **ACESSAR ARQSIGN** que direciona e autentica o usuário na plataforma ArqSIGN e apresenta os dados de pagamento de PIX ou BOLETO.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="danger" %}
 No caso de pagamento por PIX ou boleto, o usuário tem acesso imediato à plataforma, independente do pagamento. **O pagamento pode ser feito em até 5 dias.**&#x20;
