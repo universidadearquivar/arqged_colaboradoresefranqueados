@@ -22,29 +22,43 @@ O botão “Alterar Plano” será exibido para usuários com assinatura de plan
 
 Depois de passar pelo passo a passo de compra ou alteração de plano, o usuário será direcionado para a escolha da forma de pagamento.
 
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+
+
+{% hint style="warning" %}
+<mark style="color:orange;">As opções de pagamento por PIX ou BOLETO não possuem a função de parcelamento da compra, esta opção está disponível somente para pagamentos realizados com CARTÃO DE CRÉDITO.</mark>
+{% endhint %}
+
+Ao finalizar a compra, é exibido o botão **ACESSAR ARQSIGN** que direciona e autentica o usuário na plataforma ArqSIGN e apresenta os dados de pagamento de PIX ou BOLETO.
+
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-
-Ao finalizar, o site disponibiliza o botão **ACESSAR ARQSIGN** que direciona e autentica o usuário na plataforma ArqSIGN. Apresentando os dados de pagamento.
-
-<figure><img src="../.gitbook/assets/3.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
-{% hint style="info" %}
-No caso de pagamento por PIX ou boleto, o usuário tem acesso imediato à plataforma, independente do pagamento. O pagamento pode ser feito em até 5 dias.&#x20;
+{% hint style="danger" %}
+No caso de pagamento por PIX ou boleto, o usuário tem acesso imediato à plataforma, independente do pagamento. **O pagamento pode ser feito em até 5 dias.**&#x20;
 
 O usuário recebe notificações de pagamento até a data de vencimento. Não ocorrendo o pagamento nesse prazo, a conta é bloqueada.&#x20;
 
 Assim é feita a notificação de pagamento pendente:&#x20;
 
-![](../.gitbook/assets/10.png)![](../.gitbook/assets/11.png)
+<p align="center"><img src="../.gitbook/assets/10.png" alt=""><img src="../.gitbook/assets/11.png" alt=""></p>
+
+Caso o usuário não faça o pagamento, ele recebe a seguinte notificação de conta bloqueada:
+
+<p align="center"><img src="../.gitbook/assets/image (549).png" alt=""></p>
+
+
 {% endhint %}
 
 {% hint style="info" %}
 Caso o usuário não faça o pagamento, ele recebe a seguinte notificação de conta bloqueada:
 
-<img src="../.gitbook/assets/12.png" alt="" data-size="original">
+
 {% endhint %}
+
+<figure><img src="../.gitbook/assets/12.png" alt=""><figcaption></figcaption></figure>
 
 1.2. Plano com período TRIAL
 
