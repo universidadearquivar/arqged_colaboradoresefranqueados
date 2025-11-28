@@ -22,7 +22,7 @@ O usuário pode adquirir créditos extras para envio de processos via e-mail e W
 
 <figure><img src="../.gitbook/assets/4.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Na compra de adicionais com pagamentos por PIX ou Boleto, os itens são inseridos na conta somente após a confirmação do recebimento.
 {% endhint %}
 
