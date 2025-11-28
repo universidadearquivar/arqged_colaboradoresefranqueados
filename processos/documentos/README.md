@@ -181,7 +181,7 @@ c) Comercial – Outras funções com função de leitura (Perfil de Diretóri
 
 4\. Crie ou edite usuários e ajuste permissões de acesso conforme tabela abaixo. Clique na imagem para ampliar.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 **Permissões para Diretórios:**
 

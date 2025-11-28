@@ -22,9 +22,9 @@ O botão “Alterar Plano” será exibido para usuários com assinatura de plan
 
 Depois de passar pelo passo a passo de compra ou alteração de plano, o usuário será direcionado para a escolha da forma de pagamento.
 
-<figure><img src="../.gitbook/assets/1 (3).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/2 (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
 
 Ao finalizar, o site disponibiliza o botão **ACESSAR ARQSIGN** que direciona e autentica o usuário na plataforma ArqSIGN. Apresentando os dados de pagamento.
 
