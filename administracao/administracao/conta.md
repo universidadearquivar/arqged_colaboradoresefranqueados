@@ -104,7 +104,7 @@ O campo de Renovação Automática é exibido somente para conta com assinatura 
 
 ### **2.2.1. Assinatura em período TRIAL**
 
-* Ao desmarcar este campo o sistema exibe mensagem de confirmação para remover a renovação automática.
+* Ao desmarcar o campo de "Renovação Automática"o sistema exibe mensagem de confirmação para remover a renovação automática.
 
 <figure><img src="../../.gitbook/assets/image (553).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
