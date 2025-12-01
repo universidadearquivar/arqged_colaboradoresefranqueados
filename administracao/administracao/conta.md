@@ -54,7 +54,7 @@ Por padrão ao criar uma conta a opção “**Renovação Automática**” será
 
 ***
 
-### Alterar forma de pagamento
+#### Alterar forma de pagamento
 
 Para alterar a forma de pagamento do plano, clique em “**Alterar Forma de Pagamento**”.&#x20;
 
@@ -93,7 +93,7 @@ Sistema não exibe o botão "Alterar Forma de Pagamento" quando a assinatura da 
 
 ***
 
-### Renovação automática
+#### Renovação automática
 
 O campo de Renovação Automática é exibido somente para conta com assinatura vigente de um plano pago.
 
@@ -102,13 +102,13 @@ O campo de Renovação Automática é exibido somente para conta com assinatura 
 
 <figure><img src="../../.gitbook/assets/14.png" alt=""><figcaption></figcaption></figure>
 
-### **Assinatura em período TRIAL**
+#### **Assinatura em período TRIAL**
 
 * Ao desmarcar o campo de "Renovação Automática"o sistema exibe mensagem de confirmação para remover a renovação automática.
 
 <figure><img src="../../.gitbook/assets/image (553).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-### **Assinatura sem período TRIAL**
+#### **Assinatura sem período TRIAL**
 
 * Para assinatura com forma de pagamento por PIX ou Boleto, o sistema altera a renovação automática da conta em questão.
 * Para assinatura com forma de pagamento por cartão de crédito, sistema atualizar o período de cobrança automática da assinatura na plataforma Cyclopay e alterar a renovação automática da conta em questão.
@@ -117,7 +117,7 @@ O campo de Renovação Automática é exibido somente para conta com assinatura 
 <mark style="color:red;">Quando a assinatura não for localizada na plataforma Cyclopay, o sistema exibe a mensagem "Esta alteração não pode ser realizada. Entre em contato com o suporte técnico." e não alterar a renovação automática.</mark>
 {% endhint %}
 
-### **Assinatura vencida**
+#### **Assinatura vencida**
 
 Sistema não exibe o campo **Renovação Automática** quando a assinatura da conta está vencida.
 
@@ -125,7 +125,7 @@ Sistema não exibe o campo **Renovação Automática** quando a assinatura da co
 
 ***
 
-## Detalhes do plano
+#### Detalhes do plano
 
 Ao clicar em “**Detalhes do Plano**” serão exibidos detalhes do plano atual do usuário, como tipo de plano, período de faturamento (mensal ou anual), valor pago no plano, descrição e quantidade dos itens aos quais o plano dá acesso, valores de créditos, créditos excedentes e data de validade do plano.
 
