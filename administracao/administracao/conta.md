@@ -216,7 +216,7 @@ Ao clicar em “**Detalhes do plano**” é exibido o detalhamento dos itens que
 
 ## Home
 
-O sistema exibe alerta e botões de compras, conforme o status, renovação, forma de pagamento e vigência da assinatura da conta .
+O sistema exibe alertas e botões de compras, conforme o status, renovação, forma de pagamento e vigência da assinatura da conta.
 
 Os alertas e botões de compras serão exibidos somente para o usuário que possui a permissão 3.1.4.1 - Alterar Plano.
 
