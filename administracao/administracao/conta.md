@@ -272,7 +272,7 @@ Obs.: Caso o usuário marque a renovação automática, o sistema deve as inform
 
 * Se pagamento alterado para cartão de créditos, apresenta o comportamento descrito [nesse tópico](https://manual.arquivar.com/manual-arqsign/administracao/administracao/conta#id-5.3.1.-forma-de-pagamento-alterada-para-cartao-de-credito).
 * Se pagamento por cartão de crédito, apresenta o comportamento [nesse tópico](https://manual.arquivar.com/manual-arqsign/administracao/administracao/conta#id-5.3.2.-renovacao-automatica-marcada).
-* Se pagamento por PIX ou Boleto, apresentar o comportamento descrito no tópico 9.4.2.2.
+* Se pagamento por PIX ou Boleto, apresentar o comportamento descrito nesse tópico.
 
 Ao clicar no botão Alterar Plano ou no link Clique aqui, o sistema direciona o usuário para o site (e-commerce) que lista os planos disponíveis para compra.
 
