@@ -270,7 +270,7 @@ Ao clicar no link **Administração > Conta > Faturamento e Uso**, o sistema exi
 Obs.: Caso o usuário marque a renovação automática, o sistema deve as informações e:
 {% endhint %}
 
-* Se pagamento alterado para cartão de créditos, apresenta o comportamento descrito no tópico 9.4.1.
+* Se pagamento alterado para cartão de créditos, apresenta o comportamento descrito [nesse tópico](https://manual.arquivar.com/manual-arqsign/administracao/administracao/conta#id-5.3.1.-forma-de-pagamento-alterada-para-cartao-de-credito).
 * Se pagamento por cartão de crédito, apresenta o comportamento no tópico 9.4.2.1.
 * Se pagamento por PIX ou Boleto, apresentar o comportamento descrito no tópico 9.4.2.2.
 
