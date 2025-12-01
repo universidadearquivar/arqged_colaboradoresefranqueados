@@ -260,7 +260,7 @@ Ao clicar no botão Alterar Plano, o sistema direciona o usuário para o site (e
 
 ### Renovação automática desmarcada
 
-#### **5.3.2.1. Forma de pagamento por Cartão de Crédito, PIX ou Boleto**
+#### **Forma de pagamento por Cartão de Crédito, PIX ou Boleto**
 
 <figure><img src="../../.gitbook/assets/Imagem2.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -288,9 +288,9 @@ Conta com status ativo com assinatura de plano diferente de grátis, sem períod
 
 Ao clicar no botão Alterar Plano ou no link Clique aqui, o sistema direciona o usuário para o site (e-commerce) que lista os planos disponíveis para compra.
 
-#### 5.4.2. Renovação automática marcada
+### Renovação automática marcada
 
-**5.4.2.1. Forma de pagamento por Cartão de Crédito**
+### **Forma de pagamento por Cartão de Crédito**
 
 <figure><img src="../../.gitbook/assets/Imagem4.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -299,7 +299,7 @@ Ao clicar no botão Alterar Plano ou no link Clique aqui, o sistema verifica se 
 * **Se não existir:** O sistema direciona o usuário para o site (e-commerce) que lista os planos disponíveis para compra.
 * **Se existir:** O sistema processa a recorrência e atualiza os dados da conta, exibindo a mensagem: "A assinatura foi renovada com sucesso. Em caso de dúvidas, contate: EmailFaleConoscoArqSign.".
 
-**5.4.1.2. Forma de pagamento por PIX ou Boleto**
+### **Forma de pagamento por PIX ou Boleto**
 
 <figure><img src="../../.gitbook/assets/Imagem5.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -307,9 +307,9 @@ Ao clicar no botão **Alterar Plano**, o sistema direciona o usuário para o sit
 
 Ao clicar no botão no link Clique aqui, o sistema realiza a renovação da assinatura, gerando os dados de pagamento.
 
-#### 5.4.3. Renovação automática desmarcada
+#### Renovação automática desmarcada
 
-**5.4.3.1. Forma de pagamento por Cartão de Crédito, PIX ou Boleto**
+**Forma de pagamento por Cartão de Crédito, PIX ou Boleto**
 
 <figure><img src="../../.gitbook/assets/Imagem6.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -325,15 +325,15 @@ Obs.: Caso o usuário marque a renovação automática, o sistema deve as inform
 
 Ao clicar no botão Alterar Plano ou no link Clique aqui, o sistema direciona o usuário para o site (e-commerce) que lista os planos disponíveis para compra.
 
-### 5.5. Conta com assinatura vencida
+### Conta com assinatura vencida
 
 Conta com status ativo com assinatura de plano diferente de grátis, sem período TRIAL e com período final vencido.
 
-#### **5.5.1. Forma de pagamento por alterada para cartão de crédito**
+#### **Forma de pagamento por alterada para cartão de crédito**
 
 <figure><img src="../../.gitbook/assets/Imagem7.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-#### 5.5.2. Forma de pagamento por Cartão de Crédito
+#### Forma de pagamento por Cartão de Crédito
 
 <figure><img src="../../.gitbook/assets/Imagem7.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -342,9 +342,9 @@ Ao clicar no botão Comprar ou no link Clique aqui, o sistema verifica se existe
 * **Se não existir:** O sistema direciona o usuário para o site (e-commerce) que lista os planos disponíveis para compra.
 * **Se existir:** O sistema processa a recorrência e atualiza os dados da conta, exibindo a mensagem: "A assinatura foi renovada com sucesso. Em caso de dúvidas, contate: EmailFaleConoscoArqSign.".
 
-#### 5.5.3. Renovação automática marcada
+#### Renovação automática marcada
 
-**5.5.3.1. Forma de pagamento por PIX ou Boleto**
+**Forma de pagamento por PIX ou Boleto**
 
 <figure><img src="../../.gitbook/assets/Imagem9.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -352,9 +352,9 @@ Ao clicar no botão Comprar Agora, o sistema direciona o usuário para o site (e
 
 Ao clicar no botão no link Clique aqui, o sistema realiza a renovação da assinatura, gerando os dados de pagamento.
 
-#### 5.5.4. Renovação automática desmarcada
+#### Renovação automática desmarcada
 
-**5.5.4.1. Forma de pagamento por PIX ou Boleto**
+**Forma de pagamento por PIX ou Boleto**
 
 <figure><img src="../../.gitbook/assets/Imagem10.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -362,9 +362,9 @@ Ao clicar no botão Comprar Agora ou no link Clique aqui, o sistema direciona o 
 
 ***
 
-## 6. Aba Configurações
+## Aba Configurações
 
-### 6.1. Processos
+### Processos
 
 Por default algumas configurações dessa aba são preenchidas automaticamente, mas é possível alterá-las clicando-se no botão “Editar”.
 
@@ -400,7 +400,7 @@ Os valores definidos aqui serão adotados como padrão para a configuração de 
 
 <figure><img src="../../.gitbook/assets/conta13.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-### 6.2. Papel do Signatário
+### Papel do Signatário
 
 Nesta aba são criados os papéis de signatários. Os papéis de signatários serão apresentados ao usuário no momento da configuração dos destinatários / signatários na tela [Novo Processo > Adicionar Documentos e Destinatários > Adicionar Documentos > Destinatários.](../../menu-superior/novo-processo.md#b.-destinatarios)
 
@@ -438,7 +438,7 @@ Para excluir um papel, clique no ícone “Excluir”. Também é possível loca
 
 <figure><img src="../../.gitbook/assets/conta20.png" alt=""><figcaption></figcaption></figure>
 
-### 6.3. Notificações
+### Notificações
 
 **Notificar ao atingir \_\_\_\_ % de uso dos itens da minha assinatura:** Ao preencher esse campo, o usuário será notificado pelo sistema quando o seu consumo do plano atingir determinada porcentagem. Essa configuração será desabilitada no plano com envios ilimitados.
 
@@ -470,9 +470,9 @@ Clicando em “Visualizar Notificação” será possível ver como será aprese
 
 ***
 
-## 7. Aba Termo de Aceite
+## Aba Termo de Aceite
 
-### 7.1. Termo
+### Termo
 
 Nesta aba o usuário pode inserir ou editar o Termo de aceite para Assinatura Eletrônica que é apresentado aos signatários no momento da assinatura de um documento. O objetivo desse termo é assegurar que os signatários aceitaram assinar o documento eletronicamente.
 
@@ -488,7 +488,7 @@ Ao clicar em “Visualizar” o Termo é exibido da forma que será apresentado 
 
 <figure><img src="../../.gitbook/assets/conta28.png" alt=""><figcaption></figcaption></figure>
 
-### 7.2. Histórico de Aceite
+### Histórico de Aceite
 
 Nesta aba são apresentadas todos os Aceites ao Termo de Assinatura Eletrônica realizados por signatários, ou seja, toda vez que um signatário aceitar o Termo de Aceite apresentado a ele, essa ação será registrada e poderá ser consultada nesta tela.
 
