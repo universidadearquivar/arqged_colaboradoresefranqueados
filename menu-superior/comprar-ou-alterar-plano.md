@@ -6,7 +6,7 @@ O botão “Comprar Agora” será exibido para usuários da Conta teste grátis
 
 O botão “Alterar Plano” será exibido para usuários com assinatura de plano pago com data de vencimento próxima (30 dias antes da expiração de planos anuais e 10 dias antes da expiração de planos mensais).&#x20;
 
-## 1. Compra ou alteração de Plano
+## Compra ou alteração de Plano
 
 Para comprar um plano ou alterar o seu plano clique em “Comprar Agora” ou “Alterar plano”. Selecione o plano ideal para o seu negócio, preencha os dados para pagamento e clique em “Finalizar a compra”.
 
@@ -20,7 +20,7 @@ Para comprar um plano ou alterar o seu plano clique em “Comprar Agora” ou �
 
 <figure><img src="../.gitbook/assets/image (493).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-### 1.1. Compra com pagamento por PIX, boleto ou cartão de crédito
+### Compra com pagamento por PIX, boleto ou cartão de crédito
 
 Depois de passar pelo passo a passo de compra ou alteração de plano, o usuário será direcionado para a escolha da forma de pagamento.
 
@@ -50,7 +50,7 @@ Caso o usuário não faça o pagamento, ele recebe a seguinte notificação de c
 <p align="center"><img src="../.gitbook/assets/image (549).png" alt=""></p>
 {% endhint %}
 
-### 1.2. Plano com período TRIAL
+### Plano com período TRIAL
 
 Na tela que seleciona a forma de pagamento, o usuário tem a possibilidade de inserir um cupom que transforma o plano selecionado em um plano com período TRIAL. Dessa forma, ao escolher pagamento por PIX ou boleto, eles são gerados somente ao final do período TRIAL. O usuário recebe um alerta por e-mail o lembrando do término do período TRIAL e enviando o código PIX ou boleto para pagamento.&#x20;
 
