@@ -6,7 +6,7 @@ No menu Conta encontram-se as informações sobre a conta do usuário.
 
 ***
 
-## 1. Aba Dados Fiscais
+## Aba Dados Fiscais
 
 Na aba Dados Fiscais são apresentadas as informações ficais e financeiras do usuário. Os dados informados ao se criar uma conta e adquirir um plano na plataforma ArgSign são apresentados nesta tela.   &#x20;
 
@@ -36,7 +36,7 @@ Nesta aba são apresentadas as seguintes informações do usuário:
 
 ***
 
-## 2. Aba Faturamento e Uso
+## Aba Faturamento e Uso
 
 Na aba Faturamento e Uso é apresentado o histórico de compra da conta do usuário.
 
@@ -54,7 +54,7 @@ Por padrão ao criar uma conta a opção “**Renovação Automática**” será
 
 ***
 
-### 2.1. Alterar forma de pagamento
+### Alterar forma de pagamento
 
 Para alterar a forma de pagamento do plano, clique em “**Alterar Forma de Pagamento**”.&#x20;
 
@@ -75,7 +75,7 @@ Ao alterar a forma de pagamento de PIX ou Boleto para **Cartão de Crédito**, o
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-#### 2.1.1. Alterar cartões de crédito
+#### Alterar cartões de crédito
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2025-11-18 150632.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -85,7 +85,7 @@ Ao acionar este botão, o sistema envia o link de alteração do cartão para o 
 
 <figure><img src="../../.gitbook/assets/image (555).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-#### 2.1.2. Assinatura vencida
+#### Assinatura vencida
 
 Sistema não exibe o botão "Alterar Forma de Pagamento" quando a assinatura da conta está vencida. É exibida a mensagem de "Plano Vencido".
 
@@ -93,7 +93,7 @@ Sistema não exibe o botão "Alterar Forma de Pagamento" quando a assinatura da 
 
 ***
 
-### 2.2. Renovação automática
+### Renovação automática
 
 O campo de Renovação Automática é exibido somente para conta com assinatura vigente de um plano pago.
 
@@ -102,13 +102,13 @@ O campo de Renovação Automática é exibido somente para conta com assinatura 
 
 <figure><img src="../../.gitbook/assets/14.png" alt=""><figcaption></figcaption></figure>
 
-### **2.2.1. Assinatura em período TRIAL**
+### **Assinatura em período TRIAL**
 
 * Ao desmarcar o campo de "Renovação Automática"o sistema exibe mensagem de confirmação para remover a renovação automática.
 
 <figure><img src="../../.gitbook/assets/image (553).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-### **2.2.2. Assinatura sem período TRIAL**
+### **Assinatura sem período TRIAL**
 
 * Para assinatura com forma de pagamento por PIX ou Boleto, o sistema altera a renovação automática da conta em questão.
 * Para assinatura com forma de pagamento por cartão de crédito, sistema atualizar o período de cobrança automática da assinatura na plataforma Cyclopay e alterar a renovação automática da conta em questão.
@@ -117,7 +117,7 @@ O campo de Renovação Automática é exibido somente para conta com assinatura 
 <mark style="color:red;">Quando a assinatura não for localizada na plataforma Cyclopay, o sistema exibe a mensagem "Esta alteração não pode ser realizada. Entre em contato com o suporte técnico." e não alterar a renovação automática.</mark>
 {% endhint %}
 
-#### **2.2.3. Assinatura vencida**
+### **Assinatura vencida**
 
 Sistema não exibe o campo **Renovação Automática** quando a assinatura da conta está vencida.
 
@@ -125,7 +125,7 @@ Sistema não exibe o campo **Renovação Automática** quando a assinatura da co
 
 ***
 
-## 3. Detalhes do plano
+## Detalhes do plano
 
 Ao clicar em “**Detalhes do Plano**” serão exibidos detalhes do plano atual do usuário, como tipo de plano, período de faturamento (mensal ou anual), valor pago no plano, descrição e quantidade dos itens aos quais o plano dá acesso, valores de créditos, créditos excedentes e data de validade do plano.
 
@@ -153,7 +153,7 @@ Se o usuário tiver comprado créditos além daqueles já inclusos no plano clic
 
 ***
 
-## 4. Compras
+## Compras
 
 Na aba Compras é exibido um histórico dos produtos já adquiridos pelo usuário.
 
@@ -214,13 +214,13 @@ Ao clicar em “**Detalhes do plano**” é exibido o detalhamento dos itens que
 
 ***
 
-## 5. Home
+## Home
 
 O sistema exibe alerta e botões de compras, conforme o status, renovação, forma de pagamento e vigência da assinatura da conta .
 
 Os alertas e botões de compras serão exibidos somente para o usuário que possui a permissão 3.1.4.1 - Alterar Plano.
 
-### **5.1. Conta teste grátis ou conta com status bloqueado**
+### **Conta teste grátis ou conta com status bloqueado**
 
 Ao clicar no botão Comprar Agora ou no link Clique aqui, o sistema direciona o usuário para o site (e-commerce) que lista os planos disponíveis para compra.
 
@@ -230,7 +230,7 @@ Ao clicar no botão Comprar Agora ou no link Clique aqui, o sistema direciona o 
 
 
 
-### **5.2. Conta - assinatura com pagamento pendente (PIX ou Boleto)**
+### **Conta - assinatura com pagamento pendente (PIX ou Boleto)**
 
 Ao clicar no botão Pagar Agora ou no link Clique aqui, na Home, o sistema apresenta a modal com os dados de PIX ou boleto para pagamento, conforme nas imagens abaixo:
 
@@ -240,27 +240,27 @@ Ao clicar no botão Pagar Agora ou no link Clique aqui, na Home, o sistema apres
 
 ***
 
-### **5.3. Conta com assinatura próximo de vencer**
+### **Conta com assinatura próximo de vencer**
 
 Conta com status ativo com assinatura de plano diferente de grátis, sem período TRIAL e com período final próximo de vencer.
 
-#### **5.3.1. Forma de pagamento alterada para cartão de crédito**
+#### **Forma de pagamento alterada para cartão de crédito**
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2025-11-18 153953.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Ao clicar no botão Alterar Plano ou no link Clique aqui, o sistema direciona o usuário para o site (e-commerce) que lista os planos disponíveis para compra.
 
-#### 5.3.2. Renovação automática marcada
+### Renovação automática marcada
 
-**5.3.2.1. Forma de pagamento por PIX ou Boleto**
+#### **Forma de pagamento por PIX ou Boleto**
 
 <figure><img src="../../.gitbook/assets/Imagem8.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Ao clicar no botão Alterar Plano, o sistema direciona o usuário para o site (e-commerce) que lista os planos disponíveis para compra.
 
-#### 5.3.2. Renovação automática desmarcada
+### Renovação automática desmarcada
 
-**5.3.2.1. Forma de pagamento por Cartão de Crédito, PIX ou Boleto**
+#### **5.3.2.1. Forma de pagamento por Cartão de Crédito, PIX ou Boleto**
 
 <figure><img src="../../.gitbook/assets/Imagem2.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -278,11 +278,11 @@ Ao clicar no botão Alterar Plano ou no link Clique aqui, o sistema direciona o 
 
 
 
-### 5.4. Conta com assinatura vencendo no dia
+### Conta com assinatura vencendo no dia
 
 Conta com status ativo com assinatura de plano diferente de grátis, sem período TRIAL e com período final vencendo no dia.
 
-#### **5.4.1. Forma de pagamento alterada para cartão de crédito**
+#### **Forma de pagamento alterada para cartão de crédito**
 
 <figure><img src="../../.gitbook/assets/Imagem3.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
