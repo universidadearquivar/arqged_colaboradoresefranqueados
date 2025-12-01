@@ -153,7 +153,7 @@ Se o usuário tiver comprado créditos além daqueles já inclusos no plano clic
 
 ***
 
-## Compras
+### Compras
 
 Na aba Compras é exibido um histórico dos produtos já adquiridos pelo usuário.
 
