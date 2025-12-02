@@ -1,11 +1,13 @@
 # 🟩 Devolução
 
-{% @supademo/embed demoId="cm8ekr5m22oh12ugqub7m3358" url="https://app.supademo.com/demo/cm8ekr5m22oh12ugqub7m3358" %}
+{% embed url="https://app.supademo.com/demo/cm8ekr5m22oh12ugqub7m3358" %}
+Clique na legenda e siga o passo a passo.
+{% endembed %}
 
 Depois de receber e concluir a consulta aos documentos físicos, caixas e ou subcaixas, o cliente deverá devolvê-los para a guarda, sendo a guarda realizada na Unidade Arquivar (Guarda Terceirizada) ou no CEDOC do cliente (Guarda Interna), o processo no sistema precisa ser realizado para registro da movimentação.
 
 {% hint style="danger" %}
-<mark style="color:red;">**Caso o cliente não possua o serviço de**</mark> [<mark style="color:blue;">**Devolução de Caixa**</mark>](../cliente/contratos/aba-servico/regras-de-faturamento-por-tipo-de-servico.md#devolucao-de-caixa) <mark style="color:red;">**ou**</mark> [**Devolução de Documento**](../cliente/contratos/aba-servico/regras-de-faturamento-por-tipo-de-servico.md#devolucao-de-documentos) <mark style="color:red;">**cadastrados no contrato, não será possível prosseguir com a validação da devolução.**</mark>
+<mark style="color:red;">**Caso o cliente não possua o serviço de**</mark> [<mark style="color:blue;">**Devolução de Caixa**</mark>](../cliente/contratos/aba-servico/regras-de-faturamento-por-tipo-de-servico.md#devolucao-de-caixa) <mark style="color:red;">**ou**</mark> [**Devolução de Documento**](../cliente/contratos/aba-servico/regras-de-faturamento-por-tipo-de-servico.md#devolucao-de-documentos) <mark style="color:red;">**cadastrados no contrato, não será possível prosseguir com a validação da devolução.**</mark> &#x20;
 {% endhint %}
 
 Para realizar a devolução, o cliente precisa abrir uma solicitação no menu Solicitação > Devolução.
