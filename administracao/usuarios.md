@@ -4,11 +4,11 @@
 
 No menu Usuários são criados todos os usuários que utilizam o sistema ArqGED e atribuídas as permissões de acesso às funcionalidades do sistema. &#x20;
 
-<figure><img src="../.gitbook/assets/admin4.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (361).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ## Criar novo usuário
 
-<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (362).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Empresa:** Selecione o nome do cliente que deseja.
 
@@ -16,7 +16,9 @@ No menu Usuários são criados todos os usuários que utilizam o sistema ArqGED 
 
 ### Aba Usuário
 
-<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (363).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Realize o preenchimento das informações exibidas na tela.
 
 **Nome:** Informe o nome completo do usuário.
 
