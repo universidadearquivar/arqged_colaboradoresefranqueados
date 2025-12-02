@@ -79,6 +79,7 @@
 
 ## NOVIDADES DO ARQSIGN
 
+* [▫️ Compras com pagamento por PIX e Boleto](novidades-do-arqsign/compras-com-pagamento-por-pix-e-boleto.md)
 * [▫️ Importação de Contatos](novidades-do-arqsign/importacao-de-contatos.md)
 * [▫️ Nova possibilidade de filtro](novidades-do-arqsign/nova-possibilidade-de-filtro.md)
 * [▫️ Fevereiro | 2025](novidades-do-arqsign/fevereiro-or-2025.md)
