@@ -8,7 +8,7 @@ description: Novembro/2025
 
 <summary>Compras com pagamento por PIX e Boleto</summary>
 
-Foram incluídas mais duas formas de pagamento para as compras realizadas na plataforma ArqSign. Agora para comprar um plano ou para comprar créditos, o usuário conta com mais duas opções de pagamento: PIX e Boleto.
+Foram incluídas mais duas formas de pagamento para as compras realizadas na plataforma ArqSign. Agora para comprar um plano ou para comprar créditos, o usuário conta com mais duas opções de pagamento: [PIX e Boleto.](../menu-superior/comprar-ou-alterar-plano.md#compra-ou-alteracao-de-plano)
 
 </details>
 
