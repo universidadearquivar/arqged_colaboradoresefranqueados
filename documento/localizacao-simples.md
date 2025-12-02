@@ -1,6 +1,6 @@
 # 🟩 Localização Simples
 
-{% @supademo/embed %}
+{% @supademo/embed demoId="cmazfqpr799dpho3ruv0m8rio" url="https://app.supademo.com/demo/cmazfqpr799dpho3ruv0m8rio" %}
 
 A Localização Simples funciona como uma busca geral, ou seja, é necessário apenas informar um termo ou código que se esteja buscando e selecionar o cliente ao qual o documento que se busca está relacionado.
 
@@ -64,7 +64,9 @@ O relatório gerado sempre mostrará os resultados separados por nó da árvore 
 
 <figure><img src="../.gitbook/assets/doc39.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-Relatórios com menos de 20 mil linhas, são exibidos na tela do usuário no momento da solicitação. Já os relatórios com mais de 20 mil linhas, a solicitação é encaminhada para a lista de [Download em Massa](download-em-massa.md).
+{% hint style="warning" %}
+<mark style="color:orange;">Relatórios com menos de 20 mil linhas, são exibidos na tela do usuário no momento da solicitação. Já os relatórios com mais de 20 mil linhas, a solicitação é encaminhada para a lista de</mark> [<mark style="color:orange;">Download em Massa</mark>](download-em-massa.md)<mark style="color:orange;">.</mark>
+{% endhint %}
 
 ### Assinatura
 
