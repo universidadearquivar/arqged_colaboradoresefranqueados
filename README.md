@@ -1,196 +1,344 @@
-# 💻 Visão Geral da Plataforma 2.23.0
+# 🟢 Página inicial
 
-## Características da plataforma
+{% embed url="https://app.heygen.com/videos/da6ffe6e098849e29676a1a12e419098" %}
 
-**ArqSign** é uma plataforma completa e segura de **automatização**, **assinatura digital** e **gerenciamento de documentos**, voltada para empresas que buscam automatizar e desburocratizar seus processos com agilidade, conformidade legal e escalabilidade.&#x20;
+Bem-vindo(a) ao guia do sistema ArqGED da Arquivar!
 
-Com foco em **eficiência operacional e experiência do usuário**, a ArqSign permite a criação, automatização, envio, assinatura, armazenamento e gerenciamento de documentos digitais com validade jurídica e praticidade total.&#x20;
+O software ArqGED é um BPM (Business Process Management), desenvolvido pela Arquivar que **possibilita a gestão de processos, a digitalização, o gerenciamento e o armazenamento de documentos** importantes em um ambiente virtual seguro, acessível apenas por usuários autorizados.
 
-A plataforma se destaca por sua **flexibilidade**, oferecendo **planos sob medida, API aberta, integrações nativas com diversos softwares**, e um time de suporte técnico altamente preparado. &#x20;
-
-É possível assinar usando **certificado digital próprio ou não com 100% de validade jurídica**, enviar documentos por e-mail ou WhatsApp, configurar **processos automatizados** e controlar todo o ciclo de vida do documento em um só lugar.&#x20;
-
-Além disso, a ArqSign é parceira estratégica de empresas de tecnologia e setores como **saúde, jurídico, contabilidade, RH, imobiliário, transporte, serviços, etc.**, oferecendo **APIs robustas** para integrações personalizadas e atendendo a requisitos específicos de cada vertical de mercado.&#x20;
-
-O usuário pode acessar os documentos enviados e recebidos para assinatura a qualquer hora, de qualquer lugar, em qualquer dispositivo – celular, computador, tablet – sem perder a segurança e a criptografia dos dados, conforme a LGPD (Lei Geral de Proteção de Dados).
-
-O signatário, pode assinar os documentos através de e-mail, WhatsApp ou sua conta ArqSign caso tenha.
-
-{% hint style="info" %}
-<mark style="color:blue;">**ASSINATURA ELETRÔNICA X ASSINATURA DIGITAL (ICP Brasil e Outros certificados digitais)**</mark>
-
-<mark style="color:blue;">Assinatura eletrônica é aquela que não precisa de um certificado digital. É mais utilizada para assinar contratos e documentos entre entes privados (B2B, B2C).</mark>
-
-<mark style="color:blue;">Assinatura digital é aquela que precisa de um certificado digital. É mais utilizada para emissão de notas fiscais e para transações com o governo.</mark>
-
-<mark style="color:blue;">Na Plataforma ArqSign, ao configurar um fluxo de assinaturas você pode determinar qual tipo de assinatura deverá ser executada por destinatário escolhendo entre:</mark>
-
-<mark style="color:blue;">a) Assinatura eletrônica: A ArqSign produz assinaturas eletrônicas avançadas com validade jurídica de acordo com MP 2.200-2 de 24/08/2001 e Lei 14.063 de 23/11/2020). Sempre que um signatário assina um documento de forma eletrônica a ArqSign aplica um certificado digital próprio da plataforma, capturando o Hash (identificação única) do arquivo, verificando a integridade do arquivo e anexando ao certificado a identificação do signatário.</mark>
-
-<mark style="color:blue;">b) Assinatura digital – ICP-Brasil: A ArqSign produz assinaturas digitais qualificadas de acordo com MP 2.200-2 de 24/08/2001 e Lei 14.063 de 23/11/2020). Quando o usuário já possui um certificado digital e deseja utilizá-lo para realizar a assinatura por meio da ArqSign, este certificado é utilizado para verificar a integridade do documento e identificar o usuário como signatário nas propriedades do arquivo.</mark>
-{% endhint %}
+Neste guia você encontrará diversos conteúdos que te ajudarão a utilizar nossa ferramenta da melhor forma. Utilize a navegação à esquerda para conhecer as funcionalidades de cada menu do software ArqGED.
 
 ***
 
-## Usuário e Signatário
+## Autenticação – MFA
 
-### Usuário na Plataforma ArqSign&#x20;
+### Login com MFA (Autenticação Multifator)
 
-O **usuário** é a pessoa que utiliza a **Plataforma ArqSign** para **enviar documentos, acompanhar processos de assinatura, coletar assinaturas, acessar e gerir arquivos digitais**. Todo usuário precisa estar vinculado a uma **conta ArqSign** e pode, eventualmente, também atuar como **signatário** ao ser designado para assinar um documento.&#x20;
+O "Login com MFA" refere-se ao acesso por meio de autenticação multifator. A sigla MFA (do inglês _Multifactor Authentication_) representa um método de segurança que exige que o usuário forneça duas ou mais formas de autenticação para acessar uma aplicação.
 
-Os usuários podem ser atribuídos com diferentes **perfis de permissão** dentro da plataforma:&#x20;
+Essa abordagem adiciona uma camada extra de proteção, tornando o acesso não autorizado mais difícil, mesmo que a senha do usuário seja comprometida.
 
-* **Remetente de Documentos:** \
-  Perfil com acesso limitado. Pode enviar documentos e acompanhar suas assinaturas, mas **não possui acesso às configurações de gestão da conta**, como usuários ou pastas.&#x20;
-* **Administrador Global:** \
-  Perfil com acesso total à plataforma. Pode **gerenciar usuários, pastas, configurações da conta**, além de enviar e acompanhar documentos.&#x20;
+**Como funciona no ArqGED**
 
-### Signatário na Plataforma ArqSign&#x20;
+No ArqGED, o processo de login com MFA funciona da seguinte forma:
 
-O **signatário** é qualquer pessoa física ou jurídica que **participa do processo de assinatura de um documento** na ArqSign. \
-Importante: o signatário **não precisa ter uma conta ou ser um usuário ativo da plataforma** para assinar um documento. Ele recebe o link de assinatura por e-mail ou WhatsApp e pode assinar com ou sem certificado digital, conforme configurado pelo remetente.&#x20;
+**1.** O usuário informa seu **nome de usuário e senha.**
 
-***
+**2.** Em seguida, deverá informar um **código de verificação.**
 
-## Site da plataforma ArqSign
+Esse código é **dinâmico** e muda a cada tentativa de login.
 
-O site da [ArqSign ](https://arquivar.com.br/arqsign/)apresenta todas as informações e funcionalidades da plataforma, além das características dos planos de assinatura. Na homepage o usuário também terá acesso à página de login da plataforma e à criação de uma conta teste grátis.
+O código pode ser obtido de duas maneiras:
 
-{% embed url="https://app.supademo.com/demo/cm9suwxzw088r11m7hz8648nm" %}
+**Via Aplicativo Autenticador** O usuário pode escolher entre diversos aplicativos gratuitos disponíveis no mercado, como:
 
-***
+* Google Authenticator
+* Microsoft Authenticator
 
-### Suporte técnico e atendimento ao cliente
+Para utilizar essa opção, é necessário instalar o aplicativo escolhido no celular e seguir as instruções de configuração no ArqGED.
 
-Se precisar de ajuda ou atendimento, é simples:&#x20;
+**Via E-mail** O código de verificação será enviado para o e-mail cadastrado no usuário. Para utilizar essa opção, é preciso validar previamente o e-mail seguindo o fluxo indicado no ArqGED.
 
-* **Dentro da Plataforma ArqSign:** \
-  No canto inferior esquerdo da tela, clique no ícone de **Chat** para falar diretamente com nosso time.&#x20;
-* **Pelo site da ArqSign:** \
-  Acesse o site oficial e utilize o **ícone do chat ou WhatsApp**, localizado nos cantos inferiores da página, para entrar em contato rapidamente com nossa equipe.&#x20;
+**Recomendação importante**
 
-### Canais de Relacionamento – ArqSign&#x20;
+É altamente recomendável que o usuário **configure as duas opções de MFA** (Aplicativo Autenticador e E-mail). Dessa forma, caso esteja sem acesso ao celular, poderá utilizar o e-mail para receber o código — e vice-versa.
 
-Caso precise de suporte, informações comerciais ou ajuda com a plataforma, fale com a gente por um dos canais abaixo:&#x20;
+**Usuários com acesso via SSO**
 
-Suporte ao Cliente:&#x20;
+Usuários de clientes que utilizam **SSO (Single Sign-On)** para acessar o ArqGED **não utilizarão o MFA do ArqGED**, uma vez que a autenticação com múltiplos fatores estará configurada e gerenciada diretamente pelo SSO do cliente.
 
-📱 **WhatsApp**: +55 (31) 97119-8269&#x20;
+### Impor Autenticação MFA
 
-☎️ **Telefone**: 4003-8839&#x20;
+A autenticação MFA será **obrigatória para todos os usuários de Unidade.** Dessa forma, ao acessarem o ArqGED pela primeira vez após a publicação dessa funcionalidade, esses usuários serão direcionados automaticamente para o fluxo de configuração do MFA. Será necessário configurar **pelo menos uma opção de autenticação** antes de terem acesso completo ao ArqGED.
 
-📧 **E-mail**: faleconosco@arqsign.com&#x20;
+Para os **usuários do Cliente**, o uso do MFA será **opcional por padrão**.
 
-Estamos prontos para te atender com agilidade e eficiência!&#x20;
+Caso o cliente deseje obrigar o uso de MFA solicite a Arquivar a imposição desta configuração para seus usuários.\
+No entanto, caso o Cliente deseje tornar o uso do MFA obrigatório, será necessário marcar a opção **"Impor autenticação MFA"** no cadastro da conta do Cliente, conforme ilustrado na imagem abaixo:
 
-***
+<figure><img src=".gitbook/assets/image (257).png" alt=""><figcaption></figcaption></figure>
 
-## Características dos planos de assinatura
+### Configuração do MFA: via Login
 
-### Plano gratuito
+O primeiro acesso dos usuários de **Unidade ou Cliente** com a configuração de **"Impor autenticação MFA"**, seguirá o fluxo abaixo:
 
-A conta de teste gratuito da Plataforma ArqSign oferece ao usuário quase todas as funcionalidades e recursos da conta paga, incluindo envio de documentos para assinatura com ou sem certificado digital, criação de pastas dedicadas para gestão de documentos, importação de certificado digital ICP-Brasil A1 e integração com outros sistemas. Durante um período de 15 dias o usuário poderá realizar envios de documentos para assinatura de forma gratuita.
+**a)** Na tela inicial, o usuário deve inserir seu **nome de usuário, senha, captcha e clicar no botão “Entrar”**, conforme ilustrado abaixo:
+
+<figure><img src=".gitbook/assets/image (256).png" alt="" width="313"><figcaption></figcaption></figure>
+
+Ao clicar no botão **“Entrar”**, o sistema redirecionará automaticamente para uma nova tela com instruções passo a passo para configuração da autenticação.
+
+**b)** Nesta tela será exibido:
+
+* O nome do usuário autenticado.
+* A informação de que o MFA foi imposto pela organização.
+* Os passos necessários para configurar a autenticação via aplicativo ou e-mail.
+
+<div align="left"><figure><img src=".gitbook/assets/image (201).png" alt="" width="326"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/image (202).png" alt="" width="322"><figcaption></figcaption></figure></div>
+
+Enquanto o usuário não possuir nenhuma configuração, como primeiro passo, o usuário poderá escolher qual deseja configurar primeiro:
+
+* Aplicativo Autenticador
+* E-mail cadastrado no ArqGED
+
+**c)** Ao escolher a opção **“Aplicativo Autenticador”**, a tela exibe os passos que deverão ser seguidos, conforme abaixo:
+
+<figure><img src=".gitbook/assets/image (203).png" alt="" width="493"><figcaption></figcaption></figure>
+
+* Para iniciar, deve-se baixar um aplicativo autenticador para o celular;
+* Abrir o aplicativo instalado e ler o QRCode que está sendo exibido na tela do ArqGED.
+
+**Nota:** Consultar ao final deste documento “Anexo 1 – Como usar o Microsoft Authenticator” e “Anexo 2 – Como usar o Google Authenticator”.
+
+* Após a leitura do QRCode, o aplicativo autenticador exibirá um código na tela. Este código deve ser inserido no passo 4, conforme indicado abaixo:
+
+<figure><img src=".gitbook/assets/image (204).png" alt="" width="479"><figcaption></figcaption></figure>
+
+* Com o código de verificação inserido no campo conforme a imagem, deve-se clicar no botão **“Avançar”**. Neste momento o usuário será direcionado para a tela com a mensagem sucesso.
+* Quando o usuário terminar de configurar o “Aplicativo Autenticador” e ainda faltar a configuração do “E-mail”, a tela além de exibir a mensagem de sucesso, exibira os botões “Entrar no ArqGED” ou “Configurar Outra Opção”.
+
+<figure><img src=".gitbook/assets/image (205).png" alt="" width="447"><figcaption></figcaption></figure>
+
+Se o usuário escolher “Configurar outra opção”, ele entrará no fluxo de configuração do e-mail. Se ele escolher “Entrar no ArqGED”, ele será autenticado na aplicação, mas em seu próximo login, será lembrado de configurar o e-mail.
+
+* Quando o usuário terminar de configurar o “Aplicativo Autenticador” e o “E-mail” já estiver configurado também, a tela a ser exibida terá somente a mensagem de sucesso e o botão “Entrar no ArqGED”.
+
+<figure><img src=".gitbook/assets/image (206).png" alt="" width="443"><figcaption></figcaption></figure>
+
+**d)** Ao escolher a opção **“E-mail cadastrado no ArqGED”**, a tela exibe os passos que deverão ser seguidos, conforme abaixo:
+
+<figure><img src=".gitbook/assets/image (207).png" alt="" width="495"><figcaption></figcaption></figure>
+
+* Deve-se conferir se o e-mail que está sendo exibido na tela está correto. Se estiver correto o usuário poderá prosseguir com a configuração, se não estiver correto, deve-se entrar em contato com o usuário Administrador para corrigir este e-mail.
+* Estando o e-mail correto, o usuário deverá clicar em **“Enviar código”**. Neste momento a aplicação enviará um código de verificação para o e-mail do usuário através do remente [autenticacao@arquivar.com](mailto:autenticacao@arquivar.com), com o assunto **Código segurança MFA**.
+
+<figure><img src=".gitbook/assets/image (208).png" alt="" width="503"><figcaption></figcaption></figure>
+
+* Este código deverá ser inserido no passo 3, conforme a imagem a seguir.
+
+<figure><img src=".gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
+
+* Com o código de verificação inserido no campo conforme a imagem, ao clicar no botão “Avançar”, o usuário será direcionado para a tela com a mensagem sucesso.
+* Quando o usuário terminar de configurar o “E-mail” e ainda faltar a configuração do “Aplicativo Autenticador”, a tela além de exibir a mensagem de sucesso, exibira os botões “Entrar no ArqGED” ou “Configurar Outra Opção”.
+* Se o usuário escolher “Configurar outra opção”, ele entrará no fluxo de configuração do Aplicativo Autenticador. Se ele escolher “Entrar no ArqGED”, ele será autenticado na aplicação, mas em seu próximo login, será lembrado de configurar o Aplicativo Autenticador.
+
+<figure><img src=".gitbook/assets/image (210).png" alt="" width="490"><figcaption></figcaption></figure>
+
+* Quando o usuário terminar de configurar o “Email” e o “Aplicativo Autenticador” já estiver configurado também, a tela a ser exibida terá somente a mensagem de sucesso e o botão “Entrar no ArqGED”.
+
+<figure><img src=".gitbook/assets/image (211).png" alt="" width="451"><figcaption></figcaption></figure>
+
+O fluxo de configuração via Login conforme descrito, somente será exibido aos usuários que ainda não possuem configuração de MFA e que atendam aos requisitos abaixo:
+
+* Usuários de Unidade; ou
+* Usuários dos Cliente que em seu cadastro possuem a flag “Impor Autenticação MFA” marcada.
+
+### Configuração do MFA: Acessar o menu via ArqGED
+
+Todos os usuários do ArqGED, exceto os que utilizam SSO para autenticar, poderão acessar as configurações de MFA, pelo menu abaixo:
+
+<figure><img src=".gitbook/assets/image (293).png" alt=""><figcaption><p>Clique na imagem para am</p></figcaption></figure>
+
+Ao acessar a tela de “MFA – Autenticação Multifator”, serão exibidas as duas opções de configuração: Aplicativo Autenticador e Email.
+
+As possíveis telas são:
+
+**a) Quando nenhuma opção estiver configurada ainda:**
+
+A tela abaixo será exibida para usuários de Clientes que não possuem configuração de MFA imposta ou para usuários que acabaram de excluir a configuração de aplicativo ou teve seu e-mail alterado.
+
+Quando nenhuma das opções estiverem configuradas, o usuário poderá realizar as duas configurações usando o link “Configurar”.
+
+<figure><img src=".gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
+
+**b) Quando todas as opções estiverem configuradas:**
+
+Quando as duas opções de configuração estiverem concluídas no ArqGED, o usuário poderá escolher qual será o seu padrão de autenticação, ou seja, qual o ArqGED irá solicitar no ato do login.
+
+A escolha da opção padrão, deve ser feita pelo link “Definir como padrão”.
+
+<figure><img src=".gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Na conta de teste grátis não é permitida a inclusão de outros usuários, ou seja, somente o proprietário pode acessar e gerenciar os documentos enviados e recebidos para assinatura.**</mark>
+<mark style="color:orange;">**Nota:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Observe que na configuração de</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**“Aplicativo Autenticador”**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">existe a opção</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**“Excluir”**</mark><mark style="color:orange;">. O usuário deve usar este recurso quando quiser trocar de celular ou resetar o acesso pelo aplicativo, então primeiro ele deve</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**“Excluir”**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">a configuração anterior no ArqGED, e seguir novamente os passos de configuração no novo celular.</mark>
 
-<mark style="color:orange;">**A criação de conta teste grátis é permitida a qualquer usuário que não possua e-mail cadastrado a outras contas testes grátis da plataforma ArqSign.**</mark>
+<mark style="color:orange;">Observe também que para o e-mail não existe a opção de excluir, mas sempre que</mark>[ <mark style="color:orange;">o e-mail do usuário</mark> ](administracao/usuarios.md#aba-usuario)<mark style="color:orange;">for alterado, caso ele esteja sendo usado como opção de MFA, a sua configuração será excluída e o usuário precisará passar pelo processo de validação do e-mail novamente antes de usar este novo e-mail como opção de MFA.</mark>
 {% endhint %}
 
-#### Criação de Conta Teste Grátis
+**c) Quando somente aplicativo configurado:**
 
-1\. Para criar uma conta teste grátis, acesse [https://arquivar.com.br/arqsign-conta-teste-gratis/](https://arquivar.com.br/arqsign-conta-teste-gratis/) ou na página inicial do site da plataforma ArqSign, clique em “**Teste Grátis**”.
+Quando o usuário possuir somente o **“Aplicativo Configurado”**, esta será a sua opção padrão para autenticação.
 
-2\. O usuário será redirecionado para a página de criação de conta teste grátis, onde deverá informar seu e-mail e clicar em “**Começar agora**”.
+Neste caso, a opção de e-mail será exibida com pendência de configuração, e um botão **“Configurar”** estará disponível para o usuário concluir este processo.
 
-3\. Depois, deverá informar os dados solicitados e criar senha, obedecendo aos requisitos mínimos de segurança (mínimo de oito caracteres, contendo pelo menos uma letra maiúscula, uma letra minúscula, um número e um caractere especial) e clicar em “Começar agora” e depois em “Acessar minha conta”.
+<figure><img src=".gitbook/assets/image (215).png" alt=""><figcaption></figcaption></figure>
+
+**Nota:** Observe que na configuração de “Aplicativo Autenticador” existe a opção “Excluir”. O usuário deve usar este recurso quando quiser trocar de celular, então primeiro ele deve “Excluir” a configuração anterior no ArqGED, e seguir novamente os passos de configuração no novo celular.
+
+**d) Quando somente e-mail configurado:**
+
+Quando o usuário possuir somente o **“E-mail”** configurado, esta será a sua opção padrão para autenticação.
+
+Neste caso, a opção de Aplicativo será exibida com pendência de configuração, e um botão **“Configurar”** estará disponível para o usuário concluir este processo.
+
+<figure><img src=".gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
+
+**Nota:** Observe que para o e-mail não existe a opção de excluir, mas sempre que o e-mail do usuário for alterado, caso ele esteja sendo usado como opção de MFA, a sua configuração será excluída e o usuário precisará passar pelo processo de validação do e-mail novamente antes de usar este novo e-mail como opção de MFA.
+
+### Configuração do MFA: Fluxo via ArqGED
+
+Após autenticar no ArqGED, o usuário poderá acessar o menu **“MFA – Autenticação Multifator”**, conforme tela abaixo:
+
+<figure><img src=".gitbook/assets/image (5) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+
+A aplicação irá exibir as duas opções disponíveis, conforme tela abaixo:
+
+<figure><img src=".gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
+
+Caso falte alguma para configurar, o usuário poderá seguir o fluxo de configuração conforme descrito a seguir:
+
+**a) Fluxo de Configuração do Aplicativo**
+
+Para iniciar o fluxo de configuração do aplicativo, o usuário deverá pressionar o link **“Configurar”** conforme mostra abaixo:
+
+<figure><img src=".gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
+
+Na sequência a aplicação exibirá a tela conforme abaixo, e o usuário deverá seguir as instruções desta tela para finalizar a configuração do aplicativo (Os passos são os mesmos descritos no tópico 3, letra C:
+
+<figure><img src=".gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
+
+Ao finalizar a configuração do aplicativo, a aplicação voltará para a tela abaixo, mostrando o aplicativo configurado:
+
+<figure><img src=".gitbook/assets/image (222).png" alt=""><figcaption></figcaption></figure>
+
+**b) Fluxo de Configuração do Email**
+
+Para iniciar o fluxo de configuração do e-mail, o usuário deverá pressionar o link **“Configurar”** conforme mostra abaixo:
+
+<figure><img src=".gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
+
+Na sequência a aplicação exibirá a tela conforme abaixo, e o usuário deverá seguir as instruções desta tela para finalizar a configuração do aplicativo (Os passos são os mesmos descritos no tópico 3, letra D):
+
+<figure><img src=".gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (225).png" alt=""><figcaption></figcaption></figure>
+
+Ao finalizar a configuração do e-mail, a aplicação voltará para a tela abaixo, mostrando o aplicativo configurado:
+
+<figure><img src=".gitbook/assets/image (226).png" alt=""><figcaption></figcaption></figure>
+
+### Fluxo de Login: Quando o usuário possuir somente uma configuração de MFA
+
+Mesmo para os usuários com o uso de MFA obrigatório, ele poderá configurar somente uma opção e na sequência escolher **“Entrar no ArqGED”**, conforme vimos nas telas abaixo:
+
+<figure><img src=".gitbook/assets/image (227).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (228) (1).png" alt=""><figcaption></figcaption></figure>
+
+Vimos também que um usuário de Cliente que não possui a configuração imposta, poderá optar por usar o MFA, fazendo a configuração do mesmo não no fluxo de login, mas dentro do ArqGED. E neste caso também será permitido configurar somente uma opção deixando a outra para configurar mais tarde.
+
+Desta forma, sempre que o usuário possuir somente uma opção de MFA configurada, assim que ele informar seu usuário, senha, captcha e clicar para **“Entrar”** na tela de login, ele será direcionado para uma das duas telas abaixo:
+
+<figure><img src=".gitbook/assets/image (230).png" alt="" width="386"><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (231).png" alt="" width="335"><figcaption></figcaption></figure>
+
+Nesta tela, o usuário poderá escolher entrar no ArqGED com o MFA já configurado, ou entrar no fluxo de configuração da outra opção de MFA faltante.
+
+Sempre que o usuário já possuir o Aplicativo configurado, e via tela de login, entrar no fluxo de configuração do e-mail, a tela a ser exibida será a abaixo. Observe que no passo 1 desta tela, somente existe a opção de e-mail disponível e ela já se encontra marcada:
+
+<figure><img src=".gitbook/assets/image (232).png" alt=""><figcaption></figcaption></figure>
+
+Sempre que o usuário já possuir o E-mail configurado, e via tela de login, entrar no fluxo de configuração do aplicativo, a tela a ser exibida será a abaixo. Observe que no passo 1 somente existe a opção de aplicativo disponível e ela já se encontra marcada:
+
+<figure><img src=".gitbook/assets/image (233).png" alt=""><figcaption></figcaption></figure>
+
+Observe também que no rodapé destas duas telas possui a opção **“Voltar para tela anterior”**, isso é possível porque como o usuário já possui uma opção de MFA configurada, ele pode desistir do fluxo de configuração e voltar para a tela anterior e então decidir entrar no ArqGED.
+
+### Fluxo de Login: Quando o usuário possuir as duas opções de configuração de MFA
+
+Quando o usuário já estiver com as duas opções de MFA configurada, o fluxo de login será conforme abaixo:
+
+**a)** Na tela inicial, o usuário deve inserir seu **nome de usuário, senha, captcha e clicar no botão “Entrar”**, conforme ilustrado abaixo:
+
+<figure><img src=".gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
+
+**b)** Assim que o usuário clicar no botão **“Entrar”**, a aplicação seguirá para a tela onde se informa o código MFA. Se a opção padrão do usuário for o **“Aplicativo Autenticador”** então será exibida a tela abaixo:
+
+<figure><img src=".gitbook/assets/image (235).png" alt=""><figcaption></figcaption></figure>
+
+Se a opção padrão do usuário for do **“Email”** então será exibida a tela abaixo:
+
+<figure><img src=".gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>
+
+Observe que quando o usuário possuir as duas configurações de MFA, mesmo exibindo a sua opção padrão como primeira opção, a aplicação o permitirá usar a outra opção, clicando em **“Informar o código do aplicativo configurado”** ou **“Enviar código para o e-mail”**.
+
+<figure><img src=".gitbook/assets/image (237).png" alt="" width="312"><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (238).png" alt="" width="335"><figcaption></figcaption></figure>
+
+**Nota:** A opção de MFA default (padrão) será a que foi configurada primeiro pelo usuário. Mas o usuário poderá trocar a sua preferência após logar no ArqGED, conforme no tópico 4, letra b.
+
+**c)** Se o usuário for usar o aplicativo, então ele deve abrir o aplicativo no celular e o código que estiver sendo exibido para o ArqGED, o usuário deve informar no campo da tela abaixo e clicar no botão **“Entrar”.**
+
+<figure><img src=".gitbook/assets/image (239).png" alt=""><figcaption></figcaption></figure>
+
+**d)** Se o usuário for usar o e-mail, então ele deve abrir o seu e-mail e identificar a mensagem enviada pelo remetente [autenticacao@arquivar.com](mailto:autenticacao@arquivar.com), com o assunto Código segurança MFA.
+
+<figure><img src=".gitbook/assets/image (240).png" alt="" width="511"><figcaption></figcaption></figure>
+
+O código desta mensagem deve ser inserido na tela abaixo:
+
+<figure><img src=".gitbook/assets/image (236) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Ao término do período de teste, o usuário poderá continuar acessando a plataforma normalmente, mas para realizar novos processos deverá adquirir um plano.**</mark>
+<mark style="color:orange;">**Importante: Uma vez autenticado com o uso do MFA com sucesso, a aplicação irá solicitar novamente o MFA naquele dia somente se:**</mark>
+
+* <mark style="color:orange;">**O usuário clicar no botão “Sair” do ArqGED, no canto superior direito da tela.**</mark>
+* <mark style="color:orange;">**O usuário usar outro computador para acessar o ArqGED.**</mark>
+* <mark style="color:orange;">**O usuário no mesmo computador usar outro navegador para acessar o ArqGED.**</mark>
 {% endhint %}
 
-***
+### Anexo I: Como usar o Microsoft Authenticator
 
-### Planos pagos
+<div align="left"><figure><img src=".gitbook/assets/image (242).png" alt="" width="195"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/image (243).png" alt="" width="193"><figcaption></figcaption></figure></div>
 
-Ao contratar um plano ArqSign, você terá acesso a um número de **processos** de assinatura de acordo com cada plano. Os processos de assinatura contemplados no plano podem ser enviados por e-mail ou WhatsApp.
+Clicar no botão **“Adicionar conta”** irá abrir outra tela. Nesta tela deve ser escolhido a opção **“Outro (Google, Facebook, etc...)”**. A câmera do celular será aberta para digitalização do QR code na tela.
 
-Para envio de processos via WhatsApp, é necessário que a conta tenha a disponibilidade de processos e de créditos para WhatsApp já que neste caso, é por meio de uma integração com o WhatsApp Oficial é feito o envio do processo. Para contratar créditos de WhatsApp, depois de autenticado na plataforma acesse o menu “Comprar Créditos”. A cobrança será por mensagem. No envio de um processo são gastos por signatário duas mensagens (uma para envio do processo para assinatura e uma para envio do documento assinado ao final do processo).
+<div align="left"><figure><img src=".gitbook/assets/image (244).png" alt="" width="288"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/image (245).png" alt="" width="233"><figcaption></figcaption></figure></div>
 
-Para envio de processos via e-mail é necessário que a conta tenha disponibilidade de processos, já que a própria Plataforma ArqSign executa o envio do processo. Caso os processos contemplados no plano do usuário se esgotem, ele também poderá adquirir créditos extras de processos acessando o menu “Comprar Créditos”, depois de autenticado na plataforma.
+A leitura do QR code, irá gerar um código de verificação na tela que deve ser inserido no passo 4, conforme explicado.
 
-Todos os planos pagos possuem as mesmas funcionalidades. A única diferença está no número de processos de cada pacote e a disponibilização entre planos anuais e mensais.
+### Anexo I: Como usar o Google Authenticator
 
-#### Cobrança dos planos pagos
+Tela inicial do aplicativo. Não há necessidade de realizar login para utilização.
 
-A base de cobrança de cada plano é o processo de assinatura. Um processo, pode conter vários arquivos e assinaturas e ainda assim, será descontado apenas um processo do plano.
+<div align="left"><figure><img src=".gitbook/assets/image (246).png" alt="" width="189"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/image (247).png" alt="" width="194"><figcaption></figcaption></figure></div>
 
-Para os planos mensais, você paga uma mensalidade ao contratar o plano e já começa a utilizar a ferramenta. Mensalmente no mesmo dia da compra haverá o faturamento da mensalidade automaticamente no mesmo cartão, a não ser que você desabilite a renovação automática.
+Clicar no botão **“Adicionar um código”** irá exibir uma tela para leitura do QrCorde ou a inserção da chave.
 
-Para os planos anuais há opção de aquisição em até 12 parcelas sem juros no cartão.
+Utilizar a opção **“Ler QR code”** irá abrir a câmera do celular, que deve ser direcionada para o código na tela do ArqGED.
 
-#### Comprando um plano
+<div align="left"><figure><img src=".gitbook/assets/image (248).png" alt="" width="208"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/image (249).png" alt="" width="201"><figcaption></figcaption></figure></div>
 
-1\. Para adquirir um plano, na página inicial do site da [ArqSign](https://arquivar.com.br/arqsign/), clique em “Planos e Preços” no menu superior.
+Após a leitura do QR Code, na tela do aplicativo será exibido um código de verificação. Este código deve inserido no passo 4, conforme explicado.
 
-2\. Serão apresentadas as características e preços de cada um dos planos. Clique em “Começar Agora” no plano que deseja adquirir.
+## Links para Aplicativos Authenticadores
 
-3\. O usuário será direcionado para a página de finalização de compra, na qual serão apresentadas as informações sobre o plano escolhido. Ele deverá inserir os dados de faturamento e de pagamento e clicar em “Finalizar a compra”.
+<div align="left"><figure><img src=".gitbook/assets/image (250).png" alt="" width="122"><figcaption><p>Google Authenticator</p></figcaption></figure></div>
 
-4\. Depois de feito o pagamento, o usuário receberá por e-mail o link para ativação da conta, no qual deverá clicar para realizar o primeiro acesso.
+{% embed url="https://play.google.com/store/search?q=google+authenticator&c=apps&hl=pt_BR" %}
 
-***
+{% embed url="https://apps.apple.com/br/app/google-authenticator/id388497605" %}
 
-## Página de login (autenticação) na plataforma ArqSign
+<div align="left"><figure><img src=".gitbook/assets/image (251).png" alt="" width="162"><figcaption><p>Microsoft Authenticator</p></figcaption></figure></div>
 
-A página de login da plataforma [ArqSign ](https://app.arqsign.com/auth/login)solicita o e-mail e senha cadastrados pelo usuário na criação de sua conta.
+{% embed url="https://play.google.com/store/search?q=microsoft%20authenticator&c=apps&hl=pt_BR" %}
 
-Caso ele ainda não possua conta, deve clicar no link “[Cadastre-se gratuitamente](https://arquivar.com.br/arqsign-conta-teste-gratis/)” para criar sua conta teste grátis.
+{% embed url="https://apps.apple.com/br/app/microsoft-authenticator/id983156458" %}
 
-### Esqueci minha senha
+<div align="left"><figure><img src=".gitbook/assets/image (252).png" alt="" width="113"><figcaption><p>Twilio Authy Authenticator</p></figcaption></figure></div>
 
-Caso o usuário esqueça sua senha, basta clicar em “Esqueceu sua senha?”.
+{% embed url="https://play.google.com/store/search?q=authy%20authenticator&c=apps&hl=pt_BR" %}
 
-Na tela de recuperação de senha, o usuário deverá informar o mesmo e-mail utilizado para acesso à plataforma e clicar em “Recuperar”.
-
-O usuário receberá por e-mail um link no qual deverá clicar para definir uma nova senha.
-
-***
-
-## Página inicial - Usuário logado
-
-Ao acessar sua conta, a tela inicial do usuário apresentará no menu superior os seguintes botões:
-
-**Novo Processo:** Clicando neste botão o usuário poderá configurar um processo com automatizações, envio e assinatura de um ou mais documentos com quantos signatários precisar.
-
-**Assinatura em Lote:** Clicando neste botão o usuário poderá visualizar e assinar em lote todos os processos que recebeu e estão pendentes de assinatura.
-
-**Vencidos:** Clicando neste botão o usuário poderá visualizar todos os processos que ele enviou a outras pessoas para assinatura, mas que não foram assinados no prazo e expiraram. Aqui ele poderá fazer o reenvio desses processos.
-
-**Comprar Agora / Alterar Plano:** Os botões “Comprar Agora” ou “Alterar Plano” serão exibidos para usuários que possuem uma conta de teste grátis ou para usuários que possuam plano pago expirado ou próximo da data de expiração. O botão “Comprar Agora” será exibido para usuários com a assinatura do plano expirada. O botão “Alterar Plano” será exibido para usuários com assinatura de plano pago com data de vencimento próxima (30 dias antes da expiração de planos anuais e 10 dias antes da expiração de planos mensais).
-
-**Comprar Créditos:** Em contas que estão com o plano vigente será exibido o botão “Comprar Créditos”, no qual de acordo com o tipo de plano da conta o usuário poderá adquirir créditos para processos extras ou créditos de mensagens para envio de processos por WhatsApp ou crédito de mensagem para envio de token por WhatsApp ou SMS.
-
-**Perfil do usuário:** Clicando neste menu o usuário terá acesso a informações de sua conta.
-
-**Idiomas:** A página inicial e a interface da plataforma serão apresentadas no idioma escolhido pelo usuário no momento do cadastro. Para alterar o idioma, clique no ícone de bandeira localizado canto superior direito da tela e escolha entre Português (Brasil), Espanhol e Inglês.
-
-**Sair:** Utilizado para fazer o logout da plataforma.
-
-<figure><img src=".gitbook/assets/image (460).png" alt=""><figcaption></figcaption></figure>
-
-Do lado esquerdo da tela temos todos os menus disponíveis, separados por grupos. É importante destacar que esses menus serão apresentados conforme nível de permissão de cada usuário. 
-
-**Caixa Postal:** Neste grupo estão concentrados os menus referentes à tramitação dos processos de assinatura.
-
-**Processos:** Neste grupo temos o menu Pastas. Ele é um repositório de armazenamento dos processos tramitados pela plataforma, ou seja, aqui são armazenados todos os documentos com processo de assinatura concluído. 
-
-**Administração:** Neste grupo temos as configurações de conta, usuários e grupo de usuários.  
-
-<figure><img src=".gitbook/assets/image (458).png" alt=""><figcaption></figcaption></figure>
-
-No canto inferior direito da tela o usuário encontrará o menu de “Preciso de ajuda”, onde poderá acessar o tutorial demonstrativo de como enviar e assinar um documento, acessar ao Perguntas Frequentes sobre e manual para uso da plataforma, aprender a verificar a validade jurídica de um documento e acessar os conteúdos sobre as novidades da Plataforma.
-
-<figure><img src=".gitbook/assets/image (459).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src=".gitbook/assets/image (457).png" alt=""><figcaption></figcaption></figure>
+{% embed url="https://apps.apple.com/br/app/twilio-authy/id494168017" %}
