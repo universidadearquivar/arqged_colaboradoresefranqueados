@@ -42,7 +42,7 @@ Conta com status ativo com assinatura de plano diferente de grátis, sem períod
 
 **Forma de pagamento alterada para cartão de crédito**
 
-![](https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FvyGZ5ZEDNKXuQQdIraMH%252FCaptura%2520de%2520tela%25202025-11-18%2520153953.png%3Falt%3Dmedia%26token%3D2d57c056-a200-4285-9095-038463b22d16\&width=768\&dpr=4\&quality=100\&sign=7d8a8a76\&sv=2)Clique na imagem para ampliar.
+<figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FvyGZ5ZEDNKXuQQdIraMH%252FCaptura%2520de%2520tela%25202025-11-18%2520153953.png%3Falt%3Dmedia%26token%3D2d57c056-a200-4285-9095-038463b22d16&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=7d8a8a76&#x26;sv=2" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Ao clicar no botão Alterar Plano ou no link Clique aqui, o sistema direciona o usuário para o site (e-commerce) que lista os planos disponíveis para compra.
 
@@ -50,7 +50,7 @@ Ao clicar no botão Alterar Plano ou no link Clique aqui, o sistema direciona o 
 
 **Forma de pagamento por PIX ou Boleto**
 
-![](https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FH4Dt6dQ1kOcwrtMgODuK%252FImagem8.png%3Falt%3Dmedia%26token%3De7e16b11-0b9b-4e95-ae8a-6070f16ca351\&width=768\&dpr=4\&quality=100\&sign=f69c6b7b\&sv=2)Clique na imagem para ampliar.
+<figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FH4Dt6dQ1kOcwrtMgODuK%252FImagem8.png%3Falt%3Dmedia%26token%3De7e16b11-0b9b-4e95-ae8a-6070f16ca351&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=f69c6b7b&#x26;sv=2" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Ao clicar no botão Alterar Plano, o sistema direciona o usuário para o site (e-commerce) que lista os planos disponíveis para compra.
 
@@ -58,7 +58,7 @@ Ao clicar no botão Alterar Plano, o sistema direciona o usuário para o site (e
 
 **Forma de pagamento por Cartão de Crédito, PIX ou Boleto**
 
-![](https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FydYxNCmEfXwutRxpLQVY%252FImagem2.png%3Falt%3Dmedia%26token%3D4f07de9b-6bce-43a0-80dc-124ca363b16b\&width=768\&dpr=4\&quality=100\&sign=b7699beb\&sv=2)Clique na imagem para ampliar.
+<figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FydYxNCmEfXwutRxpLQVY%252FImagem2.png%3Falt%3Dmedia%26token%3D4f07de9b-6bce-43a0-80dc-124ca363b16b&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=b7699beb&#x26;sv=2" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Ao clicar no link **Administração > Conta > Faturamento e Uso**, o sistema exibe a tela de Faturamento e Uso.
 
@@ -78,7 +78,7 @@ Conta com status ativo com assinatura de plano diferente de grátis, sem períod
 
 **Forma de pagamento alterada para cartão de crédito**
 
-![](https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FzBkrkLX07HDy5u3mQVeF%252FImagem3.png%3Falt%3Dmedia%26token%3Dda196ea0-cc0a-4b41-90d4-97a6aca2c608\&width=768\&dpr=4\&quality=100\&sign=d5309c14\&sv=2)Clique na imagem para ampliar.
+<figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FzBkrkLX07HDy5u3mQVeF%252FImagem3.png%3Falt%3Dmedia%26token%3Dda196ea0-cc0a-4b41-90d4-97a6aca2c608&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=d5309c14&#x26;sv=2" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Ao clicar no botão Alterar Plano ou no link Clique aqui, o sistema direciona o usuário para o site (e-commerce) que lista os planos disponíveis para compra.
 
@@ -86,7 +86,7 @@ Ao clicar no botão Alterar Plano ou no link Clique aqui, o sistema direciona o 
 
 **Forma de pagamento por Cartão de Crédito**
 
-![](https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FqC77HR4DQJhZ6ON0ikgs%252FImagem4.png%3Falt%3Dmedia%26token%3D4fd8a1f6-ed02-48cd-aa68-b4871203dbd3\&width=768\&dpr=4\&quality=100\&sign=84e7db84\&sv=2)Clique na imagem para ampliar.
+<figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FqC77HR4DQJhZ6ON0ikgs%252FImagem4.png%3Falt%3Dmedia%26token%3D4fd8a1f6-ed02-48cd-aa68-b4871203dbd3&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=84e7db84&#x26;sv=2" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Ao clicar no botão Alterar Plano ou no link Clique aqui, o sistema verifica se existe venda paga a partir da data fim da assinatura atual no Cyclopay:
 
@@ -95,7 +95,7 @@ Ao clicar no botão Alterar Plano ou no link Clique aqui, o sistema verifica se 
 
 **Forma de pagamento por PIX ou Boleto**
 
-![](https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FldqeLefoo6ChpiLWkpu2%252FImagem5.png%3Falt%3Dmedia%26token%3De4c25da9-d5cd-4fc8-8787-80a398f0c031\&width=768\&dpr=4\&quality=100\&sign=aa5bb081\&sv=2)Clique na imagem para ampliar.
+<figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FldqeLefoo6ChpiLWkpu2%252FImagem5.png%3Falt%3Dmedia%26token%3De4c25da9-d5cd-4fc8-8787-80a398f0c031&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=aa5bb081&#x26;sv=2" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Ao clicar no botão **Alterar Plano**, o sistema direciona o usuário para o site (e-commerce) que lista os planos disponíveis para compra.
 
@@ -105,7 +105,7 @@ Ao clicar no botão no link Clique aqui, o sistema realiza a renovação da assi
 
 **Forma de pagamento por Cartão de Crédito, PIX ou Boleto**
 
-![](https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252F454syeg8wF5H19NnjwuY%252FImagem6.png%3Falt%3Dmedia%26token%3D4f54935d-c256-4828-966d-c7a6aa969b4d\&width=768\&dpr=4\&quality=100\&sign=3674374e\&sv=2)Clique na imagem para ampliar.
+<figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252F454syeg8wF5H19NnjwuY%252FImagem6.png%3Falt%3Dmedia%26token%3D4f54935d-c256-4828-966d-c7a6aa969b4d&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=3674374e&#x26;sv=2" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Ao clicar no link **Administração > Conta > Faturamento e Uso**, o sistema exibe a tela de Faturamento e Uso.
 
@@ -125,11 +125,11 @@ Conta com status ativo com assinatura de plano diferente de grátis, sem períod
 
 **Forma de pagamento por alterada para cartão de crédito**
 
-![](https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FAvTe6W6DGJN0c5G7Adsp%252FImagem7.png%3Falt%3Dmedia%26token%3D1a2e243d-72cb-47af-8429-e458caea0099\&width=768\&dpr=4\&quality=100\&sign=1bff0200\&sv=2)Clique na imagem para ampliar.
+<figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FAvTe6W6DGJN0c5G7Adsp%252FImagem7.png%3Falt%3Dmedia%26token%3D1a2e243d-72cb-47af-8429-e458caea0099&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=1bff0200&#x26;sv=2" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Forma de pagamento por Cartão de Crédito
 
-![](https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FAvTe6W6DGJN0c5G7Adsp%252FImagem7.png%3Falt%3Dmedia%26token%3D1a2e243d-72cb-47af-8429-e458caea0099\&width=768\&dpr=4\&quality=100\&sign=1bff0200\&sv=2)Clique na imagem para ampliar.
+<figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FAvTe6W6DGJN0c5G7Adsp%252FImagem7.png%3Falt%3Dmedia%26token%3D1a2e243d-72cb-47af-8429-e458caea0099&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=1bff0200&#x26;sv=2" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Ao clicar no botão Comprar ou no link Clique aqui, o sistema verifica se existe venda paga a partir da data fim da assinatura atual no Cyclopay:
 
@@ -140,7 +140,7 @@ Ao clicar no botão Comprar ou no link Clique aqui, o sistema verifica se existe
 
 **Forma de pagamento por PIX ou Boleto**
 
-![](https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FDsx98ZhWWBCLS6mWwZcI%252FImagem9.png%3Falt%3Dmedia%26token%3D39bb6ae5-828f-4797-99bf-36fc1356e0b7\&width=768\&dpr=4\&quality=100\&sign=9ac56313\&sv=2)Clique na imagem para ampliar.
+<figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FDsx98ZhWWBCLS6mWwZcI%252FImagem9.png%3Falt%3Dmedia%26token%3D39bb6ae5-828f-4797-99bf-36fc1356e0b7&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=9ac56313&#x26;sv=2" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Ao clicar no botão Comprar Agora, o sistema direciona o usuário para o site (e-commerce) que lista os planos disponíveis para compra.
 
@@ -150,6 +150,6 @@ Ao clicar no botão no link Clique aqui, o sistema realiza a renovação da assi
 
 **Forma de pagamento por PIX ou Boleto**
 
-![](https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FQrAoQA1ihhtzdPpZ4hdX%252FImagem10.png%3Falt%3Dmedia%26token%3Dfbe33938-8d51-4126-abae-6a4921fab1e5\&width=768\&dpr=4\&quality=100\&sign=6b2d3b6a\&sv=2)Clique na imagem para ampliar.
+<figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FQrAoQA1ihhtzdPpZ4hdX%252FImagem10.png%3Falt%3Dmedia%26token%3Dfbe33938-8d51-4126-abae-6a4921fab1e5&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=6b2d3b6a&#x26;sv=2" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Ao clicar no botão Comprar Agora ou no link Clique aqui, o sistema direciona o usuário para o site (e-commerce) que lista os planos disponíveis para compra.
