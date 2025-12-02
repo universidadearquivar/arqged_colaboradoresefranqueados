@@ -220,15 +220,13 @@ O sistema exibe alertas e botões de compras, conforme o status, renovação, fo
 
 Os alertas e botões de compras serão exibidos somente para o usuário que possui a permissão 3.1.4.1 - Alterar Plano.
 
-### **Conta teste grátis ou conta com status bloqueado**
+### **Conta teste grátis**&#x20;
 
 Ao clicar no botão Comprar Agora ou no link Clique aqui, o sistema direciona o usuário para o site (e-commerce) que lista os planos disponíveis para compra.
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2025-11-18 152047.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2025-11-18 152401.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
-
 
 ### **Conta - assinatura com pagamento pendente (PIX ou Boleto)**
 
@@ -237,6 +235,16 @@ Ao clicar no botão Pagar Agora ou no link Clique aqui, na Home, o sistema apres
 <figure><img src="../../.gitbook/assets/Captura de tela 2025-11-18 152519.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2025-11-18 152753.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+***
+
+### **Conta com status bloqueado**
+
+Ao clicar no botão Comprar Agora ou no link Clique aqui, o sistema direciona o usuário para o site (e-commerce) que lista os planos disponíveis para compra.
+
+<figure><img src="../../.gitbook/assets/Imagem555.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Captura de tela 2025-12-02 131853.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
