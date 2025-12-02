@@ -159,6 +159,10 @@ O relatório gerado sempre mostrará os resultados separados por nó da árvore 
 
 <figure><img src="../.gitbook/assets/doc39.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
+{% hint style="warning" %}
+<mark style="color:orange;">Relatórios com menos de 20 mil linhas, são exibidos na tela do usuário no momento da solicitação. Já os relatórios com mais de 20 mil linhas, a solicitação é encaminhada para a lista de</mark> [<mark style="color:orange;">Download em Massa.</mark>](download-em-massa.md)
+{% endhint %}
+
 ### Assinatura&#x20;
 
 Se o cliente possuir o serviço de Assinatura Digital contratado, será exibido o ícone “Assinatura”. Será possível realizar a assinatura em lote dos arquivos selecionados no grid de todos os arquivos dos resultados da pesquisa realizada (sendo limitado a 300 arquivos por vez).&#x20;
