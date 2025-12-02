@@ -252,23 +252,23 @@ Ao clicar no botão Comprar Agora ou no link Clique aqui, o sistema direciona o 
 
 Conta com status ativo com assinatura de plano diferente de grátis, sem período TRIAL e com período final próximo de vencer.
 
-#### **Forma de pagamento alterada para cartão de crédito**
+**Forma de pagamento alterada para cartão de crédito**
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2025-11-18 153953.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Ao clicar no botão Alterar Plano ou no link Clique aqui, o sistema direciona o usuário para o site (e-commerce) que lista os planos disponíveis para compra.
 
-### Renovação automática marcada
+#### Renovação automática marcada
 
-#### **Forma de pagamento por PIX ou Boleto**
+**Forma de pagamento por PIX ou Boleto**
 
 <figure><img src="../../.gitbook/assets/Imagem8.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Ao clicar no botão Alterar Plano, o sistema direciona o usuário para o site (e-commerce) que lista os planos disponíveis para compra.
 
-### Renovação automática desmarcada
+#### Renovação automática desmarcada
 
-#### **Forma de pagamento por Cartão de Crédito, PIX ou Boleto**
+**Forma de pagamento por Cartão de Crédito, PIX ou Boleto**
 
 <figure><img src="../../.gitbook/assets/Imagem2.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -284,21 +284,21 @@ Obs.: Caso o usuário marque a renovação automática, o sistema deve as inform
 
 Ao clicar no botão Alterar Plano ou no link Clique aqui, o sistema direciona o usuário para o site (e-commerce) que lista os planos disponíveis para compra.
 
-
+***
 
 ### Conta com assinatura vencendo no dia
 
 Conta com status ativo com assinatura de plano diferente de grátis, sem período TRIAL e com período final vencendo no dia.
 
-#### **Forma de pagamento alterada para cartão de crédito**
+**Forma de pagamento alterada para cartão de crédito**
 
 <figure><img src="../../.gitbook/assets/Imagem3.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Ao clicar no botão Alterar Plano ou no link Clique aqui, o sistema direciona o usuário para o site (e-commerce) que lista os planos disponíveis para compra.
 
-### Renovação automática marcada
+#### Renovação automática marcada
 
-### **Forma de pagamento por Cartão de Crédito**
+**Forma de pagamento por Cartão de Crédito**
 
 <figure><img src="../../.gitbook/assets/Imagem4.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -307,7 +307,7 @@ Ao clicar no botão Alterar Plano ou no link Clique aqui, o sistema verifica se 
 * **Se não existir:** O sistema direciona o usuário para o site (e-commerce) que lista os planos disponíveis para compra.
 * **Se existir:** O sistema processa a recorrência e atualiza os dados da conta, exibindo a mensagem: "A assinatura foi renovada com sucesso. Em caso de dúvidas, contate: EmailFaleConoscoArqSign.".
 
-### **Forma de pagamento por PIX ou Boleto**
+**Forma de pagamento por PIX ou Boleto**
 
 <figure><img src="../../.gitbook/assets/Imagem5.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -333,15 +333,17 @@ Obs.: Caso o usuário marque a renovação automática, o sistema deve as inform
 
 Ao clicar no botão Alterar Plano ou no link Clique aqui, o sistema direciona o usuário para o site (e-commerce) que lista os planos disponíveis para compra.
 
+***
+
 ### Conta com assinatura vencida
 
 Conta com status ativo com assinatura de plano diferente de grátis, sem período TRIAL e com período final vencido.
 
-#### **Forma de pagamento por alterada para cartão de crédito**
+**Forma de pagamento por alterada para cartão de crédito**
 
 <figure><img src="../../.gitbook/assets/Imagem7.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-#### Forma de pagamento por Cartão de Crédito
+Forma de pagamento por Cartão de Crédito
 
 <figure><img src="../../.gitbook/assets/Imagem7.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
