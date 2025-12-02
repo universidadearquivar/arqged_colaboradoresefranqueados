@@ -61,12 +61,12 @@ Por último, para agendar a renovação dos processos que estão sendo cadastrad
 
 ### **Configurações Avançadas**
 
-As configurações avançadas são configurações relativas ao processo. Pode-se ajustá-las tanto para todos os processos, ou seja, deixar um padrão configurado para todas as vezes em que for necessário solicitar assinaturas, ou configurar opções relativas a apenas um processo pontualmente. Para acessar a lista completa das opções que podem ser configuradas nos processos, acesse o menu [Administração > Conta > Configurações](../administracao/administracao/conta.md#aba-configuracoes). Conheça a seguir todas as opções gerais configuráveis:
+As configurações avançadas são configurações relativas ao processo. Pode-se ajustá-las tanto para todos os processos, ou seja, deixar um padrão configurado para todas as vezes em que for necessário solicitar assinaturas, ou configurar opções relativas a apenas um processo pontualmente. Para acessar a lista completa das opções que podem ser configuradas nos processos, acesse o menu [Administração > Conta > Configurações](../administracao/administracao/conta/#aba-configuracoes). Conheça a seguir todas as opções gerais configuráveis:
 
 * **Tempo para expiração do processo após o envio:** Neste campo o usuário deve informar o prazo (em dias) de expiração do processo, ou seja, o limite para que os destinatários o assinem.
 
 {% hint style="warning" %}
-<mark style="color:orange;">Caso esse campo não seja alterado, será preenchido com o valor padrão. O valor padrão do sistema é de 120 dias, mas esse valor pode ser alterado no menu</mark> [<mark style="color:orange;">**Administração > Conta > Configurações.**</mark>](../administracao/administracao/conta.md#aba-configuracoes)
+<mark style="color:orange;">Caso esse campo não seja alterado, será preenchido com o valor padrão. O valor padrão do sistema é de 120 dias, mas esse valor pode ser alterado no menu</mark> [<mark style="color:orange;">**Administração > Conta > Configurações.**</mark>](../administracao/administracao/conta/#aba-configuracoes)
 {% endhint %}
 
 * **Aviso antes da expiração:** Neste campo deve ser informado o prazo (em dias) em que o sistema deverá enviar aos destinatários que ainda não assinaram um aviso sobre a expiração do processo.&#x20;
@@ -133,7 +133,7 @@ Caso tenha sido determinado que o destinatário irá assinar como pessoa física
 
 <figure><img src="../.gitbook/assets/image (258).png" alt="" width="233"><figcaption></figcaption></figure>
 
-Os papéis do signatário apresentados aqui são anteriormente criados no menu [Administração > Conta > Aba Configurações > Papel do Signatário](../administracao/administracao/conta.md#papel-do-signatario). Por padrão a plataforma apresenta os papéis “Contratada”, “Contratante”, “Fiador” e “Locatário”, mas é possível editar ou excluir esses papéis, além de criar outros se necessário.
+Os papéis do signatário apresentados aqui são anteriormente criados no menu [Administração > Conta > Aba Configurações > Papel do Signatário](../administracao/administracao/conta/#papel-do-signatario). Por padrão a plataforma apresenta os papéis “Contratada”, “Contratante”, “Fiador” e “Locatário”, mas é possível editar ou excluir esses papéis, além de criar outros se necessário.
 
 <figure><img src="../.gitbook/assets/image (259).png" alt="" width="373"><figcaption></figcaption></figure>
 

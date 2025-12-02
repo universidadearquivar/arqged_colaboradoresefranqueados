@@ -1152,7 +1152,7 @@ Entenda em detalhes cada um dos itens personalizáveis:&#x20;
 
 <summary>Como habilitar e desabilitar a renovação automática do plano?</summary>
 
-Durante a vigência do plano o cliente pode habilitar ou desabilitar a renovação automática do plano. Para isso acesse: [Administração > Conta > Faturamento e Uso > Renovação Automática](../administracao/administracao/conta.md#aba-faturamento-e-uso).&#x20;
+Durante a vigência do plano o cliente pode habilitar ou desabilitar a renovação automática do plano. Para isso acesse: [Administração > Conta > Faturamento e Uso > Renovação Automática](../administracao/administracao/conta/#aba-faturamento-e-uso).&#x20;
 
 </details>
 
@@ -1160,7 +1160,7 @@ Durante a vigência do plano o cliente pode habilitar ou desabilitar a renovaç�
 
 <summary>Como verificar plano, vencimento, renovação automática e consumo?</summary>
 
-Acesse o menu de [Administração > Conta > Faturamento e Uso](../administracao/administracao/conta.md#aba-faturamento-e-uso).&#x20;
+Acesse o menu de [Administração > Conta > Faturamento e Uso](../administracao/administracao/conta/#aba-faturamento-e-uso).&#x20;
 
 Consulte o plano contratado, período do plano, data de assinatura, data de vencimento, renovação automática, itens consumidos e disponíveis, período de renovação e Histórico de compras.&#x20;
 
@@ -1313,7 +1313,7 @@ Caso queira conhecer a funcionalidade de Pastas, [clique aqui](../processos/docu
 
 A funcionalidade Termo de Aceite para assinatura eletrônica, formaliza e registra o histórico de aceite dos signatários para assinatura no formato eletrônico o que é um pré-requisito legal para a validade jurídica da assinatura. Você pode utilizar a nossa sugestão de Termo de Aceite ou personalizar o seu. Para personalizar siga os seguintes passos:&#x20;
 
-1. Clique em [Administração > Conta > Termo de Aceite](../administracao/administracao/conta.md#aba-termo-de-aceite);&#x20;
+1. Clique em [Administração > Conta > Termo de Aceite](../administracao/administracao/conta/#aba-termo-de-aceite);&#x20;
 2. Clique em editar e personalize o seu termo;&#x20;
 3. Clique em publicar.
 

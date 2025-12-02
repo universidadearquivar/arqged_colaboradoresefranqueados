@@ -39,7 +39,8 @@
 ## ADMINISTRAÇÃO
 
 * [⚙️ Administração](administracao/administracao/README.md)
-  * [🟪 Conta](administracao/administracao/conta.md)
+  * [🟪 Conta](administracao/administracao/conta/README.md)
+    * [Home](administracao/administracao/conta/home.md)
   * [🟪 Usuários](administracao/administracao/usuarios.md)
   * [🟪 Grupo de Usuários](administracao/administracao/grupo-de-usuarios.md)
 * [🧩 Integrações](administracao/integracoes/README.md)

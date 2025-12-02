@@ -16,7 +16,7 @@ Nesta versão, foram incluídas duas novas possibilidades de configuração padr
 
 Por _default_, as contas são criadas com essas opções desmarcadas. &#x20;
 
-Para mais detalhes, acesse [<mark style="color:blue;">**Administração > Conta > Configurações**</mark> ](../administracao/administracao/conta.md#aba-configuracoes)
+Para mais detalhes, acesse [<mark style="color:blue;">**Administração > Conta > Configurações**</mark> ](../administracao/administracao/conta/#aba-configuracoes)
 
 </details>
 

@@ -516,7 +516,7 @@ Quando o cliente reativar o plano, os créditos referentes a envios adicionais d
 
 <summary>Como cancelar um plano mensal?</summary>
 
-Basta ir até o menu [Administração > Conta > Faturamento e Uso](../administracao/administracao/conta.md#aba-faturamento-e-uso) e desativar a opção Renovação automática.
+Basta ir até o menu [Administração > Conta > Faturamento e Uso](../administracao/administracao/conta/#aba-faturamento-e-uso) e desativar a opção Renovação automática.
 
 </details>
 
@@ -532,7 +532,7 @@ Entre em contato com [faleconosco@arqsign.com](mailto:faleconosco@arqsign.com).&
 
 <summary>Como cancelar a renovação automática de um plano mensal ou anual?</summary>
 
-Basta ir até o menu [Administração > Conta > Faturamento e Uso](../administracao/administracao/conta.md#aba-faturamento-e-uso) e desativar a opção Renovação automática.
+Basta ir até o menu [Administração > Conta > Faturamento e Uso](../administracao/administracao/conta/#aba-faturamento-e-uso) e desativar a opção Renovação automática.
 
 </details>
 

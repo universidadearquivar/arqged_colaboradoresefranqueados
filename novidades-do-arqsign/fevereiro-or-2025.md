@@ -22,11 +22,11 @@ Foram alterados os posicionamentos de botões da direita para a esquerda nos seg
 
 [Meu perfil > Estilo de Assinatura](../menu-superior/meu-perfil.md#aba-estilo-de-assinatura)
 
-[Conta > Documentos](../administracao/administracao/conta.md#documentos)
+[Conta > Documentos](../administracao/administracao/conta/#documentos)
 
-[Conta > Notificações](../administracao/administracao/conta.md#notificacoes)
+[Conta > Notificações](../administracao/administracao/conta/#notificacoes)
 
-[Conta > Termo de Aceite](../administracao/administracao/conta.md#aba-termo-de-aceite)
+[Conta > Termo de Aceite](../administracao/administracao/conta/#aba-termo-de-aceite)
 
 
 
@@ -36,6 +36,6 @@ Foram alterados os posicionamentos de botões da direita para a esquerda nos seg
 
 <summary>Adição de campo no na aba Conta > Dados Fiscais</summary>
 
-Adição do campo Bairro na aba [Dados Fiscais](../administracao/administracao/conta.md#aba-dados-fiscais) no menu Administração > Conta
+Adição do campo Bairro na aba [Dados Fiscais](../administracao/administracao/conta/#aba-dados-fiscais) no menu Administração > Conta
 
 </details>

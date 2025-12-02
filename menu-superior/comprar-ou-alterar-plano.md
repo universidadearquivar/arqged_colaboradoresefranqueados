@@ -15,7 +15,7 @@ Para comprar um plano ou alterar o seu plano clique em “Comprar Agora” ou �
 <figure><img src="../.gitbook/assets/image (492).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Caso o usuário tenha deixado marcada a opção “Renovação Automática” na tela**</mark> [<mark style="color:blue;">**Administração > Conta > Aba Faturamento e Uso > Plano e Consumo**</mark>](../administracao/administracao/conta.md#plano-e-consumo)<mark style="color:orange;">**, o botão “Comprar Plano” não será exibido, porque ao expirar o plano, o sistema automaticamente renovará a assinatura no plano atual, utilizando as informações de faturamento já existentes no cadastro do usuário.**</mark> &#x20;
+<mark style="color:orange;">**Caso o usuário tenha deixado marcada a opção “Renovação Automática” na tela**</mark> [<mark style="color:blue;">**Administração > Conta > Aba Faturamento e Uso > Plano e Consumo**</mark>](../administracao/administracao/conta/#plano-e-consumo)<mark style="color:orange;">**, o botão “Comprar Plano” não será exibido, porque ao expirar o plano, o sistema automaticamente renovará a assinatura no plano atual, utilizando as informações de faturamento já existentes no cadastro do usuário.**</mark> &#x20;
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (493).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
@@ -615,7 +615,7 @@ Quando o cliente reativar o plano, os créditos referentes a envios adicionais d
 
 <summary>Como cancelar um plano mensal?</summary>
 
-Basta ir até o menu [Administração > Conta > Faturamento e Uso](../administracao/administracao/conta.md#aba-faturamento-e-uso) e desativar a opção Renovação automática.
+Basta ir até o menu [Administração > Conta > Faturamento e Uso](../administracao/administracao/conta/#aba-faturamento-e-uso) e desativar a opção Renovação automática.
 
 </details>
 
@@ -631,7 +631,7 @@ Entre em contato com [faleconosco@arqsign.com](mailto:faleconosco@arqsign.com).&
 
 <summary>Como cancelar a renovação automática de um plano mensal ou anual?</summary>
 
-Basta ir até o menu [Administração > Conta > Faturamento e Uso](../administracao/administracao/conta.md#aba-faturamento-e-uso) e desativar a opção Renovação automática.
+Basta ir até o menu [Administração > Conta > Faturamento e Uso](../administracao/administracao/conta/#aba-faturamento-e-uso) e desativar a opção Renovação automática.
 
 </details>
 
