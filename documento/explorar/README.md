@@ -95,6 +95,8 @@ Se o cliente possuir o serviço de Assinatura Digital contratado, será exibido 
 
 <figure><img src="../../.gitbook/assets/doc28.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
+Para executar a assinatura de documentos, é necessário realizar a[ instalação do ArqClient](modulo-arqscan.md#instalando-o-arqclient) na máquina onde o processo será executado.
+
 {% hint style="warning" %}
 <mark style="color:orange;">Para assinatura de documentos tratados em conformidade com o Decreto 10.278, os arquivos que atingirem 300MB ou mais deverão ser tratados com o fracionamento em partes sequenciais devidamente nomeadas. Caso haja numeração preexistente, como o número de atendimento, sugerimos utilizar essa identificação no nome do arquivo para facilitar a organização e a futura localização do registro no ArqGED.</mark>
 
@@ -111,7 +113,13 @@ Se o cliente possuir o serviço de Assinatura Digital contratado, será exibido 
 <mark style="color:orange;">Esse procedimento visa otimizar o manuseio e a entrega dos arquivos, evitando possíveis dificuldades no processo de assinatura do acervo.</mark>
 {% endhint %}
 
-Para realizar o processo de assinatura, é necessário realizar a[ instalação do ArqClient](modulo-arqscan.md#instalando-o-arqclient) na máquina onde o processo será executado.
+{% hint style="danger" %}
+<mark style="color:red;">Em conformidade com o Decreto nº 10.278/2020, que estabelece os requisitos técnicos para a digitalização de documentos públicos e privados, o processo de assinatura do documento digitalizado tem como finalidade atestar a integridade e a autenticidade do processo de digitalização. Dessa forma, o documento deve ser assinado digitalmente pelo responsável que realizou a digitalização.</mark>
+
+<mark style="color:red;">No momento da assinatura digital, é gerado um</mark> <mark style="color:red;"></mark>_<mark style="color:red;">**hash**</mark>_ <mark style="color:red;"></mark><mark style="color:red;">criptográfico que garante que o arquivo não sofreu qualquer forma de alteração na digitalização. Caso o documento seja manipulado ou modificado posteriormente, esse</mark> <mark style="color:red;"></mark>_<mark style="color:red;">**hash**</mark>_ <mark style="color:red;"></mark><mark style="color:red;">é automaticamente corrompido, colocando o arquivo em desconformidade com os requisitos estabelecidos pelo Decreto nº 10.278/2020.</mark>
+
+<mark style="color:red;">Portanto,</mark> <mark style="color:red;"></mark><mark style="color:red;">**não se deve realizar qualquer tipo de manipulação ou edição no documento**</mark><mark style="color:red;">, sob pena de invalidação do processo e perda da conformidade normativa.</mark>
+{% endhint %}
 
 ### Configurar colunas da tela ![](<../../.gitbook/assets/image (135).png>)
 
