@@ -74,7 +74,7 @@ Se o cliente possuir o serviço de Assinatura Digital contratado, será exibido 
 
 <figure><img src="../.gitbook/assets/doc40.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-Para executar a assinatura de documentos, é necessário realizar a[ instalação do ArqClient](explorar/modulo-arqscan.md#instalando-o-arqclient) na máquina onde o processo será executado.
+Para executar a assinatura de documentos, é necessário realizar a [instalação do ArqClient](explorar/modulo-arqscan.md#instalando-atualizando-o-arqclient) na máquina onde o processo será executado.
 
 {% hint style="warning" %}
 <mark style="color:orange;">Para assinatura de documentos tratados em conformidade com o Decreto 10.278, os arquivos que atingirem 300MB ou mais deverão ser tratados com o fracionamento em partes sequenciais devidamente nomeadas. Caso haja numeração preexistente, como o número de atendimento, sugerimos utilizar essa identificação no nome do arquivo para facilitar a organização e a futura localização do registro no ArqGED.</mark>
