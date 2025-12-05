@@ -111,6 +111,8 @@ Se o cliente possuir o serviço de Assinatura Digital contratado, será exibido 
 <mark style="color:orange;">Esse procedimento visa otimizar o manuseio e a entrega dos arquivos, evitando possíveis dificuldades no processo de assinatura do acervo.</mark>
 {% endhint %}
 
+Para realizar o processo de assinatura, é necessário realizar a[ instalação do ArqClient](modulo-arqscan.md#instalando-o-arqclient) na máquina onde o processo será executado.
+
 ### Configurar colunas da tela ![](<../../.gitbook/assets/image (135).png>)
 
 As colunas exibidas na tela podem ser escolhidas de acordo com o que se deseja que seja exibido. No campo “Colunas com os dados de identificação do documento”, é possível escolher as colunas que serão exibidas ao se realizar a busca de arquivos do tipo documental selecionado. No campo à esquerda são exibidas as colunas disponíveis e no campo à direita são mostradas as colunas selecionadas que serão exibidas. &#x20;
