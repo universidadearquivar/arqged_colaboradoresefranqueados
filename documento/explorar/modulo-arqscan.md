@@ -8,9 +8,9 @@ Para que o módulo ArqScan funcione corretamente é necessária a instalação d
 <mark style="color:orange;">**Deve ser instalado na máquina do usuário o driver correspondente ao seu aparelho de scanner. Verifique a marca e modelo do scanner e busque o driver correspondente a ele.**</mark>
 {% endhint %}
 
-### Instalando o ArqClient
+### Instalando/Atualizando o ArqClient
 
-{% embed url="https://app.supademo.com/demo/cmaz9sd2691w7ho3r9ablcwsj" %}
+{% @supademo/embed demoId="cmaz9sd2691w7ho3r9ablcwsj" url="https://app.supademo.com/demo/cmaz9sd2691w7ho3r9ablcwsj" %}
 
 O ArqClient precisa ser instalado na máquina do usuário como requisito para utilização das funcionalidades do ArqSCAN e ArqSIGN (Assinatura Digital) no software ArqGED. O software ArqClient possui duas funções:
 
