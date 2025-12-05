@@ -1,6 +1,6 @@
 # 🟩 Localização Avançada
 
-{% @supademo/embed %}
+{% @supademo/embed demoId="cmazpttt306gcppkp3xrtzwju" url="https://app.supademo.com/demo/cmazpttt306gcppkp3xrtzwju" %}
 
 Na Localização Avançada a pesquisa por documentos é mais precisa porque para realizá-la podem ser utilizados vários filtros para refinar os resultados.
 
@@ -169,7 +169,7 @@ Se o cliente possuir o serviço de Assinatura Digital contratado, será exibido 
 
 <figure><img src="../.gitbook/assets/doc40.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-Para executar a assinatura de documentos, é necessário realizar a [instalação do ArqClient](explorar/modulo-arqscan.md#instalando-o-arqclient) na máquina onde o processo será executado.
+Para executar a assinatura de documentos, é necessário realizar a [instalação do ArqClient](explorar/modulo-arqscan.md#instalando-atualizando-o-arqclient) na máquina onde o processo será executado.
 
 {% hint style="warning" %}
 <mark style="color:orange;">Para assinatura de documentos tratados em conformidade com o Decreto 10.278, os arquivos que atingirem 300MB ou mais deverão ser tratados com o fracionamento em partes sequenciais devidamente nomeadas. Caso haja numeração preexistente, como o número de atendimento, sugerimos utilizar essa identificação no nome do arquivo para facilitar a organização e a futura localização do registro no ArqGED.</mark>
