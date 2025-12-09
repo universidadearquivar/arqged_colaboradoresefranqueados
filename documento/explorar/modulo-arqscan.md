@@ -94,15 +94,13 @@ Voltando à tela inicial do ArqScan, clicando com o botão direito do mouse sobr
 
 <figure><img src="../../.gitbook/assets/image (350).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-**Girar:** Permite girar a página selecionada em 90° à direita ou à esquerda e em 180°.
+**Girar:** Girar a página selecionada em 90° à direita ou à esquerda e em 180°.
 
 <figure><img src="../../.gitbook/assets/image (351).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Ordenação:** Alterar a ordenação da imagem selecionada, enviando a para o início, para o fim ou para uma posição específica entre as páginas digitalizadas.
 
 <figure><img src="../../.gitbook/assets/image (352).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
-Ainda na opção de ordenação, é possível enviar a imagem para uma posição específica, utilizando a opção "Enviar para a posição...", informe o número da posição desejada e clique em "Ok" para concluir.
 
 <figure><img src="../../.gitbook/assets/image (353).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
