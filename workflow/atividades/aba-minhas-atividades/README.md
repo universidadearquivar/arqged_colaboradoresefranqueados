@@ -14,6 +14,32 @@ A alternância desse botão permite exibir as tarefas ativas (que já iniciaram)
 
 <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
+{% hint style="success" %}
+O gráfico exibido na tela **Minhas Atividades, l**ogo abaixo do botão **"Ativos",** indica a quantidade de fluxos que o usuário possui.\
+Isso **não significa** que todos esses fluxos estejam em execução; apenas indica que, dentro da responsabilidade do usuário, existem fluxos previstos para serem executados. Esses fluxos podem estar "**Ativos**", ou seja, em execução no momento ou "**Agendados",** quando ainda não entraram no processo de execução mas possuem uma data prevista para iniciarem.
+
+&#x20;Ao acessar essa tela, são exibidos automaticamente os fluxos **ATIVOS.**
+
+**• Quando selecionada a opção "ATIVOS"**
+
+São exibidos os fluxos cuja **data de início da tarefa é inferior a 3 horas** a partir do momento do acesso à tela.
+
+**• Quando selecionada a opção "AGENDADOS"**
+
+São Exibidos os fluxos cuja **data de início da tarefa é superior a 3 horas** a partir do momento do acesso à tela.
+
+***
+
+Como exemplo, para um usuário, poder ser exibido um total de 6 fluxos no gráfico:
+
+* **2 fluxos em execução**, mostrados na opção **ATIVOS**.
+* **4 fluxos agendados**, exibidos na opção **AGENDADOS**, todos com data de início marcada para **o dia ou semana seguinte**.
+
+Esses fluxos agendados **somente aparecerão na opção ATIVOS** quando chegar a data/hora programada para o início de sua execução.
+
+Além disso, na aba **Pesquisa por Fluxo**, é possível identificá-los com o status **Agendado**.
+{% endhint %}
+
 #### **Botão Dados/Listagem**
 
 A alternância desse botão permite alterar a visualização dos fluxos para o usuário. Quando selecionada a opção "Dados", são exibidos na tela os fluxos de responsabilidade do usuário logado considerando um resumo do fluxo, além de exibir também os ícones da etapa e as orientações de pendências. Essa é a forma de visualização padrão do sistema, quando não existe uma configuração de exibição para o perfil do usuário.
