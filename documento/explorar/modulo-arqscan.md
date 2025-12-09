@@ -144,7 +144,7 @@ O ícone de três barras é utilizado para ocultar ou mostra o menu lateral.
 
 Para iniciar a indexação, selecione as páginas que deseja indexar. É possível selecionar mais de uma página por vez, mantendo a tecla Ctrl pressionada e selecionando as páginas que deseja indexar.
 
-<figure><img src="../../.gitbook/assets/arqscan16.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (357).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Na área “Indexadores” será exibido o cliente selecionado anteriormente em [Documento > Explorar](./). Selecione o Universo de Trabalho, a Árvore Organizacional e o Tipo de Documento (Eletrônico, Guarda Interna ou Guarda Terceirizada). O campo “Unidade” será preenchido automaticamente com a unidade que atende o cliente selecionado.
 
@@ -160,7 +160,7 @@ Caso tenha sido escolhido o tipo de documento “Guarda Interna” será preciso
 
 Na área “Imagem” é possível nomear as imagens manualmente ou selecionar a opção “Gerar Nome Automaticamente”.
 
-<figure><img src="../../.gitbook/assets/arqscan20.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (359).png" alt=""><figcaption></figcaption></figure>
 
 No campo “Driver”, selecione o driver correspondente ao scanner que está sendo utilizado. Clicando no ícone “Configurações” serão exibidas as configurações do scanner e do driver.
 
@@ -182,7 +182,7 @@ No campo “OCR” é possível selecionar a opção “Gerar PDF pesquisável�
 
 Na área “Assinatura” é possível assinar digitalmente o documento que for gerado. Para isso será preciso possuir um certificado digital instalado na máquina. Se houver mais de um certificado instalado, basta selecionar aquele que deseja utilizar.
 
-<figure><img src="../../.gitbook/assets/arqscan22.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (358).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Na área “Workflow” é possível ativar um novo fluxo associando os documentos digitalizados a ele. Para isso, é preciso selecionar o processo, inserir as observações (se houver) e informar se a ativação será imediata ou deverá ser feita em uma data e horários agendados.
 
