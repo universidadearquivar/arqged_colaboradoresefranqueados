@@ -16,7 +16,9 @@ A alternância desse botão permite exibir as tarefas ativas (que já iniciaram)
 
 {% hint style="success" %}
 O gráfico exibido na tela **Minhas Atividades, l**ogo abaixo do botão **"Ativos",** indica a quantidade de fluxos que o usuário possui.\
-Isso **não significa** que todos esses fluxos estejam em execução; apenas indica que, dentro da responsabilidade do usuário, existem fluxos previstos para serem executados. Esses fluxos podem estar "**Ativos**", ou seja, em execução no momento ou "**Agendados",** quando ainda não entraram no processo de execução mas possuem uma data prevista para iniciarem.
+Isso **não significa** que todos esses fluxos estejam em execução; apenas indica que, dentro da responsabilidade do usuário, existem fluxos previstos para serem executados.&#x20;
+
+Esses fluxos podem estar em "**Ativos**", ou seja, em execução no momento ou "**Agendados",** quando ainda não entraram no processo de execução mas possuem uma data prevista para iniciarem.
 
 &#x20;Ao acessar essa tela, são exibidos automaticamente os fluxos **ATIVOS.**
 
