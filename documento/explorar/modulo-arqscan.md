@@ -82,29 +82,37 @@ Para iniciar a digitalização de um documento, insira-o no aparelho de scanner 
 
 <figure><img src="../../.gitbook/assets/arqscan07.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/arqscan08.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (346).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-Ao clicar em uma imagem digitalizada será possível expandi-la para visualização. Na tela de visualização da imagem também será possível rotaciona-la para a direita e esquerda, girá-la 180° e mover a imagem. Na paginação na parte inferior será possível navegar entre as imagens digitalizadas.
+Ao clicar em uma imagem digitalizada será possível expandi-la para visualização. Na tela de visualização da imagem também será possível racioná-la para a direita e esquerda, girá-la 180° e mover a imagem. Na paginação na parte inferior será possível navegar entre as imagens digitalizadas.
 
-<figure><img src="../../.gitbook/assets/arqscan09.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (348).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Voltando à tela inicial do ArqScan, clicando com o botão direito do mouse sobre uma imagem será possível:
 
 **Excluir:** Exclui a página selecionada.
 
-<figure><img src="../../.gitbook/assets/arqscan10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (350).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Girar:** Permite girar a página selecionada em 90° à direita ou à esquerda e em 180°.
 
-<figure><img src="../../.gitbook/assets/arqscan11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (351).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Ordenação:** Alterar a ordenação da imagem selecionada, enviando a para o início, para o fim ou para uma posição específica entre as páginas digitalizadas.
 
-<figure><img src="../../.gitbook/assets/arqscan12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (352).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-Clicando no ícone “Visualização” é possível alterar a forma como o grid de imagens deve ser exibido. O ícone de três barras é utilizado para ocultar ou mostra o menu lateral.
+Ainda na opção de ordenação, é possível enviar a imagem para uma posição específica, utilizando a opção "Enviar para a posição...", informe o número da posição desejada e clique em "Ok" para concluir.
 
-<figure><img src="../../.gitbook/assets/arqscan13.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (353).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Clicando no ícone “Visualização” é possível alterar a quantidade de imagens exibidas no grid.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (354).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+O ícone de três barras é utilizado para ocultar ou mostra o menu lateral.
+
+<figure><img src="../../.gitbook/assets/image (355).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
