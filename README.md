@@ -32,8 +32,8 @@ O código pode ser obtido de duas maneiras:
 
 **Via Aplicativo Autenticador** O usuário pode escolher entre diversos aplicativos gratuitos disponíveis no mercado, como:
 
-* Google Authenticator
-* Microsoft Authenticator
+* _Google Authenticator_
+* _Microsoft Authenticator_
 
 Para utilizar essa opção, é necessário instalar o aplicativo escolhido no celular e seguir as instruções de configuração no ArqGED.
 
