@@ -30,14 +30,18 @@ Esse código é **dinâmico** e muda a cada tentativa de login.
 
 O código pode ser obtido de duas maneiras:
 
-**Via Aplicativo Autenticador** O usuário pode escolher entre diversos aplicativos gratuitos disponíveis no mercado, como:
+#### **Via Aplicativo Autenticador**&#x20;
+
+O usuário pode escolher entre diversos aplicativos gratuitos disponíveis no mercado, como:
 
 * _Google Authenticator_
 * _Microsoft Authenticator_
 
 Para utilizar essa opção, é necessário instalar o aplicativo escolhido no celular e seguir as instruções de configuração no ArqGED.
 
-**Via E-mail** O código de verificação será enviado para o e-mail cadastrado no usuário. Para utilizar essa opção, é preciso validar previamente o e-mail seguindo o fluxo indicado no ArqGED.
+#### **Via E-mail**
+
+&#x20;O código de verificação será enviado para o e-mail cadastrado no usuário. Para utilizar essa opção, é preciso validar previamente o e-mail seguindo o fluxo indicado no ArqGED.
 
 {% hint style="warning" %}
 **Recomendação importante**
@@ -51,7 +55,7 @@ Usuários de clientes que utilizam **SSO (Single Sign-On)** para acessar o ArqGE
 
 ### Impor Autenticação MFA
 
-A autenticação MFA será **obrigatória para todos os usuários de Unidade.** Dessa forma, ao acessarem o ArqGED pela primeira vez após a publicação dessa funcionalidade, esses usuários serão direcionados automaticamente para o fluxo de configuração do MFA. Será necessário configurar **pelo menos uma opção de autenticação** antes de terem acesso completo ao ArqGED.
+A autenticação MFA será **obrigatória para todos os usuários de Unidade.** Dessa forma, ao acessarem o ArqGED pela primeira vez após a publicação da funcionalidade, esses usuários serão direcionados automaticamente para o fluxo de configuração do MFA. Será necessário configurar **pelo menos uma opção de autenticação** antes de terem acesso completo ao ArqGED.
 
 Para os **usuários do Cliente**, o uso do MFA será **opcional por padrão**.
 
