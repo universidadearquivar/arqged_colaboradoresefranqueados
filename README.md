@@ -149,7 +149,7 @@ A tela abaixo será exibida para usuários de Clientes que não possuem configur
 
 Quando nenhuma das opções estiverem configuradas, o usuário poderá realizar as duas configurações usando o link “Configurar”.
 
-<figure><img src=".gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (363).png" alt=""><figcaption></figcaption></figure>
 
 **b) Quando todas as opções estiverem configuradas:**
 
