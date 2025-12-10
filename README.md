@@ -39,13 +39,15 @@ Para utilizar essa opção, é necessário instalar o aplicativo escolhido no ce
 
 **Via E-mail** O código de verificação será enviado para o e-mail cadastrado no usuário. Para utilizar essa opção, é preciso validar previamente o e-mail seguindo o fluxo indicado no ArqGED.
 
+{% hint style="warning" %}
 **Recomendação importante**
 
-É altamente recomendável que o usuário **configure as duas opções de MFA** (Aplicativo Autenticador e E-mail). Dessa forma, caso esteja sem acesso ao celular, poderá utilizar o e-mail para receber o código — e vice-versa.
+É altamente recomendado que o usuário **configure as duas opções de MFA** (Aplicativo Autenticador e E-mail). Dessa forma, caso esteja sem acesso ao celular, poderá utilizar o e-mail para receber o código — e vice-versa.
 
 **Usuários com acesso via SSO**
 
 Usuários de clientes que utilizam **SSO (Single Sign-On)** para acessar o ArqGED **não utilizarão o MFA do ArqGED**, uma vez que a autenticação com múltiplos fatores estará configurada e gerenciada diretamente pelo SSO do cliente.
+{% endhint %}
 
 ### Impor Autenticação MFA
 
