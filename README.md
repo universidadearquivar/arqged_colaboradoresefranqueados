@@ -301,7 +301,7 @@ O código desta mensagem deve ser inserido na tela abaixo:
 * <mark style="color:orange;">**O usuário no mesmo computador usar outro navegador para acessar o ArqGED.**</mark>
 {% endhint %}
 
-### Anexo I: Como usar o Microsoft Authenticator
+### Como utilizar o _Microsoft Authenticator_
 
 <div align="left"><figure><img src=".gitbook/assets/image (242).png" alt="" width="195"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/image (243).png" alt="" width="193"><figcaption></figcaption></figure></div>
 
@@ -311,7 +311,7 @@ Clicar no botão **“Adicionar conta”** irá abrir outra tela. Nesta tela dev
 
 A leitura do QR code, irá gerar um código de verificação na tela que deve ser inserido no passo 4, conforme explicado.
 
-### Anexo I: Como usar o Google Authenticator
+### Como utilizar o _Google Authenticator_
 
 Tela inicial do aplicativo. Não há necessidade de realizar login para utilização.
 
