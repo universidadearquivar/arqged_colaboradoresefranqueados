@@ -43,7 +43,7 @@ Utilizado para visualizar as informações do registro que estiver selecionado. 
 Utilizado para excluir o registro que estiver selecionado.
 
 {% hint style="danger" %}
-<mark style="color:red;">A exclusão de um registro só será realizada se o usuário logado tiver a permissão ativa.</mark>
+<mark style="color:red;">O ícone de exclusão só será exibido habilitado, se o usuário logado tiver a permissão ativa.</mark>
 {% endhint %}
 
 ### Reservar documento
