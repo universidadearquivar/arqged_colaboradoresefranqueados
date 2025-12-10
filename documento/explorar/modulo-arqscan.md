@@ -92,23 +92,27 @@ Voltando à tela inicial do ArqScan, clicando com o botão direito do mouse sobr
 
 **Excluir:** Exclui a página selecionada.
 
-<figure><img src="../../.gitbook/assets/arqscan10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://manual.arquivar.com/manual-arqged-or-clientes/~gitbook/image?url=https%3A%2F%2F1023047207-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtM1xGMYoU6wC7tnUUXEo%252Fuploads%252F104n76IyyKpg1ozNHSix%252Fimage.png%3Falt%3Dmedia%26token%3D7d960fda-104f-4658-8688-86fd47370f34&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=c71f5946&#x26;sv=2" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Girar:** Permite girar a página selecionada em 90° à direita ou à esquerda e em 180°.&#x20;
 
-<figure><img src="../../.gitbook/assets/arqscan11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://manual.arquivar.com/manual-arqged-or-clientes/~gitbook/image?url=https%3A%2F%2F1023047207-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtM1xGMYoU6wC7tnUUXEo%252Fuploads%252F2KajYXU916dCqZVrCSSp%252Fimage.png%3Falt%3Dmedia%26token%3Dd0ee5ef3-6cdf-4615-8691-efa5db332480&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=c7c086f4&#x26;sv=2" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Ordenação:** Alterar a ordenação da imagem selecionada, enviando a para o início, para o fim ou para uma posição específica entre as páginas digitalizadas.&#x20;
 
-<figure><img src="../../.gitbook/assets/arqscan12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://manual.arquivar.com/manual-arqged-or-clientes/~gitbook/image?url=https%3A%2F%2F1023047207-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtM1xGMYoU6wC7tnUUXEo%252Fuploads%252FSr2b5TUhnvpJrI5j05zW%252Fimage.png%3Falt%3Dmedia%26token%3D32e3c79d-dd9c-49d0-baca-93f4e09398d0&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=e07df8cf&#x26;sv=2" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-Clicando no ícone “Visualização” é possível alterar a forma como o grid de imagens deve ser exibido. O ícone de três barras é utilizado para ocultar ou mostra o menu lateral.&#x20;
+<figure><img src="https://manual.arquivar.com/manual-arqged-or-clientes/~gitbook/image?url=https%3A%2F%2F1023047207-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtM1xGMYoU6wC7tnUUXEo%252Fuploads%252FEMyLpTQ5q0ChxI9qZYiH%252Fimage.png%3Falt%3Dmedia%26token%3Dcfd5efcd-cc6d-459f-aa83-2f1bfad2ae81&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=cdd0b13a&#x26;sv=2" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/arqscan13.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
+Clicando no ícone “Visualização” é possível alterar a quantidade de imagens exibidas no grid.
+
+<figure><img src="https://manual.arquivar.com/manual-arqged-or-clientes/~gitbook/image?url=https%3A%2F%2F1023047207-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtM1xGMYoU6wC7tnUUXEo%252Fuploads%252FqTIKxM6RWDf8t5sklZLn%252Fimage.png%3Falt%3Dmedia%26token%3Da453da84-bb35-44fb-a684-5d2365b924d2&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=8292da27&#x26;sv=2" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+O ícone de três barras é utilizado para ocultar ou exibir o menu lateral.&#x20;
+
+<figure><img src="https://manual.arquivar.com/manual-arqged-or-clientes/~gitbook/image?url=https%3A%2F%2F1023047207-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtM1xGMYoU6wC7tnUUXEo%252Fuploads%252F1h4SMqtY4MISFaqcO9xo%252Fimage.png%3Falt%3Dmedia%26token%3D6ae1cf3d-3c8e-4c94-b19e-ca064c97b2bb&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=cd3db654&#x26;sv=2" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
-
-
 
 {% hint style="danger" %}
 <mark style="color:red;">Pode acontecer em alguns casos, ao abrir o ArqScan para continuidade de um processo aparecer a seguinte mensagem de erro:</mark>&#x20;
@@ -138,7 +142,7 @@ Clicando no ícone “Visualização” é possível alterar a forma como o grid
 
 Para iniciar a indexação, selecione as páginas que deseja indexar. É possível selecionar mais de uma página por vez, mantendo a tecla Ctrl pressionada e selecionando as páginas que deseja indexar. &#x20;
 
-<figure><img src="../../.gitbook/assets/arqscan16.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
+<figure><img src="https://manual.arquivar.com/manual-arqged-or-clientes/~gitbook/image?url=https%3A%2F%2F1023047207-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtM1xGMYoU6wC7tnUUXEo%252Fuploads%252FJIIVtK1WBTDxkB0A2KSu%252Fimage.png%3Falt%3Dmedia%26token%3D747d4ca2-4a28-4ca2-932d-87e19aedf9da&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=be9ad8ef&#x26;sv=2" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Na área “Indexadores” será exibido o cliente selecionado anteriormente em [Documento > Explorar](./). Selecione o Universo de Trabalho, a Árvore Organizacional e o Tipo de Documento (Eletrônico, Guarda Interna ou Guarda Terceirizada). O campo “Unidade” será preenchido automaticamente com a unidade que atende o cliente selecionado.&#x20;
 
@@ -154,7 +158,7 @@ Caso tenha sido escolhido o tipo de documento “Guarda Interna” será preciso
 
 Na área “Imagem” é possível nomear as imagens manualmente ou selecionar a opção “Gerar Nome Automaticamente”.&#x20;
 
-<figure><img src="../../.gitbook/assets/arqscan20.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
+<figure><img src="https://manual.arquivar.com/manual-arqged-or-clientes/~gitbook/image?url=https%3A%2F%2F1023047207-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtM1xGMYoU6wC7tnUUXEo%252Fuploads%252FyU4WKrv2ptB2UW2IhwX9%252Fimage.png%3Falt%3Dmedia%26token%3Da05d381f-4e04-4de7-9c56-b6a90cb7d808&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=6c9ea10f&#x26;sv=2" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 No campo “Driver”, selecione o driver correspondente ao scanner que está sendo utilizado. Clicando no ícone “Configurações” serão exibidas as configurações do scanner e do driver. &#x20;
 
@@ -176,7 +180,7 @@ No campo “OCR” é possível selecionar a opção “Gerar PDF pesquisável�
 
 Na área “Assinatura” é possível assinar digitalmente o documento que for gerado. Para isso será preciso possuir um certificado digital instalado na máquina. Se houver mais de um certificado instalado, basta selecionar aquele que deseja utilizar. &#x20;
 
-<figure><img src="../../.gitbook/assets/arqscan22.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
+<figure><img src="https://manual.arquivar.com/manual-arqged-or-clientes/~gitbook/image?url=https%3A%2F%2F1023047207-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtM1xGMYoU6wC7tnUUXEo%252Fuploads%252FhNoiD9RTypr6mm4blAXk%252Fimage.png%3Falt%3Dmedia%26token%3D12adbce1-e3be-4958-80e4-3ea018d23d7a&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=ac154de&#x26;sv=2" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Na área “Workflow” é possível ativar um novo fluxo associando os documentos digitalizados a ele. Para isso, é preciso selecionar o processo, inserir as observações (se houver) e informar se a ativação será imediata ou deverá ser feita em uma data e horários agendados.&#x20;
 
