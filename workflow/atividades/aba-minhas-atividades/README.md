@@ -32,7 +32,7 @@ São exibidos os fluxos cuja **data de início da tarefa é inferior a 3 horas**
 
 São Exibidos os fluxos cuja **data de início da tarefa é superior a 3 horas** a partir do momento do acesso à tela.
 
-Como exemplo, para um usuário, poder ser exibido um total de 6 fluxos no gráfico:
+Como exemplo, para um usuário, pode ser exibido um total de 6 fluxos no gráfico:
 
 * **2 fluxos em execução**, mostrados na opção **ATIVOS**.
 * **4 fluxos agendados**, exibidos na opção **AGENDADOS**, todos com data de início marcada para **o dia ou semana seguinte**.
