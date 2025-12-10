@@ -62,9 +62,9 @@ No entanto, caso o Cliente deseje tornar o uso do MFA obrigatório, será necess
 
 O primeiro acesso dos usuários de **Unidade ou Cliente** com a configuração de **"Impor autenticação MFA"**, seguirá o fluxo abaixo:
 
-**a)** Na tela inicial, o usuário deve inserir seu **nome de usuário, senha, captcha e clicar no botão “Entrar”**, conforme ilustrado abaixo:
+**a)** Na tela inicial, o usuário deve inserir seu **nome de usuário, senha,&#x20;**_**captcha**_**&#x20;e clicar no botão “Entrar”**, conforme ilustrado abaixo:
 
-<figure><img src=".gitbook/assets/image (361).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (362).png" alt=""><figcaption></figcaption></figure>
 
 Ao clicar no botão **“Entrar”**, o sistema redirecionará automaticamente para uma nova tela com instruções passo a passo para configuração da autenticação.
 
