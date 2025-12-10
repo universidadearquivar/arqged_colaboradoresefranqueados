@@ -88,7 +88,9 @@ Enquanto o usuário não possuir nenhuma configuração, como primeiro passo, o 
 * Para iniciar, deve-se baixar um aplicativo autenticador para o celular;
 * Abrir o aplicativo instalado e ler o QRCode que está sendo exibido na tela do ArqGED.
 
-**Nota:** Consultar ao final deste documento “Anexo 1 – Como usar o Microsoft Authenticator” e “Anexo 2 – Como usar o Google Authenticator”.
+{% hint style="danger" %}
+<mark style="color:red;">Consulte os detalhes de uso do "</mark>[<mark style="color:red;">Microsoft Authenticator</mark>](./#anexo-i-como-usar-o-microsoft-authenticator)<mark style="color:red;">” e “</mark>[<mark style="color:red;">Google Authenticator</mark>](./#anexo-i-como-usar-o-google-authenticator)<mark style="color:red;">”.</mark>
+{% endhint %}
 
 * Após a leitura do QRCode, o aplicativo autenticador exibirá um código na tela. Este código deve ser inserido no passo 4, conforme indicado abaixo:
 
@@ -187,13 +189,13 @@ Neste caso, a opção de Aplicativo será exibida com pendência de configuraç�
 
 ### Configuração do MFA: Fluxo via ArqGED
 
-Após autenticar no ArqGED, o usuário poderá acessar o menu **“MFA – Autenticação Multifator”**, conforme tela abaixo:
+Após autenticar no ArqGED, o usuário poderá acessar a opção **“MFA – Autenticação Multifator”**, conforme tela abaixo:
 
-<figure><img src=".gitbook/assets/image (5) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (365).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 A aplicação irá exibir as duas opções disponíveis, conforme tela abaixo:
 
-<figure><img src=".gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (366).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Caso falte alguma para configurar, o usuário poderá seguir o fluxo de configuração conforme descrito a seguir:
 
@@ -201,11 +203,11 @@ Caso falte alguma para configurar, o usuário poderá seguir o fluxo de configur
 
 Para iniciar o fluxo de configuração do aplicativo, o usuário deverá pressionar o link **“Configurar”** conforme mostra abaixo:
 
-<figure><img src=".gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (367).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Na sequência a aplicação exibirá a tela conforme abaixo, e o usuário deverá seguir as instruções desta tela para finalizar a configuração do aplicativo (Os passos são os mesmos descritos no tópico 3, letra C:
 
-<figure><img src=".gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (368).png" alt=""><figcaption></figcaption></figure>
 
 Ao finalizar a configuração do aplicativo, a aplicação voltará para a tela abaixo, mostrando o aplicativo configurado:
 
