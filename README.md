@@ -89,7 +89,7 @@ Enquanto o usuário não possuir nenhuma configuração, como primeiro passo, o 
 * Abrir o aplicativo instalado e ler o QRCode que está sendo exibido na tela do ArqGED.
 
 {% hint style="danger" %}
-<mark style="color:red;">Consulte os detalhes de uso do "</mark>[<mark style="color:red;">Microsoft Authenticator</mark>](./#anexo-i-como-usar-o-microsoft-authenticator)<mark style="color:red;">” e “</mark>[<mark style="color:red;">Google Authenticator</mark>](./#anexo-i-como-usar-o-google-authenticator)<mark style="color:red;">”.</mark>
+<mark style="color:red;">Consulte os detalhes de uso do "</mark>[<mark style="color:red;">Microsoft Authenticator</mark>](./#como-utilizar-o-microsoft-authenticator)<mark style="color:red;">” e “</mark>[<mark style="color:red;">Google Authenticator</mark>](./#como-utilizar-o-google-authenticator)<mark style="color:red;">”.</mark>
 {% endhint %}
 
 * Após a leitura do QRCode, o aplicativo autenticador exibirá um código na tela. Este código deve ser inserido no passo 4, conforme indicado abaixo:
