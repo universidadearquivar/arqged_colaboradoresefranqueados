@@ -42,6 +42,10 @@ Utilizado para visualizar as informações do registro que estiver selecionado. 
 
 Utilizado para excluir o registro que estiver selecionado.
 
+{% hint style="danger" %}
+<mark style="color:red;">A exclusão de um registro só será realizada se o usuário logado tiver a permissão ativa.</mark>
+{% endhint %}
+
 ### Reservar documento
 
 Este ícone só será habilitado se houver documento físico associado ao registro selecionado, ou seja, documentos que tenham sido castrados como de “Guarda Interna” ou “Guarda Terceirizada” na tela [Documento > Cadastrar](cadastrar.md). Neste caso será possível [solicitar a consulta](../solicitacao/consulta.md) aos documentos físicos por meio deste ícone.
