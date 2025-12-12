@@ -59,6 +59,8 @@ A autenticação MFA será **obrigatória para todos os usuários de Unidade.** 
 
 Para os **usuários do Cliente**, o uso do MFA será **opcional por padrão**.
 
+Caso o cliente queira impor aos seus usuários o uso da autenticação multifator (MFA), deve ser solicitado a parametrização para o uso, que é feita somente pela Arquivar. No registro da conta do cliente, deve ser selecionado a opção "Impor Autenticação MFA". Desta forma, todos os seus usuários serão obrigados na ação do login, a utilização do MFA.
+
 Caso o cliente deseje obrigar o uso de MFA solicite a Arquivar a imposição desta configuração para seus usuários.\
 No entanto, caso o Cliente deseje tornar o uso do MFA obrigatório, será necessário marcar a opção **"Impor autenticação MFA"** no cadastro da conta do Cliente, conforme ilustrado na imagem abaixo:
 
