@@ -4,7 +4,7 @@
 
 A sigla SLA significa Service Level Agreement, ou Acordo de Nível de Serviço. No ArqGED o SLA acordado entre o cliente e a unidade é que define o tempo que uma solicitação de serviço de guarda levará para ser atendida pela unidade e o limite de consultas que o cliente pode solicitar de acordo com o seu contrato. &#x20;
 
-Para visualizar as informações de SLA de um cliente, selecione-o no campo “Unidade e Cliente”. Marque se deseja visualizar o SLA de guarda terceirizada, de guarda interna ou ambos.
+Para visualizar as informações de SLA de um cliente, selecione-o no campo “Unidade e Cliente”. Selecione o SLA que deseja visualizar se SLA de guarda terceirizada, de guarda interna ou ambos.
 
 {% hint style="info" %}
 <mark style="color:blue;">O</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**SLA de guarda terceirizada**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">refere-se ao prazo que a Unidade Arquivar possui para atender a uma solicitação de consulta feita pelo cliente.</mark>&#x20;
@@ -12,15 +12,17 @@ Para visualizar as informações de SLA de um cliente, selecione-o no campo “U
 <mark style="color:blue;">O</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**SLA de guarda interna**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">é utilizado por clientes que possuem um CEDOC próprio e precisam determinar o prazo de atendimento a solicitações de consultas feitas por outros setores ao próprio CEDOC.</mark> &#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/cliente17.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (366).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-Dependendo da opção escolhida serão habilitadas as abas “Guarda Terceirizada” e “Guarda Interna”. Em ambos os casos será preciso escolher entre “SLA Variável” ou “SLA Fixo”. &#x20;
+Após seleção, é habilitadas a aba “Guarda Terceirizada” e/ou “Guarda Interna”. Em ambos os casos será preciso escolher entre “SLA Variável” ou “SLA Fixo”, para visualizar as demais informações do SLA.
+
+Clique na aba que deseja para visualizar detalhadamente as informações:
+
+<figure><img src="../.gitbook/assets/image (367).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="color:orange;">**A única diferença entre os SLAs de guarda terceirizada e guarda interna é que no caso da guarda interna serão considerados, além dos prazos e limites cadastrados nesta tela, os limites e urgências de atendimento para cada tipo de serviço contratado pelo cliente na tela**</mark> [**Cliente > Contratos**](contratos/)<mark style="color:orange;">.</mark> &#x20;
 {% endhint %}
-
-<figure><img src="../.gitbook/assets/cliente18.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
