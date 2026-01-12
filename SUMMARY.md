@@ -6,6 +6,19 @@
     * [ArqSign e Clínica nas Nuvens](arqsign/perguntas-frequentes/arqsign-e-clinica-nas-nuvens.md)
     * [Assinatura digital e eletrônica](arqsign/perguntas-frequentes/assinatura-digital-e-eletronica.md)
     * [Certificado Digital](arqsign/perguntas-frequentes/certificado-digital.md)
+
+## MENU SUPERIOR
+
+* [Page 2](menu-superior/page-2/README.md)
+  * [Page 4](menu-superior/page-2/page-4.md)
+* [Page 6](menu-superior/page-6.md)
+* [Page 1](menu-superior/page-1.md)
+* [Page 5](menu-superior/page-5.md)
+* [Page](menu-superior/page.md)
+* [Page 3](menu-superior/page-3.md)
+
+***
+
 * [ArqGED](<README (2).md>)
   * [🟢 Página inicial](<README (1).md>)
   * [🏛️ Unidade](unidade/README.md)
