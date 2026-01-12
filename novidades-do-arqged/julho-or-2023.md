@@ -14,7 +14,7 @@ Para esta funcionalidade, no desenho do fluxo, a tela de configuração para est
 
 Anteriormente, esse Tipo de Responsável somente era avançado com 100% das execuções e, com esta alteração o usuário poderá definir qual o percentual de execução para o avanço.
 
-Os detalhes dessas funcionalidades estão na página [Workflow > Desenho do Fluxo > Configurações da Tarefa](../workflow/desenho-do-fluxo/aba-fluxograma.md#configuracoes-da-tarefa).
+Os detalhes dessas funcionalidades estão na página [Workflow > Desenho do Fluxo > Configurações da Tarefa](../arqged/workflow/desenho-do-fluxo/aba-fluxograma.md#configuracoes-da-tarefa).
 
 ![](<../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
@@ -33,7 +33,7 @@ Com esta funcionalidade, a coluna “Assinar” será sempre exibida na tela par
 
 Anteriormente, esta coluna era exibida somente em etapa com obrigatoriedade de selecionar anexos para serem assinados em tarefas externas.
 
-Os detalhes dessas funcionalidades estão na página [Workflow > Atividades > Aba Minhas Atividades > Executando um fluxo](../workflow/atividades/aba-minhas-atividades/executando-um-fluxo.md).
+Os detalhes dessas funcionalidades estão na página [Workflow > Atividades > Aba Minhas Atividades > Executando um fluxo](../arqged/workflow/atividades/aba-minhas-atividades/executando-um-fluxo.md).
 
 ![](<../.gitbook/assets/image (9) (1) (1) (1) (1).png>)
 

@@ -43,7 +43,7 @@ Com esta nova alteração, poderão ser ativados fluxos automáticos para docume
 
 As configurações de ativação automática de fluxos continuam as mesmas (Diário, Semanal, Mensal), somente foi adicionado esta opção para ativar fluxos com documentos antes de seu vencimento.
 
-Para ver detalhes dessa funcionalidade acesse [Workflow > Desenho do Fluxo> Aba Dados Gerais > Ativação baseada em ocorrências](../workflow/desenho-do-fluxo/aba-dados-gerais.md#ativacao-baseada-em-ocorrencias).
+Para ver detalhes dessa funcionalidade acesse [Workflow > Desenho do Fluxo> Aba Dados Gerais > Ativação baseada em ocorrências](../arqged/workflow/desenho-do-fluxo/aba-dados-gerais.md#ativacao-baseada-em-ocorrencias).
 
 </details>
 
