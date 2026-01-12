@@ -2,6 +2,8 @@
 
 * [ArqSign](README.md)
   * [Visão Geral da Plataforma 2.23.0](arqsign/visao-geral-da-plataforma-2.23.0.md)
+  * [Perguntas Frequentes](arqsign/perguntas-frequentes/README.md)
+    * [ArqSign e Clínica nas Nuvens](arqsign/perguntas-frequentes/arqsign-e-clinica-nas-nuvens.md)
 * [ArqGED](<README (2).md>)
   * [🟢 Página inicial](<README (1).md>)
   * [🏛️ Unidade](unidade/README.md)
