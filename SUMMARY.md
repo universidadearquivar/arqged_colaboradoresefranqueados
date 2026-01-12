@@ -8,7 +8,7 @@
     * [Certificado Digital](arqsign/perguntas-frequentes/certificado-digital.md)
   * [Novo Processo](arqsign/novo-processo.md)
   * [Assinatura de Documentos](arqsign/assinatura-de-documentos.md)
-* [ArqGED](<README (2).md>)
+* [🟢 ArqGED](<README (2).md>)
   * [🟢 Página inicial](<README (1).md>)
   * [🏛️ Unidade](unidade/README.md)
     * [🟩 Dados Cadastrais](unidade/dados-cadastrais.md)
