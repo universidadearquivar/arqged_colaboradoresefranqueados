@@ -22,7 +22,7 @@ Quando é realizado o upload de arquivos no ArqSCAN, é criado um documento com 
 
 A configuração de tarefas para desenhos de fluxos automáticos, baseados em ocorrência “Quando um registro é inserido”, foi alterado para permitir a inclusão dos tipos de responsáveis “Quem Ativou” e “Chefe imediato(Quem Ativou)”.
 
-Anteriormente, estes tipos de responsáveis não eram exibidos para esta configuração de desenho. Os detalhes dessas funcionalidades estão na página [Workflow > Desenho do Fluxo > Configurações da Tarefa.](../arqged/workflow/desenho-do-fluxo/aba-fluxograma.md#configuracoes-da-tarefa)
+Anteriormente, estes tipos de responsáveis não eram exibidos para esta configuração de desenho. Os detalhes dessas funcionalidades estão na página [Workflow > Desenho do Fluxo > Configurações da Tarefa.](../workflow/desenho-do-fluxo/aba-fluxograma.md#configuracoes-da-tarefa)
 
 </details>
 
@@ -46,6 +46,6 @@ O Robô ArqIndex também foi alterado para identificar se irá ou não excluir o
 
 A pesquisa por fluxo do workflow foi alterada para adicionar a funcionalidade de exclusão de fluxos ativos. Foi incluído um ícone em cada fluxo no retorno da pesquisa por fluxo.
 
-Os detalhes dessas funcionalidades estão na página [Workflow > Atividades > Aba Pesquisa por Fluxo.](../arqged/workflow/atividades/aba-pesquisa-por-fluxo.md)
+Os detalhes dessas funcionalidades estão na página [Workflow > Atividades > Aba Pesquisa por Fluxo.](../workflow/atividades/aba-pesquisa-por-fluxo.md)
 
 </details>

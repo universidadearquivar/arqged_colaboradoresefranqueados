@@ -10,7 +10,7 @@ description: Setembro/2025
 
 **APIs de Compartilhamento**
 
-Foram adicionados três novos serviços na[ **API** ](../arqged/integracoes/api/)relacionados ao compartilhamento de arquivos já cadastrados em documentos no ArqGED:
+Foram adicionados três novos serviços na[ **API** ](../integracoes/api/)relacionados ao compartilhamento de arquivos já cadastrados em documentos no ArqGED:
 
 1. <mark style="color:blue;">**POST**</mark>**&#x20;- Gerar link de compartilhamento**
    * Permite compartilhar arquivos de um documento já existente.

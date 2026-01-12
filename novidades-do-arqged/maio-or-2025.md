@@ -40,6 +40,6 @@ Ao selecionar o serviço “ArqSIGN Plataforma”, o sistema exibe os campos par
 * Ícone “Informações da Conta”
 * GRID para cadastro dos subserviços que serão: Envios, WhatsApp e SMS
 
-[**Workflow > Desenho do Fluxo > ArqSign**](../arqged/workflow/desenho-do-fluxo/arqsign.md)
+[**Workflow > Desenho do Fluxo > ArqSign**](../workflow/desenho-do-fluxo/arqsign.md)
 
 </details>

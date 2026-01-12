@@ -8,7 +8,7 @@ hidden: true
 
 <summary>14/09 - ArqFlow Bloquear ativação manual sem um documento associado</summary>
 
-A tela [Dados Gerais](../arqged/workflow/desenho-do-fluxo/aba-dados-gerais.md) no menu Desenho de um Fluxo foi alterada para incluir o parâmetro “Bloquear a ativação manual deste fluxo sem um documento associado.”
+A tela [Dados Gerais](../workflow/desenho-do-fluxo/aba-dados-gerais.md) no menu Desenho de um Fluxo foi alterada para incluir o parâmetro “Bloquear a ativação manual deste fluxo sem um documento associado.”
 
 <img src="../.gitbook/assets/dadosgerais_alt01.png" alt="" data-size="original">
 
@@ -16,7 +16,7 @@ Este parâmetro será exibido para seleção somente em desenhos com tipo de ati
 
 Desenhos de fluxo com este parâmetro selecionado não poderão ser ativados manualmente sem que haja um documento selecionado, ou seja, para estes desenhos um fluxo poderá ser ativado somente via pesquisa simples, avançada, explorar ou aba Workflow na tela de Documentos.
 
-Para ver detalhes dessa funcionalidade acesse [Workflow > Desenho do Fluxo > Aba Dados Gerais.](../arqged/workflow/desenho-do-fluxo/aba-dados-gerais.md)
+Para ver detalhes dessa funcionalidade acesse [Workflow > Desenho do Fluxo > Aba Dados Gerais.](../workflow/desenho-do-fluxo/aba-dados-gerais.md)
 
 </details>
 
@@ -30,7 +30,7 @@ Anteriormente, a aplicação substituía o usuário somente nas tarefas em execu
 
 Desta forma, quando voltar uma tarefa, esta não irá retornar para o usuário responsável que executou, mas sim para o usuário substituído.
 
-Para ver detalhes dessa funcionalidade acesse [Workflow > Substituição de Pessoas.](../arqged/workflow/substituicao-de-pessoas.md#substituicao-definitiva)
+Para ver detalhes dessa funcionalidade acesse [Workflow > Substituição de Pessoas.](../workflow/substituicao-de-pessoas.md#substituicao-definitiva)
 
 </details>
 
@@ -46,6 +46,6 @@ Quando for selecionado um usuário do grupo, o ícone será habilitado para que 
 
 Usuários inativados em um grupo não irão receber novas tarefas que estejam configuradas para o Grupo em questão.
 
-Para ver detalhes dessa funcionalidade acesse [Workflow > Grupo de Usuários.](../arqged/workflow/grupo-de-usuarios.md#inativar-usuarios)
+Para ver detalhes dessa funcionalidade acesse [Workflow > Grupo de Usuários.](../workflow/grupo-de-usuarios.md#inativar-usuarios)
 
 </details>
