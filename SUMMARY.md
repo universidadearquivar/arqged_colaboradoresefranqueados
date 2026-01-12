@@ -5,6 +5,7 @@
   * [Perguntas Frequentes](arqsign/perguntas-frequentes/README.md)
     * [ArqSign e Clínica nas Nuvens](arqsign/perguntas-frequentes/arqsign-e-clinica-nas-nuvens.md)
     * [Assinatura digital e eletrônica](arqsign/perguntas-frequentes/assinatura-digital-e-eletronica.md)
+    * [Certificado Digital](arqsign/perguntas-frequentes/certificado-digital.md)
 * [ArqGED](<README (2).md>)
   * [🟢 Página inicial](<README (1).md>)
   * [🏛️ Unidade](unidade/README.md)
