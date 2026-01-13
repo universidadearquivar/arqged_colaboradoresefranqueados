@@ -16,6 +16,8 @@
   * [Caixa de Entrada](arqsign/caixa-de-entrada.md)
   * [Enviados](arqsign/enviados.md)
   * [Rascunhos](arqsign/rascunhos.md)
+  * [Excluídos](arqsign/excluidos.md)
+  * [Page 1](arqsign/page-1.md)
 * [🟢 ArqGED](<README (2).md>)
   * [🟢 Página inicial](<README (1).md>)
   * [🏛️ Unidade](unidade/README.md)
