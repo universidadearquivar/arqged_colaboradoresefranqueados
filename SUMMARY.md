@@ -53,7 +53,7 @@
           * [5.2.POST/api/v1/confwebhook](arqsign/integracoes/api/metodos-disponiveis-na-api/5.-webhook/5.2.post-api-v1-confwebhook.md)
           * [5.3.GET api/v1/confwebhook](arqsign/integracoes/api/metodos-disponiveis-na-api/5.-webhook/5.3.get-api-v1-confwebhook.md)
       * [URL da API ArqSign](arqsign/integracoes/api/url-da-api-arqsign.md)
-      * [Page 4](arqsign/integracoes/api/page-4.md)
+      * [Biblioteca para testes Postman](arqsign/integracoes/api/biblioteca-para-testes-postman.md)
     * [Page 3](arqsign/integracoes/page-3.md)
     * [Page](arqsign/integracoes/page.md)
     * [Page 2](arqsign/integracoes/page-2.md)
