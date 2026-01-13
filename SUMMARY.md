@@ -44,7 +44,7 @@
           * [2.1.POST/api/v1/diretorio/buscar-pastas](arqsign/integracoes/api/metodos-disponiveis-na-api/2.diretorios/2.1.post-api-v1-diretorio-buscar-pastas.md)
         * [3. Usuários](arqsign/integracoes/api/metodos-disponiveis-na-api/3.-usuarios/README.md)
           * [3.1.POST/api/v1/usuarios/buscar-usuarios](arqsign/integracoes/api/metodos-disponiveis-na-api/3.-usuarios/3.1.post-api-v1-usuarios-buscar-usuarios.md)
-        * [4. Conta](arqsign/integracoes/api/metodos-disponiveis-na-api/4.-conta/README.md)
+        * [4. Conta](arqsign/integracoes/api/metodos-disponiveis-na-api/page-5.md)
           * [4.1.GET/api/v1/conta/papeis-signatarios](arqsign/integracoes/api/metodos-disponiveis-na-api/4.-conta/4.1.get-api-v1-conta-papeis-signatarios.md)
           * [Page 6](arqsign/integracoes/api/metodos-disponiveis-na-api/4.-conta/page-6.md)
           * [Page 5](arqsign/integracoes/api/metodos-disponiveis-na-api/4.-conta/page-5.md)
