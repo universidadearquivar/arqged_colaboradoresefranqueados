@@ -55,7 +55,7 @@
       * [URL da API ArqSign](arqsign/integracoes/api/url-da-api-arqsign.md)
       * [Biblioteca para testes Postman](arqsign/integracoes/api/page-4.md)
     * [Webhook](arqsign/integracoes/page-3.md)
-    * [Page](arqsign/integracoes/page.md)
+    * [Fluxo Ideal de Integração](arqsign/integracoes/fluxo-ideal-de-integracao.md)
     * [Page 2](arqsign/integracoes/page-2.md)
   * [Page 1](arqsign/page-1.md)
 * [🟢 ArqGED](<README (2).md>)
