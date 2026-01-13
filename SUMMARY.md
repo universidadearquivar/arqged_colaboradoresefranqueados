@@ -32,6 +32,7 @@
       * [Métodos disponíveis na API](arqsign/integracoes/api/metodos-disponiveis-na-api/README.md)
         * [1. Processo](arqsign/integracoes/api/metodos-disponiveis-na-api/1.-processo/README.md)
           * [1.1.POST/api/v2/processo/enviar-documento-para-assinar](arqsign/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.1.post-api-v2-processo-enviar-documento-para-assinar.md)
+          * [1.1.1.POST/api/v3/processo/enviar-documento-para-assinar](arqsign/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.1.1.post-api-v3-processo-enviar-documento-para-assinar.md)
     * [Page 3](arqsign/integracoes/page-3.md)
     * [Page](arqsign/integracoes/page.md)
     * [Page 2](arqsign/integracoes/page-2.md)
