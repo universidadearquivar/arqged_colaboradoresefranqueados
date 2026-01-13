@@ -16,7 +16,7 @@ Anteriormente, esse Tipo de Responsável somente era avançado com 100% das exec
 
 Os detalhes dessas funcionalidades estão na página [Workflow > Desenho do Fluxo > Configurações da Tarefa](../workflow/desenho-do-fluxo/aba-fluxograma.md#configuracoes-da-tarefa).
 
-![](<../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 </details>
 
@@ -35,6 +35,6 @@ Anteriormente, esta coluna era exibida somente em etapa com obrigatoriedade de s
 
 Os detalhes dessas funcionalidades estão na página [Workflow > Atividades > Aba Minhas Atividades > Executando um fluxo](../workflow/atividades/aba-minhas-atividades/executando-um-fluxo.md).
 
-![](<../.gitbook/assets/image (9) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (9) (1) (1) (1) (1) (1).png>)
 
 </details>

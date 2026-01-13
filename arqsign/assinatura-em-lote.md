@@ -18,13 +18,13 @@ Processos que exigem as configurações:
 **Não são listados** para assinatura em lote. Para assiná-los, o usuário deverá acessar sua [**Caixa de Entrada**](https://app.gitbook.com/o/Ai1YjbPQxIuvTaVzoZ4H/s/NkvKZtdmOiilgqExqFNO/caixa-postal/caixa-de-entrada) e assiná-los individualmente.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ### Colunas da tela principal – Assinatura em Lote <a href="#colunas-da-tela-principal-assinatura-em-lote" id="colunas-da-tela-principal-assinatura-em-lote"></a>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Coluna Nome do Processo :** Nesta coluna é exibido o nome do processo.
 
@@ -36,7 +36,7 @@ Processos que exigem as configurações:
 
 **Barra de Filtro:** É possível localizar um ou mais processos utilizando-se os filtros disponíveis para busca. Na tela Assinatura em Lote a busca pode ser feita pelo nome do processo, pelo nome do responsável ou pelo tipo de assinatura que deverá ser utilizada.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
