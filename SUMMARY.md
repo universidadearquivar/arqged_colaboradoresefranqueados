@@ -24,7 +24,7 @@
   * [Administração - Administração](arqsign/administracao-administracao/README.md)
     * [Conta](arqsign/administracao-administracao/conta.md)
     * [Usuários](arqsign/administracao-administracao/usuarios.md)
-    * [Page 3](arqsign/administracao-administracao/page-3.md)
+    * [Grupo de Usuários](arqsign/administracao-administracao/grupo-de-usuarios.md)
   * [Page 2](arqsign/page-2.md)
   * [Page 1](arqsign/page-1.md)
 * [🟢 ArqGED](<README (2).md>)
