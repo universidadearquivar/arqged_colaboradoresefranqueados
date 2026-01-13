@@ -42,7 +42,7 @@
           * [1.8.GET/api/v1/processo/{idArquivoProcesso}/registro-assinaturas](arqsign/integracoes/api/metodos-disponiveis-na-api/1.-processo/page-4.md)
         * [2.Diretórios](arqsign/integracoes/api/metodos-disponiveis-na-api/2.diretorios/README.md)
           * [2.1.POST/api/v1/diretorio/buscar-pastas](arqsign/integracoes/api/metodos-disponiveis-na-api/2.diretorios/2.1.post-api-v1-diretorio-buscar-pastas.md)
-        * [Page 6](arqsign/integracoes/api/metodos-disponiveis-na-api/page-6.md)
+        * [3. Usuários](arqsign/integracoes/api/metodos-disponiveis-na-api/3.-usuarios.md)
         * [Page 5](arqsign/integracoes/api/metodos-disponiveis-na-api/page-5.md)
         * [Page 4](arqsign/integracoes/api/metodos-disponiveis-na-api/page-4.md)
     * [Page 3](arqsign/integracoes/page-3.md)
