@@ -50,6 +50,8 @@
           * [4.3.GET/api/v1/conta/dados-assinatura](arqsign/integracoes/api/metodos-disponiveis-na-api/4.-conta/4.3.get-api-v1-conta-dados-assinatura.md)
         * [5. Webhook](arqsign/integracoes/api/metodos-disponiveis-na-api/page-4.md)
           * [5.1.PATCH/api/v1/confwebhook/{idConfWebHook}/alterar-status](arqsign/integracoes/api/metodos-disponiveis-na-api/5.-webhook/5.1.patch-api-v1-confwebhook-idconfwebhook-alterar-status.md)
+          * [5.2.POST/api/v1/confwebhook](arqsign/integracoes/api/metodos-disponiveis-na-api/5.-webhook/5.2.post-api-v1-confwebhook.md)
+          * [Page 4](arqsign/integracoes/api/metodos-disponiveis-na-api/5.-webhook/page-4.md)
     * [Page 3](arqsign/integracoes/page-3.md)
     * [Page](arqsign/integracoes/page.md)
     * [Page 2](arqsign/integracoes/page-2.md)
