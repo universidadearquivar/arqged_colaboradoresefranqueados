@@ -34,7 +34,7 @@
           * [1.1.POST/api/v2/processo/enviar-documento-para-assinar](arqsign/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.1.post-api-v2-processo-enviar-documento-para-assinar.md)
           * [1.1.1.POST/api/v3/processo/enviar-documento-para-assinar](arqsign/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.1.1.post-api-v3-processo-enviar-documento-para-assinar.md)
           * [1.2.GET/api/v2/processo/{idProcesso}?arquivoTipo =1\&retornarRegistroAssinatura=true](arqsign/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.2.get-api-v2-processo-idprocesso-arquivotipo-1-and-retornarregistroassinatura-true.md)
-          * [Page 8](arqsign/integracoes/api/metodos-disponiveis-na-api/1.-processo/page-8.md)
+          * [1.3.PATCH/api/v2/processo/{idProcesso}/reenviar-processo](arqsign/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.3.patch-api-v2-processo-idprocesso-reenviar-processo.md)
           * [Page 7](arqsign/integracoes/api/metodos-disponiveis-na-api/1.-processo/page-7.md)
           * [Page 6](arqsign/integracoes/api/metodos-disponiveis-na-api/1.-processo/page-6.md)
           * [Page 5](arqsign/integracoes/api/metodos-disponiveis-na-api/1.-processo/page-5.md)
