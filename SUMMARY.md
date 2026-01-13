@@ -17,7 +17,7 @@
   * [Enviados](arqsign/enviados.md)
   * [Rascunhos](arqsign/rascunhos.md)
   * [Excluídos](arqsign/excluidos.md)
-  * [Page 1](arqsign/page-1.md)
+  * [Renovações](arqsign/renovacoes.md)
 * [🟢 ArqGED](<README (2).md>)
   * [🟢 Página inicial](<README (1).md>)
   * [🏛️ Unidade](unidade/README.md)
