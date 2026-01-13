@@ -10,7 +10,7 @@ Foram incluídas mais duas formas de pagamento para as compras realizadas na pla
 
 <details>
 
-<summary>mportação de Contatos - Abr/2025</summary>
+<summary>Importação de Contatos - Abr/2025</summary>
 
 Esta funcionalidade visa [importar dados de contatos](https://manual.arquivar.com/manual-arqsign/menu-superior/meu-perfil#importacao-de-contatos) através de um arquivo formato “CSV”.
 

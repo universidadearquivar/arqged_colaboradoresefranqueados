@@ -58,7 +58,7 @@
     * [Fluxo Ideal de Integração](arqsign/integracoes/page.md)
     * [Histórico de alterações da API](arqsign/integracoes/historico-de-alteracoes-da-api.md)
     * [Histórico Inativo](arqsign/integracoes/historico-inativo.md)
-  * [Novidades ArqSign](arqsign/novidades-arqsign.md)
+  * [Novidades ArqSign](arqsign/page-1.md)
 * [🟢 ArqGED](<README (2).md>)
   * [🟢 Página inicial](<README (1).md>)
   * [🏛️ Unidade](unidade/README.md)
