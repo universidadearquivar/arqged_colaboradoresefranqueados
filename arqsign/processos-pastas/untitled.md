@@ -1,4 +1,4 @@
-# Untitled
+# Configuração de pastas para clientes que ainda não assinaram processos
 
 ## Criação da estrutura de pastas <a href="#criacao-da-estrutura-de-pastas" id="criacao-da-estrutura-de-pastas"></a>
 
@@ -86,7 +86,7 @@ As permissões das pastas setoriais devem ser ajustadas para que o acesso seja r
 
 ***
 
-### Permissões para Pastas <a href="#permissoes-para-pastas" id="permissoes-para-pastas"></a>
+## Permissões para Pastas <a href="#permissoes-para-pastas" id="permissoes-para-pastas"></a>
 
 Somente o Administrador Global da conta terá acesso ao menu de Pastas e por este motivo é tão importante cuidar para que somente pessoas sem restrições de acesso estejam com este perfil. Veja abaixo as diferenças entre as permissões concedidas a cada perfil:
 
@@ -98,7 +98,7 @@ Somente o Administrador Global da conta terá acesso ao menu de Pastas e por est
 
 ***
 
-### Criação/Manutenção de Permissões por usuário <a href="#criacao-manutencao-de-permissoes-por-usuario" id="criacao-manutencao-de-permissoes-por-usuario"></a>
+## Criação/Manutenção de Permissões por usuário <a href="#criacao-manutencao-de-permissoes-por-usuario" id="criacao-manutencao-de-permissoes-por-usuario"></a>
 
 Criada a estrutura de pastas e aplicadas as permissões, a manutenção na Plataforma se resume em incluir ou excluir usuários dos grupos para que acessem ou deixem de acessar determinada pasta.
 
@@ -110,7 +110,7 @@ _Edição do usuário:_ Acesse a tela [Administração > Usuários](https://manu
 
 ***
 
-### Regras Gerais de Diretórios <a href="#regras-gerais-de-diretorios" id="regras-gerais-de-diretorios"></a>
+## Regras Gerais de Diretórios <a href="#regras-gerais-de-diretorios" id="regras-gerais-de-diretorios"></a>
 
 <details>
 
