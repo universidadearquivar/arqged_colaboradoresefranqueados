@@ -1,4 +1,4 @@
-# Rascunhos
+# Caixa Postal - Caixa Postal - Rascunhos
 
 No menu **Rascunhos** são exibidos todos os processos que tiveram sua configuração iniciada na tela **Novo Processo**, mas que **ainda não foram concluídos nem enviados aos signatários**. Esses rascunhos permanecem salvos para que possam ser editados e finalizados posteriormente.
 

@@ -1,4 +1,4 @@
-# Excluídos
+# Caixa Postal - Excluídos
 
 No menu Excluídos são apresentados todos os processos excluídos pelo usuário. Podem ser excluídos processos já concluídos, cancelados ou apenas criados.
 
