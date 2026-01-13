@@ -11,7 +11,7 @@
     * [6.Integração entre Sistemas](arqsign/perguntas-frequentes/6.integracao-entre-sistemas.md)
     * [7.Planos e Pagamentos](arqsign/perguntas-frequentes/7.planos-e-pagamentos.md)
     * [8.Segurança](arqsign/perguntas-frequentes/8.seguranca.md)
-    * [Page 1](arqsign/perguntas-frequentes/page-1.md)
+    * [9.Validade Jurídica](arqsign/perguntas-frequentes/9.validade-juridica.md)
   * [Menu Superior - Novo Processo](arqsign/novo-processo.md)
   * [Menu Superior - Assinatura de Documentos](arqsign/assinatura-de-documentos.md)
   * [Menu Superior - Assinatura em Lote](arqsign/assinatura-em-lote.md)
