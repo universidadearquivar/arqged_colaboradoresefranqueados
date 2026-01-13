@@ -11,6 +11,7 @@
   * [Assinatura em Lote](arqsign/assinatura-em-lote.md)
   * [Vencidos](arqsign/vencidos.md)
   * [Comprar ou Alterar Plano](arqsign/comprar-ou-alterar-plano.md)
+  * [Comprar Créditos](arqsign/comprar-creditos.md)
 * [🟢 ArqGED](<README (2).md>)
   * [🟢 Página inicial](<README (1).md>)
   * [🏛️ Unidade](unidade/README.md)
