@@ -10,7 +10,7 @@
     * [5.Diretório e Controle de Acesso](arqsign/perguntas-frequentes/5.diretorio-e-controle-de-acesso.md)
     * [6.Integração entre Sistemas](arqsign/perguntas-frequentes/6.integracao-entre-sistemas.md)
     * [7.Planos e Pagamentos](arqsign/perguntas-frequentes/7.planos-e-pagamentos.md)
-    * [Page](arqsign/perguntas-frequentes/page.md)
+    * [8.Segurança](arqsign/perguntas-frequentes/8.seguranca.md)
     * [Page 1](arqsign/perguntas-frequentes/page-1.md)
   * [Menu Superior - Novo Processo](arqsign/novo-processo.md)
   * [Menu Superior - Assinatura de Documentos](arqsign/assinatura-de-documentos.md)
