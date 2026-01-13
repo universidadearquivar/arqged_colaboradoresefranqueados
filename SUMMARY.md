@@ -65,6 +65,7 @@
     * [Histórico de alterações da API](arqsign/administracao-integracoes/historico-de-alteracoes-da-api.md)
     * [Histórico Inativo](arqsign/administracao-integracoes/historico-inativo.md)
   * [Novidades ArqSign](arqsign/page-1.md)
+  * [Novidades ArqSign - Histórico](arqsign/novidades-arqsign-historico.md)
 * [🟢 ArqGED](<README (2).md>)
   * [🟢 Página inicial](<README (1).md>)
   * [🏛️ Unidade](unidade/README.md)
