@@ -1,4 +1,4 @@
-# Visão Geral da Plataforma 2.23.0
+# 💻 Visão Geral da Plataforma 2.23.0
 
 ## Características da plataforma <a href="#caracteristicas-da-plataforma" id="caracteristicas-da-plataforma"></a>
 
