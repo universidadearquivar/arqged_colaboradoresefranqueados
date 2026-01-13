@@ -185,6 +185,7 @@
     * [🔌 SSO](integracoes/sso.md)
       * [🛠️ Implantação SSO](integracoes/sso/implantacao-sso.md)
   * [Novidades do ArqGED](arqged/novidades-do-arqged.md)
+  * [Novidades do ArqGED - Histórico](arqged/novidades-do-arqged-historico.md)
 
 ## 📣 Novidades do ArqGED
 
