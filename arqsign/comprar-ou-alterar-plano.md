@@ -1,4 +1,4 @@
-# Menu Superior - Comprar ou Alterar Plano
+# 🛒 Menu Superior - Comprar ou Alterar Plano
 
 Os botões “Comprar Agora” ou “Alterar Plano” serão exibidos para usuários que possuem uma conta de teste grátis ou para usuários que possuam plano pago expirado ou próximo da data de expiração. Neste caso, o usuário pode escolher permanecer no plano em que está ou migrar para outro plano.
 

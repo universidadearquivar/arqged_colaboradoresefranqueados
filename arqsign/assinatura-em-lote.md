@@ -1,4 +1,4 @@
-# Menu Superior - Assinatura em Lote
+# ✒️ Menu Superior - Assinatura em Lote
 
 A funcionalidade de assinatura em lote permite que o usuário assine mais de um processo de uma só vez. A assinatura em lote só está disponível para usuários que possuem conta cadastrada na plataforma e estiverem autenticados. Nesta tela, serão apresentados até 100 processos por página, isso vai depender da quantidade de processos pendentes de assinatura. 
 

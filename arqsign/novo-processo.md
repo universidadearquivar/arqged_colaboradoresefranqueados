@@ -1,4 +1,4 @@
-# Menu Superior - Novo Processo
+# ➕ Menu Superior - Novo Processo
 
 Na tela Novo Processo o usuário poderá cadastrar um ou mais documentos que será(ão) enviado(s) a signatários para assinatura.
 

@@ -1,4 +1,4 @@
-# Menu Superior - Assinatura de Documentos
+# 📝 Menu Superior - Assinatura de Documentos
 
 O processo de assinatura eletrônica de documentos pode ser realizado por três caminhos:
 

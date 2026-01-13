@@ -1,4 +1,4 @@
-# Menu Superior - Comprar Créditos
+# 💳 Menu Superior - Comprar Créditos
 
 O botão “Comprar Crédito” será exibido para todos os usuários com plano vigente (conta grátis ou paga). Se o usuário consumir todo o pacote de envios de seu plano, ele deverá comprar créditos extras para continuar enviando processos.
 
