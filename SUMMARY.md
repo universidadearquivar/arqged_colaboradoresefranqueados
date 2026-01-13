@@ -47,7 +47,7 @@
         * [4. Conta](arqsign/integracoes/api/metodos-disponiveis-na-api/page-5.md)
           * [4.1.GET/api/v1/conta/papeis-signatarios](arqsign/integracoes/api/metodos-disponiveis-na-api/4.-conta/4.1.get-api-v1-conta-papeis-signatarios.md)
           * [4.2.POST/api/v1/conta/buscar-consumo-itens-assinatura](arqsign/integracoes/api/metodos-disponiveis-na-api/4.-conta/4.2.post-api-v1-conta-buscar-consumo-itens-assinatura.md)
-          * [Page 5](arqsign/integracoes/api/metodos-disponiveis-na-api/4.-conta/page-5.md)
+          * [4.3.GET/api/v1/conta/dados-assinatura](arqsign/integracoes/api/metodos-disponiveis-na-api/4.-conta/4.3.get-api-v1-conta-dados-assinatura.md)
         * [Page 4](arqsign/integracoes/api/metodos-disponiveis-na-api/page-4.md)
     * [Page 3](arqsign/integracoes/page-3.md)
     * [Page](arqsign/integracoes/page.md)
