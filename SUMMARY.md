@@ -39,7 +39,7 @@
           * [1.5.GET/api/v1/processo/{idprocesso}/dados-signatarios](arqsign/integracoes/api/metodos-disponiveis-na-api/1.-processo/page-6.md)
           * [1.6.PATCH/api/v1/processo/{idProcesso}/cancelar-processo](arqsign/integracoes/api/metodos-disponiveis-na-api/1.-processo/page-5.md)
           * [1.7.POST/api/v1/processo/{idProcesso}/buscar-anexos-signatarios](arqsign/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.7.post-api-v1-processo-idprocesso-buscar-anexos-signatarios.md)
-          * [Page 4](arqsign/integracoes/api/metodos-disponiveis-na-api/1.-processo/page-4.md)
+          * [1.8.GET/api/v1/processo/{idArquivoProcesso}/registro-assinaturas](arqsign/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.8.get-api-v1-processo-idarquivoprocesso-registro-assinaturas.md)
     * [Page 3](arqsign/integracoes/page-3.md)
     * [Page](arqsign/integracoes/page.md)
     * [Page 2](arqsign/integracoes/page-2.md)
