@@ -1,4 +1,4 @@
-# Novidades ArqSign
+# 💡 Novidades ArqSign
 
 <details>
 

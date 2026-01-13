@@ -1,4 +1,4 @@
-# Caixa Postal - Renovações
+# 📅 Caixa Postal - Renovações
 
 No menu Renovações são apresentados todos os processos que foram cadastrados e enviados para assinatura com a opção “Agendar renovação \_\_\_ meses após a conclusão das assinaturas” marcada, na tela [Novo Processo > Adicionar Documentos e Destinatários > Adicionar Documentos](https://manual.arquivar.com/manual-arqsign/menu-superior/novo-processo#a.-adicionar-documentos). Só podem ser exibidos nesta tela processos com o status “Concluído”.
 

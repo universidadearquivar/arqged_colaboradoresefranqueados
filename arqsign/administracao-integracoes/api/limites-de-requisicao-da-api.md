@@ -1,4 +1,4 @@
-# Limites de Requisição da API
+# ▫️ Limites de Requisição da API
 
 ### **Limite Rate**
 

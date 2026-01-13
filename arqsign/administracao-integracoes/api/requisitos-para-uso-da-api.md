@@ -1,4 +1,4 @@
-# Requisitos para uso da API
+# ▫️ Requisitos para uso da API
 
 1. [Acesse sua conta](https://manual.arquivar.com/manual-arqsign#pagina-de-login-autenticacao-na-plataforma-arqsign) ou crie uma [conta teste grátis](https://manual.arquivar.com/manual-arqsign#criacao-de-conta-teste-gratis) na Plataforma ArqSign. Depois de autenticado, clique no [menu Integrações e acesse sua API AppKey](https://manual.arquivar.com/manual-arqsign/administracao/integracoes#api-key-chave-de-acesso), ID de usuário e ID de pasta.
 

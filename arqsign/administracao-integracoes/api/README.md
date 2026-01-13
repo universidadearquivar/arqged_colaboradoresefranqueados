@@ -1,4 +1,4 @@
-# API
+# ▫️ API
 
 No menu API o cliente tem acesso as chaves necessárias para o gerenciamento e controle das requisições realizadas via API de integração.
 

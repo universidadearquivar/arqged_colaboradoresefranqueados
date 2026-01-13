@@ -1,4 +1,4 @@
-# Configuração de pastas para clientes que já assinaram processos
+# ▫️ Configuração de pastas para clientes que já assinaram processos
 
 ## Criação da estrutura de pastas <a href="#criacao-da-estrutura-de-pastas" id="criacao-da-estrutura-de-pastas"></a>
 

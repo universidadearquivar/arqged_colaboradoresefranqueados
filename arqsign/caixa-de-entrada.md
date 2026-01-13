@@ -1,4 +1,4 @@
-# Caixa Postal - Caixa de Entrada
+# ✉️ Caixa Postal - Caixa de Entrada
 
 Na Caixa de Entrada são listados todos os processos nos quais o usuário participa como signatário, ou seja, como quem assina por meio da Plataforma ArqSign.
 

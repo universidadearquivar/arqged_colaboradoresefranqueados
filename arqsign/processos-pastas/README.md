@@ -1,4 +1,4 @@
-# Processos - Pastas
+# 📁 Processos - Pastas
 
 No menu Pastas ficam armazenados todos os documentos dos processos da conta do usuário que já foram concluídos, ou seja, foram enviados pelo usuário ou por algum dos membros que fazem parte da conta e já foram assinados por todos os signatários envolvidos no processo de assinatura. Neste menu é possível realizar o gerenciamento da armazenagem desses documentos.
 

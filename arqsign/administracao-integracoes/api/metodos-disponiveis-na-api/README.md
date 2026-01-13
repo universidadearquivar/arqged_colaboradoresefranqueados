@@ -1,4 +1,4 @@
-# Métodos disponíveis na API
+# ▫️ Métodos disponíveis na API
 
 A ArqSign conta atualmente com seis métodos disponíveis para uso na plataforma, dentre eles temos alguns que já foram reformulados e atualizados para a versão 2.
 

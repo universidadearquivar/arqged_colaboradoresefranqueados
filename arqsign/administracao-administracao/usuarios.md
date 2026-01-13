@@ -1,4 +1,4 @@
-# Usuários
+# ▫️ Usuários
 
 No menu Usuários são apresentados todos os usuários que participam da conta do usuário logado.
 

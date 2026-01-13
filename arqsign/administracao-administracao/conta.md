@@ -1,4 +1,4 @@
-# Conta
+# ▫️ Conta
 
 No menu Conta encontram-se as informações sobre a conta do usuário.
 

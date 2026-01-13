@@ -1,4 +1,4 @@
-# Caixa Postal - Enviados
+# 📩 Caixa Postal - Enviados
 
 ### Visualizar Processo <a href="#visualizar-processo" id="visualizar-processo"></a>
 

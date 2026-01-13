@@ -1,4 +1,4 @@
-# Administração - Administração
+# ⚙️ Administração - Administração
 
 O menu Administração está disponível para usuários com perfil de Administrador Global ou Administrador de Conta. Esse menu é composto pelos seguintes submenus:
 
