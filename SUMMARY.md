@@ -186,20 +186,3 @@
       * [🛠️ Implantação SSO](integracoes/sso/implantacao-sso.md)
   * [Novidades do ArqGED](arqged/novidades-do-arqged.md)
   * [Novidades do ArqGED - Histórico](arqged/novidades-do-arqged-historico.md)
-
-## 📣 Novidades do ArqGED
-
-* [▫️ Workflow](novidades-do-arqged/setembro-or-2025.md)
-* [▫️ Compartilhamento de Arquivos via API](novidades-do-arqged/setembro-or-2025-1.md)
-* [▫️ Integração ArqSign](novidades-do-arqged/maio-or-2025.md)
-* [▫️ Abril | 2025](novidades-do-arqged/abril-or-2025.md)
-* [▫️ Julho | 2024](novidades-do-arqged/julho-or-2024.md)
-* [▫️ Junho | 2024](novidades-do-arqged/junho-or-2024.md)
-* [▫️ Maio | 2024](novidades-do-arqged/maio-or-2024.md)
-* [▫️ Abril | 2024](novidades-do-arqged/abril-or-2024.md)
-* [▫️ Março | 2024](novidades-do-arqged/marco-or-2024.md)
-* [▫️ Fevereiro | 2024](novidades-do-arqged/fevereiro-or-2024.md)
-* [▫️ Novembro | 2023](novidades-do-arqged/novembro-or-2023.md)
-* [▫️ Setembro | 2023](novidades-do-arqged/setembro-or-2023.md)
-* [▫️ Agosto | 2023](novidades-do-arqged/agosto-or-2023.md)
-* [▫️ Julho | 2023](novidades-do-arqged/julho-or-2023.md)
