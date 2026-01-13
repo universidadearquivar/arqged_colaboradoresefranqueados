@@ -14,7 +14,7 @@
   * [Comprar Créditos](arqsign/comprar-creditos.md)
   * [Meu Perfil](arqsign/meu-perfil.md)
   * [Caixa de Entrada](arqsign/caixa-de-entrada.md)
-  * [Page](arqsign/page.md)
+  * [Enviados](arqsign/enviados.md)
   * [Page 1](arqsign/page-1.md)
 * [🟢 ArqGED](<README (2).md>)
   * [🟢 Página inicial](<README (1).md>)
