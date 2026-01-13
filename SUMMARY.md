@@ -57,6 +57,7 @@
     * [Webhook](arqsign/integracoes/page-3.md)
     * [Fluxo Ideal de Integração](arqsign/integracoes/page.md)
     * [Histórico de alterações da API](arqsign/integracoes/historico-de-alteracoes-da-api.md)
+    * [Histórico Inativo](arqsign/integracoes/historico-inativo.md)
   * [Page 1](arqsign/page-1.md)
 * [🟢 ArqGED](<README (2).md>)
   * [🟢 Página inicial](<README (1).md>)
