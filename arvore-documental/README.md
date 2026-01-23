@@ -52,6 +52,12 @@ O menu Árvore Documental é composto pelos seguintes submenus:
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><mark style="color:green;"><strong>Tipo de Estrutura</strong></mark></td><td><a href="tipo-de-estrutura.md">tipo-de-estrutura.md</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Estrutura do Cliente</strong></mark></td><td><a href="estrutura-do-cliente.md">estrutura-do-cliente.md</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Estrutura Organizacional</strong></mark></td><td><a href="estrutura-organizacional.md">estrutura-organizacional.md</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Campo Customizado</strong></mark></td><td><a href="campo-customizado.md">campo-customizado.md</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Árvore Organizacional</strong></mark></td><td><a href="arvore-organizacional.md">arvore-organizacional.md</a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Ordenação Campos</strong></mark></td><td><a href="ordenacao-campos.md">ordenacao-campos.md</a></td></tr></tbody></table>
 
-O menu Árvore Documental ajuda você a organizar e localizar arquivos de forma simples e estruturada. E para aprofundar ainda mais seus conhecimentos em gestão documental, a Arquivar Academy oferece cursos completos que mostram como planejar, organizar e administrar documentos de maneira estratégica. [Clique aqui](https://arquivar.com.br/academy-educacao-corporativa/) e conheça!
+{% columns fullWidth="true" %}
+{% column width="50%" %}
+<p align="center"><strong>O menu Árvore Documental ajuda você a organizar e localizar arquivos de forma simples e estruturada. E para aprofundar ainda mais seus conhecimentos em gestão documental, a Arquivar Academy oferece cursos completos que mostram como planejar, organizar e administrar documentos de maneira estratégica.</strong> <a href="https://arquivar.com.br/academy-educacao-corporativa/"><strong>Clique aqui</strong></a> <strong>e conheça!</strong></p>
+{% endcolumn %}
 
+{% column width="50%" valign="middle" %}
 <figure><img src="../.gitbook/assets/Inserir um título (1).jpg" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
