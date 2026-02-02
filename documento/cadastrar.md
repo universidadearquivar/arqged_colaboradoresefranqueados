@@ -6,6 +6,18 @@ Neste menu são cadastrados todos os documentos do cliente. Os documentos cadast
 * **Guarda Interna:** Documentos de Guarda Interna possuem versão física e estão armazenados com o cliente, em sua própria estrutura.
 * **Guarda Terceirizada:** Documentos de Guarda Terceirizada possuem versão física e estão armazenados na unidade Arquivar que atende ao cliente. Para que sejam consultados é preciso realizar uma solicitação pelo menu [Solicitação > Consulta](../solicitacao/consulta.md).
 
+{% hint style="warning" %}
+**Edição de Registros no Sistema**
+
+É importante ficar atento ao processo indicado em cada um das situações de edição, são elas:
+
+• **Cliente deseja editar registros de caixas que estão em Guarda Terceirizada:** neste caso a caixa estará com status "Armazenada", então o cliente precisa solicitar as caixas para consulta. Somente após a movimentação da caixa no sistema, com a mudança do status para "Em consulta no cliente", o cliente poderá executar a edição dos registros que desejar.
+
+• **Arquivar deseja editar registros de caixas "Em consulta no Cliente":** para isso, é necessário aguardar o retorno das caixas para a guarda terceirizada para que o status da caixa retorne para "Armazenada", somente após esse processo será possível realizar a edição dos registros.
+
+<mark style="color:red;">**A edição de registros no ArqGED exige este processo para que o responsável possa fazer a gestão do espaço físico do container, extinguindo assim a possibilidade de adição de registros em caixas sem espaço físico suficiente para manter o documento acondicionado.**</mark>
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/documento1.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 Independentemente do tipo de documento, no momento do cadastro é importante e necessário informar à qual cliente e unidade aquele documento que está sendo criado pertence.
@@ -14,7 +26,7 @@ Independentemente do tipo de documento, no momento do cadastro é importante e n
 
 ## Cadastro de Documento
 
-{% embed url="https://app.supademo.com/demo/cmawkqwny6maqho3r0zu6aby6" %}
+{% @supademo/embed demoId="cmawkqwny6maqho3r0zu6aby6" url="https://app.supademo.com/demo/cmawkqwny6maqho3r0zu6aby6" %}
 
 ### Eletrônico
 
