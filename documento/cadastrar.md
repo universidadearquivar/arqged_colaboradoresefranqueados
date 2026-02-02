@@ -11,11 +11,11 @@ Neste menu são cadastrados todos os documentos do cliente. Os documentos cadast
 
 É importante ficar atento ao processo indicado em cada um das situações de edição, são elas:
 
-• **Cliente deseja editar registros de caixas que estão em Guarda Terceirizada:** neste caso a caixa estará com status "Armazenada", então o cliente precisa solicitar as caixas para consulta. Somente após a movimentação da caixa no sistema, com a mudança do status para "Em consulta no cliente", o cliente poderá executar a edição dos registros que desejar.
+• **Cliente deseja editar registros de caixas que estão em Guarda Terceirizada:** neste caso a caixa estará com status "Armazenada", então o cliente precisa solicitar a caixa para consulta. Somente após a movimentação da caixa no sistema, com a mudança do status para "Em consulta no cliente", o cliente poderá executar a edição dos registros que desejar.
 
-• **Arquivar deseja editar registros de caixas "Em consulta no Cliente":** para isso, é necessário aguardar o retorno das caixas para a guarda terceirizada para que o status da caixa retorne para "Armazenada", somente após esse processo será possível realizar a edição dos registros.
+• **Arquivar deseja editar registros de caixas "Em consulta no Cliente":** para isso, é necessário aguardar o retorno da caixa para a guarda terceirizada para que o status da caixa retorne para "Armazenada", somente após esse processo será possível realizar a edição dos registros.
 
-<mark style="color:red;">**A edição de registros no ArqGED exige este processo para que o responsável possa fazer a gestão do espaço físico do container, extinguindo assim a possibilidade de adição de registros em caixas sem espaço físico suficiente para manter o documento acondicionado.**</mark>
+<mark style="color:red;">**A edição de registros no ArqGED exige este processo para que o responsável possa fazer a gestão do espaço físico do container, extinguindo assim a possibilidade de inclusão de registros em caixas sem espaço físico suficiente para manter o documento.**</mark>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/documento1.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
