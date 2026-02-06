@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 📋 Lista
 
 O objetivo do menu Lista é criar listas de pessoas ou de empresas dentro do sistema para posteriormente associar campos de formulários a essas listas, facilitando a indexação dentro do sistema.
