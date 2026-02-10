@@ -8,7 +8,7 @@ A [ArqSign](https://arquivar.com.br/arqsign/) é a Plataforma de assinatura elet
 
 A documentação da API de integração está dividida em:
 
-1. [API](https://app.gitbook.com/o/Ai1YjbPQxIuvTaVzoZ4H/s/tM1xGMYoU6wC7tnUUXEo/~/edit/~/changes/771/arqsign/administracao-integracoes/api)
+1. [API](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-integracoes/api)
 2. [Requisitos para uso da API](https://app.gitbook.com/o/Ai1YjbPQxIuvTaVzoZ4H/s/tM1xGMYoU6wC7tnUUXEo/~/edit/~/changes/771/arqsign/administracao-integracoes/api/requisitos-para-uso-da-api)
 3. [Limites de Requisições da API](https://app.gitbook.com/o/Ai1YjbPQxIuvTaVzoZ4H/s/tM1xGMYoU6wC7tnUUXEo/~/edit/~/changes/771/arqsign/administracao-integracoes/api/limites-de-requisicao-da-api)
 4. [Métodos Disponíveis na API](https://app.gitbook.com/o/Ai1YjbPQxIuvTaVzoZ4H/s/tM1xGMYoU6wC7tnUUXEo/~/edit/~/changes/771/arqsign/administracao-integracoes/api/metodos-disponiveis-na-api)
