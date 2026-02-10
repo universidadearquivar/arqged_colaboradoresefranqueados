@@ -9,10 +9,11 @@ A [ArqSign](https://arquivar.com.br/arqsign/) é a Plataforma de assinatura elet
 A documentação da API de integração está dividida em:
 
 1. [API](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-integracoes/api)
-2. [Requisitos para uso da API](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-integracoes/api/requisitos-para-uso-da-api)
-3. [Limites de Requisições da API](https://app.gitbook.com/o/Ai1YjbPQxIuvTaVzoZ4H/s/tM1xGMYoU6wC7tnUUXEo/~/edit/~/changes/771/arqsign/administracao-integracoes/api/limites-de-requisicao-da-api)
-4. [Métodos Disponíveis na API](https://app.gitbook.com/o/Ai1YjbPQxIuvTaVzoZ4H/s/tM1xGMYoU6wC7tnUUXEo/~/edit/~/changes/771/arqsign/administracao-integracoes/api/metodos-disponiveis-na-api)
-5. [Fluxo ideal considerando alguns métodos disponíveis](https://app.gitbook.com/o/Ai1YjbPQxIuvTaVzoZ4H/s/tM1xGMYoU6wC7tnUUXEo/~/edit/~/changes/771/arqsign/administracao-integracoes/fluxo-ideal-de-integracao)
-6. [URL da API ArqSign](https://app.gitbook.com/o/Ai1YjbPQxIuvTaVzoZ4H/s/tM1xGMYoU6wC7tnUUXEo/~/edit/~/changes/771/arqsign/administracao-integracoes/api/url-da-api-arqsign)
-7. [Exemplos de Requisitos de Métodos](https://manual.arquivar.com/manual-arqsign/administracao/integracoes/api/biblioteca-para-testes-postman)
-8. [Histórico de alterações da API](https://app.gitbook.com/o/Ai1YjbPQxIuvTaVzoZ4H/s/tM1xGMYoU6wC7tnUUXEo/~/edit/~/changes/771/arqsign/administracao-integracoes/historico-de-alteracoes-da-api)
+2. Requisitos para uso da API
+3. Limites de Requisições da API
+4. Métodos Disponíveis na API
+5. Fluxo ideal considerando alguns métodos disponíveis
+6. URL da API ArqSign
+7. Exemplos de Requisitos de Métodos
+8. Histórico de alterações da API
+
