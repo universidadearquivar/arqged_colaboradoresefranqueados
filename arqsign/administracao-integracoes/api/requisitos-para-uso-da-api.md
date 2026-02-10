@@ -11,19 +11,19 @@
 **Requisitos**
 
 * Ter uma conta na plataforma ArqSign ativa.
-* Ter uma [chave de acesso a API válida](https://manual.arquivar.com/manual-arqsign/administracao/integracoes#api-key-chave-de-acesso). Esta chave chamamos de AppKey.
-* Para o método [**POST/api/v2/processo/enviar-documento-para-assinar**](https://manual.arquivar.com/manual-arqsign/administracao/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.1.post-api-v2-processo-enviar-documento-para-assinar), será necessário ter em mãos:
+* Ter uma [chave de acesso a API válida](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-integracoes/api#appkey). Esta chave chamamos de AppKey.
+* Para o método [**POST/api/v2/processo/enviar-documento-para-assinar**](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-integracoes/api/metodos-disponiveis-na-api/1.-processo/1.1.post-api-v2-processo-enviar-documento-para-assinar), será necessário ter em mãos:
 
 _-> ID de um usuário da conta com status ativo: para ser responsável pelos documentos que serão enviados pela API._
 
 _-> ID de pasta: onde o documento a ser gerado deve ser armazenado na plataforma._
 
-* Para o método [**POST/api/v2/processo/enviar-documento-para-assinar**](https://app.gitbook.com/o/Ai1YjbPQxIuvTaVzoZ4H/s/NkvKZtdmOiilgqExqFNO/~/changes/52/administracao/integracoes/metodos-disponiveis-na-api-1/post-api-v2-processo-enviar-documento-para-assinar), será necessário:
+* Para o método [**POST/api/v2/processo/enviar-documento-para-assinar**](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-integracoes/api/metodos-disponiveis-na-api/1.-processo/1.1.post-api-v2-processo-enviar-documento-para-assinar), será necessário:
 
 _-> Conta com status ativo e com permissão de Integração ArqSign._
 
 _-> A conta deve possuir créditos de Envios, SMS e/ou WhatsApp, conforme necessidade. Caso a conta não possua crédito, o sistema retorna com mensagem de "saldo de créditos de Envios ou WhatsApp ou SMS insuficientes._
 
 {% hint style="warning" %}
-**A funcionalidade de** [**Diretórios**](https://manual.arquivar.com/manual-arqsign/processos/documentos) **permitirá ao cliente ter várias pastas organizadoras dentro da plataforma.**
+**A funcionalidade de** [**Diretórios**](https://manual.arquivar.com/guia-do-cliente/arqsign/processos-pastas#acesso-a-pasta-raiz-de-diretorios) **permitirá ao cliente ter várias pastas organizadoras dentro da plataforma.**
 {% endhint %}
