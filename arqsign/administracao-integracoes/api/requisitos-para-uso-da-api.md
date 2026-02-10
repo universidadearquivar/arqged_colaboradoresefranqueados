@@ -1,6 +1,6 @@
 # ▫️ Requisitos para uso da API
 
-1. [Acesse sua conta](https://manual.arquivar.com/manual-arqsign#pagina-de-login-autenticacao-na-plataforma-arqsign) ou crie uma [conta teste grátis](https://manual.arquivar.com/manual-arqsign#criacao-de-conta-teste-gratis) na Plataforma ArqSign. Depois de autenticado, clique no [menu Integrações e acesse sua API AppKey](https://manual.arquivar.com/manual-arqsign/administracao/integracoes#api-key-chave-de-acesso), ID de usuário e ID de pasta.
+1. [Acesse sua conta](https://manual.arquivar.com/guia-do-cliente/arqsign/visao-geral-da-plataforma-2.23.0#pagina-de-login-autenticacao-na-plataforma-arqsign) ou crie uma [conta teste grátis](https://manual.arquivar.com/guia-do-cliente/arqsign/visao-geral-da-plataforma-2.23.0#criacao-de-conta-teste-gratis) na Plataforma ArqSign. Depois de autenticado, clique no menu [Integrações e acesse sua API AppKey](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-integracoes/api#appkey), ID de usuário e ID de pasta.
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2FNkvKZtdmOiilgqExqFNO%2Fblobs%2Fl2GZzC238ABRg6fhvJpg%2Fintegracoes6.png&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=f13300e9&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
