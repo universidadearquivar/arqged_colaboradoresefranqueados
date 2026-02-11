@@ -30,4 +30,4 @@ Clicando na opção "Try it", é aberto no canto direito da tela os campos de pa
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FDrm6eXMogLv3c85Sf24a%252Fimage.png%3Falt%3Dmedia%26token%3D69776221-e8d3-4f82-b190-cfce27ed86a4&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=9723dc09&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
-Na área de "headers" devem ser informados a “[SubscriptionKey](https://manual.arquivar.com/manual-arqsign/administracao/integracoes/api#subscriptionkey)” e “[AppKey](https://manual.arquivar.com/manual-arqsign/administracao/integracoes/api#appkey)”
+Na área de "headers" devem ser informados a “[SubscriptionKey](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-integracoes/api#subscriptionkey)” e “[AppKey](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-integracoes/api#appkey)”
