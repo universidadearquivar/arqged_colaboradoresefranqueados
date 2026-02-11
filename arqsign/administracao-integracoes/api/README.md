@@ -69,7 +69,7 @@ Ao clicar neste link, a aplicação irá abrir a página [**de detalhamento da A
 Ao clicar neste link a aplicação irá fazer o download de um arquivo .csv com a lista de todos os usuários ativos na conta e seu respectivo ID.
 
 {% hint style="success" %}
-A busca pelos usuários ativos da conta também pode ser realizada por API, para mais informações acesse o detalhamento do método: [POST/api/v1/usuarios/buscar-usuarios](https://arquivar.gitbook.io/manual-arqsign/~/changes/kWiQBotJ7NkdrQc7NWAg/administracao/integracoes/api/metodos-disponiveis-na-api/3.-usuarios/3.1.post-api-v1-usuarios-buscar-usuarios)
+A busca pelos usuários ativos da conta também pode ser realizada por API, para mais informações acesse o detalhamento do método: [POST/api/v1/usuarios/buscar-usuarios](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-integracoes/api/metodos-disponiveis-na-api/3.-usuarios/3.1.post-api-v1-usuarios-buscar-usuarios)
 {% endhint %}
 
 ***
