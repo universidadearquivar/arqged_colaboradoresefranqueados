@@ -81,5 +81,5 @@ A busca pelos usuários ativos da conta também pode ser realizada por API, para
 Ao clicar neste link a aplicação irá fazer o download de um arquivo .csv com a lista de todas as pastas não excluídas da conta e seu respectivo ID.
 
 {% hint style="success" %}
-A busca pelas pastas não excluídas da conta também pode ser realizada por API, para mais informações acesse o detalhamento do método: [POST/api/v1/diretorio/buscar-pastas](https://arquivar.gitbook.io/manual-arqsign/~/changes/kWiQBotJ7NkdrQc7NWAg/administracao/integracoes/api/metodos-disponiveis-na-api/2.-diretorios/2.1.post-api-v1-diretorio-buscar-pastas)
+A busca pelas pastas não excluídas da conta também pode ser realizada por API, para mais informações acesse o detalhamento do método: [POST/api/v1/diretorio/buscar-pastas](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-integracoes/api/metodos-disponiveis-na-api/2.diretorios/2.1.post-api-v1-diretorio-buscar-pastas)
 {% endhint %}
