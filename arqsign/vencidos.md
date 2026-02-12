@@ -1,6 +1,6 @@
 # 🕒 Menu Superior - Vencidos
 
-No menu Vencidos são apresentados todos os processos enviados pelo usuário para assinatura, mas que não foram concluídos dentro do prazo estipulado no campo “**Tempo para expiração do documento após o envio**”, na tela [Configurações Avançadas](https://manual.arquivar.com/manual-arqsign/menu-superior/novo-processo#configuracoes-avancadas)
+No menu Vencidos são apresentados todos os processos enviados pelo usuário para assinatura, mas que não foram concluídos dentro do prazo estipulado no campo “**Tempo para expiração do documento após o envio**”, na tela [Configurações Avançadas](https://manual.arquivar.com/guia-do-cliente/arqsign/menu-superior-novo-processo#configuracoes-avancadas).
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FvXp3XWgfEWmcVxVNCWIQ%252Fimage.png%3Falt%3Dmedia%26token%3D4e55cd09-0d6b-4a6d-8576-bbe85e3db23b&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=3d28757f&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
