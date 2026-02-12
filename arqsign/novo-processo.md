@@ -47,7 +47,7 @@ No campo “**Nome do Processo de Assinatura**”, é possível editar o nome do
 
 Ao editar o nome, não poderão ser utilizados caracteres especiais **( @ : \* " < > | / ? \ )**. Caso seja utilizado, a plataforma não seguirá o andamento do processo.
 
-No campo “**Pasta Processo**” selecione a pasta na qual os documentos serão hospedados. As pastas nas quais os processos poderão ser armazenados deverão ser criadas no menu [Processos>Pastas.](https://manual.arquivar.com/manual-arqsign/processos/documentos) Por padrão uma pasta com o nome do usuário é criada e deve ser selecionada caso não exista nenhuma outra.
+No campo “**Pasta Processo**” selecione a pasta na qual os documentos serão hospedados. As pastas nas quais os processos poderão ser armazenados deverão ser criadas no menu [Processos>Pastas](https://manual.arquivar.com/guia-do-cliente/arqsign/processos-pastas). Por padrão uma pasta com o nome do usuário é criada e deve ser selecionada caso não exista nenhuma outra.
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252F2pAxrABJOwJzssgR82Yu%252Fimage.png%3Falt%3Dmedia%26token%3Dd4ea9232-2669-4512-82bf-98899df6ca89&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=bbf0654b&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
@@ -57,11 +57,11 @@ Por último, para agendar a renovação dos processos que estão sendo cadastrad
 
 #### **Configurações Avançadas** <a href="#configuracoes-avancadas" id="configuracoes-avancadas"></a>
 
-As configurações avançadas são configurações relativas ao processo. Pode-se ajustá-las tanto para todos os processos, ou seja, deixar um padrão configurado para todas as vezes em que for necessário solicitar assinaturas, ou configurar opções relativas a apenas um processo pontualmente. Para acessar a lista completa das opções que podem ser configuradas nos processos, acesse o menu [Administração > Conta > Configurações](https://manual.arquivar.com/manual-arqsign/administracao/administracao/conta#aba-configuracoes). Conheça a seguir todas as opções gerais configuráveis:
+As configurações avançadas são configurações relativas ao processo. Pode-se ajustá-las tanto para todos os processos, ou seja, deixar um padrão configurado para todas as vezes em que for necessário solicitar assinaturas, ou configurar opções relativas a apenas um processo pontualmente. Para acessar a lista completa das opções que podem ser configuradas nos processos, acesse o menu [Administração > Conta > Configurações](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-administracao/conta#aba-configuracoes). Conheça a seguir todas as opções gerais configuráveis:
 
 * **Tempo para expiração do processo após o envio:** Neste campo o usuário deve informar o prazo (em dias) de expiração do processo, ou seja, o limite para que os destinatários o assinem.
 
-Caso esse campo não seja alterado, será preenchido com o valor padrão. O valor padrão do sistema é de 120 dias, mas esse valor pode ser alterado no menu [**Administração > Conta > Configurações.**](https://manual.arquivar.com/manual-arqsign/administracao/administracao/conta#aba-configuracoes)
+Caso esse campo não seja alterado, será preenchido com o valor padrão. O valor padrão do sistema é de 120 dias, mas esse valor pode ser alterado no menu [**Administração > Conta > Configurações.**](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-administracao/conta#aba-configuracoes)
 
 * **Aviso antes da expiração:** Neste campo deve ser informado o prazo (em dias) em que o sistema deverá enviar aos destinatários que ainda não assinaram um aviso sobre a expiração do processo.
 * **Ativar lembretes:** Ao ativar essa opção o sistema enviará aos destinatários lembretes para que realizem a assinatura do processo. Esses lembretes serão enviados apenas para os signatários que ainda não assinaram o processo. Por padrão essa opção estará marcada.
