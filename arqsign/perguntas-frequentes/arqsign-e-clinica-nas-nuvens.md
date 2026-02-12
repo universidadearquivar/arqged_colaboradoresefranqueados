@@ -7,7 +7,7 @@
 Através da parceria entre a Clínica nas nuvens e ArqSign, as soluções são conectáveis automaticamente bastando apenas você seguir os seguintes passos:
 
 1. Ative a sua conta no Clínica nas Nuvens;
-2. Acesse a página de ⁠[compra da Plataforma ArqSign](https://arquivar.com.br/arqsign-clinica-nas-nuvens/);
+2. Acesse a página de ⁠[compra da Plataforma ArqSign;](https://manual.arquivar.com/guia-do-cliente/arqsign/menu-superior-comprar-ou-alterar-plano)
 3. Escolha o seu plano e conclua a aquisição;
 4. Faça login na solução ArqSign;
 5. Na conta do ArqSign acesse o menu **“Integrações” > Api** para ter acesso às informações que você precisa inserir no Clínica nas Nuvens;
