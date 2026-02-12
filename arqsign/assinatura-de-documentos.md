@@ -40,7 +40,7 @@ O signatário receberá também uma mensagem por WhatsApp confirmando a conclus�
 {% tab title="Por acesso direto ao ArqSign via login" %}
 Ocorre quando o responsável pela assinatura acessa diretamente a plataforma e verifica a lista de documentos pendentes de assinatura. 
 
-Depois de conectado à conta, o usuário deve clicar no menu [Caixa Postal > Caixa de Entrada.](https://manual.arquivar.com/manual-arqsign/caixa-postal/caixa-de-entrada) Para assinar um documento, é preciso clicar no botão “Assinar” do arquivo desejado.
+Depois de conectado à conta, o usuário deve clicar no menu [Caixa Postal > Caixa de Entrada](https://manual.arquivar.com/guia-do-cliente/arqsign/caixa-postal-caixa-de-entrada). Para assinar um documento, é preciso clicar no botão “Assinar” do arquivo desejado.
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2FNkvKZtdmOiilgqExqFNO%2Fblobs%2FI6AG4zpleJ1XnRjOGa3Y%2Fassinatura19.png&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=f00113d4&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 {% endtab %}
@@ -146,7 +146,7 @@ Se também tiver sido solicitado ao signatário anexar arquivos, no campo “Ane
 
 ### Etapa 3 - Estilo de Assinatura <a href="#etapa-3-estilo-de-assinatura" id="etapa-3-estilo-de-assinatura"></a>
 
-O Estilo de Assinatura é a representação visual da assinatura do usuário. Para concluir a assinatura de um documento, o usuário deverá escolher de que forma irá assinar, considerando as configurações realizadas pelo destinatário em [Novo Documento](https://manual.arquivar.com/manual-arqsign/menu-superior/novo-processo#b.-destinatarios). Neste momento o destinatário deverá informar qual a representação visual deve ser utilizada pelo signatário: "Padrão, Desenho ou Imagem", ou somente "Padrão (Texto)" ou somente "Desenho" ou somente "Imagem".
+O Estilo de Assinatura é a representação visual da assinatura do usuário. Para concluir a assinatura de um documento, o usuário deverá escolher de que forma irá assinar, considerando as configurações realizadas pelo destinatário em [Novo Documento.](https://manual.arquivar.com/guia-do-cliente/arqsign/menu-superior-novo-processo#b.-destinatarios) Neste momento o destinatário deverá informar qual a representação visual deve ser utilizada pelo signatário: "Padrão, Desenho ou Imagem", ou somente "Padrão (Texto)" ou somente "Desenho" ou somente "Imagem".
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FuMyhFW2o8XEPrmqJFVTQ%252Fimage.png%3Falt%3Dmedia%26token%3Df391ac50-dd38-419b-a1bc-802eb8058ec0&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=46e66726&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
@@ -276,7 +276,7 @@ Ele deverá selecionar aquele com o qual irá assinar e informar o código PIN d
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2FNkvKZtdmOiilgqExqFNO%2Fblobs%2F9ZOYOLVSEmBx0YOVomQa%2Fsign14.png&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=5aa54e8&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
-**Os certificados hospedados na conta da plataforma ArqSign do usuário apresentados aqui deverão ter sido anteriormente importados na tela** [**Meu Perfil > Aba Certificado Digital.** ](https://manual.arquivar.com/manual-arqsign/menu-superior/meu-perfil)**Caso o usuário tenha o certificado digital hospedado na ArqSign, será oferecida a ele a opção de autenticação na plataforma para utilizar o certificado que possui.**
+**Os certificados hospedados na conta da plataforma ArqSign do usuário apresentados aqui deverão ter sido anteriormente importados na tela** [**Meu Perfil > Aba Certificado Digital.**](https://manual.arquivar.com/guia-do-cliente/arqsign/menu-superior-meu-perfil#aba-certificado-digital) **Caso o usuário tenha o certificado digital hospedado na ArqSign, será oferecida a ele a opção de autenticação na plataforma para utilizar o certificado que possui.**
 
 Para finalizar o processo de assinatura, o signatário deve clicar em “Concluir”. Ele será direcionado para uma tela pop-up, que será diferente conforme a sua situação.
 
@@ -288,7 +288,7 @@ Se já tiver uma conta ativa na plataforma de assinatura, mas **não estiver log
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FSULsNuGzlefwnOSNlDl7%252Ftela%2520pessoa%2520com%2520conta%2520delogada.png%3Falt%3Dmedia%26token%3D86b45e89-8215-45c4-b82a-6e6a2a7ad755&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=7773de90&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
-Se o signatário **não tiver uma conta cadastrada** na plataforma, será exibida uma mensagem de sugestão para que seja criada uma [conta de teste grátis](https://manual.arquivar.com/manual-arqsign#criacao-de-conta-teste-gratis), ou para que possa saber mais onde o usuário será direcionada para a página de mais informações no site ArqSign.
+Se o signatário **não tiver uma conta cadastrada** na plataforma, será exibida uma mensagem de sugestão para que seja criada uma conta de teste grátis, ou para que possa saber mais onde o usuário será direcionada para a página de mais informações no site ArqSign.
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FkO4nu8TKMIqYfcr6UIEA%252Ftela%2520pessoa%2520sem%2520conta.png%3Falt%3Dmedia%26token%3Db17dc15b-5068-410b-98c6-0bf2bd13f12c&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=1c876194&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
@@ -304,6 +304,6 @@ Concluído o processo de assinatura, o destinatário recebe a a notificação de
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2FNkvKZtdmOiilgqExqFNO%2Fblobs%2FutjfZKTduHiT3SKbIjr0%2Fsign11.png&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=60c78c36&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
-Se o remetente tiver definido que deverá ser gerado um QR Code no Registro de Assinaturas na tela [Configurações Avançadas do cadastro do documento](https://manual.arquivar.com/manual-arqsign/menu-superior/novo-processo#configuracoes-avancadas), esse QR Code será exibido na folha de registro das assinaturas.
+Se o remetente tiver definido que deverá ser gerado um QR Code no Registro de Assinaturas na tela [Configurações Avançadas](https://manual.arquivar.com/guia-do-cliente/arqsign/menu-superior-novo-processo#configuracoes-avancadas) do cadastro do documento, esse QR Code será exibido na folha de registro das assinaturas.
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2FNkvKZtdmOiilgqExqFNO%2Fblobs%2FzCZbln0gyRs4nuF5rnMR%2Fassinatura18.png&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=dc34c39a&#x26;sv=2" alt=""><figcaption></figcaption></figure>
