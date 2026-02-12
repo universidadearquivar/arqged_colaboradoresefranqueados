@@ -30,7 +30,7 @@ Processos que exigem as configurações:
 
 **Coluna Responsável:** esta coluna são apresentados o nome e e-mail de quem enviou o processo (remetente).  
 
-**Coluna Tipo de Assinatura:** Nesta coluna é exibido o tipo de assinatura exigido para a assinatura do processo, que pode ser [Assinatura Eletrônica](https://app.gitbook.com/o/Ai1YjbPQxIuvTaVzoZ4H/s/NkvKZtdmOiilgqExqFNO/menu-superior/assinatura-de-documentos#a.-assinatura-eletronica) ou [Assinatura via Certificado Digital – ICP Brasil ou Outros Certificados Digitais](https://app.gitbook.com/o/Ai1YjbPQxIuvTaVzoZ4H/s/NkvKZtdmOiilgqExqFNO/menu-superior/assinatura-de-documentos#b.-assinatura-digital-icp-brasil-e-outros).
+**Coluna Tipo de Assinatura:** Nesta coluna é exibido o tipo de assinatura exigido para a assinatura do processo, que pode ser [Assinatura Eletrônica](https://manual.arquivar.com/guia-do-cliente/arqsign/menu-superior-assinatura-de-documentos#a.-assinatura-eletronica) ou [Assinatura via Certificado Digital – ICP Brasil ou Outros Certificados Digitais.](https://manual.arquivar.com/guia-do-cliente/arqsign/menu-superior-assinatura-de-documentos#b.-assinatura-digital-icp-brasil-e-outros)
 
 **Coluna Ações:** Esta coluna exibe botões de ação sobre o processo. Será sempre exibida nesse botão a ação prioritária de execução, de acordo com o perfil do usuário e status do processo. 
 
@@ -54,7 +54,7 @@ Processos que exigem as configurações:
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2FNkvKZtdmOiilgqExqFNO%2Fblobs%2FSeEJyAikjk2arLIFT3Uu%2Flote08.png&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=e8146fc8&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
-3\. O próximo passo será definir o [Estilo de Assinatura](https://manual.arquivar.com/manual-arqsign/menu-superior/novo-processo#b.-destinatarios), que pode ser um padrão, um desenho ou uma imagem. Depois de escolhido, clique em “Concluir”. 
+3\. O próximo passo será definir o [Estilo de Assinatura](https://manual.arquivar.com/guia-do-cliente/arqsign/menu-superior-meu-perfil#aba-estilo-de-assinatura), que pode ser um padrão, um desenho ou uma imagem. Depois de escolhido, clique em “Concluir”. 
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2FNkvKZtdmOiilgqExqFNO%2Fblobs%2FjtxNtqtl7IDHQj05XyAj%2Flote09.png&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=fca76c17&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
@@ -64,8 +64,8 @@ Depois de instalados, serão exibidos todos os certificados digitais instalados 
 
 Caso não tenha instalado ainda a Extensão "ArqSign Certificado Digital" e o "Arquivar Native Module", pode verificar o passo-a-passo para instalação clicando nos links abaixo:
 
-* [Instalação dos plugins necessários para a utilização dos certificados digitais](https://manual.arquivar.com/manual-arqsign/menu-superior/assinatura-de-documentos#instalacao-dos-plugins-necessarios-para-a-utilizacao-dos-certificados-digitais)
-* [Instalando a Extensão em diferentes navegadores de internet](https://manual.arquivar.com/manual-arqsign/menu-superior/assinatura-de-documentos#instalacao-da-extensao-em-diferentes-navegadores-de-internet)
+* [Instalação dos plugins necessários para a utilização dos certificados digitais](https://manual.arquivar.com/guia-do-cliente/arqsign/menu-superior-assinatura-de-documentos#instalacao-dos-plugins-necessarios-para-a-utilizacao-dos-certificados-digitais)
+* [Instalando a Extensão em diferentes navegadores de internet](https://manual.arquivar.com/guia-do-cliente/arqsign/menu-superior-assinatura-de-documentos#instalacao-da-extensao-em-diferentes-navegadores-de-internet)
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2FNkvKZtdmOiilgqExqFNO%2Fblobs%2Fd2WFkh7jHW0rzJomt29z%2Flote10.png&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=27de6d7d&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
