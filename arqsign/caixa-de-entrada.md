@@ -77,7 +77,7 @@ Esta opção só será exibida se o usuário além de signatário for também o 
 {% hint style="warning" %}
 **Só podem ser selecionados como novo proprietários usuários cadastrados na mesma conta do responsável.**
 
-**O Administrador Global que não for o remetente do processo, poderá alterar a propriedade de processos concluídos que estão listados na funcionalidade** [**Diretórios**](https://manual.arquivar.com/manual-arqsign/processos/documentos) **ou quando for inativar usuário que possui processos em sua propriedade.**
+**O Administrador Global que não for o remetente do processo, poderá alterar a propriedade de processos concluídos que estão listados na funcionalidade** [**Diretórios** ](https://manual.arquivar.com/guia-do-cliente/arqsign/processos-pastas)**ou quando for inativar usuário que possui processos em sua propriedade.**
 {% endhint %}
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FsGT6Hd5LPLx7bONeQ0K6%252Fimage.png%3Falt%3Dmedia%26token%3D17236b67-8ee9-417d-9f51-ee162da97de6&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=5f55f102&#x26;sv=2" alt=""><figcaption></figcaption></figure>
@@ -146,7 +146,7 @@ Quando realizado o compartilhamento de mais documentos do processo, é apresenta
 
 **Alterar Agendamento da Renovação**
 
-Esta opção só será exibida se o usuário além de signatário for também o remetente do processo. Utilizada para alterar ou incluir um prazo de renovação do processo estipulado anteriormente no menu [Novo Processo > Adicionar Documentos](https://manual.arquivar.com/manual-arqsign/menu-superior/novo-processo#a.-adicionar-documentos).
+Esta opção só será exibida se o usuário além de signatário for também o remetente do processo. Utilizada para alterar ou incluir um prazo de renovação do processo estipulado anteriormente no menu [Novo Processo > Adicionar Documentos.](https://manual.arquivar.com/guia-do-cliente/arqsign/menu-superior-novo-processo#a.-adicionar-documentos-upload-de-arquivos)
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2FNkvKZtdmOiilgqExqFNO%2Fblobs%2FS2yltlGfJrR8zLHNcD1c%2Fcaixa_entrada14.png&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=3c817ba8&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
@@ -180,7 +180,7 @@ Por padrão, este campo é exibido desmarcado e ao ser marcado, o sistema lista 
 
 O usuário tem a possibilidade de mover os documentos, alterando a ordenação deles. Ao mover os documentos, o sistema atualiza a numeração na frente de cada documento.
 
-**Excluir:** Utilizado para excluir o arquivo, que irá para a caixa [Excluídos](https://manual.arquivar.com/manual-arqsign/caixa-postal/excluidos) .
+**Excluir:** Utilizado para excluir o arquivo, que irá para a caixa [Excluídos](https://manual.arquivar.com/guia-do-cliente/arqsign/caixa-postal-excluidos) .
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FzSw1dSQHy8qE805B6k4O%252Fimage.png%3Falt%3Dmedia%26token%3D879c596f-ca4e-46c5-9026-429530c3310d&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=5626d630&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
