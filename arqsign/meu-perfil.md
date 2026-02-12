@@ -18,7 +18,7 @@ Na aba Meus Dados são apresentadas as informações de cadastro do usuário. É
 
 **E-mail:** O e-mail apresentado neste campo é o mesmo utilizado no momento do cadastro da conta do usuário na plataforma e não pode ser alterado.
 
-Caso queira utilizar outro e-mail como "Remetente de processos", crie outro [usuário](https://manual.arquivar.com/manual-arqsign/administracao/administracao/usuarios) para este outro e-mail. Na Plataforma ArqSign os usuários são ilimitados.
+Caso queira utilizar outro e-mail como "Remetente de processos", crie outro [usuário](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-administracao/usuarios) para este outro e-mail. Na Plataforma ArqSign os usuários são ilimitados.
 
 **Nome Completo:** Apresenta o nome completo do usuário. O nome cadastrado neste campo aparece como o remetente de processos deste usuário nos e-mails e mensagens de WhatsApp.
 
@@ -162,7 +162,7 @@ Na aba Estilo de Assinatura o usuário deve definir representação visual de su
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2FNkvKZtdmOiilgqExqFNO%2Fblobs%2FphwoLtkKZS1hbB2FUEw0%2Fperfil12.png&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=8fa200a7&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
-Os estilos de assinatura para as representações visuais cadastradas aqui serão exibidos para o usuário sempre que ele for [assinar um documento](https://manual.arquivar.com/manual-arqsign/menu-superior/assinatura-de-documentos). Para concluir a inclusão de um dos Estilos de Assinatura, selecione-o e clique em “Aplicar”.
+Os estilos de assinatura para as representações visuais cadastradas aqui serão exibidos para o usuário sempre que ele for [assinar um documento](https://manual.arquivar.com/guia-do-cliente/arqsign/menu-superior-assinatura-de-documentos). Para concluir a inclusão de um dos Estilos de Assinatura, selecione-o e clique em “Aplicar”.
 
 ***
 
@@ -186,9 +186,9 @@ Para realizar o upload de um certificado, o usuário deve clicar no ícone “No
 
 ### Aba Solicitações <a href="#aba-solicitacoes" id="aba-solicitacoes"></a>
 
-No menu Solicitações são apresentadas todas as solicitações de transferência de processo realizadas pelo usuário. Sempre que nos menus [Pastas](https://manual.arquivar.com/manual-arqsign/processos/documentos), [Caixa de Entrada](https://manual.arquivar.com/manual-arqsign/caixa-postal/caixa-de-entrada) e [Enviados](https://manual.arquivar.com/manual-arqsign/caixa-postal/enviados) o usuário transferir a propriedade de um processo de sua autoria para outro usuário, esta solicitação será exibida aqui.
+No menu Solicitações são apresentadas todas as solicitações de transferência de processo realizadas pelo usuário. Sempre que nos menus [Pastas](https://manual.arquivar.com/guia-do-cliente/arqsign/processos-pastas), [Caixa de Entrada](https://manual.arquivar.com/guia-do-cliente/arqsign/caixa-postal-caixa-de-entrada) e [Enviados](https://manual.arquivar.com/guia-do-cliente/arqsign/caixa-postal-enviados) o usuário transferir a propriedade de um processo de sua autoria para outro usuário, esta solicitação será exibida aqui.
 
-Aqui constarão também as solicitações de transferência de propriedade de processo devido à [inativação de usuários da conta](https://manual.arquivar.com/manual-arqsign/administracao/administracao/usuarios#acoes-da-tela-usuarios).
+Aqui constarão também as solicitações de transferência de propriedade de processo devido à [inativação de usuários da conta](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-administracao/usuarios#acoes-da-tela-usuarios).
 
 Se foi solicitada a transferência de apenas um processo, ela é feita instantaneamente, mas se a solicitação de transferência for em lote, pode demorar até 24 horas para ser executada.
 
