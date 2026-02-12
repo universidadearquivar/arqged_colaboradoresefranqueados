@@ -87,7 +87,7 @@ No campo “Destinatários” preencha os campos relativos aos signatários que 
 
 É possível adicionar um destinatário salvo a partir lista de contatos salva, clicando no ícone “**Adicionar destinatário a partir dos meus contatos**”.
 
-**Importante**: a lista de contatos deve ser criada anteriormente no menu [Meu Perfil.](https://manual.arquivar.com/manual-arqsign/menu-superior/meu-perfil)
+**Importante**: a lista de contatos deve ser criada anteriormente no menu [Meu Perfil.](https://manual.arquivar.com/guia-do-cliente/arqsign/menu-superior-meu-perfil)
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2FNkvKZtdmOiilgqExqFNO%2Fblobs%2Fnrtz3AZcsQaDP7yLmVq8%2Fnovodocumento06.png&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=2f8b4105&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
@@ -121,7 +121,7 @@ Caso tenha sido determinado que o destinatário irá assinar como pessoa física
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FaqMjjHBcOEtF5GBXI0w0%252Fimage.png%3Falt%3Dmedia%26token%3Dce4ad03f-ca11-4898-9ce2-1685941e462b&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=39626686&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
-Os papéis do signatário apresentados aqui são anteriormente criados no menu [Administração > Conta > Aba Configurações > Papel do Signatário](https://manual.arquivar.com/manual-arqsign/administracao/administracao/conta#papel-do-signatario). Por padrão a plataforma apresenta os papéis “Contratada”, “Contratante”, “Fiador” e “Locatário”, mas é possível editar ou excluir esses papéis, além de criar outros se necessário.
+Os papéis do signatário apresentados aqui são anteriormente criados no menu [Administração > Conta > Aba Configurações > Papel do Signatário.](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-administracao/conta#papel-do-signatario) Por padrão a plataforma apresenta os papéis “Contratada”, “Contratante”, “Fiador” e “Locatário”, mas é possível editar ou excluir esses papéis, além de criar outros se necessário.
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FWaEhF2lnQUpbYUyVd0eZ%252Fimage.png%3Falt%3Dmedia%26token%3D339191c0-c066-4770-bece-5e33404174c6&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=7bfbe982&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
@@ -177,7 +177,7 @@ Para inserir outros destinatários clique no botão “Adicionar Novo Destinatá
 
 #### C. Mensagem Padrão <a href="#c.-mensagem-padrao" id="c.-mensagem-padrao"></a>
 
-No campo “Mensagem Padrão” pode-se manter a mensagem padrão criada pela plataforma ou selecionar na lista sua mensagem padrão, criada no ["Meu Perfil"](https://manual.arquivar.com/manual-arqsign/menu-superior/meu-perfil#mensagem-padrao), que será enviada a todos os destinatários, preenchendo-se os campos “Assunto” e “Mensagem”.
+No campo “Mensagem Padrão” pode-se manter a mensagem padrão criada pela plataforma ou selecionar na lista sua mensagem padrão, criada no "[Meu Perfil](https://manual.arquivar.com/guia-do-cliente/arqsign/menu-superior-meu-perfil)", que será enviada a todos os destinatários, preenchendo-se os campos “Assunto” e “Mensagem”.
 
 **No caso de destinatários que tiverem os campos de Mensagem Personalizada preenchidos será enviada a mensagem informada em substituição à mensagem padrão.**
 
@@ -204,7 +204,7 @@ Quando o processo possui um ou mais documentos **agrupados**, o sistema exibe o 
 Quando o processo possui um ou mais documentos **não agrupados**, o sistema exibe:
 
 * Na parte superior da tela, o **nome do documento** que está sendo exibido;
-* No canto esquerdo da tela, a **lista de documentos do processo** ordenados conforme a configuração de ordem definida na [Etapa 01](https://manual.arquivar.com/manual-arqsign/menu-superior/novo-processo#etapa-1-adicionar-documentos-e-destinatarios), sinalizando se o documento está sendo visualizado ou não. Ao clicar sobre o documento, o sistema o exibirá na tela.
+* No canto esquerdo da tela, a **lista de documentos do processo** ordenados conforme a configuração de ordem definida na [Etapa 01](https://manual.arquivar.com/guia-do-cliente/arqsign/menu-superior-novo-processo#etapa-1-adicionar-documentos-e-destinatarios), sinalizando se o documento está sendo visualizado ou não. Ao clicar sobre o documento, o sistema o exibirá na tela.
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FDViZF7Z1R6MQhj9s7pol%252Fimage.png%3Falt%3Dmedia%26token%3D7918884b-d37b-42a0-ba6e-7b891c38f873&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=e20690a7&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
@@ -212,15 +212,15 @@ Quando o processo possui um ou mais documentos **não agrupados**, o sistema exi
 
 **Representação da assinatura**
 
-Ao clicar no documento, o sistema exibe a modal de configuração da representação visual listando os signatários pendentes de configuração da representação da assinatura ordenados alfabeticamente ou conforme a ordem de assinatura definida na [etapa 01.](https://manual.arquivar.com/manual-arqsign/menu-superior/novo-processo#etapa-1-adicionar-documentos-e-destinatarios)
+Ao clicar no documento, o sistema exibe a modal de configuração da representação visual listando os signatários pendentes de configuração da representação da assinatura ordenados alfabeticamente ou conforme a ordem de assinatura definida na [etapa 01](https://manual.arquivar.com/guia-do-cliente/arqsign/menu-superior-novo-processo#etapa-1-adicionar-documentos-e-destinatarios).
 
-Para cada documento listado, o sistema exibe a(s) respectiva(s) representação(ões) para cada signatário(s) conforme o tipo de assinatura definida na [etapa 01](https://manual.arquivar.com/manual-arqsign/menu-superior/novo-processo#etapa-1-adicionar-documentos-e-destinatarios) (campo "Este Destinatário irá"), possibilitando ao usuário configurar a representação para cada signatário(s) com ação de assinar online em cada documento.
+Para cada documento listado, o sistema exibe a(s) respectiva(s) representação(ões) para cada signatário(s) conforme o tipo de assinatura definida na [etapa 01](https://manual.arquivar.com/guia-do-cliente/arqsign/menu-superior-novo-processo#etapa-1-adicionar-documentos-e-destinatarios) (campo "Este Destinatário irá"), possibilitando ao usuário configurar a representação para cada signatário(s) com ação de assinar online em cada documento.
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FXAlPXvWHFYHQhFXpAJea%252Fimage.png%3Falt%3Dmedia%26token%3D8cca7a2f-4627-4db8-9ca0-6506891c6729&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=932ff44b&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
 Ao incluir a configuração da representação visual, a aplicação exibe a representação no documento na posição que o usuário inseriu, possibilitando o ajustar o tamanho e/ou excluir a representação da assinatura que está inserida no documento.
 
-Se na [Etapa 1](https://manual.arquivar.com/manual-arqsign/menu-superior/novo-processo#b.-destinatarios) tiver sido definido que o destinatário irá assinar como pessoa física e jurídica, serão exibidos dois quadros com o nome do destinatário na mesma cor. Os quadros de cada um dos destinatários serão exibidos em cores diferentes para sinalizar visualmente onde cada um deverá assinar.
+Se na [Etapa 1 ](https://manual.arquivar.com/guia-do-cliente/arqsign/menu-superior-novo-processo#etapa-1-adicionar-documentos-e-destinatarios)tiver sido definido que o destinatário irá assinar como pessoa física e jurídica, serão exibidos dois quadros com o nome do destinatário na mesma cor. Os quadros de cada um dos destinatários serão exibidos em cores diferentes para sinalizar visualmente onde cada um deverá assinar.
 
 **Modal de representação visual de assinatura para processo com um documento ou mais documentos agrupados**
 
@@ -262,11 +262,11 @@ Caso o usuário não deseje inserir as assinaturas manualmente no documento, pod
 
 O **Envio Simplificado** permite ao usuário que envie o processo sem o ajuste manual da posição da assinatura, desta forma a plataforma insere uma página de forma automática ao final do documento, com as representações das assinaturas, considerando as configurações definidas anteriormente na inserção dos documentos e as seguintes regras:
 
-* **Se o campo "Agrupar os arquivos em único documento" da** [**Etapa 1**](https://manual.arquivar.com/manual-arqsign/menu-superior/novo-processo#etapa-1-adicionar-documentos-e-destinatarios) **estiver desmarcado:**
+* **Se o campo "Agrupar os arquivos em único documento" da** [**Etapa 1**](https://manual.arquivar.com/guia-do-cliente/arqsign/menu-superior-novo-processo#etapa-1-adicionar-documentos-e-destinatarios) **estiver desmarcado:**
 
 A plataforma **insere uma página ao final de cada documento** com a posição da assinatura de cada destinatário com ação de Assinar Online, conforme o tipo de assinatura de cada um (Pessoa Física e/ou Pessoa Jurídica) configurada no campo "Este Destinatário irá".
 
-* **Se o campo "Agrupar os arquivos em único documento" da** [**Etapa 1** ](https://manual.arquivar.com/manual-arqsign/menu-superior/novo-processo#etapa-1-adicionar-documentos-e-destinatarios)**estiver marcado:**
+* **Se o campo "Agrupar os arquivos em único documento" da** [**Etapa 1** ](https://manual.arquivar.com/guia-do-cliente/arqsign/menu-superior-novo-processo#etapa-1-adicionar-documentos-e-destinatarios)**estiver marcado:**
 
 A plataforma **insere uma página ao final do documento** com a posição da assinatura de cada destinatário com ação de Assinar Online, conforme o tipo de assinatura de cada um (Pessoa Física e/ou Pessoa Jurídica) configurada no campo "Este Destinatário irá".
 
@@ -286,7 +286,7 @@ O campo "**Configurações para**" exibe o nome dos destinatários selecionados 
 
 • Se **houver** ordem de assinaturas configurada, a plataforma lista os signatários agrupados por ordem de assinaturas e alfabeticamente.
 
-Dependendo do tipo de assinatura definido para o destinatário na [Etapa 1](https://manual.arquivar.com/manual-arqsign/menu-superior/novo-processo#b.-destinatarios) serão exibidos os campos “**Informações Complementares de Assinatura**”. Esses campos só serão exibidos se na [Etapa 1 no campo “Tipo de Assinatura”](https://manual.arquivar.com/manual-arqsign/menu-superior/novo-processo#b.-destinatarios) tiver sido escolhida a opção “Assinatura Eletrônica”.
+Dependendo do tipo de assinatura definido para o destinatário na [Etapa 1](https://manual.arquivar.com/guia-do-cliente/arqsign/menu-superior-novo-processo#etapa-1-adicionar-documentos-e-destinatarios) serão exibidos os campos “**Informações Complementares de Assinatura**”. Esses campos só serão exibidos se na [Etapa 1 no campo “Tipo de Assinatura”](https://manual.arquivar.com/guia-do-cliente/arqsign/menu-superior-novo-processo#etapa-1-adicionar-documentos-e-destinatarios) tiver sido escolhida a opção “Assinatura Eletrônica”.
 
 Se a assinatura for como Pessoa Física, é possível exigir do destinatário dados como nome e documento, marcando a opção “Nome da Pessoa Física” preenchimento obrigatório e selecionando um dos documentos da lista “Documento da Pessoa Física”.
 
