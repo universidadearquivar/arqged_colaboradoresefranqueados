@@ -66,7 +66,7 @@ Ao clicar em "Reenviar", serão exibidas as informações de ordem de assinatura
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FkKy91wDVeuFtP21bAByb%252Fimage.png%3Falt%3Dmedia%26token%3D44641607-b9fe-43fa-bfd1-7596ef7358ad&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=5e8c72c9&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
-No ícone “Editar”, é possível realizar a edição das informações do destinatário, bem como as informações definidas para validação do processo nas[ **configurações do destinatário**](https://manual.arquivar.com/manual-arqsign/menu-superior/novo-processo#informacoes-complementares-de-assinatura).
+No ícone “Editar”, é possível realizar a edição das informações do destinatário, bem como as informações definidas para validação do processo nas [**configurações do destinatário**.](https://manual.arquivar.com/guia-do-cliente/arqsign/menu-superior-novo-processo#informacoes-complementares-de-assinatura)
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252F3NN6iAaSnqCK1gFpSAsA%252Fimage.png%3Falt%3Dmedia%26token%3Dc8d53a27-af21-489a-b171-75dad8ae7c3c&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=de342e96&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
@@ -152,7 +152,7 @@ Será exibido esse botão quando a informação de contato (e-mail ou telefone) 
 
 **Excluir**
 
-Utilizado para excluir o processo. Os processos excluídos irão para a caixa [Excluídos](https://manual.arquivar.com/manual-arqsign/caixa-postal/excluidos).
+Utilizado para excluir o processo. Os processos excluídos irão para a caixa [Excluídos](https://manual.arquivar.com/guia-do-cliente/arqsign/menu-superior-novo-processo#informacoes-complementares-de-assinatura).
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FOKKbVg6rKuWrbQnE1Jz9%252Fimage.png%3Falt%3Dmedia%26token%3D9411d538-593b-4eea-ac15-7023eac0e239&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=fccdd6f1&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
