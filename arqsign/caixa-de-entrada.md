@@ -2,7 +2,7 @@
 
 Na Caixa de Entrada são listados todos os processos nos quais o usuário participa como signatário, ou seja, como quem assina por meio da Plataforma ArqSign.
 
-O signatário de um processo de assinatura pode ser também o remetente do processo e neste caso o processo será exibido tanto na Caixa de Entrada quanto no [menu Enviados](https://manual.arquivar.com/manual-arqsign/caixa-postal/enviados).
+O signatário de um processo de assinatura pode ser também o remetente do processo e neste caso o processo será exibido tanto na Caixa de Entrada quanto no [menu Enviados](https://manual.arquivar.com/guia-do-cliente/arqsign/caixa-postal-enviados).
 
 {% hint style="warning" %}
 **Não serão exibidos na Caixa de Entrada processos que já tenham expirado, ou seja, cujo prazo para assinatura já tenha terminado.**
@@ -50,7 +50,7 @@ Ao clicar em um processo, será aberta a tela de visualização, que apresenta o
 
 **Assinar**
 
-Disponível somente se o processo ainda não tiver sido assinado pelo signatário e seja a sua vez de assinar de acordo com a ordem estabelecida pelo remetente, se houver. Ao clicar neste botão o usuário é direcionado para a [tela de assinatura do documento](https://manual.arquivar.com/manual-arqsign/menu-superior/assinatura-de-documentos).
+Disponível somente se o processo ainda não tiver sido assinado pelo signatário e seja a sua vez de assinar de acordo com a ordem estabelecida pelo remetente, se houver. Ao clicar neste botão o usuário é direcionado para a tela de [assinatura do documento](https://manual.arquivar.com/guia-do-cliente/arqsign/menu-superior-assinatura-de-documentos).
 
 **Histórico**
 
