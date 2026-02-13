@@ -1,6 +1,6 @@
 # 📅 Caixa Postal - Renovações
 
-No menu Renovações são apresentados todos os processos que foram cadastrados e enviados para assinatura com a opção “Agendar renovação \_\_\_ meses após a conclusão das assinaturas” marcada, na tela [Novo Processo > Adicionar Documentos e Destinatários > Adicionar Documentos](https://manual.arquivar.com/manual-arqsign/menu-superior/novo-processo#a.-adicionar-documentos). Só podem ser exibidos nesta tela processos com o status “Concluído”.
+No menu Renovações são apresentados todos os processos que foram cadastrados e enviados para assinatura com a opção “Agendar renovação \_\_\_ meses após a conclusão das assinaturas” marcada, na tela [Novo Processo > Adicionar Documentos e Destinatários > Adicionar Documentos.](https://manual.arquivar.com/guia-do-cliente/arqsign/menu-superior-novo-processo#a.-adicionar-documentos-upload-de-arquivos) Só podem ser exibidos nesta tela processos com o status “Concluído”.
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252F5tmFaLZACywgN328BWei%252Fimage.png%3Falt%3Dmedia%26token%3Dde40baca-a4f2-4d34-9ddb-b8159a94294a&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=bbd5efc1&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
@@ -24,7 +24,7 @@ No menu Renovações são apresentados todos os processos que foram cadastrados 
 
 **Coluna Concluído:** Informações sobre a data e hora em que o processo de assinatura do documento foi concluído.
 
-**Coluna Renovação:** Esta coluna exibe a data e hora em que o processo deverá ser renovado, de acordo com a informação inserida no campo “Agendar renovação \_\_\_ meses após a conclusão das assinaturas” marcada, na tela [Novo Processo > Adicionar Documentos e Destinatários > Adicionar Documentos](https://manual.arquivar.com/manual-arqsign/menu-superior/novo-processo#a.-adicionar-documentos). São exibidos tanto processos que têm data futura de renovação quanto aqueles que já passaram do prazo, mas ainda não foram renovados.
+**Coluna Renovação:** Esta coluna exibe a data e hora em que o processo deverá ser renovado, de acordo com a informação inserida no campo “Agendar renovação \_\_\_ meses após a conclusão das assinaturas” marcada, na tela [Novo Processo > Adicionar Documentos e Destinatários > Adicionar Documentos](https://manual.arquivar.com/guia-do-cliente/arqsign/menu-superior-novo-processo#a.-adicionar-documentos-upload-de-arquivos). São exibidos tanto processos que têm data futura de renovação quanto aqueles que já passaram do prazo, mas ainda não foram renovados.
 
 **Coluna Ações:** Esta coluna exibe botões de ação sobre o processo. Será sempre exibida nesse botão a ação prioritária de execução, de acordo com o perfil do usuário e status do processo.
 
@@ -40,7 +40,7 @@ No menu Renovações são apresentados todos os processos que foram cadastrados 
 
 **Renovar**
 
-Esta ação estará disponível quando o processo atingir a data e hora programadas no campo “Agendar renovação \_\_\_ meses após a conclusão das assinaturas”, configurado na etapa [Novo Processo > Adicionar Documentos e Destinatários > Adicionar Documentos](https://manual.arquivar.com/manual-arqsign/menu-superior/novo-processo#a.-adicionar-documentos-upload-de-arquivos). Ao clicar neste botão, o usuário será direcionado para a tela “Adicionar Documentos e Destinatários”, onde os dados dos destinatários estarão automaticamente preenchidos com as informações do processo anterior, permitindo que seja feita uma nova configuração e o reenvio do processo para assinatura.
+Esta ação estará disponível quando o processo atingir a data e hora programadas no campo “Agendar renovação \_\_\_ meses após a conclusão das assinaturas”, configurado na etapa [Novo Processo > Adicionar Documentos e Destinatários > Adicionar Documentos](https://manual.arquivar.com/guia-do-cliente/arqsign/menu-superior-novo-processo#a.-adicionar-documentos-upload-de-arquivos). Ao clicar neste botão, o usuário será direcionado para a tela “Adicionar Documentos e Destinatários”, onde os dados dos destinatários estarão automaticamente preenchidos com as informações do processo anterior, permitindo que seja feita uma nova configuração e o reenvio do processo para assinatura.
 
 {% hint style="warning" %}
 **Mesmo após a renovação do processo e seu reenvio aos destinatários, ele continuará sendo exibido na tela “Renovações” até que todos os signatários concluam as assinaturas.**
