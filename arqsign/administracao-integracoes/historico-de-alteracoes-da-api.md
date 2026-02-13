@@ -132,8 +132,8 @@ Objetivo do Método: Este serviço permite buscar a quantidade do item de envios
 
 <summary>2.8.0 - 30/01/2025</summary>
 
-* Ajuste da API [buscar dados da assinatura da conta](/broken/pages/b19eXjhXFsRycfOlncc8):
+* Ajuste da API buscar dados da assinatura da conta:
   * Alterado o serviço de buscar dados da assinatura da conta para retornar o idStatus da conta 1 - Ativo, 2 - Inativo, 3 - Bloqueado, 4 - Pendente. 
-* Melhorias nos parâmetros de retorno do [Webhoo](/broken/pages/dIi7LvjvH9gm89jGXzEF)
+* Melhorias nos parâmetros de retorno do [Webhook](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-integracoes/webhook)
 
 </details>
