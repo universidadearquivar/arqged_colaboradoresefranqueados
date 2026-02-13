@@ -52,7 +52,7 @@ Alteração única em relação à V2:
 
 O foco desta versão está no retorno de dados dos endpoints abaixo:&#x20;
 
-[**API de integração: Método GET api/v1/processo{idProcesso}/status-do-processo** ](https://manual.arquivar.com/manual-arqsign/administracao/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.4.get-api-v1-processo-idprocesso-status-do-processo)
+[**API de integração: Método GET api/v1/processo{idProcesso}/status-do-processo** ](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-integracoes/api/metodos-disponiveis-na-api/1.-processo/1.4.get-api-v1-processo-idprocesso-status-do-processo)
 
 Descrição: Buscar status do processo de assinaturas V1.&#x20;
 
@@ -62,7 +62,7 @@ Objetivo do Método: Este serviço permite aos Clientes, via API, buscar o statu
 
 
 
-[**API de integração: Método GET api /v1 /processo /{idProcesso}/dados-signatarios** ](https://manual.arquivar.com/manual-arqsign/administracao/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.5.get-api-v1-processo-idprocesso-dados-signatarios)
+[**API de integração: Método GET api /v1 /processo /{idProcesso}/dados-signatarios** ](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-integracoes/api/metodos-disponiveis-na-api/1.-processo/1.5.get-api-v1-processo-idprocesso-dados-signatarios)
 
 Descrição: Buscar dados dos signatários V1.&#x20;
 
@@ -94,7 +94,7 @@ Não deve retornar dados dos signatários com ação de Receber Cópia (tipoAcao
 
 &#x20;
 
-[**API de integração: Método GET api/v2/processo/{idProcesso}"** ](https://manual.arquivar.com/manual-arqsign/administracao/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.2.get-api-v2-processo-idprocesso)
+[**API de integração: Método GET api/v2/processo/{idProcesso}"** ](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-integracoes/api/metodos-disponiveis-na-api/1.-processo/1.2.get-api-v2-processo-idprocesso-arquivotipo-1-and-retornarregistroassinatura-true)
 
 Alteração: Retornar também os parâmetros&#x20;
 
@@ -110,7 +110,7 @@ LinkDocumentoCompartilhado&#x20;
 
 &#x20;
 
-[**API de integração: Método: POST api/v1/conta/buscar-consumo-itens-assinatura**  ](https://manual.arquivar.com/manual-arqsign/administracao/integracoes/api/metodos-disponiveis-na-api/4.-conta/4.2.post-api-v1-conta-buscar-consumo-itens-assinatura)
+[**API de integração: Método: POST api/v1/conta/buscar-consumo-itens-assinatura**](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-integracoes/api/metodos-disponiveis-na-api/4.-conta/4.2.post-api-v1-conta-buscar-consumo-itens-assinatura) &#x20;
 
 Descrição: Buscar o uso e consumo dos itens da assinatura da conta V1. &#x20;
 
