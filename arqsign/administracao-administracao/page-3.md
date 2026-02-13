@@ -1,6 +1,6 @@
 # ▫️ Grupo de Usuários
 
-A função do "Grupo de Usuários" é reunir os usuários que fazem parte de uma conta para facilitar a definição de quem pode acessar quais pastas e subpastas no menu [Processos > Pastas](https://manual.arquivar.com/manual-arqsign/processos/documentos). As permissões de acesso para esses diretórios são definidas para grupos, e cada pessoa na conta é adicionada a um pelos administradores globais.
+A função do "Grupo de Usuários" é reunir os usuários que fazem parte de uma conta para facilitar a definição de quem pode acessar quais pastas e subpastas no menu [Processos > Pastas](https://manual.arquivar.com/guia-do-cliente/arqsign/processos-pastas). As permissões de acesso para esses diretórios são definidas para grupos, e cada pessoa na conta é adicionada a um pelos administradores globais.
 
 Na tela principal de Grupo de Usuários é apresentado o nome do grupo e a data e hora de criação do grupo.
 
