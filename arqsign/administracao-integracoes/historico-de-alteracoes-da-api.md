@@ -8,7 +8,7 @@
 
 **V1**
 
-[<mark style="color:blue;">**API de integração:**</mark> <mark style="color:blue;">**Método GET api/v1/processo/{idProcesso}/status-do-processo**</mark>](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-integracoes/api/metodos-disponiveis-na-api/1.-processo/1.4.get-api-v1-processo-idprocesso-status-do-processo)
+[**API de integração:** **Método GET api/v1/processo/{idProcesso}/status-do-processo**](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-integracoes/api/metodos-disponiveis-na-api/1.-processo/1.4.get-api-v1-processo-idprocesso-status-do-processo)
 
 Descrição: Buscar status do processo de assinaturas V1.
 
@@ -20,7 +20,7 @@ Alteração:
 
 **V2**
 
-[<mark style="color:blue;">**API de integração: Método GET api/v2/processo/{idProcesso}?arquivoTipo =1\&retornarRegistroAssinatura=true**</mark>](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-integracoes/api/metodos-disponiveis-na-api/1.-processo/1.2.get-api-v2-processo-idprocesso-arquivotipo-1-and-retornarregistroassinatura-true)
+[**API de integração: Método GET api/v2/processo/{idProcesso}?arquivoTipo =1\&retornarRegistroAssinatura=true**](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-integracoes/api/metodos-disponiveis-na-api/1.-processo/1.2.get-api-v2-processo-idprocesso-arquivotipo-1-and-retornarregistroassinatura-true)
 
 Descrição: Buscar informações completas do processo de assinaturas V2 (metadados, signatários e documentos).
 
@@ -34,7 +34,7 @@ Alterações:
 
 **V3**
 
-[<mark style="color:blue;">**API de integração: Método POST /api/v3/processo/enviar-documento-para-assinar**</mark>](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-integracoes/api/metodos-disponiveis-na-api/1.-processo/1.1.1.post-api-v3-processo-enviar-documento-para-assinar)
+[**API de integração: Método POST /api/v3/processo/enviar-documento-para-assinar**](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-integracoes/api/metodos-disponiveis-na-api/1.-processo/1.1.1.post-api-v3-processo-enviar-documento-para-assinar)
 
 Descrição: Enviar processo e documentos para assinatura V3.
 
