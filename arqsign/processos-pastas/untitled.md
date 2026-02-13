@@ -4,7 +4,7 @@
 
 ### ETAPA 1 - Estruturação de pastas <a href="#etapa-1-estruturacao-de-pastas" id="etapa-1-estruturacao-de-pastas"></a>
 
-1\. Identifique quais setores farão uso da Plataforma ArqSign para envio de processos para assinatura, e de acordo com estes setores e crie uma pasta para cada. Para isso, na tela [Pastas](https://manual.arquivar.com/manual-arqsign/processos/documentos) acesse a pasta raiz e clique no ícone “Incluir Pasta”.
+1\. Identifique quais setores farão uso da Plataforma ArqSign para envio de processos para assinatura, e de acordo com estes setores e crie uma pasta para cada. Para isso, na tela "Pastas" acesse a pasta raiz e clique no ícone “Incluir Pasta”.
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252Fw5BbuNrU6zUSuoc80hrB%252Fimage.png%3Falt%3Dmedia%26token%3D13f68a7a-155a-4a4f-b949-4b37fae8a13f&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=5bc1bfb3&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
@@ -24,7 +24,7 @@
 
 ### ETAPA 2 - Criação de grupos por setores ou funcionais <a href="#etapa-2-criacao-de-grupos-por-setores-ou-funcionais" id="etapa-2-criacao-de-grupos-por-setores-ou-funcionais"></a>
 
-Crie grupos de usuários separando-os por setores, funções ou mesclando entre os dois. Para isso, acesse a tela [Administração > Grupos de Usuários](https://manual.arquivar.com/manual-arqsign/administracao/administracao/grupo-de-usuarios).
+Crie grupos de usuários separando-os por setores, funções ou mesclando entre os dois. Para isso, acesse a tela [Administração > Grupos de Usuários](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-administracao/grupo-de-usuarios).
 
 {% hint style="info" %}
 Estes grupos serão usados para atribuir permissões nas pastas, então a forma de criá-los irá depender de como deseja atribuir as permissões nas pastas. Nossa sugestão é mesclar o setor e a função, como por exemplo:
@@ -40,7 +40,7 @@ Estes grupos serão usados para atribuir permissões nas pastas, então a forma 
 
 ### ETAPA 3 - Inserção dos grupos criados na pasta raiz <a href="#etapa-3-insercao-dos-grupos-criados-na-pasta-raiz" id="etapa-3-insercao-dos-grupos-criados-na-pasta-raiz"></a>
 
-Os grupos criados na etapa anterior, devem ser inseridos na [pasta raiz](https://manual.arquivar.com/manual-arqsign/processos/documentos#pasta-raiz-de-diretorios) com permissão de "Leitor". Para isso, na pasta raiz clique em Ações > Editar Permissões.
+Os grupos criados na etapa anterior, devem ser inseridos na [pasta raiz](https://manual.arquivar.com/guia-do-cliente/arqsign/processos-pastas#pasta-raiz-de-diretorios) com permissão de "Leitor". Para isso, na pasta raiz clique em Ações > Editar Permissões.
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FncxQBD1tYVxRGYblvXs1%252Fimage.png%3Falt%3Dmedia%26token%3D58f9c42c-b768-4b27-9a9b-90877b252ce6&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=4b500ace&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
@@ -104,9 +104,9 @@ Criada a estrutura de pastas e aplicadas as permissões, a manutenção na Plata
 
 Esta manutenção pode ser realizada na edição do usuário ou na edição de um grupo específico.
 
-_Edição de um grupo específico:_ Acesse a tela [Administração > Grupo de Usuários](https://manual.arquivar.com/manual-arqsign/administracao/administracao/grupo-de-usuarios). Selecione o grupo desejado e inclua ou exclua usuários.
+_Edição de um grupo específico:_ Acesse a tela [Administração > Grupo de Usuários](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-administracao/grupo-de-usuarios). Selecione o grupo desejado e inclua ou exclua usuários.
 
-_Edição do usuário:_ Acesse a tela [Administração > Usuários](https://manual.arquivar.com/manual-arqsign/administracao/administracao/usuarios). Selecione o usuário que deseja editar e clique em “Editar”. Defina os grupos aos quais o usuário deve ter acesso e clique em “Salvar”.
+_Edição do usuário:_ Acesse a tela [Administração > Usuários](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-administracao/usuarios). Selecione o usuário que deseja editar e clique em “Editar”. Defina os grupos aos quais o usuário deve ter acesso e clique em “Salvar”.
 
 ***
 
