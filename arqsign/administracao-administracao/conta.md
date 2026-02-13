@@ -22,7 +22,7 @@ Nesta aba são apresentadas as seguintes informações do usuário:
 * **Tipo de Inscrição:** Tipo de inscrição da conta que pode ser CPF, CNPJ ou outros.
 * **Número de inscrição:** Número de inscrição da conta que deve ser preenchido de acordo com a opção escolhida no campo “Tipo de Inscrição”.
 * **Idioma default para novos usuários:** Idioma em que a plataforma será apresentada para novos usuários associados à conta, que pode ser Português, Inglês ou Espanhol.
-* **Nome do aplicativo:** Este dado será exibido no histórico das assinaturas dos documentos que forem enviados através da nossa [API de Integração que possuam o parâmetro “retornarLinkProcesso = 1”](https://manual.arquivar.com/manual-arqsign/administracao/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.1.post-api-v2-processo-enviar-documento-para-assinar). Este campo não altera nenhum parâmetro para envios de Processos através da plataforma.
+* **Nome do aplicativo:** Este dado será exibido no histórico das assinaturas dos documentos que forem enviados através da nossa [API de Integração que possuam o parâmetro “retornarLinkProcesso = 1](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-integracoes/api/metodos-disponiveis-na-api/1.-processo/1.1.post-api-v2-processo-enviar-documento-para-assinar)”. Este campo não altera nenhum parâmetro para envios de Processos através da plataforma.
 * **Endereço:** Endereço residencial ou comercial do usuário ou empresa.
 * **Número:** Número da residência ou imóvel comercial.
 * **Complemento:** Complemento do endereço.
@@ -224,7 +224,7 @@ Por default algumas configurações dessa aba são preenchidas automaticamente, 
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252Fh6MYxuLsgsUabjKI6fYX%252Fimage.png%3Falt%3Dmedia%26token%3Da7659f36-cb90-4e3e-aeae-b185123a4413&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=bef592fb&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
-Os valores definidos aqui serão adotados como padrão para a configuração de envio e renovações de processos de assinatura feitos pelo usuário, mas podem ser alteradas em cada processos durante a sua criação na tela [Novo Processo > Adicionar Documentos e Destinatários > Configurações Avançadas.](https://manual.arquivar.com/manual-arqsign/menu-superior/novo-processo#configuracoes-avancadas)
+Os valores definidos aqui serão adotados como padrão para a configuração de envio e renovações de processos de assinatura feitos pelo usuário, mas podem ser alteradas em cada processos durante a sua criação na tela [Novo Processo > Adicionar Documentos e Destinatários > Configurações Avançadas.](https://manual.arquivar.com/guia-do-cliente/arqsign/menu-superior-novo-processo#configuracoes-avancadas)
 
 **Tempo padrão de \_\_\_\_ dias para expiração do processo, quando não assinado por um ou mais destinatários a partir da data de envio:** Nesse campo é definido o tempo padrão (em dias) que os usuários terão para assinar um processo até que ele expire e fique indisponível.
 
@@ -256,7 +256,7 @@ Os valores definidos aqui serão adotados como padrão para a configuração de 
 
 ### Papel do Signatário <a href="#papel-do-signatario" id="papel-do-signatario"></a>
 
-Nesta aba são criados os papéis de signatários. Os papéis de signatários serão apresentados ao usuário no momento da configuração dos destinatários / signatários na tela [Novo Processo > Adicionar Documentos e Destinatários > Adicionar Documentos > Destinatários.](https://manual.arquivar.com/manual-arqsign/menu-superior/novo-processo#b.-destinatarios)
+Nesta aba são criados os papéis de signatários. Os papéis de signatários serão apresentados ao usuário no momento da configuração dos destinatários / signatários na tela [Novo Processo > Adicionar Documentos e Destinatários > Adicionar Documentos > Destinatários.](https://manual.arquivar.com/guia-do-cliente/arqsign/menu-superior-novo-processo#b.-destinatarios)
 
 {% hint style="info" %}
 O papel do signatário é a função dele no contrato, seja como parte, pessoa contratada ou contratante, testemunha, representante legal etc.
