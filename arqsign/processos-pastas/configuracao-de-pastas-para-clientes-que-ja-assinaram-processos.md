@@ -6,7 +6,7 @@
 
 O importante nesta etapa é garantir que somente usuários que podem ter acesso a todos os processos que estão sendo enviados para assinatura na conta estejam com a permissão de Administrador Global.
 
-Para isso acesse a tela [Administração > Usuários ](https://manual.arquivar.com/manual-arqsign/administracao/administracao/usuarios)e revise os perfis de usuários associados à conta, garantindo que estejam com o perfil de Remetente de Documentos (exceto o gestor da conta que deve possuir o perfil Administrador Global).
+Para isso acesse a tela [Administração > Usuários](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-administracao/usuarios) e revise os perfis de usuários associados à conta, garantindo que estejam com o perfil de Remetente de Documentos (exceto o gestor da conta que deve possuir o perfil Administrador Global).
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FOIyZLWuE1iWC0YWLHSQd%252Fimage.png%3Falt%3Dmedia%26token%3Dfcded922-227d-4120-9bba-51ef1c0fe2fa&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=89298bf&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
@@ -18,7 +18,7 @@ Para isso acesse a tela [Administração > Usuários ](https://manual.arquivar.c
 
 ### ETAPA 2 – Criação das pastas setoriais <a href="#etapa-2-criacao-das-pastas-setoriais" id="etapa-2-criacao-das-pastas-setoriais"></a>
 
-1\. Identifique quais setores farão uso da Plataforma ArqSign para envio de processos para assinatura, e de acordo com estes setores e crie uma pasta para cada. Para isso, na tela [Pastas](https://manual.arquivar.com/manual-arqsign/processos/documentos) acesse a [pasta raiz](https://manual.arquivar.com/manual-arqsign/processos/documentos#pasta-raiz-de-diretorios) e clique no ícone “Incluir Pasta”.
+1\. Identifique quais setores farão uso da Plataforma ArqSign para envio de processos para assinatura, e de acordo com estes setores e crie uma pasta para cada. Para isso, na tela Pastas acesse a pasta raiz e clique no ícone “Incluir Pasta”.
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252Fg0sc3iJlwTX8Dd6KGgdz%252Fimage.png%3Falt%3Dmedia%26token%3D0ea01753-2574-4390-a714-baa3fad16a93&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=cca4d167&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
@@ -38,7 +38,7 @@ Para isso acesse a tela [Administração > Usuários ](https://manual.arquivar.c
 
 ### ETAPA 3 – Movimentação dos documentos para as pastas <a href="#etapa-3-movimentacao-dos-documentos-para-as-pastas" id="etapa-3-movimentacao-dos-documentos-para-as-pastas"></a>
 
-Acesse a [pasta raiz de Diretórios](https://manual.arquivar.com/manual-arqsign/processos/documentos#pasta-raiz-de-diretorios), selecione todos os documentos que deseja mover para uma determinada pasta e clique no ícone “Mover”.
+Acesse a pasta [raiz de Diretórios](https://manual.arquivar.com/guia-do-cliente/arqsign/processos-pastas#pasta-raiz-de-diretorios), selecione todos os documentos que deseja mover para uma determinada pasta e clique no ícone “Mover”.
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FZ0yNhXdYwptVoztJWbIE%252Fimage.png%3Falt%3Dmedia%26token%3Ddf49b4b3-25e3-420f-9854-1b9b58fe6b12&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=2dd9eea4&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
@@ -68,7 +68,7 @@ Estes grupos serão usados para atribuir permissões nas pastas, então a forma 
 
 ### ETAPA 5 - Inserção dos grupos criados na pasta raiz <a href="#etapa-5-insercao-dos-grupos-criados-na-pasta-raiz" id="etapa-5-insercao-dos-grupos-criados-na-pasta-raiz"></a>
 
-Os grupos criados na etapa anterior, devem ser inseridos na [pasta raiz](https://manual.arquivar.com/manual-arqsign/processos/documentos#pasta-raiz-de-diretorios) com permissão de "Leitor". Para isso, na pasta raiz clique em Ações > Editar Permissões.
+Os grupos criados na etapa anterior, devem ser inseridos na [pasta raiz](https://manual.arquivar.com/guia-do-cliente/arqsign/processos-pastas#pasta-raiz-de-diretorios) com permissão de "Leitor". Para isso, na pasta raiz clique em Ações > Editar Permissões.
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252F9hKivxZDTzOcf0tm0TsX%252Fimage.png%3Falt%3Dmedia%26token%3D5628004c-7503-45bb-beda-ee124e147e07&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=1e309fb0&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
@@ -132,9 +132,9 @@ Criada a estrutura de diretórios e aplicadas as permissões, a manutenção na 
 
 Esta manutenção pode ser realizada na edição do usuário ou na edição de um grupo específico.
 
-_Edição de um grupo específico:_ Acesse a tela [Administração > Grupo de Usuários](https://manual.arquivar.com/manual-arqsign/administracao/administracao/grupo-de-usuarios). Selecione o grupo desejado e inclua ou exclua usuários.
+_Edição de um grupo específico:_ Acesse a tela [Administração > Grupo de Usuários](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-administracao/grupo-de-usuarios). Selecione o grupo desejado e inclua ou exclua usuários.
 
-_Edição do usuário:_ Acesse a tela [Administração > Usuários](https://manual.arquivar.com/manual-arqsign/administracao/administracao/usuarios). Selecione o usuário que deseja editar e clique em “Editar”. Defina os grupos aos quais o usuário deve ter acesso e clique em “Salvar”.
+_Edição do usuário:_ Acesse a tela [Administração > Usuários](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-administracao/usuarios). Selecione o usuário que deseja editar e clique em “Editar”. Defina os grupos aos quais o usuário deve ter acesso e clique em “Salvar”.
 
 ***
 
