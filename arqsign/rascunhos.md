@@ -3,7 +3,7 @@
 No menu **Rascunhos** são exibidos todos os processos que tiveram sua configuração iniciada na tela **Novo Processo**, mas que **ainda não foram concluídos nem enviados aos signatários**. Esses rascunhos permanecem salvos para que possam ser editados e finalizados posteriormente.
 
 {% hint style="warning" %}
-**Para salvar um documento como Rascunho o usuário deve clicar em “Concluir Mais Tarde” no momento da criação do documento, na tela** [**Novo Documento > Adicionar Documentos e Destinatários**](https://manual.arquivar.com/manual-arqsign/menu-superior/novo-processo#a.-adicionar-documentos)**.**
+**Para salvar um documento como Rascunho o usuário deve clicar em “Concluir Mais Tarde” no momento da criação do documento, na tela** [**Novo Documento > Adicionar Documentos e Destinatários**](https://manual.arquivar.com/guia-do-cliente/arqsign/menu-superior-novo-processo#a.-adicionar-documentos-upload-de-arquivos)**.**
 {% endhint %}
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FNI6oLTwrbrJJTbDAI97Y%252Fimage.png%3Falt%3Dmedia%26token%3Df5220f54-1b17-4425-8d38-4cbbc73992d8&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=22162bc2&#x26;sv=2" alt=""><figcaption></figcaption></figure>
@@ -66,7 +66,7 @@ Ao realizar o download pelo Menu > Rascunhos, por padrão da plataforma, o Regis
 
 **Excluir**
 
-Utilizado para excluir o arquivo, que irá para a [caixa Excluídos](https://manual.arquivar.com/manual-arqsign/caixa-postal/excluidos).
+Utilizado para excluir o arquivo, que irá para a caixa [Excluídos](https://manual.arquivar.com/guia-do-cliente/arqsign/caixa-postal-excluidos).
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FFYgRzFmCG8OyWD5g0jaH%252Fimage.png%3Falt%3Dmedia%26token%3D11cfa72f-b248-457d-ac9d-f7fb2b0e6150&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=1e696044&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
