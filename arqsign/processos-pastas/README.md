@@ -14,7 +14,7 @@ A pasta raiz é criada automaticamente no momento da criação da conta do usuá
 
 ### Acesso à pasta raiz de Diretórios <a href="#acesso-a-pasta-raiz-de-diretorios" id="acesso-a-pasta-raiz-de-diretorios"></a>
 
-O acesso à pasta raiz do diretório é concedido a usuários que tenham sido designados como administradores globais no menu [Administração > Usuários](https://manual.arquivar.com/manual-arqsign/administracao/administracao/usuarios). O acesso a outros usuários com perfil de remetente de processos deve ser feito por grupo, ou seja, é preciso criar um [Grupo de Usuários](https://manual.arquivar.com/manual-arqsign/administracao/administracao/grupo-de-usuarios) e conceder o acesso ao grupo. Para isso, na coluna “Ações” clique em “Editar Permissões”.
+O acesso à pasta raiz do diretório é concedido a usuários que tenham sido designados como administradores globais no menu [Administração > Usuários](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-administracao/usuarios). O acesso a outros usuários com perfil de remetente de processos deve ser feito por grupo, ou seja, é preciso criar um [Grupo de Usuários](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-administracao/grupo-de-usuarios) e conceder o acesso ao grupo. Para isso, na coluna “Ações” clique em “Editar Permissões”.
 
 {% hint style="info" %}
 **ADMINISTRADOR GLOBAL X REMETENTE DE PROCESSOS**
@@ -30,7 +30,7 @@ Na tela “Editar Permissões” clique no ícone “Incluir”.
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2FNkvKZtdmOiilgqExqFNO%2Fblobs%2F5VTEZzDyC8LkEokVtZZy%2Fdocumentos3.png&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=6e29dbea&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
-No campo “Grupo” selecione o grupo ao qual será concedido o acesso e habilite permissão de leitura para todos no menu [Pastas > Ações > Editar permissões](https://manual.arquivar.com/manual-arqsign/processos/documentos#acoes-individuais-subdiretorios).
+No campo “Grupo” selecione o grupo ao qual será concedido o acesso e habilite permissão de leitura para todos no menu [Pastas > Ações > Editar permissões](https://manual.arquivar.com/guia-do-cliente/arqsign/processos-pastas#acoes-individuais-subdiretorios).
 
 No campo “Perfil” selecione o perfil que designa a permissão de acesso do usuário ou grupo a Diretórios. Os perfis de diretório podem ser:
 
