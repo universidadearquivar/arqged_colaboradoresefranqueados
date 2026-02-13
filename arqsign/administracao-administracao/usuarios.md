@@ -58,11 +58,11 @@ O usuário deve informar o e-mail do usuário e definir o tipo de perfil que ser
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252Ff1BCT0kgdZH6vvajxwWT%252Fimage.png%3Falt%3Dmedia%26token%3D2f695018-57d6-4fb4-bc2f-d3be6919dcec&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=897e8576&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
-Se o usuário convidado tiver o perfil somente de Remetente de Processos, será preciso definir também o Grupo de Usuários ao qual o convidado será associado. Esse grupo de usuários determinará a quais pastas do diretório o novo membro da conta terá acesso e deverá ter sido anteriormente criado no menu [Administração > Grupo de Usuários](https://manual.arquivar.com/manual-arqsign/administracao/administracao/grupo-de-usuarios). Também é possível criar um grupo clicando em “Novo Grupo”.
+Se o usuário convidado tiver o perfil somente de Remetente de Processos, será preciso definir também o Grupo de Usuários ao qual o convidado será associado. Esse grupo de usuários determinará a quais pastas do diretório o novo membro da conta terá acesso e deverá ter sido anteriormente criado no menu [Administração > Grupo de Usuários](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-administracao/grupo-de-usuarios). Também é possível criar um grupo clicando em “Novo Grupo”.
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FRmxYxEf95sHsKRfA04lC%252Fimage.png%3Falt%3Dmedia%26token%3Def94a6e7-6186-4093-aa1f-cb99752b5359&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=d69a2bd5&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
-**A definição de grupo não é solicitada para usuários criados com perfil de Administrador Global porque estes usuários têm acesso a todas as** [**Pastas da conta**](https://manual.arquivar.com/manual-arqsign/processos/documentos)**, não sendo preciso, portanto, fazer essa restrição.**
+**A definição de grupo não é solicitada para usuários criados com perfil de Administrador Global porque estes usuários têm acesso a todas as** [**Pastas da conta**](https://manual.arquivar.com/guia-do-cliente/arqsign/processos-pastas)**, não sendo preciso, portanto, fazer essa restrição.**
 
 **Ativar:** Podem ser ativados apenas usuários com status “Bloqueado” ou “Inativo”. Ao ativar os usuários bloqueados ou inativos eles terão acesso novamente à conta.
 
