@@ -3,7 +3,7 @@
 No menu Excluídos são apresentados todos os processos excluídos pelo usuário. Podem ser excluídos processos já concluídos, cancelados ou apenas criados.
 
 {% hint style="warning" %}
-**Não é possível visualizar o(s) documento(s) na tela Excluídos. Para ver o arquivo é necessário restaurar o processo e acessá-lo na sua caixa postal de origem, que pode ser a** [**Caixa de Entrada**](https://manual.arquivar.com/manual-arqsign/caixa-postal/caixa-de-entrada) **ou a** [**caixa Enviados**](https://manual.arquivar.com/manual-arqsign/caixa-postal/enviados).
+**Não é possível visualizar o(s) documento(s) na tela Excluídos. Para ver o arquivo é necessário restaurar o processo e acessá-lo na sua caixa postal de origem, que pode ser a** [**Caixa de Entrada**](https://manual.arquivar.com/guia-do-cliente/arqsign/caixa-postal-caixa-de-entrada) **ou a caixa** [**Enviados**](https://manual.arquivar.com/guia-do-cliente/arqsign/caixa-postal-enviados).
 {% endhint %}
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FshuxCR5qWdG3Eoo9wxqC%252Fimage.png%3Falt%3Dmedia%26token%3D97d8d8c2-060d-42c1-ba9d-41fd93095aa4&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=2964e300&#x26;sv=2" alt=""><figcaption></figcaption></figure>
