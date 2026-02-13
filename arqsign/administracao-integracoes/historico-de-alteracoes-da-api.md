@@ -124,7 +124,7 @@ Objetivo do Método: Este serviço permite buscar a quantidade do item de envios
 
 <summary>2.15.0 - 20/05/2025</summary>
 
-* Ajuste da API [enviar processo para assinar](https://manual.arquivar.com/manual-arqsign/administracao/integracoes/api/metodos-disponiveis-na-api/1.-processo/1.1.post-api-v2-processo-enviar-documento-para-assinar):
+* Ajuste da API [enviar processo para assinar](https://manual.arquivar.com/guia-do-cliente/arqsign/administracao-integracoes/api/metodos-disponiveis-na-api/1.-processo/1.1.post-api-v2-processo-enviar-documento-para-assinar):
 
 </details>
 
