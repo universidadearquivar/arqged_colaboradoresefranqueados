@@ -51,7 +51,7 @@ Para o funcionamento correto do ArqClient são exigidos os requisitos mínimos a
 
 <figure><img src="../../.gitbook/assets/image (379).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-Para que isso não ocorra, é necessário permitir o acesso do **ArqGED.arquivar.com** para "outros Apps e serviços no dispositivo".&#x20;
+Para que isso não ocorra, é necessário permitir o acesso do **ArqGED.arquivar.com** para " Acessar outros Apps e serviços neste dispositivo".&#x20;
 
 <figure><img src="../../.gitbook/assets/image (382).png" alt=""><figcaption></figcaption></figure>
 
@@ -63,11 +63,11 @@ Para verificar se o bloqueio foi realizado, acesse o navegador:&#x20;
 
 <figure><img src="../../.gitbook/assets/image (387).png" alt=""><figcaption><p>Navegador Edge.</p></figcaption></figure>
 
-2. Será exibida uma nova janela, clique em **"Redefinir permissões"**
+2. Será necessário **"Redefinir permissões"** do site.
 
 <figure><img src="../../.gitbook/assets/image (381).png" alt=""><figcaption></figcaption></figure>
 
-3. Solicite atualização da página e siga com o uso do Client, será apresentada novamente a tela de permissão do acesso, clique em permitir para concluir.
+3. Solicite atualização da página e siga com o uso do Client, será apresentada novamente na tela a solicitação de permissão do acesso, clique em permitir para concluir.
 
 <figure><img src="../../.gitbook/assets/image (383).png" alt=""><figcaption></figcaption></figure>
 
