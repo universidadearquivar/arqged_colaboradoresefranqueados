@@ -1,6 +1,6 @@
 # 🟩 Configurar
 
-Neste menu deve ser feita a associação de uma lista criada no menu [Lista > Criar Listas](criar-listas.md) à árvore documental do cliente.
+Neste menu deve ser feita a associação de uma lista criada no menu [Lista > Criar Listas](criar-listas.md) à árvore documental do cliente.   &#x20;
 
 <figure><img src="../.gitbook/assets/lista02.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
@@ -12,7 +12,7 @@ Neste menu deve ser feita a associação de uma lista criada no menu [Lista > Cr
 
 **Ícone Editar:** Utilizado para editar as configurações do cliente selecionado.
 
-**Ícone Visualizar:** Utilizado para apresentar as informações de configuração do cliente selecionado.
+**Ícone Visualizar:** Utilizado para apresentar as informações de configuração do cliente selecionado.&#x20;
 
 **Ícone Excluir:** Utilizado para excluir as configurações de lista do cliente selecionado.
 
@@ -51,7 +51,7 @@ O nível selecionado será mostrado no campo “Item selecionado na árvore”.
 No campo “Nome da Lista” selecione a lista que será associada a todos os documentos daquele nível da árvore e clique no ícone “Salvar”.
 
 {% hint style="info" %}
-<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;">No nível da árvore “Recursos Humanos (Departamento)”, será usada a lista “Funcionários”, ou seja, todos os tipos documentais daquele departamento como dossiê de funcionários, folha de ponto, recibo de férias etc. usarão aquela lista.</mark>
+<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">No nível da árvore “Recursos Humanos (Departamento)”, será usada a lista “Funcionários”, ou seja, todos os tipos documentais daquele departamento como dossiê de funcionários, folha de ponto, recibo de férias etc. usarão aquela lista.</mark>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/lista22.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
@@ -85,3 +85,4 @@ Para excluir um campo, clique no ícone “Remover”. Só poderão ser removido
 Clicando em “Excluir Configuração” será apagada toda a configuração realizada para o nível da árvore selecionado.
 
 <figure><img src="../.gitbook/assets/lista28.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
+

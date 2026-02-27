@@ -2,47 +2,47 @@
 
 ## Aba Serviço – Tela principal
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-**Ícone Adicionar:** Utilizado para adicionar um novo serviço ao contrato.  
+**Ícone Adicionar:** Utilizado para adicionar um novo serviço ao contrato.  &#x20;
 
-**Ícone Editar:** Utilizado para editar os serviços inclusos no contrato selecionado.  
+**Ícone Editar:** Utilizado para editar os serviços inclusos no contrato selecionado.  &#x20;
 
-**Ícone Visualizar:** Utilizado para visualizar detalhes dos serviços inclusos no contrato selecionado.  
+**Ícone Visualizar:** Utilizado para visualizar detalhes dos serviços inclusos no contrato selecionado.  &#x20;
 
-**Ícone Excluir:** Utilizado para excluir serviços do contrato selecionado.
+**Ícone Excluir:** Utilizado para excluir serviços do contrato selecionado.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-**Coluna Serviço:** Exibe o nome do serviço.
+**Coluna Serviço:** Exibe o nome do serviço.&#x20;
 
-**Coluna Nome para Espelho:** Exibe o nome do campo que será exibido no relatório de faturamento.
+**Coluna Nome para Espelho:** Exibe o nome do campo que será exibido no relatório de faturamento.&#x20;
 
-**Coluna Status:** Exibe se o serviço está bloqueado, desbloqueado ou em versão POC (_Proof of Concept_ - Prova de Conceito) no contrato.
+**Coluna Status:** Exibe se o serviço está bloqueado, desbloqueado ou em versão POC (_Proof of Concept_ - Prova de Conceito) no contrato.&#x20;
 
-**Coluna Classificação:** Informa se o item cadastrado se trata de um “Serviço”, ou seja, é executado fora do sistema ArqGED, ou se é “Software”, serviço relacionado a um dos módulos do ArqGED.
+**Coluna Classificação:** Informa se o item cadastrado se trata de um “Serviço”, ou seja, é executado fora do sistema ArqGED, ou se é “Software”, serviço relacionado a um dos módulos do ArqGED.&#x20;
 
-**Coluna Controle:** Informa se a forma de controle do serviço é manual ou automática.
+**Coluna Controle:** Informa se a forma de controle do serviço é manual ou automática. &#x20;
 
-**Coluna Faturamento:** Exibe o tipo de faturamento do serviço, podendo ser periódico ou parcelado.
+**Coluna Faturamento:** Exibe o tipo de faturamento do serviço, podendo ser periódico ou parcelado. &#x20;
 
-**Coluna Faturado por:** Informa a unidade responsável pelo faturamento do serviço.
+**Coluna Faturado por:** Informa a unidade responsável pelo faturamento do serviço.&#x20;
 
-**Coluna Início Vigência:** Exibe a data de início de vigência do serviço.
+**Coluna Início Vigência:** Exibe a data de início de vigência do serviço. &#x20;
 
-**Coluna Fim Vigência:** Informa a data de fim da vigência do serviço, se houver.
+**Coluna Fim Vigência:** Informa a data de fim da vigência do serviço, se houver.&#x20;
 
 ***
 
-## Adicionando um serviço
+## Adicionando  um serviço
 
 1\. Para adicionar um serviço ao contrato, clique no ícone “Adicionar”.
 
 <figure><img src="../../../.gitbook/assets/servicos03.png" alt=""><figcaption></figcaption></figure>
 
-2\. Informe o Serviço que será adicionado. No campo “Serviço” serão listados apenas os serviços disponíveis para o tipo de contrato selecionado anteriormente no campo “Tipo de Contrato” na [aba Dados Gerais.](../aba-dados-gerais.md)
+2\. Informe o Serviço que será adicionado. No campo “Serviço” serão listados apenas os serviços disponíveis para o tipo de contrato selecionado anteriormente no campo “Tipo de Contrato” na [aba Dados Gerais. ](../aba-dados-gerais.md)
 
-3\. Ao escolher o Tipo de Serviço serão exibidos novos campos para preenchimento, que vão variar de acordo com a opção escolhida.
+3\. Ao escolher o Tipo de Serviço serão exibidos novos campos para preenchimento, que vão variar de acordo com a opção escolhida.&#x20;
 
 <figure><img src="../../../.gitbook/assets/servicos04.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -53,20 +53,20 @@
 **Tipo de Serviço:** Esse campo será preenchido automaticamente com o tipo de serviço que vai servir como referência para contagem de itens no contrato. Ao cadastrar um contrato, o sistema fará a contagem de quantos tipos de serviço estão inclusos. Se o serviço não tiver um tipo específico, será mostrada a opção “N.A.” (Não se aplica).
 
 {% hint style="info" %}
-<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;">Os serviços “ArqFlow – RH Digital” e “ArqFlow – RH Recorrente” possuem o mesmo tipo de serviço: “ArqFlow”. Em um contrato que possuir os dois serviços, o sistema fará a cobrança de duas unidades do item “ArqFlow”.</mark>
+<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Os serviços “ArqFlow – RH Digital” e “ArqFlow – RH Recorrente” possuem o mesmo tipo de serviço: “ArqFlow”. Em um contrato que possuir os dois serviços, o sistema fará a cobrança de duas unidades do item “ArqFlow”.</mark>
 {% endhint %}
 
 **Tipo de Controle:** Esse campo será preenchido automaticamente de acordo com a opção escolhida no campo Tipo de Serviço, podendo ser “Manual” ou “Automático”. Serão automáticos os tipos de serviço em que o usuário deve fazer uma solicitação de execução por meio do menu “Solicitação”.
 
 {% hint style="info" %}
-<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;">O tipo de serviço “Transporte” é de controle manual, porque não é possível que o sistema saiba a quantidade de itens que foram transportados, devendo o usuário informar manualmente. Já o tipo de serviço “Solicitação de Container” é de controle automático, porque o usuário precisa acessar o menu “Solicitações” e registrar a quantidade de contêineres que será adquirida.</mark>
+<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">O tipo de serviço “Transporte” é de controle manual, porque não é possível que o sistema saiba a quantidade de itens que foram transportados, devendo o usuário informar manualmente. Já o tipo de serviço “Solicitação de Container” é de controle automático, porque o usuário precisa acessar o menu “Solicitações” e registrar a quantidade de contêineres que será adquirida.</mark>
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/servicos06.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-**Classificação:** O campo Classificação será preenchido automaticamente de acordo com o tipo de serviço escolhido, podendo ser “Serviço”, quando relacionada à prestação de serviços fora do ArqGED ou “Software”, quando o serviço tiver relação e for executado dentro de um dos módulos do sistema ArqGED.
+**Classificação:** O campo Classificação será preenchido automaticamente de acordo com o tipo de serviço escolhido, podendo ser “Serviço”, quando relacionada à prestação de serviços fora do ArqGED ou “Software”, quando o serviço tiver relação e for executado dentro de um dos módulos do sistema ArqGED.&#x20;
 
-**Nome Espelho:** Informe um nome para o campo que será exibido no relatório de faturamento.
+**Nome Espelho:** Informe um nome para o campo que será exibido no relatório de faturamento.&#x20;
 
 **Tipo de Faturamento:** Dependendo do tipo de serviço escolhido será preenchido automaticamente ou apresentará as opções “Parcelado” e “Periódico” para escolha.
 
@@ -86,9 +86,9 @@ O faturamento parcelado é cobrado uma única vez, podendo ser parcelado ou não
 {% endtab %}
 {% endtabs %}
 
-**Início Vigência:** Quando solicitado o preenchimento desse campo, informe a mesma data de início da vigência do contrato cadastrada na aba Dados Gerais ou uma data posterior ao início do contrato para indicar que o serviço foi adquirido depois.
+**Início Vigência:** Quando solicitado o preenchimento desse campo, informe a mesma data de início da vigência do contrato cadastrada na aba Dados Gerais ou uma data posterior ao início do contrato para indicar que o serviço foi adquirido depois.&#x20;
 
-**Fim Vigência:** Se houver uma data para o fim da vigência do contrato, informe neste campo a mesma data ou uma data menor. Se o serviço for vigente por tempo indeterminado, deixe este campo em branco.
+**Fim Vigência:** Se houver uma data para o fim da vigência do contrato, informe neste campo a mesma data ou uma data menor. Se o serviço for vigente por tempo indeterminado, deixe este campo em branco.&#x20;
 
 <figure><img src="../../../.gitbook/assets/servicos10.png" alt=""><figcaption></figcaption></figure>
 
@@ -96,11 +96,11 @@ O faturamento parcelado é cobrado uma única vez, podendo ser parcelado ou não
 
 <figure><img src="../../../.gitbook/assets/servicos11.png" alt=""><figcaption></figcaption></figure>
 
-**% Desconto:** O percentual de desconto a que se refere este campo está relacionado ao desconto que a Arquivar Master poderá conceder ao franqueado no momento da cobrança do repasse. O desconto informado aqui não tem impacto no valor que a unidade cobrará do cliente.
+**% Desconto:** O percentual de desconto a que se refere este campo está relacionado ao desconto que a Arquivar Master poderá conceder ao franqueado no momento da cobrança do repasse. O desconto informado aqui não tem impacto no valor que a unidade cobrará do cliente.&#x20;
 
-**Limite de Faturamento:** Se houver algum limite do que será cobrado do cliente acordado entre a unidade e a empresa cliente, informe neste campo o valor.
+**Limite de Faturamento:** Se houver algum limite do que será cobrado do cliente acordado entre a unidade e a empresa cliente, informe neste campo o valor. &#x20;
 
-**Bloquear serviço ao exceder Limite Faturamento:** Se marcada esta opção, o contrato será bloqueado após atingir o limite estipulado no campo “Limite de Faturamento”.
+**Bloquear serviço ao exceder Limite Faturamento:** Se marcada esta opção, o contrato será bloqueado após atingir o limite estipulado no campo “Limite de Faturamento”. &#x20;
 
 <figure><img src="../../../.gitbook/assets/servicos12.png" alt=""><figcaption></figcaption></figure>
 
@@ -108,9 +108,9 @@ O faturamento parcelado é cobrado uma única vez, podendo ser parcelado ou não
 
 <figure><img src="../../../.gitbook/assets/servicos13.png" alt=""><figcaption></figcaption></figure>
 
-* _Desbloqueado:_ Utilize esse status caso o cliente vá utilizar o serviço ou já esteja utilizando.
-* _Bloqueado:_ Utilize esse status caso o serviço esteja previsto no contrato do cliente, mas ele ainda não esteja utilizando ou não tenha previsão de utilização. Neste caso o serviço não será cobrado do cliente.
-* _POC:_ Utilize esse status caso o cliente vá utilizar o serviço por determinado período sem cobrança, com o objetivo de testar a ferramenta. Nesse caso preencha também os campos “Início POC” e “Fim POC”, com as datas de início e fim do período de demonstração. Também será necessário informar no campo “Notificar” o e-mail do colaborador ou equipe da unidade que será avisado sobre o fim do período de demonstração do cliente.
+* _Desbloqueado:_ Utilize esse status caso o cliente vá utilizar o serviço ou já esteja utilizando.&#x20;
+* _Bloqueado:_ Utilize esse status caso o serviço esteja previsto no contrato do cliente, mas ele ainda não esteja utilizando ou não tenha previsão de utilização. Neste caso o serviço não será cobrado do cliente.&#x20;
+* _POC:_ Utilize esse status caso o cliente vá utilizar o serviço por determinado período sem cobrança, com o objetivo de testar a ferramenta. Nesse caso preencha também os campos “Início POC” e “Fim POC”, com as datas de início e fim do período de demonstração. Também será necessário informar no campo “Notificar” o e-mail do colaborador ou equipe da unidade que será avisado sobre o fim do período de demonstração do cliente.&#x20;
 
 <figure><img src="../../../.gitbook/assets/servicos14.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -118,44 +118,44 @@ O faturamento parcelado é cobrado uma única vez, podendo ser parcelado ou não
 
 **Quantidade para o Limite Gratuito:** Neste campo deve ser informada a quantidade de requisições que podem ser realizadas (via API) no dia ou no mês de forma gratuita.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-O faturamento para a quantidade do serviço ArqAPI, segue o mesmo padrão dos demais softwares que usam a combinação de campos:
+O faturamento para a quantidade do serviço ArqAPI, segue o mesmo padrão dos demais softwares que usam a combinação de campos: &#x20;
 
-* Pacote Periódico
-* Preço Pacote Periódico
-* Pacote Unitário
-* Preço Pacote Unitário
+* Pacote Periódico&#x20;
+* Preço Pacote Periódico&#x20;
+* Pacote Unitário&#x20;
+* Preço Pacote Unitário&#x20;
 
 **Pacote Inicial:** O valor informado neste campo será consumido uma única vez. Depois de consumido passará a ser descontada a quantidade do pacote periódico ou do pacote unitário. Quando se tratar de software esse campo não estará disponível para preenchimento.
 
 **Preço do Pacote Inicial:** Informe o valor que será cobrado do pacote inicial. Quando se tratar de software esse campo não estará disponível para preenchimento.
 
-**Pacote Periódico:** O valor informado neste campo será cobrado periodicamente, independente do uso.
+**Pacote Periódico:** O valor informado neste campo será cobrado periodicamente, independente do uso.&#x20;
 
-**Preço do Pacote Periódico:** Informe o valor que será cobrado do pacote periódico.
+**Preço do Pacote Periódico:** Informe o valor que será cobrado do pacote periódico. &#x20;
 
-**Pacote Unitário:** O valor informado neste campo será cobrado quando utilizado, por unidade.
+**Pacote Unitário:** O valor informado neste campo será cobrado quando utilizado, por unidade. &#x20;
 
-**Preço do Pacote Unitário:** Informe o valor que será cobrado por unidade do serviço.
+**Preço do Pacote Unitário:** Informe o valor que será cobrado por unidade do serviço. &#x20;
 
 {% hint style="warning" %}
-<mark style="color:orange;">**O ideal é que em todo serviço que tenha cobrança de pacote seja incluída a cobrança de pacote unitário, mesmo que não haja cobrança de mensalidade periódica. Isso garante que a unidade franqueada não assuma prejuízos em caso do serviço exceder o que está previsto no contrato.**</mark>
+<mark style="color:orange;">**O ideal é que em todo serviço que tenha cobrança de pacote seja incluída a cobrança de pacote unitário, mesmo que não haja cobrança de mensalidade periódica. Isso garante que a unidade franqueada não assuma prejuízos em  caso do serviço exceder o que está previsto no contrato.**</mark>
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/servicos15.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Quando o serviço ArqNFe for adicionado, serão exibidos os campos “**Pacote de referência**” e “V**alor de referência**”.
 
-Os campos permitem valores numéricos de até quatro casas decimais e o “**Valor de referência**” será reajustado normalmente conforme data do contrato.
+&#x20;Os campos permitem valores numéricos de até quatro casas decimais e o “**Valor de referência**” será reajustado normalmente conforme data do contrato.
 
-Estes campos existem para guardar a quantidade e valor para utilização excedente do serviço.
+&#x20;Estes campos existem para guardar a quantidade e valor para utilização excedente do serviço.
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-## Serviço Assinador ArqSign
+## Serviço Assinador ArqSign&#x20;
 
-### O que é o serviço Assinador ArqSign
+### O que é o serviço Assinador ArqSign&#x20;
 
 A **ArqSign** é a **plataforma de gestão de processos com assinaturas digitais da Arquivar**, projetada para integrar, automatizar e monitorar o ciclo completo de trâmite de documentos. Muito além da assinatura eletrônica, a ArqSign permite controlar fluxos de envio, acompanhamento, recebimento, prazos, notificações e ações específicas relacionadas à formalização documental dentro de processos organizacionais.
 
@@ -176,11 +176,11 @@ Esses dados garantem que a comunicação entre o ArqGED e a plataforma ArqSign o
 {% hint style="danger" %}
 <mark style="color:red;">Para que o serviço funcione corretamente, a conta ArqSign vinculada precisa estar:</mark>
 
-* <mark style="color:red;">**Ativa**</mark> <mark style="color:red;">e com</mark> <mark style="color:red;">**plano vigente**</mark> <mark style="color:red;">diretamente na plataforma ArqSign;</mark>
-* <mark style="color:red;">Em</mark> <mark style="color:red;">**conformidade com o plano registrado no ArqGED**</mark><mark style="color:red;">;</mark>
+* <mark style="color:red;">**Ativa**</mark> <mark style="color:red;"></mark><mark style="color:red;">e com</mark> <mark style="color:red;"></mark><mark style="color:red;">**plano vigente**</mark> <mark style="color:red;"></mark><mark style="color:red;">diretamente na plataforma ArqSign;</mark>
+* <mark style="color:red;">Em</mark> <mark style="color:red;"></mark><mark style="color:red;">**conformidade com o plano registrado no ArqGED**</mark><mark style="color:red;">;</mark>
 * <mark style="color:red;">Sem bloqueios ou divergências contratuais.</mark>
 
-<mark style="color:red;">Caso sejam identificadas inconsistências (ex.: plano vencido, bloqueado ou divergente), o ArqGED exibirá alertas automáticos e poderá realizar o</mark> <mark style="color:red;">**ajuste automático da conta**</mark><mark style="color:red;">, conforme as regras previstas para cada cenário.</mark>
+<mark style="color:red;">Caso sejam identificadas inconsistências (ex.: plano vencido, bloqueado ou divergente), o ArqGED exibirá alertas automáticos e poderá realizar o</mark> <mark style="color:red;"></mark><mark style="color:red;">**ajuste automático da conta**</mark><mark style="color:red;">, conforme as regras previstas para cada cenário.</mark>
 {% endhint %}
 
 ### Limites e Métricas do Serviço/Sistema
@@ -213,9 +213,9 @@ Uma conta ArqSign pode estar vinculada somente a um contrato-serviço no ArqGED.
 **Validações:**
 
 * **ID da conta inválido:**\
-  \&#xNAN;_Erro! ID de conta ArqSign não existe._
+  &#xNAN;_&#x45;rro! ID de conta ArqSign não existe._
 * **ID da conta usado em outro contrato:**\
-  \&#xNAN;_Erro! Não é permitido associar um ID de conta ArqSign já associado a outro serviço vigente._
+  &#xNAN;_&#x45;rro! Não é permitido associar um ID de conta ArqSign já associado a outro serviço vigente._
 
 Após validação bem-sucedida, o sistema retorna os dados da conta e, ao salvar, vincula essa conta ao serviço “Assinador ArqSign" no contrato do cliente.
 
@@ -245,7 +245,7 @@ Ao clicar no ícone “Informações da Conta” <mark style="color:green;">(íc
 
 * _IMPORTANTE: Esta conta possui um plano diferente do faturado pelo ArqGED. Fique atento à sua vigência e aos créditos existentes no ArqSign para o fluxograma não parar de funcionar._
 * Campo: “**Ajustar a conta no ArqSign ao salvar o serviço no contrato**”\
-  \&#xNAN;_(opcional)_
+  &#xNAN;_(opcional)_
 
 <figure><img src="../../../.gitbook/assets/image (317).png" alt=""><figcaption></figcaption></figure>
 
@@ -271,7 +271,7 @@ No GRID são listados os itens ArqSign adicionados ao serviço e que estarão di
 * **SMS**
 * **WhatsApp**
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Coluna Nome do Espelho** _(Obrigatório)_**:** Exibe o nome do campo que será exibido no relatório de faturamento.
 
@@ -285,7 +285,7 @@ No GRID são listados os itens ArqSign adicionados ao serviço e que estarão di
 
 <figure><img src="../../../.gitbook/assets/image (315).png" alt=""><figcaption></figcaption></figure>
 
-* **Coluna Pacote Unitário - Preço** _(obrigatório)_**:** Valor configurado para quando o item é cobrado de forma unitária (mesmo padrão dos outros serviços).
+* **Coluna Pacote Unitário - Preço** _(obrigatório)_**:** Valor configurado para quando o item é cobrado de forma unitária  (mesmo padrão dos outros serviços).
 
 <figure><img src="../../../.gitbook/assets/image (316).png" alt=""><figcaption></figcaption></figure>
 

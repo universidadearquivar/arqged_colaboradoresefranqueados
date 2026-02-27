@@ -6,11 +6,11 @@ O limite rate é uma medida para proteger a aplicação de ataques ou mal uso do
 
 O limite rate é determinado com base no número de solicitações que o seu aplicativo envia ao software em uma janela de tempo. Este limite é por Cliente no ArqGED, e a janela de tempo controlada são as listadas abaixo:
 
-· Dentro do intervalo de 1 segundo a API do ArqGED poderá receber 4 requisições.
+·        Dentro do intervalo de 1 segundo a API do ArqGED poderá receber 4 requisições.
 
-· Dentro do intervalo de 1 minuto a API do ArqGED poderá receber 240 requisições.
+·        Dentro do intervalo de 1 minuto a API do ArqGED poderá receber 240 requisições.
 
-· Dentro do intervalo de 1 hora a API do ArqGED poderá receber 2.400 requisições.
+·        Dentro do intervalo de 1 hora a API do ArqGED poderá receber 2.400 requisições.
 
 | Tempo                                      |          Número de Requisições          |
 | ------------------------------------------ | :-------------------------------------: |

@@ -2,9 +2,9 @@
 
 {% embed url="https://app.supademo.com/demo/cmapc0b9m1kc9ho3rg1frurjz" %}
 
-A Ordenação de Campos da Árvore Documental é utilizada para a funcionalidade de download em massa e para mudar a ordem de indexação dos campos de um tipo documental.
+A Ordenação de Campos da Árvore Documental é utilizada para a funcionalidade de download em massa e para mudar a ordem de indexação dos campos de um tipo documental.&#x20;
 
-Para exibir um documento e mudar a ordem, selecione o Cliente, o Universo de Trabalho e a Árvore Organizacional.
+Para exibir um documento e mudar a ordem, selecione o Cliente, o Universo de Trabalho e a Árvore Organizacional. &#x20;
 
 <figure><img src="../.gitbook/assets/arvore11.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
@@ -17,5 +17,5 @@ A Ordem do Download em Massa é utilizada para que o sistema organize os documen
 <figure><img src="../.gitbook/assets/arvoredoc18.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 {% hint style="info" %}
-<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;">Se em um download em massa for definido que o campo “Data” é o número um do tipo crescente e o campo “Filial” é o número dois do tipo crescente, o sistema organizará os documentos por data, do mais antigo para o mais recente, e por nome de filial em ordem alfabética.</mark>
+<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Se em um download em massa for definido que o campo “Data” é o número um do tipo crescente e o campo “Filial” é o número dois do tipo crescente, o sistema organizará os documentos por data, do mais antigo para o mais recente, e por nome de filial em ordem alfabética.</mark>&#x20;
 {% endhint %}
