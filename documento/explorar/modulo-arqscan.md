@@ -57,9 +57,11 @@ Para que isso não ocorra, é necessário permitir o acesso do **ArqGED.arquivar
 
 Para verificar se o bloqueio foi realizado, acesse o navegador:&#x20;
 
-1. Clique em "Ver informações do site", disponível ao lado do endereço do site
+1. Clique em "Ver informações do site", no botão disponível ao lado do endereço do site. O botão pode variar conforme navegador utilizado, abaixo temos o botão no Chrome e no Microsoft Edge.
 
-<figure><img src="../../.gitbook/assets/image (380).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (385).png" alt=""><figcaption><p>Navegador Chrome.</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (387).png" alt=""><figcaption><p>Navegador Edge.</p></figcaption></figure>
 
 2. Será exibida uma nova janela, clique em "Redefinir permissões"
 
