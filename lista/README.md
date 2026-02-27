@@ -18,7 +18,7 @@ Existem três tipos de lista no sistema: &#x20;
 
 * **Consolidação:** A lista de Consolidação permite a inclusão de informações durante a indexação, ou seja, se no momento de cadastrar um documento composto por uma lista eu informar um dado de pessoa ou empresa ainda não informado anteriormente, o sistema permitirá que eu insira os dados manualmente naquele momento. A partir daí, nas próximas vezes que utilizar um documento com essa mesma lista, ele extrairá as informações automaticamente. A lista de Consolidação é utilizada para auditoria dentro do sistema &#x20;
 * **Auto Complete:** Na lista Auto Complete só é permitido incluir informações antes da indexação, como itens de lista. A lista de Auto Complete não pode ser utilizada para auditoria. &#x20;
-* **Provisória:** A lista provisória  tem o objetivo facilitar o processo de indexação, enviando para o sistema dados do próprio documento, como por exemplo, dados de indexação de uma nota fiscal.&#x20;
+* **Provisória:** A lista provisória  tem o objetivo de facilitar o processo de indexação, enviando para o sistema dados do próprio documento, como por exemplo, dados de indexação de uma nota fiscal.&#x20;
 
 O menu Lista é composto pelos seguintes submenus:
 
