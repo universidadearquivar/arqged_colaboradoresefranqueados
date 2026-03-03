@@ -4,7 +4,7 @@ Neste Submenu deve ser feita a configuração da Lista Provisória, conforme tip
 
 Na tela inicial do submenu, temos:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Cliente:** É exibida uma lista com todos os clientes da Unidade para seleção.
 
@@ -22,13 +22,15 @@ Na tela inicial do submenu, temos:
 
 Acesse o Menu Lista > Listas Provisórias > Adicionar.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Realize o preenchimento dos dados conforme solicitado na tela:
 
 **Nome da Lista:** Informe um nome para a lista, importante fazer referência ao processo em que estará vinculada, por exemplo: Indexação de Nota Fiscal de Entrada. Este campo será validado e caso o nome esteja repetido, o usuário não conseguirá seguir com o cadastro.
 
-**Data de Expiração:** Informe a data limite para uso da lista. Por padrão a lista vencerá em três meses, considerando a data de cadastro como base.
+**Data de Expiração:** Informe a data limite para uso da lista. Por padrão a lista vence em três meses,  considerando a data de cadastro como base. Quando inserida uma data com prazo superior aos três meses, ao clicar em salvar, será exibida na tela uma mensagem de erro informando a data limite de expiração para a lista.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="color:orange;">É importante que o</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**responsável pelo projeto**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">se organize para</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**controlar a expiração**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">da lista junto dos prazos de indexação. Caberá ao responsável</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**renovar o prazo**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">de expiração no sistema.</mark>
