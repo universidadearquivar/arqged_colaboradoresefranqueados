@@ -48,7 +48,7 @@ As obrigatoriedades das tarefas são ações que devem ser realizadas para a con
 
 2\. Na aba "Anexos", clique no ícone de upload.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. No campo “Arquivos dos registros” selecione o arquivo que deseja anexar.&#x20;
 
@@ -436,7 +436,7 @@ Os nomes das obrigatoriedades serão exibidos de forma diferente da maneira apre
 
 É importante destacar que a tela de assinatura apresentada ao usuário externo exibe os textos no idioma definido no cadastro do cliente detentor do fluxo, no menu [Cliente > Dados Cadastrais > Aba Dados Cadastrais](../../../cliente/dados-cadastrais.md#aba-dados-cadastrais). Caso o idioma escolhido seja Espanhol, a tela será apresentada nesse idioma e será solicitado o NIT do signatário e, no caso de pessoas jurídicas, outras informações específicas.
 
-<div><figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Assinatura de pessoa física em Espanhol. Clique na imagem para ampliar.</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (12) (1) (1) (1).png" alt=""><figcaption><p>Assinatura de pessoa jurídica em Espanhol. Clique na imagem para ampliar.</p></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Assinatura de pessoa física em Espanhol. Clique na imagem para ampliar.</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (12) (1) (1) (1).png" alt=""><figcaption><p>Assinatura de pessoa jurídica em Espanhol. Clique na imagem para ampliar.</p></figcaption></figure></div>
 
 Caso o idioma escolhido seja Inglês, a tela será apresentada nesse idioma e será solicitado o número do seguro social do signatário e, no caso de pessoas jurídicas, outras informações específicas.&#x20;
 
