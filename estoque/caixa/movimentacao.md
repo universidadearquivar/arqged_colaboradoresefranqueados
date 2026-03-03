@@ -2,7 +2,7 @@
 
 {% embed url="https://app.supademo.com/demo/cmbf0kbu13cpbsn1rtwtisoua" %}
 
-No menu Movimentação são lançadas as movimentações de entrada (compra) e saída (descarte) das caixas.  &#x20;
+No menu Movimentação são lançadas as movimentações de entrada (compra) e saída (descarte) das caixas.
 
 {% hint style="warning" %}
 <mark style="color:orange;">**A criação de caixas na tela**</mark> [<mark style="color:blue;">**Caixa ou Pasta > Criar > Caixa da Unidade**</mark>](../../caixa-ou-pasta/criar.md#caixa-da-unidade) <mark style="color:orange;">**interfere no saldo de caixas físicas da Unidade, porque o sistema entende que a Unidade está tirando caixas físicas do seu estoque para direcionar para um cliente. Cada caixa criada para clientes será subtraída do estoque de caixas novas ou usadas da Unidade e essas movimentações também serão exibidas automaticamente na tela Movimentação.**</mark>
@@ -46,14 +46,14 @@ Para informar uma movimentação, selecione a Unidade e clique no ícone “Adic
 
 <figure><img src="../../.gitbook/assets/est12.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-No campo “Estoque” selecione o modelo de caixa que terá lançamento. Os modelos apresentados aqui devem ter sido anteriormente cadastrados na tela de [Configuração](movimentacao.md#configuracao).&#x20;
+No campo “Estoque” selecione o modelo de caixa que terá lançamento. Os modelos apresentados aqui devem ter sido anteriormente cadastrados na tela de [Configuração](movimentacao.md#configuracao).
 
 <figure><img src="../../.gitbook/assets/est13.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Informe o “Tipo de Movimentação”, que pode ser de entrada ou saída e a “Ação”, que pode ser de compra, exclusão ou substituição.
 
 {% hint style="warning" %}
-<mark style="color:orange;">**A entrada de caixas pode vir de uma ação de compra (quando a unidade adquire novas caixas) ou de exclusão (quando um cliente exclui caixas que ainda podem ser aproveitadas pela unidade e essas caixas entram no estoque como usadas).**</mark>&#x20;
+<mark style="color:orange;">**A entrada de caixas pode vir de uma ação de compra (quando a unidade adquire novas caixas) ou de exclusão (quando um cliente exclui caixas que ainda podem ser aproveitadas pela unidade e essas caixas entram no estoque como usadas).**</mark>
 
 <mark style="color:orange;">**A saída de caixa vem de uma ação de substituição (quando há necessidade de substituir caixas de um cliente e as caixas utilizadas para essa substituição saem do estoque da unidade).**</mark>
 {% endhint %}
