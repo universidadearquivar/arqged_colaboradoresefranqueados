@@ -72,11 +72,17 @@ Ao carregar o arquivo, são exibidos na tela na coluna "Campos da Planilha a com
 
 **Coluna Preview:** É permitida a seleção de mais de um campo "Preview", quando feito, é habilitado o campo "Ordem" para que seja indicada a ordem de apresentação do campo na indexação.
 
-O preview é uma visualização prévia das informações existentes na lista provisória, habilitada após inclusão da informação do campo chave, na imagem abaixo temo um exemplo:
+O preview é uma visualização prévia das informações existentes na lista provisória, habilitada após inclusão da informação do campo chave, na imagem abaixo temos um exemplo:
 
-Ao informar o CPF, o preview exibe os duas linhas existentes na lista provisória, que contém aquela informação.
+Ao informar o CPF, o preview exibe os duas linhas existentes na lista provisória, que contém informações com a mesma chave.
 
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Na importação da lista provisória, não é feita a validação da chave, ou seja, é possível que a lista tenha mais de uma linha onde o campo chave se repete.&#x20;
+
+Voltando ao exemplo da nota fiscal, se for informado que o campo chave é o CNPJ e tivermos várias Notas para um mesmo CNPJ, o campo chave será repetido na tabela de dados para cada nota fiscal existente.
+{% endhint %}
 
 **Coluna Ordem:** É habilitado para preenchimento conforme uso da coluna anterior "Preview", ela é utilizada para definir a ordem de apresentação dos campos de indexação. É permitido habilitar até três campos como preview.
 
@@ -102,7 +108,7 @@ Ao solicitar um novo registro temos algumas particularidades na tela.
 
 Após selecionar o dado correto, os demais campos são preenchidos conforme dados existentes na lista provisória, clique em "Salvar" para concluir.
 
-4. É possível utilizar os mesmos dados em um novo registro habilitando a opção de "Manter Metadados", disponível na tela de registros
+4. É possível "aproveitar" os dados em um novo registro habilitando a opção de "Manter Metadados", disponível na tela de registros.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
