@@ -38,7 +38,7 @@ Clique no ícone “Adicionar”.
 
 **Nome da Lista:** Informe o um nome para a lista que está sendo criada.
 
-Tipo de lista: Selecione o tipo de lista, que pode ser “Auto Complete” ou “Consolidação”. Quando é necessário que o sistema faça a conferência de algum item da lista, ou seja, se é necessária auditoria, deve ser escolhida a opção “Consolidação”. A lista de Auto Complete não pode ser utilizada para auditoria.&#x20;
+**Tipo de lista:** Selecione o tipo de lista, que pode ser “**Auto Complete**” ou “**Consolidação**”. Quando é necessário que o sistema faça a conferência de algum item da lista, ou seja, se é necessária auditoria, deve ser escolhida a opção “Consolidação”. A lista de Auto Complete não pode ser utilizada para auditoria.&#x20;
 
 {% hint style="info" %}
 <mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Em uma lista de funcionários é necessário que o sistema faça constantemente a conferência para verificar se não há documentos obrigatórios faltantes. Neste caso, a lista de funcionários deve ser do tipo “Consolidação”.</mark>
