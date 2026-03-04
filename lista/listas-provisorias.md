@@ -1,22 +1,34 @@
 # 🟩 Listas Provisórias
 
-Neste Submenu deve ser feita a configuração da Lista Provisória, conforme tipo documental correspondente.
+Neste Submenu deve ser feita a configuração da Lista Provisória, conforme nó de árvore correspondente.
 
 Na tela inicial do submenu, temos:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (368).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Cliente:** É exibida uma lista com todos os clientes da Unidade para seleção.
 
-**➕Adicionar:** Permite a inclusão da configuração de uma nova lista.
+**Adicionar:** Permite a inclusão da configuração de uma nova lista.
 
-**✏️Editar:** Após selecionar uma lista na tela, ao clicar no ícone é possível editar os dados de uma lista já configurada.
+**Editar:** Após selecionar uma lista na tela, ao clicar no ícone é possível editar os dados de uma lista já configurada.
 
-**🔎Visualizar:** Após selecionar uma lista na tela, ao  clicar neste ícone, é possível visualizar todas as informações inseridas no cadastro de uma lista provisória.
+**Visualizar:** Após selecionar uma lista na tela, ao  clicar neste ícone, é possível visualizar todas as informações inseridas no cadastro de uma lista provisória.
 
-🗑️**Excluir:** Após selecionar a lista, ao clicar no ícone a lista é excluída.
+**Excluir:** Após selecionar a lista, ao clicar no ícone a lista é excluída.
 
-&#x20;**🔄️Atualizar:** Inserida uma nova lista ou excluída, clique no ícone para atualização da página.
+**Atualizar:** Inserida uma nova lista ou excluída, clique no ícone para atualização do status da lista criada.
+
+<figure><img src="../.gitbook/assets/image (369).png" alt=""><figcaption><p>Clique ne imagem para ampliar.</p></figcaption></figure>
+
+**Coluna Nome da Lista:** Exibe o nome definido para a lista no momento do cadastro.
+
+**Coluna Árvore Documental:** Exibe a Árvore selecionada uso da lista no momento do cadastro.
+
+**Coluna Data de Expiração:** Exibe a data definida para limite de uso da lista.
+
+**Coluna Itens Restantes:** Exibe a contagem dos itens existentes na lista ainda não utilizados na indexação, além de permitir pelo ícone de download a exportação desses itens.
+
+**Coluna Status:** Exibe o status do cadastro da lista no ArqGED.
 
 ## Configurando uma Lista Provisória
 
@@ -60,5 +72,7 @@ Ao carregar o arquivo, são exibidos na tela na coluna "Campos da Planilha a com
 
 **Coluna Preview:** É permitida a seleção de mais de um campo "Preview", quando feito, é habilitado o campo "Ordem" para que seja indicada a ordem de apresentação do campo na indexação.
 
-**Coluna Ordem:** É habilitado para preenchimento conforme uso da coluna anterior "Preview", ela é utilizada para definir a ordem de apresentação dos campos de indexação.
+**Coluna Ordem:** É habilitado para preenchimento conforme uso da coluna anterior "Preview", ela é utilizada para definir a ordem de apresentação dos campos de indexação. É permitido habilitar até três campos como preview.
+
+**Coluna Importação:** Exibe um ícones indicando o status da importação da planilha.
 
