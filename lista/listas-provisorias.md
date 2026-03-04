@@ -112,3 +112,11 @@ Após selecionar o dado correto, os demais campos são preenchidos conforme dado
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="danger" %}
+Assim que o registro é salvo no sistema, os dados utilizados no registro são automaticamente deletados da lista provisória, seguindo o objetivo principal da lista provisória que é:
+
+\
+• Criar uma pré indexação no sistema e aguardar a "inclusão" do documento no sistema
+
+• Ao deletar os dados, estamos concluindo que o documento que eseperávamos foi registrado.
+{% endhint %}
