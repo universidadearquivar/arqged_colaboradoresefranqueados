@@ -27,7 +27,7 @@ Ao criar um relatório, é possível restringir o acesso apenas aos usuários qu
 * **Usuário 01:** possui permissão para **visualizar relatórios**, mas **não pode visualizar os grupos**.
 * **Usuário 02:** possui permissão para **visualizar os grupos**, mas **não pode visualizar os relatórios**.
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Tanto clientes quanto unidades podem consultar esses relatórios, que ficam agrupados por módulo.&#x20;
 
