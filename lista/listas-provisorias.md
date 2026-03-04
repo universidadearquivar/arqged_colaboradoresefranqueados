@@ -102,7 +102,7 @@ Ao informar o CPF, o preview exibe os duas linhas existentes na lista provisóri
 ![](<../.gitbook/assets/image (376).png>)<mark style="color:blue;">Indica que o campo está configurado corretamente.</mark>
 {% endhint %}
 
-## Indexando um registro com lista provisória
+## Indexando um registro com Lista Provisória
 
 Uma vez configurada, a lista provisória é exibida em todas as possibilidade de indexação no ArqGED e não somente pelo Menu Documento> Cadastrar.
 
