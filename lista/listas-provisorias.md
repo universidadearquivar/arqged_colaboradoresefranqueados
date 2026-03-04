@@ -136,6 +136,9 @@ Após selecionar o dado correto, os demais campos são preenchidos conforme dado
 ![](<../.gitbook/assets/image (1).png>)
 {% endhint %}
 
-{% hint style="info" %}
-<mark style="color:blue;">Quando uma chave for informada e a consulta não carregar os dados para indexação o indexador deve realizar o cadastro das informações de forma manual, analisando o documento e registrando as informações nos campos correspondentes.</mark>
-{% endhint %}
+### Informações importantes
+
+1. Quando uma chave for informada e a consulta não carregar os dados para indexação, o indexador deve realizar o cadastro das informações de forma manual, analisando o documento e registrando as informações nos campos correspondentes.
+2. A Importação da lista provisória não valida formato de campo, ou seja, se o campo customizado for um campo tipo CPF e os dados da lista for por exemplo um texto, a lista sera importada ignorando essa informação. A validação do tipo de campo vai ocorrer no momento da indexação, quando esses dados aparecerem na tela o operador não conseguirá salvar o registro até que o campo seja preenchido com uma informação válida do tipo CPF.
+3. A lista provisória não funciona para indexações automáticas realizadas pelo ArqIndex. Ela vai funcionar somente para indexações manuais.
+4.
