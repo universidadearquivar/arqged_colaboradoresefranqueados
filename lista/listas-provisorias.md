@@ -34,7 +34,7 @@ Na tela inicial do submenu, temos:
 
 Acesse o Menu Lista > Listas Provisórias > Adicionar.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Realize o preenchimento dos dados conforme solicitado na tela:
 
@@ -42,7 +42,7 @@ Realize o preenchimento dos dados conforme solicitado na tela:
 
 **Data de Expiração:** Informe a data limite para uso da lista. Por padrão a lista vence em três meses,  considerando a data de cadastro como base. Quando inserida uma data com prazo superior aos três meses, ao clicar em salvar, será exibida na tela uma mensagem de erro informando a data limite de expiração para a lista.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="color:orange;">É importante que o</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**responsável pelo projeto**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">se organize para</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**controlar a expiração**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">da lista junto dos prazos de indexação. Caberá ao responsável</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**renovar o prazo**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">de expiração no sistema, o que pode ser realizado quantas vezes forem necessárias.</mark>
@@ -76,7 +76,7 @@ O preview é uma visualização prévia das informações existentes na lista pr
 
 Ao informar o CPF, o preview exibe os duas linhas existentes na lista provisória, que contém aquela informação.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Coluna Ordem:** É habilitado para preenchimento conforme uso da coluna anterior "Preview", ela é utilizada para definir a ordem de apresentação dos campos de indexação. É permitido habilitar até três campos como preview.
 
@@ -94,9 +94,15 @@ Ao solicitar um novo registro temos algumas particularidades na tela.
 
 2. Os campos definidos como "Chave" da indexação, são exibidos com o ícone da chave.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Ao adicionar a informação chave, são exibidos os dados associados aquela chave na lista e que foram definidos como preview, limitado a três opções.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+Após selecionar o dado correto, os demais campos são preenchidos conforme dados existentes na lista provisória, clique em "Salvar" para concluir.
+
+4. É possível utilizar os mesmos dados em um novo registro habilitando a opção de "Manter Metadados", disponível na tela de registros
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
