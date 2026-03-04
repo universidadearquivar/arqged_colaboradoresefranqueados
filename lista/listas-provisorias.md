@@ -97,9 +97,9 @@ Voltando ao exemplo da nota fiscal, se for informado que o campo chave é o CNPJ
 
 ![](<../.gitbook/assets/image (374).png>) Indica que o campo está presente na configuração, mas não foi localizado no novo arquivo CSV. Se prosseguir com a importação desse arquivo, esta coluna continuará existindo mas ficará sem dados para os novos itens deste CSV.
 
-![](<../.gitbook/assets/image (375).png>)12121
+![](<../.gitbook/assets/image (375).png>) Indica que o campo pertence a um nível inferior da Árvore Organizacional selecionada e não pode ser configurado como "Chave" ou "Preview".
 
-![](<../.gitbook/assets/image (376).png>)
+![](<../.gitbook/assets/image (376).png>)Indica que o campo está configurado corretamente.
 {% endhint %}
 
 
