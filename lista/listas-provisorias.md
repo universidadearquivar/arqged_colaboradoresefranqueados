@@ -137,5 +137,5 @@ Após selecionar o dado correto, os demais campos são preenchidos conforme dado
 {% endhint %}
 
 {% hint style="info" %}
-<mark style="color:blue;">Quando uma chave foi informada e a consulta não carregar os dados para indexação o indexador deve realizar o cadastro das informações de forma manual, analisando o documento e registrando as informações nos campos correspondentes.</mark>
+<mark style="color:blue;">Quando uma chave for informada e a consulta não carregar os dados para indexação o indexador deve realizar o cadastro das informações de forma manual, analisando o documento e registrando as informações nos campos correspondentes.</mark>
 {% endhint %}
