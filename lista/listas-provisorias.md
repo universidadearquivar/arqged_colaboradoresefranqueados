@@ -92,9 +92,19 @@ Voltando ao exemplo da nota fiscal, se for informado que o campo chave é o CNPJ
 
 **Coluna Importação:** Exibe ícones que indicam s situação da linha de dados na planilha de  importação.
 
-## Indexando um registro com lista provisória
+{% hint style="info" %}
+![](<../.gitbook/assets/image (373).png>)  Indica que o campo não está presente na configuração e será e será desconsiderado na importação.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (374).png>) Indica que o campo está presente na configuração, mas não foi localizado no novo arquivo CSV. Se prosseguir com a importação desse arquivo, esta coluna continuará existindo mas ficará sem dados para os novos itens deste CSV.
+
+![](<../.gitbook/assets/image (375).png>)12121
+
+![](<../.gitbook/assets/image (376).png>)
+{% endhint %}
+
+
+
+## Indexando um registro com lista provisória
 
 Uma vez configurada, a lista provisória é exibida em todas as possibilidade de indexação no ArqGED e não somente pelo Menu Documento> Cadastrar.
 
