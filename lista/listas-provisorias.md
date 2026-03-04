@@ -34,7 +34,7 @@ Na tela inicial do submenu, temos:
 
 Acesse o Menu Lista > Listas Provisórias > Adicionar.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Realize o preenchimento dos dados conforme solicitado na tela:
 
@@ -42,7 +42,7 @@ Realize o preenchimento dos dados conforme solicitado na tela:
 
 **Data de Expiração:** Informe a data limite para uso da lista. Por padrão a lista vence em três meses,  considerando a data de cadastro como base. Quando inserida uma data com prazo superior aos três meses, ao clicar em salvar, será exibida na tela uma mensagem de erro informando a data limite de expiração para a lista.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="color:orange;">É importante que o</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**responsável pelo projeto**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">se organize para</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**controlar a expiração**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">da lista junto dos prazos de indexação. Caberá ao responsável</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**renovar o prazo**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">de expiração no sistema, o que pode ser realizado quantas vezes forem necessárias.</mark>
@@ -62,7 +62,7 @@ Realize o preenchimento dos dados conforme solicitado na tela:
 * O arquivo pode ter no máximo 15 colunas  - o total de colunas já existentes na tabela e as novas colunas do arquivo, não devem ultrapassar 15 colunas
 * O arquivo deve ter no máximo 1 milhão de linhas - o total de linha de dados no arquivo somados ao total de dados já existentes na tabela, não deve ultrapassar 1 milhão de linhas de dados
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Ao carregar o arquivo, são exibidos na tela na coluna "Campos da Planilha a combinação:
 
@@ -75,4 +75,20 @@ Ao carregar o arquivo, são exibidos na tela na coluna "Campos da Planilha a com
 **Coluna Ordem:** É habilitado para preenchimento conforme uso da coluna anterior "Preview", ela é utilizada para definir a ordem de apresentação dos campos de indexação. É permitido habilitar até três campos como preview.
 
 **Coluna Importação:** Exibe ícones que indicam o sucesso ou não da importação da planilha.
+
+## Indexando um registro com lista provisória
+
+Uma vez configurada, a lista provisória é exibida em todas as possibilidade de indexação no ArqGED e não somente pelo Menu Documento> Cadastrar.
+
+Ao solicitar um novo registro temos algumas particularidades na tela.
+
+1. Os campos customizados da lista provisória, são exibidos com destaque na cor <mark style="color:green;">**verde**</mark>, nas demais listas a exibição é realizada na cor <mark style="color:blue;">**azul**</mark>**.**
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+2. Os campos definidos como "Chave" da indexação, são exibidos com o ícone da chave.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+3. Ao adicionar a informação chave, são exibidos os dados associados aquela chave que foram definidos como preview
 
