@@ -74,5 +74,5 @@ Ao carregar o arquivo, são exibidos na tela na coluna "Campos da Planilha a com
 
 **Coluna Ordem:** É habilitado para preenchimento conforme uso da coluna anterior "Preview", ela é utilizada para definir a ordem de apresentação dos campos de indexação. É permitido habilitar até três campos como preview.
 
-**Coluna Importação:** Exibe um ícones indicando o status da importação da planilha.
+**Coluna Importação:** Exibe ícones que indicam o sucesso ou não da importação da planilha.
 
