@@ -83,9 +83,9 @@ Ao informar o CPF, o preview exibe os duas linhas existentes na lista provisóri
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Na importação da lista provisória, não é feita a validação da chave, ou seja, é possível que a lista tenha mais de uma linha onde o campo chave se repete.&#x20;
+<mark style="color:blue;">Na importação da lista provisória, não é feita a validação da chave, ou seja, é possível que a lista tenha mais de uma linha onde o campo chave se repete.</mark>&#x20;
 
-Voltando ao exemplo da nota fiscal, se for informado que o campo chave é o CNPJ e tivermos várias Notas para um mesmo CNPJ, o campo chave será repetido na tabela de dados para cada nota fiscal existente.
+<mark style="color:blue;">Voltando ao exemplo da nota fiscal, se for informado que o campo chave é o CNPJ e tivermos várias Notas para um mesmo CNPJ, o campo chave será repetido na tabela de dados para cada nota fiscal existente.</mark>
 {% endhint %}
 
 **Coluna Ordem:** É habilitado para preenchimento conforme uso da coluna anterior "Preview", ela é utilizada para definir a ordem de apresentação dos campos de indexação. É permitido habilitar até três campos como preview.
@@ -93,16 +93,14 @@ Voltando ao exemplo da nota fiscal, se for informado que o campo chave é o CNPJ
 **Coluna Importação:** Exibe ícones que indicam s situação da linha de dados na planilha de  importação.
 
 {% hint style="info" %}
-![](<../.gitbook/assets/image (373).png>)  Indica que o campo não está presente na configuração e será e será desconsiderado na importação.
+![](<../.gitbook/assets/image (373).png>)  <mark style="color:blue;">Indica que o campo não está presente na configuração e será e será desconsiderado na importação.</mark>
 
-![](<../.gitbook/assets/image (374).png>) Indica que o campo está presente na configuração, mas não foi localizado no novo arquivo CSV. Se prosseguir com a importação desse arquivo, esta coluna continuará existindo mas ficará sem dados para os novos itens deste CSV.
+![](<../.gitbook/assets/image (374).png>) <mark style="color:blue;">Indica que o campo está presente na configuração, mas não foi localizado no novo arquivo CSV. Se prosseguir com a importação desse arquivo, esta coluna continuará existindo mas ficará sem dados para os novos itens deste CSV.</mark>
 
-![](<../.gitbook/assets/image (375).png>) Indica que o campo pertence a um nível inferior da Árvore Organizacional selecionada e não pode ser configurado como "Chave" ou "Preview".
+![](<../.gitbook/assets/image (375).png>) <mark style="color:blue;">Indica que o campo pertence a um nível inferior da Árvore Organizacional selecionada e não pode ser configurado como "Chave" ou "Preview".</mark>
 
-![](<../.gitbook/assets/image (376).png>)Indica que o campo está configurado corretamente.
+![](<../.gitbook/assets/image (376).png>)<mark style="color:blue;">Indica que o campo está configurado corretamente.</mark>
 {% endhint %}
-
-
 
 ## Indexando um registro com lista provisória
 
