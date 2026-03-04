@@ -62,6 +62,10 @@ Realize o preenchimento dos dados conforme solicitado na tela:
 * O arquivo pode ter no máximo 15 colunas  - o total de colunas já existentes na tabela e as novas colunas do arquivo, não devem ultrapassar 15 colunas
 * O arquivo deve ter no máximo 1 milhão de linhas - o total de linha de dados no arquivo somados ao total de dados já existentes na tabela, não deve ultrapassar 1 milhão de linhas de dados
 
+{% hint style="warning" %}
+<mark style="color:$warning;">Para que a configuração da lista provisória seja realizada, os campos customizados devem ser previamente criados e configurados no sistem, eles não serão criados na importação da lista.</mark>
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ao carregar o arquivo, são exibidos na tela na coluna "Campos da Planilha a combinação:
@@ -96,21 +100,21 @@ Ao solicitar um novo registro temos algumas particularidades na tela.
 
 1. Os campos customizados da lista provisória, são exibidos com destaque na cor <mark style="color:green;">**verde**</mark>, nas demais listas a exibição é realizada na cor <mark style="color:blue;">**azul**</mark>**.**
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 2. Os campos definidos como "Chave" da indexação, são exibidos com o ícone da chave.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 3. Ao adicionar a informação chave, são exibidos os dados associados aquela chave na lista e que foram definidos como preview, limitado a três opções.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Após selecionar o dado correto, os demais campos são preenchidos conforme dados existentes na lista provisória, clique em "Salvar" para concluir.
 
 4. É possível "aproveitar" os dados em um novo registro habilitando a opção de "Manter Metadados", disponível na tela de registros.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="danger" %}
 <mark style="color:$danger;">Assim que o registro é salvo no sistema, os dados utilizados no registro são automaticamente deletados da lista provisória, seguindo o objetivo principal da lista provisória que é:</mark>
@@ -119,5 +123,5 @@ Após selecionar o dado correto, os demais campos são preenchidos conforme dado
 
 <mark style="color:$danger;">• Ao deletar os dados, estamos concluindo que o documento que esperávamos foi registrado e que não existe a necessidade de manter esses dados na lista de indexação.</mark>
 
-<p align="center"><img src="../.gitbook/assets/image.png" alt=""></p>
+![](../.gitbook/assets/image.png)
 {% endhint %}
