@@ -59,3 +59,6 @@ Ao carregar o arquivo, são exibidos na tela na coluna "Campos da Planilha a com
 **Coluna Chave:** Selecione qual ou quais serão os campos serão utilizados para consultar os demais dados no banco. É permitida a seleção de até dois campos chave por lista. Um campo chave não pode ser um campo "Preview".
 
 **Coluna Preview:** É permitida a seleção de mais de um campo "Preview", quando feito, é habilitado o campo "Ordem" para que seja indicada a ordem de apresentação do campo na indexação.
+
+**Coluna Ordem:** É habilitado para preenchimento conforme uso da coluna anterior "Preview", ela é utilizada para definir a ordem de apresentação dos campos de indexação.
+
