@@ -8,7 +8,7 @@ description: Fevereiro/2026
 
 <summary>02/2026 - Lista Provisória</summary>
 
-Foi adicionado no **Menu > Lista** o submenu **Lista provisória**.
+Foi adicionado no **Menu > Lista** o submenu [**Lista provisória**.](../lista/listas-provisorias.md)
 
 A principal funcionalidade desse submenu é **agilizar e automatizar o processo de indexação**, permitindo que os dados específicos do documento sejam carregados automaticamente na tela de indexação a partir da digitação de uma **chave de busca**.
 
