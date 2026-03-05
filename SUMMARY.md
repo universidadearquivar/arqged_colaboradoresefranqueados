@@ -122,6 +122,7 @@
 
 ## 📣 Novidades do ArqGED
 
+* [▫️ Lista Provisória](novidades-do-arqged/lista-provisoria.md)
 * [▫️ Workflow](novidades-do-arqged/workflow.md)
 * [▫️ Compartilhamento de Arquivos via API](novidades-do-arqged/compartilhamento-de-arquivos-via-api.md)
 * [▫️ Integração ArqSign](novidades-do-arqged/maio-or-2025.md)
