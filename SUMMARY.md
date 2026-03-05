@@ -114,6 +114,7 @@
       * [◼️ 7. Nota Fiscal](<integracoes/metodos-disponiveis-na-api/copy-of-page-1 (1).md>)
       * [◼️ 8. Relatórios](integracoes/metodos-disponiveis-na-api/8.-relatorios.md)
       * [◼️ 9. Usuário](integracoes/metodos-disponiveis-na-api/9.-usuario.md)
+      * [◼️ 6. Lista Provisória](integracoes/api/metodos-disponiveis-na-api/6.-lista-provisoria.md)
     * [🟩 URL da API ArqGED](integracoes/url-da-api-arqged.md)
     * [🟩 Histórico de alterações da API](integracoes/historico-de-alteracoes-da-api.md)
   * [🔌 SSO](integracoes/sso.md)
