@@ -14,7 +14,7 @@ A principal funcionalidade desse submenu é **agilizar e automatizar o processo 
 
 Outra característica importante é que, após a utilização dos dados no cadastro, eles **serão removidos automaticamente da lista**, evitando o acúmulo de informações desnecessárias no banco de dados.
 
-Também nesta atualização foi feita a liberação do método "[POST api/ListaProvisoria/{idListaProvisoria}/Cliente/{idCliente}/AdicionarItens](../integracoes/api/metodos-disponiveis-na-api/6.-lista-provisoria.md#id-6.1.post-api-listaprovisoria-idlistaprovisoria-cliente-idcliente-adicionaritens)" que servirá para incluir itens na lista via integração.
+Também nesta atualização foi feita a liberação do método "[POST api/ListaProvisoria/{idListaProvisoria}/Cliente/{idCliente}/AdicionarItens](../integracoes/api/metodos-disponiveis-na-api/6.-lista-provisoria.md#id-6.1.post-api-listaprovisoria-idlistaprovisoria-cliente-idcliente-adicionaritens)" que permite a inclusão de novos itens na lista via integração.
 
 </details>
 
