@@ -6,7 +6,7 @@ description: Fevereiro/2026
 
 <details>
 
-<summary>02/2026 - Lista Provisória</summary>
+<summary>12/02/2026 - Lista Provisória</summary>
 
 Foi adicionado no **Menu > Lista** o submenu [**Lista provisória**.](../lista/listas-provisorias.md)
 
