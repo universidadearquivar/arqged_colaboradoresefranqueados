@@ -110,7 +110,7 @@
       * [◼️ 3. Billing](integracoes/metodos-disponiveis-na-api/3.-billing.md)
       * [◼️ 4. Documento](integracoes/metodos-disponiveis-na-api/4.-documento.md)
       * [◼️ 5. Lista](integracoes/metodos-disponiveis-na-api/5.-lista.md)
-      * [◼️ 6. Workflow](integracoes/metodos-disponiveis-na-api/6.-workflow.md)
+      * [◼️ 7. Workflow](integracoes/api/metodos-disponiveis-na-api/7.-workflow.md)
       * [◼️ 7. Nota Fiscal](<integracoes/metodos-disponiveis-na-api/copy-of-page-1 (1).md>)
       * [◼️ 8. Relatórios](integracoes/metodos-disponiveis-na-api/8.-relatorios.md)
       * [◼️ 9. Usuário](integracoes/metodos-disponiveis-na-api/9.-usuario.md)
