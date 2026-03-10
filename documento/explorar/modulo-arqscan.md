@@ -5,7 +5,9 @@
 Para que o módulo ArqScan funcione corretamente é necessária a instalação de um scanner e do driver que fará a comunicação entre o sistema e o aparelho de scanner. Além disso, é preciso também instalar o aplicativo ArqClient na máquina do usuário, utilizado para a comunicação entre a máquina do usuário, scanners e tokens.
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Deve ser instalado na máquina do usuário o driver correspondente ao seu aparelho de scanner. Verifique a marca e modelo do scanner e busque o driver correspondente a ele.**</mark>
+<mark style="color:orange;">**Deve ser instalado na máquina do usuário o driver correspondente ao seu aparelho de scanner. Verifique a marca e modelo do scanner e busque o driver correspondente.**</mark>
+
+<mark style="color:orange;">**Arquivar testou e homologou modelos de scanners da Kodak e estes possuem compatibilidade com o ArqSCAN através do driver TWAIN. Há ainda diversas outras opções de fabricantes e modelos no mercado que são compatíveis com o driver TWAIN e que podem funcionar com o módulo ArqSCAN, no entanto, estes não foram testados e homologados pela Arquivar.**</mark>
 {% endhint %}
 
 ### Instalando/Atualizando o ArqClient
