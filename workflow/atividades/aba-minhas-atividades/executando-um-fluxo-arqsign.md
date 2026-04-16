@@ -16,6 +16,10 @@ Durante esse período, os usuários podem **monitorar o andamento do processo de
 * **Reenviar o processo**, caso o link de assinatura tenha expirado antes da conclusão;
 * **Editar signatários** que ainda não assinaram.
 
+{% hint style="info" %}
+<mark style="color:blue;">Após a conclusão da assinatura do documento, não é possível incluir novos signatários ao fluxo de assinatura. Caso seja necessária a inclusão de novos signatários, um novo fluxo de assinatura deve ser iniciado no sistema.</mark>
+{% endhint %}
+
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 #### Interação com Token e Signatários
