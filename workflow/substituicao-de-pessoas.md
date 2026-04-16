@@ -60,6 +60,10 @@ Trata-se de uma substituição realizada por um período determinado, como nos c
 
 ## Substituição Definitiva
 
+{% hint style="info" %}
+Trata-se de uma substituição sem retorno ao responsável anterior, ou seja definitiva, aplicada em casos como desligamento de colaborador ou promoção para outra função/setor. Nessas situações, os fluxos passam a ser direcionados ao novo responsável de forma permanente ou até que ocorra nova definição.
+{% endhint %}
+
 1. Clique no ícone “Adicionar”.
 
 <figure><img src="../.gitbook/assets/sub1.png" alt=""><figcaption></figcaption></figure>
