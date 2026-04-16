@@ -6,8 +6,8 @@ A aba “Atividades que Criei” agrupa todas as atividades criadas pelo usuári
 
 <figure><img src="../../.gitbook/assets/criei01.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-Ao clicar em um dos nomes são mostrados todos os fluxos daquele tipo que foram ativados, com informações sobre em que etapa se encontra. Também são exibidas as estatísticas referentes aos fluxos ativados pelo usuário, que mostra quantos estão em atraso e quantos estão em dia.
+Ao clicar em um dos nomes são mostrados todos os fluxos daquele tipo que foram ativados, com informações sobre em que etapa se encontra. Também são exibidas as estatísticas referentes aos fluxos ativados pelo usuário, que mostra quantos estão em atraso e quantos estão em dia.  &#x20;
 
-Caso o fluxo esteja em uma etapa de responsabilidade do usuário, ele conseguirá executar as obrigatoriedades e dar continuidade ao fluxo por essa tela. Se a etapa for de responsabilidade de outro usuário, ele poderá apenas visualizar a tarefa ou delegar a outra pessoa se tiver essa permissão.
+Caso o fluxo esteja em uma etapa de responsabilidade do usuário, ele conseguirá executar as obrigatoriedades e dar continuidade ao fluxo por essa tela. Se a etapa for de responsabilidade de outro usuário, ele poderá apenas visualizar a tarefa ou delegar a outra pessoa se tiver essa permissão.&#x20;
 
 <figure><img src="../../.gitbook/assets/criei02.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
