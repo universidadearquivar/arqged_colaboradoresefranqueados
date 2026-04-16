@@ -103,6 +103,8 @@ Ao marcar o _checkbox_ “**Assinar na ordem abaixo**” o processo será enviad
 <mark style="color:blue;">Se a opção</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**"Assinar na Ordem abaixo"**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">não estiver marcada, todos os signatários receberão o documento para assinar no mesmo momento.</mark>&#x20;
 
 <mark style="color:blue;">Ao sinalizar a assinatura em ordem, mas informar o mesmo número para um ou mais signatário, os signatários com mesmo número, também receberão o documento no mesmo momento.</mark>
+
+<mark style="color:blue;">Quando utilizada a opção de assinatura em ordem, o signatário</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**somente visualiza e assina**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">o documento após todos os signatários anteriores concluírem o processo de assinatura.</mark>
 {% endhint %}
 
 **Caso o usuário anterior tenha tido apenas ação de visualização, o próximo signatário receberá o documento quando o último signatário anterior a ele concluir a assinatura.**
