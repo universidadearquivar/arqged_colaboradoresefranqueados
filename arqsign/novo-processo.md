@@ -99,6 +99,12 @@ Utilizando a barra de pesquisa é possível filtrar os destinatários por nome, 
 
 Ao marcar o _checkbox_ “**Assinar na ordem abaixo**” o processo será enviado aos destinatários na ordem definida no campo “**Ordem**” que aparecerá na parte superior de “Dados do Destinatário”. Ao definir essa opção um usuário só receberá o processo quando o anterior concluir sua ação de assinatura.
 
+{% hint style="info" %}
+<mark style="color:blue;">Se a opção</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**"Assinar na Ordem abaixo"**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">não estiver marcada, todos os signatários receberão o documento para assinar no mesmo momento.</mark>&#x20;
+
+<mark style="color:blue;">Ao sinalizar a assinatura em ordem, mas informar o mesmo número para um ou mais signatário, os signatários com mesmo número, também receberão o documento no mesmo momento.</mark>
+{% endhint %}
+
 **Caso o usuário anterior tenha tido apenas ação de visualização, o próximo signatário receberá o documento quando o último signatário anterior a ele concluir a assinatura.**
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2FNkvKZtdmOiilgqExqFNO%2Fblobs%2FUWPhCKnNWYSRT4VSDDe7%2Fnovodocumento08.png&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=1bd8b391&#x26;sv=2" alt=""><figcaption></figcaption></figure>
