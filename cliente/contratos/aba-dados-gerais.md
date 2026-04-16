@@ -2,14 +2,14 @@
 
 {% embed url="https://app.supademo.com/demo/cmbffqpkn3zydsn1r8sjl8mbw" %}
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Tipo de Contrato:** Neste campo deve ser selecionado o tipo de contrato que está sendo cadastrado, que pode ser:
 
-* _Antigo:_ Nesse tipo de contrato, qualquer serviço pode ser incluído, tanto relacionado a serviços de guarda documental quanto de utilização e licença do software ArqGED. Nesse tipo de contrato será utilizada a cobrança antiga de repasse do franqueado para a Master.&#x20;
+* _Antigo:_ Nesse tipo de contrato, qualquer serviço pode ser incluído, tanto relacionado a serviços de guarda documental quanto de utilização e licença do software ArqGED. Nesse tipo de contrato será utilizada a cobrança antiga de repasse do franqueado para a Master.
 * _Faturamento:_ Nesse tipo de contrato não pode haver nenhum tipo de serviço relacionado ao software ArqGED. Esse tipo de contrato foi criado para serviços que não envolvem o uso do software, como por exemplo digitalização (sem o uso do ArqGED), organização de documentos, consultoria etc.
 * _Guarda:_ Nesse tipo de contrato só podem ser incluídos serviços relacionados ao software ArqGED e ao Storage, ou seja, serviços de guarda como transporte, consulta de documentos etc.
-* _Padrão:_ Assim como no contrato Antigo, nesse tipo de contrato qualquer serviço pode ser incluído, tanto relacionado a serviços de guarda documental quanto de utilização e licença do software ArqGED. A diferença é que nesse tipo de contrato será utilizada a cobrança atualizada de repasse do franqueado para a Master.  &#x20;
+* _Padrão:_ Assim como no contrato Antigo, nesse tipo de contrato qualquer serviço pode ser incluído, tanto relacionado a serviços de guarda documental quanto de utilização e licença do software ArqGED. A diferença é que nesse tipo de contrato será utilizada a cobrança atualizada de repasse do franqueado para a Master.
 
 {% hint style="warning" %}
 <mark style="color:orange;">**O Tipo de Contrato é importante para que o franqueado saiba que tipo de serviço poderá incluir no contrato do cliente.**</mark>
@@ -20,7 +20,7 @@
 **Grupo Econômico:** O campo Grupo Econômico permite que sejam agrupados vários contratos em um mesmo grupo e que a cobrança seja feita uma única vez, da franqueadora (Master) para o franqueado (Unidade).
 
 {% hint style="info" %}
-<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Uma mesma empresa possui três contratos com a Unidade X, e os três contratos foram incluídos no mesmo Grupo Econômico. Ao cobrar a licença do software da Unidade X, a Arquivar Master irá faturar a mensalidade apenas uma vez, sobre o grupo econômico criado.</mark>
+<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;">Uma mesma empresa possui três contratos com a Unidade X, e os três contratos foram incluídos no mesmo Grupo Econômico. Ao cobrar a licença do software da Unidade X, a Arquivar Master irá faturar a mensalidade apenas uma vez, sobre o grupo econômico criado.</mark>
 {% endhint %}
 
 **Próxima Fatura:** Ao salvar o contrato, com base no preenchimento do campo “Recorrência de Faturamento”, será calculada automaticamente a data da próxima fatura, que será exibida aqui.
@@ -53,7 +53,7 @@
 
 <figure><img src="../../.gitbook/assets/contratos03.png" alt=""><figcaption></figcaption></figure>
 
-**Referência de Reajuste:** Esse campo será preenchido automaticamente com a data de um ano após a data informada no campo “Início Vigência”, ou seja, se o contrato for do tipo “Com reajuste por índice”, o reajuste do valor do contrato será feito anualmente. &#x20;
+**Referência de Reajuste:** Esse campo será preenchido automaticamente com a data de um ano após a data informada no campo “Início Vigência”, ou seja, se o contrato for do tipo “Com reajuste por índice”, o reajuste do valor do contrato será feito anualmente.
 
 **Início Vigência:** Aqui deve ser informada a data de início da prestação de serviços para o cliente, ou seja, a partir de que dia o contrato passa a valer.
 
@@ -74,9 +74,9 @@
 • _Mensal:_ Se a cobrança for mensal, pode ser determinado um dia específico ou uma data de acordo com determinado dia da semana.
 
 {% hint style="info" %}
-<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Se for preenchido “Dia 1 de cada 2 meses”, o sistema entenderá que todo dia 1º deverá realizar o faturamento, com intervalo de dois meses, ou seja, seria uma cobrança bimestral.</mark>
+<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;">Se for preenchido “Dia 1 de cada 2 meses”, o sistema entenderá que todo dia 1º deverá realizar o faturamento, com intervalo de dois meses, ou seja, seria uma cobrança bimestral.</mark>
 
-<mark style="color:blue;">Se for preenchido “Na primeira segunda-feira de cada 1 mês”, o sistema entenderá que toda primeira segunda-feira de cada mês deverá realizar o faturamento, ou seja, seria uma cobrança mensal.</mark>&#x20;
+<mark style="color:blue;">Se for preenchido “Na primeira segunda-feira de cada 1 mês”, o sistema entenderá que toda primeira segunda-feira de cada mês deverá realizar o faturamento, ou seja, seria uma cobrança mensal.</mark>
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/contratos07.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>

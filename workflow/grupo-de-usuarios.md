@@ -2,23 +2,23 @@
 
 {% embed url="https://app.supademo.com/demo/cmae139gi068h4s1bvu67xjk0" %}
 
-Grupos de Usuários no WorkFlow são um conjunto de usuários que serão responsáveis por uma tarefa durante a execução de um processo. Muitas vezes uma tarefa pode ser executada por qualquer um dos membros de um setor, ou uma mesma tarefa demanda que mais de uma pessoa a execute devido à complexidade da sua execução, por exemplo. Nestes casos a tarefa será delegada a um grupo de pessoas e não a um usuário específico.&#x20;
+Grupos de Usuários no WorkFlow são um conjunto de usuários que serão responsáveis por uma tarefa durante a execução de um processo. Muitas vezes uma tarefa pode ser executada por qualquer um dos membros de um setor, ou uma mesma tarefa demanda que mais de uma pessoa a execute devido à complexidade da sua execução, por exemplo. Nestes casos a tarefa será delegada a um grupo de pessoas e não a um usuário específico.
 
-&#x20;A distribuição de tarefas delegadas a um grupo a seus membros será determinada durante a [Configuração da Tarefa no Desenho do Fluxo.](desenho-do-fluxo/aba-fluxograma.md#configuracoes-da-tarefa)
+A distribuição de tarefas delegadas a um grupo a seus membros será determinada durante a [Configuração da Tarefa no Desenho do Fluxo.](desenho-do-fluxo/aba-fluxograma.md#configuracoes-da-tarefa)
 
 ***
 
-## &#x20;Grupo de Usuários – Tela principal
+## Grupo de Usuários – Tela principal
 
-**1. Campo Empresa:** Neste campo é exibida a empresa ou empresas às quais o usuário logado pertence ou tem acesso.&#x20;
+**1. Campo Empresa:** Neste campo é exibida a empresa ou empresas às quais o usuário logado pertence ou tem acesso.
 
-**2. Ícone Adicionar:** Utilizado para o cadastro de um novo grupo de usuários.&#x20;
+**2. Ícone Adicionar:** Utilizado para o cadastro de um novo grupo de usuários.
 
-**3. Ícone Editar:** Utilizado para realizar a edição do grupo de usuários selecionado. &#x20;
+**3. Ícone Editar:** Utilizado para realizar a edição do grupo de usuários selecionado.
 
-**4. Ícone Visualizar:** Utilizado para visualizar detalhes do grupo de usuários selecionado. &#x20;
+**4. Ícone Visualizar:** Utilizado para visualizar detalhes do grupo de usuários selecionado.
 
-**5. Ícone Excluir:** Utilizado para excluir o grupo de usuários selecionado.&#x20;
+**5. Ícone Excluir:** Utilizado para excluir o grupo de usuários selecionado.
 
 **6. Coluna Nome do Grupo de Usuários:** Nesta coluna são exibidos todos os grupos de usuários da empresa cadastrados.
 
