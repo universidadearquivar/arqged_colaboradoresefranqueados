@@ -307,3 +307,7 @@ Concluído o processo de assinatura, o destinatário recebe a a notificação de
 Se o remetente tiver definido que deverá ser gerado um QR Code no Registro de Assinaturas na tela [Configurações Avançadas](https://manual.arquivar.com/guia-do-cliente/arqsign/menu-superior-novo-processo#configuracoes-avancadas) do cadastro do documento, esse QR Code será exibido na folha de registro das assinaturas.
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2FNkvKZtdmOiilgqExqFNO%2Fblobs%2FzCZbln0gyRs4nuF5rnMR%2Fassinatura18.png&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=dc34c39a&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Concluído o processo de assinatura, **não é possível a inclusão de novos signatários**. Para isso, um novo processo de assinatura deverá ser realizado no sistema.
+{% endhint %}
