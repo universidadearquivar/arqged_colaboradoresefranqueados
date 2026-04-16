@@ -1,6 +1,6 @@
 # 🟩 Reajustar os Contratos
 
-Todos os contratos celebrados entre as unidades e seus clientes são cadastrados pela Arquivar Master e nesta tela é possível realizar o reajuste dos contratos da unidade selecionada no campo “Unidade”.
+Todos os contratos celebrados entre as unidades e seus clientes são cadastrados pela Arquivar Master e nesta tela é possível realizar o reajuste dos contratos da unidade selecionada no campo “Unidade”. &#x20;
 
 <figure><img src="../.gitbook/assets/faturamento2.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
