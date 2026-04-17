@@ -77,9 +77,13 @@ Para realizar uma substituição provisória, siga:
 Trata-se de uma alteração sem retorno ao responsável anterior, ou seja definitiva, aplicada em casos como desligamento de colaborador ou promoção para outra função/setor. Nessas situações, os fluxos passam a ser direcionados ao novo responsável de forma permanente ou até que ocorra uma nova definição.
 
 {% hint style="info" %}
-<mark style="color:blue;">Ao definir um substituto no fluxo de um usuário que seja também chefe imediato, o usuário substituto NÃO se torna chefe imediato. Para isso, é necessário alterar a informação nas Aba de Permissões II de</mark> [<mark style="color:blue;">Chefe Imediato.</mark>](https://manual.arquivar.com/guia-do-cliente/arqged/administracao/usuarios#aba-permissoes-ii)
+<mark style="color:blue;">**Importante:**</mark>
 
-<p align="center"><img src="https://manual.arquivar.com/guia-do-cliente/~gitbook/image?url=https%3A%2F%2F1023047207-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtM1xGMYoU6wC7tnUUXEo%252Fuploads%252FU6NOcVyDVOzKoNwLTlZf%252Fimage.png%3Falt%3Dmedia%26token%3Dcc4d1568-28cd-4786-b944-f4a6815eb1d9&#x26;width=300&#x26;dpr=3&#x26;quality=100&#x26;sign=22ecf32d&#x26;sv=2" alt="" data-size="original"></p>
+<mark style="color:blue;">•</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Limite de substituição:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Um usuário pode ser definido como substituto em vários fluxos, não existe uma limitação quanto a quantidade de substituições que um único usuário pode fazer.</mark>
+
+<mark style="color:blue;">•</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Associação com Chefe Imediato:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Ao definir um substituto no fluxo de um usuário que seja também chefe imediato, o usuário substituto</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**NÃO**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">se torna chefe imediato. Para isso, é necessário alterar a informação nas Aba de Permissões II de</mark> [<mark style="color:blue;">Chefe Imediato.</mark>](https://manual.arquivar.com/guia-do-cliente/arqged/administracao/usuarios#aba-permissoes-ii)
+
+<p align="center"><img src="https://manual.arquivar.com/guia-do-cliente/~gitbook/image?url=https%3A%2F%2F1023047207-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtM1xGMYoU6wC7tnUUXEo%252Fuploads%252FU6NOcVyDVOzKoNwLTlZf%252Fimage.png%3Falt%3Dmedia%26token%3Dcc4d1568-28cd-4786-b944-f4a6815eb1d9&#x26;width=300&#x26;dpr=3&#x26;quality=100&#x26;sign=22ecf32d&#x26;sv=2" alt=""></p>
 {% endhint %}
 
 1. Clique no ícone “Adicionar”.
@@ -99,3 +103,7 @@ Trata-se de uma alteração sem retorno ao responsável anterior, ou seja defini
 5. A data da execução será preenchida automaticamente no momento em que o usuário clicar em “Executar”.
 
 <figure><img src="../.gitbook/assets/sub3.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+<mark style="color:blue;">Caso o cliente possua mais de uma base ArqGED, as configurações de substituição de pessoas deve ser realizada individualmente em cada uma delas, pois não há compartilhamento de configurações entre bases.</mark>
+{% endhint %}
