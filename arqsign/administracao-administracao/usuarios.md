@@ -18,6 +18,12 @@ Após a inserção de um novo usuário pelo Administrador Global, o convidado re
 
 <figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2FNkvKZtdmOiilgqExqFNO%2Fblobs%2FkC3Nj6BJOieJYyhxl3iH%2FScreenshot_10.png&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=f7b28085&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+<mark style="color:blue;">Para que as notificações exibam o nome do cliente como remetente, informe o nome da empresa no campo “Nome” ao cadastrar o usuário. Utilize também um e-mail válido para identificação do processo e recebimento das notificações durante a tramitação do documento.</mark>
+
+<p align="center"><img src="https://manual.arquivar.com/guia-do-cliente/~gitbook/image?url=https%3A%2F%2F1023047207-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtM1xGMYoU6wC7tnUUXEo%252Fuploads%252FitPIeAEzbsUI8leVGCM6%252Fimage.png%3Falt%3Dmedia%26token%3D5cf5f545-c984-4918-8e51-fd0865cf5b45&#x26;width=300&#x26;dpr=3&#x26;quality=100&#x26;sign=33294e76&#x26;sv=2" alt=""></p>
+{% endhint %}
+
 ***
 
 ## Colunas da tela principal – Usuários <a href="#colunas-da-tela-principal-usuarios" id="colunas-da-tela-principal-usuarios"></a>
