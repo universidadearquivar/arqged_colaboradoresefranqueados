@@ -1,5 +1,7 @@
 # 🟩 Configurações
 
+{% embed url="https://app.heygen.com/videos/b40fe7f7cb6142668f5a926bd156a965" %}
+
 No menu Configurações são cadastrados os parâmetros para utilização da aplicação ArqIndex e definidas as etapas de fluxo do processo de indexação para cada cliente.
 
 O menu Configurações é composto pelos seguintes submenus:

@@ -1,5 +1,7 @@
 # 🟩 Atividades
 
+{% embed url="https://app.heygen.com/videos/7fee0a315ee043f1b56c15b8fba1f11c" %}
+
 No menu Atividades, é onde tudo acontece depois que as configurações do workflow foram realizadas. É neste local que o usuário deve ativar o fluxo e executar suas atividades.
 
 Um processo de trabalho é composto por diversas atividades, ou seja, tarefas que devem ser executadas pelos envolvidos no processo para a sua conclusão. No menu Atividades são exibidas as tarefas do usuário logado. O menu Atividades é dividido em cinco abas:

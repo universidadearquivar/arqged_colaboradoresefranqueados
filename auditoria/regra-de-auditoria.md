@@ -4,7 +4,7 @@ Nesta tela, o usuário define regras que possibilitam o controle e a identifica�
 
 Por exemplo, ao admitir um funcionário, é necessário a realização de um exame para emissão do Atestado de Saúde Ocupacional (ASO) - Admissional, logo, é possível criar uma regra no sistema, onde é informado que o documento precisa constar na pasta do funcionário uma única vez dias antes da data de admissão.
 
-Considerando este cenário, o sistema deverá verificar se o ASO consta ou não nos documentos cadastrados para o funcionário em questão e, se não identificado o cadastro desse documento, o sistema deverá apontar sua falta pelo processamento da regra de auditoria.
+Considerando este cenário, o sistema deverá verificar se o ASO consta ou não nos documentos cadastrados para o funcionário em questão e, se não identificado o cadastro desse documento, o sistema deverá apontar sua falta pelo processamento da regra de auditoria.&#x20;
 
 O fluxo deve ser:
 
@@ -32,7 +32,7 @@ Este processo visa garantir que os documentos obrigatórios sejam registrados co
 <mark style="color:orange;">O processo de auditoria não se limita exclusivamente aos documentos de funcionários, ele é aplicável a todos os tipos documentais que possuem critérios para verificação de sua existência no acervo.</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Cliente:** É apresentado o nome do cliente conforme usuário logado ou conforme selecionado pela Unidade na lista de clientes com o serviço de auditoria ativo em contrato.
 
@@ -47,7 +47,7 @@ Este processo visa garantir que os documentos obrigatórios sejam registrados co
 **Processar:** Permite ao usuário processar a regra de auditoria de forma “manual”, para isso, selecione a regra clique no ícone.
 
 {% hint style="warning" %}
-<mark style="color:orange;">Para que o cliente consiga criar uma regra no</mark> <mark style="color:orange;">**Menu > Auditoria**</mark><mark style="color:orange;">, é necessário que ele tenha cadastrado em seu contrato vigente o serviço “</mark><mark style="color:orange;">**ArqAudit por Regra**</mark><mark style="color:orange;">”, do contrário ele não poderá criar uma regra de auditoria no sistema.</mark>
+<mark style="color:orange;">Para que o cliente consiga criar uma regra no</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Menu > Auditoria**</mark><mark style="color:orange;">, é necessário que ele tenha cadastrado em seu contrato vigente o serviço “</mark><mark style="color:orange;">**ArqAudit por Regra**</mark><mark style="color:orange;">”, do contrário ele não poderá criar uma regra de auditoria no sistema.</mark>
 
 <mark style="color:orange;">O usuário de Unidade não tem permissão para realizar este cadastro, portanto devem solicitar para que a Master realize o cadastro do serviço no ArqGED.</mark>
 {% endhint %}
@@ -68,7 +68,7 @@ Clique na legenda e siga o passo a passo.
 
 <figure><img src="../.gitbook/assets/image (156).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-**Nome da Regra:** Procure adicionar um nome que indique o que se deseja com a regra, ou seja, que seja simples de identificar na lista de regras existentes.
+**Nome da Regra:** Procure adicionar um nome que indique o que se deseja com a  regra, ou seja, que seja simples de identificar na lista de regras existentes.&#x20;
 
 Exemplo:
 
@@ -84,15 +84,15 @@ Exemplo:
 
 **• Regra vinculada a uma lista:** Significa que é necessário ter uma lista previamente cadastrada na aplicação, com os dados atualizados, sendo que estes dados serão utilizados para gerar o resultado da auditoria.
 
-• **Regra não vinculada a uma lista:** Significa que a regra não precisa de uma lista cadastrada previamente no sistema para funcionar.
+&#x20;• **Regra não vinculada a uma lista:** Significa que a regra não precisa de uma lista cadastrada previamente no sistema para funcionar.
 
-**Campo:** Consolidar ...do período de ausência do documento
+&#x20;**Campo:** Consolidar ...do período de ausência do documento
 
 **A partir do fim / A partir do início**
 
-Esta configuração indica que ao executar a regra de auditoria, será considerado se a falta dos documentos deve ser contabilizada “a partir do início” ou “a partir do fim” do período.
+Esta configuração indica que ao executar a regra de auditoria, será considerado se a falta dos documentos deve ser contabilizada “a partir do início” ou “a partir  do fim” do período.
 
-Exemplo:
+Exemplo:&#x20;
 
 Em uma regra, foi dito que a data de referência seria a data de Admissão do funcionário. O documento foi cadastrado com a data de admissão de 01/12/2024, se definida que a consolidação deve ser realizada a partir do fim do período, sempre que gerada a auditoria no início do período a regra será executada, porém, não deverá acusar a falta deste documento, pois na configuração foi dito que a consolidação deve ser realizada a partir do fim do período de ausência do documento, ou seja, se o colaborador foi contratado em 01/12/2024 o fim do seu período, seria 31/12/2024.
 
@@ -128,7 +128,7 @@ Somente **Lista** do tipo **Consolidação** podem ser utilizadas para aplicaç�
 
 **Iniciar a contagem dos intervalos a partir do campo:** Este campo apresenta uma lista onde deve ser selecionada qual data a aplicação deve considerar para a aplicação da regra.
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Selecionando a primeira opção, a regra irá considerar campos do tipo Data existentes na lista, como por exemplo: Quero verificar todos os documentos faltantes entre a data de admissão e demissão. Essas duas datas estão na lista, então a aplicação irá buscá-las para consolidação da regra.
 
@@ -142,33 +142,33 @@ Abaixo alguns exemplos de como pode ser feita a parametrização.
 
 Ao definir por mensal + dia, informe o dia e a quantos meses a regra deve ser consolidada.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Neste caso estamos dizendo que a regra será consolidada mensalmente no 10º dia de cada mês.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Já neste caso estamos dizendo que a regra será consolidada no 5º dia a cada dois meses.
 
-Ao definir por mensal + No (a), temos o seguinte:
+&#x20;Ao definir por mensal + No (a), temos o seguinte:
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Neste caso a regra será consolidada na primeira segunda-feira de cada mês.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Já no segundo caso, a regra será consolidada na segunda segunda-feira a cada dois meses.
 
 Ao definir por Anual + Em, temos:
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Neste caso a regra será consolidada anualmente sempre no primeiro dia de junho.
 
 Ao definir por Anual + No (a), temos:
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Neste caso a regra será consolidada anualmente na primeira segunda-feira do mês de agosto.
 
@@ -176,7 +176,7 @@ Concluído o preenchimento da tela, clique “Salvar” para seguir.
 
 Ao retornar na tela inicial, temos a regra criada, vamos ao detalhamento dos dados apresentados:
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Ao clicar na regra, os demais ícones da parte superior da tela são habilitados, quando antes da regra apenas o ícone “adicionar” aparecia habilitado.
 
@@ -190,7 +190,7 @@ Ao clicar na regra, os demais ícones da parte superior da tela são habilitados
 
 Ainda na tela inicial temos também as informações apresentadas em colunas:
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 As colunas,
 
@@ -286,9 +286,9 @@ Esta área define onde será realizada a auditoria para o universo de busca cada
 
 Exemplo: O tipo documental Folha de Ponto, deve conter 1 documento cadastrado, a cada 1 mês, a partir da Data Admissão e, dentro do período da Data Inicial e Data Final de cadastro do documento.
 
-Exibe os campos da aplicação que devem ser validados no momento da execução da regra para exibição dos documentos faltantes.
+Exibe os campos da aplicação que devem ser validados no momento da execução da regra para exibição dos documentos faltantes.&#x20;
 
-<figure><img src="../.gitbook/assets/image (168).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (170).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Universo de Trabalho:** É um campo de preenchimento obrigatório e sinaliza para a aplicação, onde cada regra deve ser aplicada. Trata-se do primeiro nível de identificação do documento no sistema.
 
@@ -314,7 +314,7 @@ Quando definido documento “Único”, a aplicação não habilita para preench
 
 • **Único por período:** O documento deve ser único, dentro do período informado na aplicação.
 
-Quando definido documento “Único por período”, a aplicação habilita as demais condicionantes para preenchimento, um após o outro.
+&#x20;Quando definido documento “Único por período”, a aplicação habilita as demais condicionantes para preenchimento, um após o outro.
 
 <figure><img src="../.gitbook/assets/image (173).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -413,7 +413,7 @@ Também é possível utilizar um campo data, neste caso o operador deveria const
 Concluído o preenchimento das exceções, clique para “Salvar”.
 
 {% hint style="warning" %}
-<mark style="color:orange;">Atingida a “Data fim do afastamento”, a exceção deixa de valer e o documento volta a ser considerado como faltante na consolidação da regra.</mark>
+<mark style="color:orange;">Atingida a “Data fim do afastamento”, a exceção deixa de valer e o documento volta a ser considerado como faltante na consolidação da regra.</mark>&#x20;
 {% endhint %}
 
 ***
@@ -432,7 +432,7 @@ No **Menu > Auditoria > Regra de Auditoria**, selecione o cliente e depois a reg
 
 Sempre que encontrados dados para consolidar, será apresentada a mensagem:
 
-<figure><img src="../.gitbook/assets/image (187) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (188).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Caso não sejam encontrados dados para consolida na regra selecionada, será apresentada a mensagem de erro na tela:
 
