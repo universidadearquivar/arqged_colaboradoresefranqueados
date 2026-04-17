@@ -58,6 +58,10 @@ Trata-se de uma alteração realizada por um período determinado de tempo, como
 
 5\. Informe o período da substituição e clique em “Ativar”.
 
+{% hint style="info" %}
+<mark style="color:blue;">É possível alterar ou excluir o período de substituição até um dia antes da data inicial definida. Suponhamos que a substituição tem o período de 20/04 a 30/04. Até 19/04 é possível realizar a alteração ou exclusão da data. Após iniciado o período da substituição, não é</mark>
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/sub2.png" alt=""><figcaption></figcaption></figure>
 
 ***
