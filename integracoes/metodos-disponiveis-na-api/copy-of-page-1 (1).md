@@ -1,6 +1,6 @@
-# ◼️ 8. Nota Fiscal
+# ◼️ 7. Nota Fiscal
 
-## 8.1.POST Cadastrar nota fiscal como documento: não usar este método. Usar o método POST Documento <a href="#id-7.1.post-api-notafiscal-importanotafiscal" id="id-7.1.post-api-notafiscal-importanotafiscal"></a>
+## 7.1.POST Cadastrar nota fiscal como documento: não usar este método. Usar o método POST Documento <a href="#id-7.1.post-api-notafiscal-importanotafiscal" id="id-7.1.post-api-notafiscal-importanotafiscal"></a>
 
 ### URL <a href="#entrada" id="entrada"></a>
 

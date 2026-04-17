@@ -1,11 +1,15 @@
+---
+hidden: true
+---
+
 # 📋 Lista
 
-O objetivo do menu Lista é criar listas de pessoas ou de empresas dentro do sistema para posteriormente associar campos de formulários a essas listas, facilitando a indexação dentro do sistema. &#x20;
+O objetivo do menu Lista é criar listas de pessoas ou de empresas dentro do sistema para posteriormente associar campos de formulários a essas listas, facilitando a indexação dentro do sistema.
 
-Ao se criar uma lista associa-se a ela uma série de campos. Na criação da árvore documental pode-se determinar que em um tipo documental será utilizada uma lista e todas as pessoas ou empresas que estejam nessa lista terão os campos automaticamente preenchidos nos formulários dos fluxos de trabalho. &#x20;
+Ao se criar uma lista associa-se a ela uma série de campos. Na criação da árvore documental pode-se determinar que em um tipo documental será utilizada uma lista e todas as pessoas ou empresas que estejam nessa lista terão os campos automaticamente preenchidos nos formulários dos fluxos de trabalho.
 
 {% hint style="info" %}
-<mark style="color:blue;">Em uma árvore documental de uma empresa, existe o departamento de RH e o tipo documental Folha de Ponto. A Folha de Ponto é composta pela lista “Funcionários”.</mark> &#x20;
+<mark style="color:blue;">Em uma árvore documental de uma empresa, existe o departamento de RH e o tipo documental Folha de Ponto. A Folha de Ponto é composta pela lista “Funcionários”.</mark>
 
 <mark style="color:blue;">A lista “Funcionários” possui os campos “Matrícula”, “Nome do Funcionário” e “Cargo”. Isso significa que ao preencher durante um fluxo de trabalho, ao preencher o formulário de uma folha de ponto será necessário informar apenas um dos campos da lista “Funcionários”. Ao inserir a matrícula, por exemplo, os outros dois campos serão preenchidos automaticamente com o nome e o cargo do funcionário proprietário da matrícula informada.</mark>
 {% endhint %}
@@ -14,11 +18,10 @@ Ao se criar uma lista associa-se a ela uma série de campos. Na criação da ár
 <mark style="color:orange;">**Na lista devem ser cadastrados campos que não variam, ou seja, que não vão ser alterados independente do documento, como data de nascimento, nome, matrícula, CNPJ, admissão, demissão etc. Campos variáveis devem ser criados como customizados.**</mark>
 {% endhint %}
 
-Existem três tipos de lista no sistema: &#x20;
+Existem dois tipos de lista no sistema:
 
-* **Consolidação:** A lista de Consolidação permite a inclusão de informações durante a indexação, ou seja, se no momento de cadastrar um documento composto por uma lista eu informar um dado de pessoa ou empresa ainda não informado anteriormente, o sistema permitirá que eu insira os dados manualmente naquele momento. A partir daí, nas próximas vezes que utilizar um documento com essa mesma lista, ele extrairá as informações automaticamente. A lista de Consolidação é utilizada para auditoria dentro do sistema &#x20;
-* **Auto Complete:** Na lista Auto Complete só é permitido incluir informações antes da indexação, como itens de lista. A lista de Auto Complete não pode ser utilizada para auditoria. &#x20;
-* **Provisória:** A lista provisória  tem o objetivo de facilitar o processo de indexação, enviando para o sistema dados do próprio documento, como por exemplo, dados de indexação de uma nota fiscal: Na lista provisória são informados **todos** os dados da nota, esses dados devem ser utilizados como uma pré-indexação, ou seja, são enviados para o banco e ficam aguardando a entrada do documento que irá utilizar essas informações no registro criado na indexação. Para estes casos, quando inserida a informação chave na indexação, **todos** os demais dados do documento serão preenchidos de forma automática, vindos da lista provisória, o que não ocorre geralmente nos outros tipos de lista que mantem campos de informações específicas do documento com preenchimento que precisa ser realizado de forma manual pelo operador/indexador.
+* **Consolidação:** A lista de Consolidação permite a inclusão de informações durante a indexação, ou seja, se no momento de cadastrar um documento composto por uma lista eu informar um dado de pessoa ou empresa ainda não informado anteriormente, o sistema permitirá que eu insira os dados manualmente naquele momento. A partir daí, nas próximas vezes que utilizar um documento com essa mesma lista, ele extrairá as informações automaticamente. A lista de Consolidação é utilizada para auditoria dentro do sistema
+* **Auto Complete:** Na lista Auto Complete só é permitido incluir informações antes da indexação, como itens de lista. A lista de Auto Complete não pode ser utilizada para auditoria.
 
 O menu Lista é composto pelos seguintes submenus:
 
