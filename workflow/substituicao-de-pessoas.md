@@ -34,7 +34,7 @@ A funcionalidade de Substituição de Pessoas é utilizada para substituir uma p
 
 ## Substituição Provisória
 
-Trata-se de uma alteração realizada por um período de tempo determinado, como nos casos de férias, em que há datas definidas para início e término da substituição. Ao final desse período, os novos fluxos voltam a ser direcionados ao responsável original.
+Trata-se de uma alteração realizada por um período determinado de tempo, como nos casos de férias, em que há datas definidas para início e término da substituição. Ao final desse período, os novos fluxos voltam a ser direcionados ao responsável original.
 
 1. Clique no ícone “Adicionar”.
 
