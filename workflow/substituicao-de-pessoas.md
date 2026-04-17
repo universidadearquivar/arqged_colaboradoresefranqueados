@@ -65,7 +65,7 @@ Para realizar uma substituição provisória, siga:
 5\. Informe o período da substituição e clique em “Ativar”.&#x20;
 
 {% hint style="info" %}
-<mark style="color:blue;">É possível alterar ou excluir o período de substituição até um dia antes da data inicial definida. Suponhamos que a substituição tem o período de 20/04 a 30/04. Até 19/04 é possível realizar a alteração ou exclusão da data. Após iniciado o período da substituição, não são permitidas alterações nas datas.</mark>
+<mark style="color:blue;">É possível alterar ou excluir o período de substituição até um dia antes da data inicial definida. Suponhamos que a substituição tem o período de 20/04 a 30/04. Até 19/04 é possível realizar a alteração ou exclusão da data. Após iniciado o período da substituição, só é permitida alteração na data final.</mark>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/sub2.png" alt=""><figcaption></figcaption></figure>
@@ -106,3 +106,6 @@ Para realizar uma substituição definitiva, siga:
 
 <figure><img src="../.gitbook/assets/sub3.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+<mark style="color:blue;">Caso o cliente possua mais de uma base ArqGED, as configurações de substituição de pessoas deve ser realizada individualmente em cada uma delas, pois não há compartilhamento de configurações entre bases.</mark>
+{% endhint %}
