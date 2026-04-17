@@ -36,6 +36,12 @@ A funcionalidade de Substituição de Pessoas é utilizada para substituir uma p
 
 Trata-se de uma alteração realizada por um período determinado de tempo, como nos casos de férias, em que há datas definidas para início e término da substituição. Ao final desse período, os novos fluxos voltam a ser direcionados ao responsável original.
 
+{% hint style="info" %}
+<mark style="color:blue;">Ao definir um substituto no fluxo de um usuário que seja também  chefe imediato, o usuário substituto NÃO se torna chefe imediato. Para isso, é necessário alterar  a informação nas Aba de Permissões II de</mark> [<mark style="color:blue;">Chefe Imediato.</mark>](https://manual.arquivar.com/guia-do-cliente/arqged/administracao/usuarios#aba-permissoes-ii)
+
+<p align="center"><img src="../.gitbook/assets/image.png" alt="" data-size="original"></p>
+{% endhint %}
+
 1. Clique no ícone “Adicionar”.
 
 <figure><img src="../.gitbook/assets/sub1.png" alt=""><figcaption></figcaption></figure>

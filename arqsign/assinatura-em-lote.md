@@ -24,7 +24,7 @@ Processos que exigem as configurações:
 
 ### Colunas da tela principal – Assinatura em Lote <a href="#colunas-da-tela-principal-assinatura-em-lote" id="colunas-da-tela-principal-assinatura-em-lote"></a>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Coluna Nome do Processo :** Nesta coluna é exibido o nome do processo.
 
