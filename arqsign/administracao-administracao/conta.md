@@ -2,7 +2,7 @@
 
 No menu Conta encontram-se as informações sobre a conta do usuário.
 
-<figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252F3wrvO0ZtBENqzViONs62%252Fimage.png%3Falt%3Dmedia%26token%3D3bb24934-b8c7-4a31-b60c-9130f26f93a5&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=8a35dc1d&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conta (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -12,7 +12,7 @@ Na aba Dados Fiscais são apresentadas as informações ficais e financeiras do 
 
 Caso a conta do usuário seja de um plano gratuito, as informações estarão em branco, mas poderão ser editadas clicando-se no botão “Editar”.
 
-<figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252F0LgmpVFumOIEd5M9Xrr3%252Fimage.png%3Falt%3Dmedia%26token%3De4855700-16bb-4281-970a-72da5d355fc5&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=aee92a53&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conta 1.png" alt=""><figcaption></figcaption></figure>
 
 Nesta aba são apresentadas as seguintes informações do usuário:
 
@@ -32,7 +32,7 @@ Nesta aba são apresentadas as seguintes informações do usuário:
 * **Estado:** Estado do usuário ou empresa.
 * **Cidade:** Cidade do usuário ou empresa.
 
-<figure><img src="https://manual.arquivar.com/manual-arqsign/~gitbook/image?url=https%3A%2F%2F2201914335-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNkvKZtdmOiilgqExqFNO%252Fuploads%252FAJGbRmDckU5ShN7A2ax2%252Fimage.png%3Falt%3Dmedia%26token%3Daecade5f-2713-474d-9293-633b9b1881df&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=ebba062e&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cona 3.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
