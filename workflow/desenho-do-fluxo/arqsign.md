@@ -72,7 +72,7 @@ Campo para seleção do responsável pelo processo de assinaturas.
 {% hint style="info" %}
 <mark style="color:blue;">O responsável selecionado aqui será o mesmo exibido nas notificações enviadas pela ArqSign. Portanto, caso seja necessário que as notificações sejam identificadas com o nome do cliente, é preciso selecionar, neste momento, o usuário criado com os dados da empresa.</mark>
 
-<p align="center"><img src="../../.gitbook/assets/image (1).png" alt=""></p>
+<p align="center"><img src="../../.gitbook/assets/image (1) (1).png" alt=""></p>
 {% endhint %}
 
 **4. Nome do Processo** _(obrigatório)_\
@@ -494,7 +494,7 @@ A aba **Código de Segurança** estará sempre visível para signatários config
 
 Essa aba permite configurar o envio de um **código de segurança adicional**, que será solicitado ao signatário no momento da assinatura do documento.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Campos disponíveis
 

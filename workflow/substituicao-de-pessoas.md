@@ -43,7 +43,7 @@ Trata-se de uma alteração realizada por um período determinado de tempo, como
 
 <mark style="color:blue;">•</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Associação com Chefe Imediato:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Ao definir um substituto no fluxo de um usuário que seja também  chefe imediato, o usuário substituto</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**NÃO**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">se torna chefe imediato. Para isso, é necessário alterar  a informação nas Aba de Permissões II de</mark> [<mark style="color:blue;">Chefe Imediato.</mark>](https://manual.arquivar.com/guia-do-cliente/arqged/administracao/usuarios#aba-permissoes-ii)&#x20;
 
-<p align="center"><img src="../.gitbook/assets/image.png" alt="" data-size="original"></p>
+<p align="center"><img src="../.gitbook/assets/image (1).png" alt="" data-size="original"></p>
 {% endhint %}
 
 Para realizar uma substituição provisória, siga:
