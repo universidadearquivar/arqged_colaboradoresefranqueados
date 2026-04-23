@@ -62,6 +62,10 @@ O status de um nível de armazenamento é “Livre” por padrão, ou seja, pode
 
 Caso seja necessário é possível bloquear um local de armazenamento selecionando o status “Bloqueado”. O bloqueio só pode ocorrem se o nível selecionado for o último nível de armazenamento.&#x20;
 
+{% hint style="info" %}
+**Status Bloqueado**: Deve ser utilizado quando a posição tiver um impedimento físico de uso, como por exemplo, colunas, hidrantes, túneis e et&#x63;**.**
+{% endhint %}
+
 O status “Livre/Bloqueado” serve para sinalizar quando um nível intermediário possui tanto locais livres quanto bloqueados.&#x20;
 
 {% hint style="info" %}
