@@ -78,6 +78,8 @@ O status “Livre/Bloqueado” serve para sinalizar quando um nível intermediá
 
 Na tela inicial de Endereço do Cliente, é exibida a opção de baixar a listagem dos Endereços Livres e Bloqueados, esse relatório serve para auxiliar na gestão do espaço de armazenamento do cliente.
 
+<figure><img src="../.gitbook/assets/image (391).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
 {% hint style="warning" %}
 Para usar o relatório é importante o entendimento de:
 
@@ -93,6 +95,3 @@ Outra definição importante, porém não contemplada nesse relatório é:
 
 **• Endereços Reservados:** Trata-se de espaços reservados para endereçamentos específicos de algum client&#x65;**.**
 {% endhint %}
-
-<figure><img src="../.gitbook/assets/image (391).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
