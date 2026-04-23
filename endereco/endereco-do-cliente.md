@@ -83,7 +83,9 @@ Para usar o relatório é importante o entendimento:
 
 • **Endereços Livres:** Trata-se dos locais ainda disponíveis para alocação de caixas.
 
-• [**Endereços Bloqueados**](https://manual.arquivar.com/guia-do-cliente/arqged/endereco/endereco-do-cliente#aba-edicao)**:** Trata-se de posições que não podem ser ocupadas por algum motivo físico, como por exemplo, colunas, hidrantes, tuneis e et&#x63;**.**
+• **Endereços Bloqueados:** Trata-se de posições que não podem ser ocupadas por algum motivo físico, como por exemplo, colunas, hidrantes, tuneis e et&#x63;**.**
+
+**O relatório contempla somente os endereços disponíveis para uso ou bloqueados pelo usuário. Não são exibidos neste relatório os endereços já utilizados.**
 
 Outra definição importante, porém não contemplada nesse relatório é:
 
