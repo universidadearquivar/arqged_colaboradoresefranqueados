@@ -46,7 +46,7 @@ Por padrão, a pasta de destino da instalação sempre será C:\Program Files (x
 
 <figure><img src="../../.gitbook/assets/app02.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-Para instalar o Servidor do ArqIndex o usuário que utilizar o sistema (usuário do Windows), precisa ter permissão de leitura e escrita nos diretórios:
+Para instalar o Servidor do ArqIndex o usuário que utilizar o sistema (usuário do Windows), precisa ter permissão de **Controle Total** nos diretórios:
 
 • ArqIndex( C:)
 
@@ -55,6 +55,8 @@ Para instalar o Servidor do ArqIndex o usuário que utilizar o sistema (usuário
 • Processo
 
 • Exportação
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="danger" %}
 <mark style="color:red;">Os aplicativos da Arquivar Addin / ArqIndex / ArqClient podem apresentar erros durante o uso, por falta de pacotes específicos no desktop.</mark>
