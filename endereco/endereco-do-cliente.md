@@ -79,13 +79,13 @@ O status “Livre/Bloqueado” serve para sinalizar quando um nível intermediá
 Na tela inicial de Endereço do Cliente, é exibida a opção de baixar a listagem dos Endereços Livres e Bloqueados, esse relatório serve para auxiliar na gestão do espaço de armazenamento do cliente.
 
 {% hint style="warning" %}
-Para usar o relatório é importante o entendimento:
+Para usar o relatório é importante o entendimento de:
 
 • **Endereços Livres:** Trata-se dos locais ainda disponíveis para alocação de caixas.
 
 • **Endereços Bloqueados:** Trata-se de posições que não podem ser ocupadas por algum motivo físico, como por exemplo, colunas, hidrantes, tuneis e et&#x63;**.**
 
-**O relatório contempla somente os endereços disponíveis para uso (posições com ícones de caixa verdes) ou bloqueados pelo usuário. Não são exibidos neste relatório os endereços já utilizados (posições com ícones de caixa vermelhas).**
+O relatório contempla somente os endereços disponíveis para uso (posições com ícone de caixa verde) ou bloqueados pelo usuário. Não são exibidos neste relatório os endereços já utilizados (posições com ícone de caixa vermelha).
 
 <p align="center"><img src="../.gitbook/assets/image.png" alt=""></p>
 
