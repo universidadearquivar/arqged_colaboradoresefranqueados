@@ -83,7 +83,7 @@ Para usar o relatório é importante o entendimento de:
 
 • **Endereços Livres:** Trata-se dos locais ainda disponíveis para alocação de caixas.
 
-• **Endereços Bloqueados:** Trata-se de posições que não podem ser ocupadas por algum motivo físico, como por exemplo, colunas, hidrantes, tuneis e et&#x63;**.**
+• **Endereços Bloqueados:** Trata-se de posições que não podem ser ocupadas por algum motivo físico, como por exemplo, colunas, hidrantes, túneis e et&#x63;**.**
 
 O relatório contempla somente os endereços disponíveis para uso (posições com ícone de caixa verde) ou bloqueados pelo usuário. Não são exibidos neste relatório os endereços já utilizados (posições com ícone de caixa vermelha).
 
