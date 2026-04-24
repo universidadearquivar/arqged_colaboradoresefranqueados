@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🟩 Contratos
 
 {% @supademo/embed demoId="cmbfev8et3x7rsn1r6mzou3cj" url="https://app.supademo.com/demo/cmbfev8et3x7rsn1r6mzou3cj" %}
