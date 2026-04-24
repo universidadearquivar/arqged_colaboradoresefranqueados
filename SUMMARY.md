@@ -118,7 +118,7 @@
       * [🟩 Histórico de alterações da API](integracoes/historico-de-alteracoes-da-api.md)
     * [🔌 SSO](integracoes/sso.md)
       * [🛠️ Implantação SSO](integracoes/sso/implantacao-sso.md)
-  * [Novidades do ArqGED](arqged/novidades-do-arqged.md)
+  * [💡 Novidades do ArqGED](arqged/novidades-do-arqged.md)
   * [Novidades do ArqGED - Histórico](arqged/novidades-do-arqged-historico.md)
 * [🟣 ArqSign](<README (2).md>)
   * [💻 Visão Geral da Plataforma 2.23.0](arqsign/visao-geral-da-plataforma-2.23.0.md)

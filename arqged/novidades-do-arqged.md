@@ -1,8 +1,4 @@
----
-icon: lightbulb-exclamation-on
----
-
-# Novidades do ArqGED
+# 💡 Novidades do ArqGED
 
 **Workflow - Dezembro/2025**
 
