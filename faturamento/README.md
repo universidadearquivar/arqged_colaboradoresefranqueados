@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 💵 Faturamento
 
 No menu Faturamento são apresentadas informações referentes ao faturamento das unidades Arquivar. O menu Faturamento é composto pelos seguintes submenus:
