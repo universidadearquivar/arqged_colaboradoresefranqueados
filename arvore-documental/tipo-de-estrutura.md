@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🟩 Tipo de Estrutura
 
 {% @supademo/embed demoId="cmah0v82k1i3f10snlc64y9xc" url="https://app.supademo.com/demo/cmah0v82k1i3f10snlc64y9xc" %}

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🟩 Estrutura do Cliente
 
 {% @supademo/embed demoId="cmah6y38w1nxn10snx7y3s240" url="https://app.supademo.com/demo/cmah6y38w1nxn10snx7y3s240" %}

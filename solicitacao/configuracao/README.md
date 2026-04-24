@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🟩 Configuração
 
 Neste menu é realizada a configuração do Fluxo de Solicitações e Devoluções do cliente, ou seja, aqui são definidos os processos que serão realizados no sistema para atendimento das demandas do cliente.

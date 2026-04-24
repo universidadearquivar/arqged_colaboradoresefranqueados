@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🟩 Dados Cadastrais
 
 {% @supademo/embed demoId="cmbf5eykj3jjzsn1rc135q9mk" url="https://app.supademo.com/demo/cmbf5eykj3jjzsn1rc135q9mk" %}

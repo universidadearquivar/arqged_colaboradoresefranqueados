@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🟩 API
 
 {% embed url="https://app.supademo.com/demo/cmav5uwz8514vho3rlzrxf3cg" %}
