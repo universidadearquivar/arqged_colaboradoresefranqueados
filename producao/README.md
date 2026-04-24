@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # 🏭 Produção
 
 O menu Produção refere-se ao módulo ArqIndex do ArqGED. Este menu refere-se à configuração do processo de indexação dos documentos, como controle de filas de trabalho, configuração das etapas de indexação e possíveis correções de documentos digitalizados.
