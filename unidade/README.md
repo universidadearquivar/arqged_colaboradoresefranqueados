@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🏛️ Unidade
 
 No menu Unidade são exibidas todas as unidades franqueadas da Arquivar. O objetivo deste menu é exibir o detalhamento dos dados cadastrais de cada unidade franqueada. O menu Unidade é composto pelos seguintes submenus:
