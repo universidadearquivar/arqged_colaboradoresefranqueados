@@ -82,31 +82,23 @@ Selecione o cliente que deseja definir as permissões para que a Árvore Documen
 
 Selecione o perfil que deseja atribuir clicando e arrastando para o nó de Árvore desejado. Para selecionar vários perfis, mantenha o "Ctrl" pressionado e clique nos perfis desejados, arraste os perfis para a Árvore ou clique na opção "Atribuir os perfis selecionados para os níveis de Árvore".
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (393).png" alt=""><figcaption></figcaption></figure>
 
 Clicando no botão de atribuição, será apresentada uma nova tela para indicar em qual nível da Árvore o perfil deve ser aplicado, selecione o desejado e clique "Salvar".
-
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="color:orange;">Se o usuário não for do tipo Master, é possível aplicar permissões diferentes para diferentes nós da Árvore. Se o usuário for do tipo Master, ele terá acesso a toda a Árvore Documental, de acordo com o perfil de acesso definido, por exemplo, se ele tiver perfil de "Edição", ele poderá editar em todos os nós da árvore.</mark>
 {% endhint %}
 
-Os perfis são aplicados considerando as atribuições do nível mais alto, então se for arrastado o perfil "pai", todas as permissões "filhas" serão aplicadas ao nó da árvore.
+Os perfis são aplicados de acordo com as atribuições do nível mais alto, então se for arrastado o perfil "pai", todas as permissões "filhas" serão aplicadas ao nó da árvore.
 
-Considerando o exemplo abaixo, ao selecionar o "pai" - Gestão de Documentos para um nó da árvore, automaticamente terá habilitada as permissões filhas:
+Considerando a imagem abaixo, ao selecionar o "pai" 005 Gestão ArqIndex para um nó de árvore, automaticamente serão habilitadas as permissões filhas: 01 Indexadores - ArqIndex, 02 Configurações - ArqIndex e 03 Correção do XML - ArqIndex.
 
-\- Gestão de Documentos Eletrônicos
+<figure><img src="../.gitbook/assets/image (394).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-\- Eletrônico - Cadastrar, Alterar e Visualizar
+Caso a restrição precise ser em um nível "filho", é necessário selecionar as opções "filhas" que devem ser habilitadas no momento de arrastar para a árvore, desta forma será feita a restrição das permissões dos níveis superiores e dos "irmãos". Observe a demonstração:
 
-\- Eletrônico - Visualizar
-
-\- Eletrônico - Visualizar (não altera)
-
-Caso a restrição precise ser em um nível "filho", é necessário selecionar somente este perfil no momento de arrastar para a árvore, desta forma não serão aplicadas permissões dos níveis superiores ou do nível "pai".
-
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (396).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Como regra, o sistema permite ao perfil que cria novos usuários, definir acessos iguais ao seu ou inferiores, ele também só consegue criar acessos para os mesmos níveis de árvore que ele visualiza.
 
