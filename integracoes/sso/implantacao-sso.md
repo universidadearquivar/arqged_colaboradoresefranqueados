@@ -4,6 +4,20 @@
 
 Antes de ir para os passos de configuração, o cliente **precisa ter um IdP que funcione com o protocolo SAML 2.0 de autenticação.**
 
+Observe o exemplo utilizando o Microsoft Entra ID:
+
+1. Acesse o Microsoft Entra ID.
+
+<figure><img src="../../.gitbook/assets/image (397).png" alt=""><figcaption></figcaption></figure>
+
+2. Clique em "Aplicativos Empresariais".
+
+<figure><img src="../../.gitbook/assets/image (398).png" alt=""><figcaption></figcaption></figure>
+
+3. Pesquise pelo SSO configurado e acesse a tela de configuração.
+
+<figure><img src="../../.gitbook/assets/image (399).png" alt=""><figcaption></figcaption></figure>
+
 ### Passos para se configurar o SSO <a href="#passos-para-se-configurar-o-sso" id="passos-para-se-configurar-o-sso"></a>
 
 O cliente precisa passar pelos tópicos abaixo para iniciar o processo de configuração do SSO:
