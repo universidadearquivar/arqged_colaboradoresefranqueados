@@ -18,6 +18,16 @@ Observe o exemplo utilizando o Microsoft Entra ID:
 
 <figure><img src="../../.gitbook/assets/image (399).png" alt=""><figcaption></figcaption></figure>
 
+4. Clique em "Login único"
+
+<figure><img src="../../.gitbook/assets/image (400).png" alt=""><figcaption></figcaption></figure>
+
+5. Em configuração Básica de SAML: Confirme o preenchimento dos campos.
+
+• Identificador (ID da Entidade) : [https://ssosp.arquivar.com](https://ssosp.arquivar.com)
+
+• URL de Resposta (URLdo Serviço do Consumidor de Declaração): [https://arqged.arquivar.com/Account/LoginViaSSO](https://arqged.arquivar.com/Account/LoginViaSSO)
+
 ### Passos para se configurar o SSO <a href="#passos-para-se-configurar-o-sso" id="passos-para-se-configurar-o-sso"></a>
 
 O cliente precisa passar pelos tópicos abaixo para iniciar o processo de configuração do SSO:
