@@ -8,25 +8,31 @@ Observe o exemplo utilizando o Microsoft Entra ID:
 
 1. Acesse o Microsoft Entra ID.
 
-<figure><img src="../../.gitbook/assets/image (397).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (397).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
 2. Clique em "Aplicativos Empresariais".
 
-<figure><img src="../../.gitbook/assets/image (398).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (398).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
 3. Pesquise pelo SSO configurado e acesse a tela de configuração.
 
-<figure><img src="../../.gitbook/assets/image (399).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (399).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
 4. Clique em "Login único"
 
-<figure><img src="../../.gitbook/assets/image (400).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (400).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
-5. Em configuração Básica de SAML: Confirme o preenchimento dos campos.
+5. Na opção 1 - Configuração Básica de SAML: Confirme o preenchimento dos campos.
 
 • Identificador (ID da Entidade) : [https://ssosp.arquivar.com](https://ssosp.arquivar.com)
 
-• URL de Resposta (URLdo Serviço do Consumidor de Declaração): [https://arqged.arquivar.com/Account/LoginViaSSO](https://arqged.arquivar.com/Account/LoginViaSSO)
+• URL de Resposta (URL do Serviço do Consumidor de Declaração): [https://arqged.arquivar.com/Account/LoginViaSSO](https://arqged.arquivar.com/Account/LoginViaSSO)
+
+<figure><img src="../../.gitbook/assets/image (401).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
+
+06\. Na opção 3 - Certificado SAML, realize o download  do arquivo “XML de Metadados de Federação” e envie para a Arquivar.
+
+<figure><img src="../../.gitbook/assets/image (402).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
 ### Passos para se configurar o SSO <a href="#passos-para-se-configurar-o-sso" id="passos-para-se-configurar-o-sso"></a>
 
