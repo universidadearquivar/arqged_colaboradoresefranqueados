@@ -6,6 +6,8 @@
 
 Com foco em **eficiência operacional e experiência do usuário**, a ArqSign permite a criação, automatização, envio, assinatura, armazenamento e gerenciamento de documentos digitais com validade jurídica e praticidade total.
 
+<figure><img src="../.gitbook/assets/image (403).png" alt=""><figcaption></figcaption></figure>
+
 A plataforma se destaca por sua **flexibilidade**, oferecendo **planos sob medida, API aberta, integrações nativas com diversos softwares**, e um time de suporte técnico altamente preparado.
 
 É possível assinar usando **certificado digital próprio ou não com 100% de validade jurídica**, enviar documentos por e-mail ou WhatsApp, configurar **processos automatizados** e controlar todo o ciclo de vida do documento em um só lugar.
