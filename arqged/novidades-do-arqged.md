@@ -1,5 +1,25 @@
 # 💡 Novidades do ArqGED
 
+**Campo CNPJ - Maio/2026**
+
+<details>
+
+<summary>11/05 - Campo CNPJ Alfanumérico</summary>
+
+Em atendimento a **Instrução Normativa RFB nº 2.229/2024**, que estabelece a adoção do novo formato do CNPJ em modelo alfanumérico (com letras e números), **foram ajustados todos os campos que utilizam essa informação no ArqGED:**
+
+* Cliente > Dados Cadastrais
+* Documento > Cadastrar
+* Documento > Localização Simples
+* Documento > Localização Avançada
+* Campos de Lista (Consolidação / Auto-complete / Provisória)
+* Workflow
+* API
+
+A mudança será aplicada de forma progressiva a partir de julho de 2026 e se aplica apenas para novos cadastros de CNPJ, sem impacto para os números já existentes, portanto não teremos perda nos registros já criados no **ArqGED.**
+
+</details>
+
 **Workflow - Dezembro/2025**
 
 <details>
