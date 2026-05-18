@@ -195,9 +195,9 @@ Clique no ícone “Iniciar”. As páginas serão digitalizadas e apresentadas 
 <mark style="color:orange;">**Se houver sido definido um índice de documento, será preciso preencher o campo solicitado a cada documento do lote que for digitalizado.**</mark>
 {% endhint %}
 
-Quando concluída a digitalização, clique no ícone “Finalizar”.
+Quando concluída a digitalização, clique no ícone “Gerar Lote”.
 
-<figure><img src="../../.gitbook/assets/image (405).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (406).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Ao acessar a pasta “Entrada” no local C:\Program Files (x86)\Arquivar\ArqIndex será possível verificar que foram criados dois arquivos: o primeiro é a pasta nomeada com o Id da unidade. Dentro dessa pasta poderão ser encontradas subpastas com os Ids dos clientes que estiverem sendo indexados. Dentro dessas subpastas serão geradas outras pastas que abrigarão as imagens digitalizadas em formato PDF.
 
