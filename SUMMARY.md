@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🔒 Página inicial](README.md)
+* [🟢 Página inicial](README.md)
 * [🏛️ Unidade](unidade/README.md)
   * [🟩 Dados Cadastrais](unidade/dados-cadastrais.md)
   * [🟩 Endereços](unidade/enderecos.md)

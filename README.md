@@ -1,4 +1,4 @@
-# 🔒 Página inicial
+# 🟢 Página inicial
 
 {% embed url="https://app.heygen.com/videos/da6ffe6e098849e29676a1a12e419098" %}
 
