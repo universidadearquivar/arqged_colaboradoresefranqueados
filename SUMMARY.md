@@ -105,7 +105,7 @@
   * [⚙️ API](integracoes/api/README.md)
     * [🟩 Limites de Requisições da API](integracoes/limites-de-requisicoes-da-api.md)
     * [🟩 Métodos disponíveis na API](integracoes/metodos-disponiveis-na-api.md)
-      * [◼️ 1. Autenticação](integracoes/metodos-disponiveis-na-api/1.-autenticacao.md)
+      * [◻️ 1. Autenticação](integracoes/metodos-disponiveis-na-api/1.-autenticacao.md)
       * [◼️ 2. Arquivo](integracoes/metodos-disponiveis-na-api/2.-arquivo.md)
       * [◼️ 3. Billing](integracoes/metodos-disponiveis-na-api/3.-billing.md)
       * [◼️ 4. Documento](integracoes/metodos-disponiveis-na-api/4.-documento.md)
