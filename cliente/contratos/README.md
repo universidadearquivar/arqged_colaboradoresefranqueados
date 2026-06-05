@@ -1,8 +1,12 @@
+---
+hidden: true
+---
+
 # 🟩 Contratos
 
-{% embed url="https://app.supademo.com/demo/cmbfev8et3x7rsn1r6mzou3cj" %}
+{% @supademo/embed demoId="cmbfev8et3x7rsn1r6mzou3cj" url="https://app.supademo.com/demo/cmbfev8et3x7rsn1r6mzou3cj" %}
 
-Na tela Contratos são exibidas as informações dos contratos celebrados entre cliente e unidade selecionados no campo “Unidade – Cliente”.&#x20;
+Na tela Contratos são exibidas as informações dos contratos celebrados entre cliente e unidade selecionados no campo “Unidade – Cliente”.
 
 <figure><img src="../../.gitbook/assets/clientes6.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -14,11 +18,11 @@ Na tela Contratos são exibidas as informações dos contratos celebrados entre 
 
 **Unidade - Cliente:** Neste campo é exibida a empresa ou empresas às quais o usuário logado pertence ou tem acesso. No caso de franqueados serão exibidos aqui todos os clientes da Unidade.
 
-**Ícone Adicionar:** Utilizado para adicionar um novo contrato. &#x20;
+**Ícone Adicionar:** Utilizado para adicionar um novo contrato.
 
-**Ícone Editar:** Utilizado para editar o contrato selecionado. &#x20;
+**Ícone Editar:** Utilizado para editar o contrato selecionado.
 
-**Ícone Visualizar:** Utilizado para visualizar detalhes do contrato selecionado. &#x20;
+**Ícone Visualizar:** Utilizado para visualizar detalhes do contrato selecionado.
 
 **Ícone Excluir:** Utilizado para excluir o contrato selecionado.
 

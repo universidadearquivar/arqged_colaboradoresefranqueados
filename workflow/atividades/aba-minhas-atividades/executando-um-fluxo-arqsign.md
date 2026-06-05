@@ -16,7 +16,11 @@ Durante esse período, os usuários podem **monitorar o andamento do processo de
 * **Reenviar o processo**, caso o link de assinatura tenha expirado antes da conclusão;
 * **Editar signatários** que ainda não assinaram.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+{% hint style="info" %}
+<mark style="color:blue;">Após a conclusão da assinatura do documento, não é possível incluir novos signatários ao fluxo de assinatura. Caso seja necessária a inclusão de novos signatários, um novo fluxo de assinatura deve ser iniciado no sistema.</mark>
+{% endhint %}
+
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 #### Interação com Token e Signatários
 
@@ -66,7 +70,7 @@ Se a opção **“Obrigar comentário antes desta ação”** estiver habilitada
 
 Ao clicar nesta ação, o sistema exibirá a **modal “Editar e Reenviar Processo”**, onde será possível ajustar os dados dos signatários que ainda não assinaram e reenviar o processo à plataforma ArqSign.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ### Ícone: Anexos
 
@@ -86,15 +90,15 @@ O sistema **permite selecionar até 25 arquivos** para envio ao ArqSign, somando
 * Modelo do fluxo.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 #### Etapas do tipo ArqSign
 
-<figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 #### Documentos Assinados
 
-<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ### Ícone: Processo ArqSign
 
@@ -113,11 +117,11 @@ Essa modal facilita o acompanhamento técnico do processo e é fundamental para 
 
 #### **Processo de assinaturas em andamento**
 
-<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 #### Processo de assinaturas concluído
 
-<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ## Recebimento dos Dados via Webhook ArqSign
 
@@ -157,15 +161,15 @@ Para isso, o usuário deve acionar o **ícone de assinatura** localizado ao lado
 
 Essa funcionalidade é essencial para fins de auditoria, comprovação legal e rastreabilidade dos documentos assinados digitalmente via ArqSign.
 
-### Workflow > Atividade > Anexos  Visualizar dados de assinaturas
+### Workflow > Atividade > Anexos Visualizar dados de assinaturas
 
-<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ### Visualizar documento > Aba Arquivos
 
-<figure><img src="../../../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-### &#x20;Baixar Registro de Assinaturas
+### Baixar Registro de Assinaturas
 
 Na **modal de dados de assinaturas**, o usuário tem a opção de realizar o download do certificado com o registro de assinaturas do documento.
 

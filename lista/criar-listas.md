@@ -1,18 +1,18 @@
 # 🟩 Criar Listas
 
-Neste menu são criadas as listas do cliente selecionado no campo “Cliente”. &#x20;
+Neste menu são criadas as listas do cliente selecionado no campo “Cliente”.
 
 <figure><img src="../.gitbook/assets/lista01.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 ***
 
-## Criar Listas - Tela principal&#x20;
+## Criar Listas - Tela principal
 
 **Ícone Adicionar:** Utilizado para cadastrar uma nova lista.
 
 **Ícone Editar:** Utilizado para editar as informações da lista selecionada.
 
-**Ícone Visualizar:** Utilizado para apresentar as informações da lista selecionada.&#x20;
+**Ícone Visualizar:** Utilizado para apresentar as informações da lista selecionada.
 
 **Ícone Excluir:** Utilizado para excluir a lista selecionada.
 
@@ -38,10 +38,10 @@ Clique no ícone “Adicionar”.
 
 **Nome da Lista:** Informe o um nome para a lista que está sendo criada.
 
-**Tipo de lista:** Selecione o tipo de lista, que pode ser “**Auto Complete**” ou “**Consolidação**”. Quando é necessário que o sistema faça a conferência de algum item da lista, ou seja, se é necessária auditoria, deve ser escolhida a opção “Consolidação”. A lista de Auto Complete não pode ser utilizada para auditoria.&#x20;
+Tipo de lista: Selecione o tipo de lista, que pode ser “Auto Complete” ou “Consolidação”. Quando é necessário que o sistema faça a conferência de algum item da lista, ou seja, se é necessária auditoria, deve ser escolhida a opção “Consolidação”. A lista de Auto Complete não pode ser utilizada para auditoria.
 
 {% hint style="info" %}
-<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Em uma lista de funcionários é necessário que o sistema faça constantemente a conferência para verificar se não há documentos obrigatórios faltantes. Neste caso, a lista de funcionários deve ser do tipo “Consolidação”.</mark>
+<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;">Em uma lista de funcionários é necessário que o sistema faça constantemente a conferência para verificar se não há documentos obrigatórios faltantes. Neste caso, a lista de funcionários deve ser do tipo “Consolidação”.</mark>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/lista05.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
@@ -53,10 +53,10 @@ Clique no ícone “Adicionar”.
 **Esta lista é uma lista de um item da lista de:** Este campo só será habilitado se a lista for do tipo “Consolidação”. Neste caso, a lista que está sendo criada poderá ser uma sub lista de outra (lista pai), que deve ser selecionada neste campo.
 
 {% hint style="info" %}
-<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Na lista “Funcionários” existem os campos Matrícula (campo chave), Nome, Função, Admissão e Demissão. Para saber quando um funcionário deverá receber um recibo de férias, foi criada a lista “Férias”, que será filha da lista “Funcionários”, ou seja, utilizará o mesmo campo chave (Matrícula), além de campos específicos da lista como Início das Férias e Fim das Férias. Para saber quando deverá ser enviado um recibo de férias, será criada uma regra de auditoria baseada na lista “Férias”.</mark>
+<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;">Na lista “Funcionários” existem os campos Matrícula (campo chave), Nome, Função, Admissão e Demissão. Para saber quando um funcionário deverá receber um recibo de férias, foi criada a lista “Férias”, que será filha da lista “Funcionários”, ou seja, utilizará o mesmo campo chave (Matrícula), além de campos específicos da lista como Início das Férias e Fim das Férias. Para saber quando deverá ser enviado um recibo de férias, será criada uma regra de auditoria baseada na lista “Férias”.</mark>
 {% endhint %}
 
-**Permitir a inclusão durante a indexação:** Esta opção só ficará disponível se a lista for do tipo “Consolidação”. A lista de Consolidação permite a inclusão de informações durante a indexação, ou seja, se no momento de cadastrar um documento composto por uma lista eu informar um dado de pessoa ou empresa ainda não informado anteriormente, o sistema permitirá que eu insira os dados manualmente naquele momento. A partir daí, nas próximas vezes que utilizar um documento com essa mesma lista, ele extrairá as informações automaticamente. Na lista Auto Complete só é permitido incluir informações antes da indexação, como itens de lista. A inclusão de itens após a indexação deverá ser feita via API ou por meio de importação de dados do Excel add-in. &#x20;
+**Permitir a inclusão durante a indexação:** Esta opção só ficará disponível se a lista for do tipo “Consolidação”. A lista de Consolidação permite a inclusão de informações durante a indexação, ou seja, se no momento de cadastrar um documento composto por uma lista eu informar um dado de pessoa ou empresa ainda não informado anteriormente, o sistema permitirá que eu insira os dados manualmente naquele momento. A partir daí, nas próximas vezes que utilizar um documento com essa mesma lista, ele extrairá as informações automaticamente. Na lista Auto Complete só é permitido incluir informações antes da indexação, como itens de lista. A inclusão de itens após a indexação deverá ser feita via API ou por meio de importação de dados do Excel add-in.
 
 <figure><img src="../.gitbook/assets/lista07.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
@@ -70,7 +70,7 @@ Para cadastrar um campo clique no ícone “Editar” e informe o nome do campo 
 
 **Definição de Campo:** Selecione o formato do campo, que pode ser:
 
-* _Checkbox_: Campo em que o usuário deverá marcar uma caixa de seleção de acordo com a pergunta apresentada. &#x20;
+* _Checkbox_: Campo em que o usuário deverá marcar uma caixa de seleção de acordo com a pergunta apresentada.
 * _CNPJ_: Campo em que o usuário deverá informar um número de CNPJ válido.
 * _CNPJ/CPF_: Campo em que o usuário deverá informar um número de CNPJ ou de CPF válido.
 * _CPF_: Campo em que o usuário deverá informar um número de CPF válido.
@@ -85,10 +85,10 @@ Para cadastrar um campo clique no ícone “Editar” e informe o nome do campo 
 **Chave para duplicidade:** Informe se aquele campo poderá ser repetido ou não. Quando um campo é chave, ele não deverá permitir duplicidade. Um campo chave é utilizado para facilitar o preenchimento pelo usuário, já que ao informar um dado chave os outros campos da lista são preenchidos automaticamente.
 
 {% hint style="info" %}
-<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">O campo Matrícula é um campo chave da lista “Funcionários”. Neste caso, ao cadastrar funcionários não será permitido que dois funcionários possuam a mesma matrícula, ou seja, o campo Matrícula deverá evitar duplicidade.</mark>
+<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;">O campo Matrícula é um campo chave da lista “Funcionários”. Neste caso, ao cadastrar funcionários não será permitido que dois funcionários possuam a mesma matrícula, ou seja, o campo Matrícula deverá evitar duplicidade.</mark>
 {% endhint %}
 
-**Importação obrigatória:** Selecione se a informação será obrigatória na indexação ou não.&#x20;
+**Importação obrigatória:** Selecione se a informação será obrigatória na indexação ou não.
 
 <figure><img src="../.gitbook/assets/lista11.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
@@ -107,11 +107,11 @@ Dependendo do tipo de campo serão exibidas outras configurações:
 **Lista de valores para o campo:** Aqui deverão ser cadastrados valores que serão exibidos como opção de resposta no campo da lista. Informe o valor e clique no ícone “Adicionar”.
 
 {% hint style="info" %}
-<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">No campo “Cargo” foram cadastrados os valores Auxiliar Administrativo, Vigia, Secretário, Gerente etc.</mark>
+<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;">No campo “Cargo” foram cadastrados os valores Auxiliar Administrativo, Vigia, Secretário, Gerente etc.</mark>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/lista14.png" alt=""><figcaption></figcaption></figure>
 
-Para criar campos clique no ícone “Adicionar” e para excluir um campo cadastrado clique no ícone “Remover”. &#x20;
+Para criar campos clique no ícone “Adicionar” e para excluir um campo cadastrado clique no ícone “Remover”.
 
 <figure><img src="../.gitbook/assets/lista15.png" alt=""><figcaption></figcaption></figure>
