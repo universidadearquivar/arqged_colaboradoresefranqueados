@@ -1,88 +1,86 @@
 # 🟩 Endereço do Cliente
 
-{% embed url="https://app.supademo.com/demo/cmbawkiw21yr0sn1rl8jfu263" %}
+{% @supademo/embed demoId="cmbawkiw21yr0sn1rl8jfu263" url="https://app.supademo.com/demo/cmbawkiw21yr0sn1rl8jfu263" %}
 
-Na tela de Endereço do Cliente são mostradas todas as posições de armazenamento que o cliente possui em seu espaço físico, como salas, galpões, armários etc.&#x20;
+Na tela de Endereço do Cliente são mostradas todas as posições de armazenamento que o cliente possui em seu espaço físico, como salas, galpões, armários etc.
 
-## Endereço do Cliente – Tela inicial&#x20;
+## Endereço do Cliente – Tela inicial
 
-Na tela inicial de Endereço do Cliente são mostrados todos os clientes da unidade Arquivar do usuário logado. &#x20;
+Na tela inicial de Endereço do Cliente são mostrados todos os clientes da unidade Arquivar do usuário logado.
 
-**Ícone Editar:** Utilizado para realizar a edição e criação das posições de armazenamento do cliente selecionado. &#x20;
+**Ícone Editar:** Utilizado para realizar a edição e criação das posições de armazenamento do cliente selecionado.
 
-**Ícone Visualizar:** Utilizado para visualizar detalhes das posições de armazenamento do cliente selecionado.&#x20;
+**Ícone Visualizar:** Utilizado para visualizar detalhes das posições de armazenamento do cliente selecionado.
 
-**Coluna Nome Fantasia:** Exibe o nome fantasia do cliente.&#x20;
+**Coluna Nome Fantasia:** Exibe o nome fantasia do cliente.
 
-**Coluna Razão Social:** Exibe a razão social do cliente.&#x20;
+**Coluna Razão Social:** Exibe a razão social do cliente.
 
 {% hint style="info" %}
-<mark style="color:blue;">**NOME FANTASIA X RAZÃO SOCIAL:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">O nome fantasia de uma empresa é como ela vai ser conhecida ou reconhecida pelo público. É definido na hora da formalização, considerando o mercado e a área de atuação. Já a razão social, é o nome oficial do empreendimento no registro, usada em contratos, Nota Fiscal e documentos oficiais.</mark>&#x20;
+<mark style="color:blue;">**NOME FANTASIA X RAZÃO SOCIAL:**</mark> <mark style="color:blue;">O nome fantasia de uma empresa é como ela vai ser conhecida ou reconhecida pelo público. É definido na hora da formalização, considerando o mercado e a área de atuação. Já a razão social, é o nome oficial do empreendimento no registro, usada em contratos, Nota Fiscal e documentos oficiais.</mark>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/endereco18.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
-## Criação de Endereço do Cliente&#x20;
+## Criação de Endereço do Cliente
 
-### Aba Criação&#x20;
+### Aba Criação
 
-Na aba Criação são exibidos são exibidas todas as posições de armazenamento que o cliente possui no lado esquerdo da tela.&#x20;
+Na aba Criação são exibidas todas as posições de armazenamento que o cliente possui no lado esquerdo da tela.
 
-Para criar um espaço de armazenamento siga os passos a seguir: &#x20;
+Para criar um espaço de armazenamento siga os passos a seguir:
 
-1\.  Informe um nome para o endereço raiz e um código de cinco letras para esse endereço. É preciso também definir se será utilizado apenas o código, o código e números ou somente números para identificação do endereço que está sendo criado. O endereço raiz é o primeiro nível de armazenamento, que abrigará todos os outros níveis. Caso deseje utilizar um endereço raiz já existente, selecione-o na parte esquerda da tela e para ser direcionado para o próximo passo.&#x20;
+1\. Informe um nome para o endereço raiz e um código de cinco letras para esse endereço. É preciso também definir se será utilizado apenas o código, o código e números ou somente números para identificação do endereço que está sendo criado. O endereço raiz é o primeiro nível de armazenamento, que abrigará todos os outros níveis. Caso deseje utilizar um endereço raiz já existente, selecione-o na parte esquerda da tela e para ser direcionado para o próximo passo.
 
 {% hint style="info" %}
-<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Imagine que o cliente possui seu arquivo inteiro em uma sala de sua sede. Neste caso, o endereço raiz pode ser “SALA 01”, e os demais níveis podem ser armários, prateleiras, gavetas etc.</mark>
+<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;">Imagine que o cliente possui seu arquivo inteiro em uma sala de sua sede. Neste caso, o endereço raiz pode ser “SALA 01”, e os demais níveis podem ser armários, prateleiras, gavetas etc.</mark>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/endereco19.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-2\. Informe a quantidade de níveis de armazenamento que aquele endereço terá e se nesse endereço será determinada a posição exata de caixas e pastas e de quantidade de itens que caberão no local. Se for selecionado que não será preciso definir a posição exata das caixas nem a quantidade de itens que caberão, será preciso informar manualmente no sistema quando o local de armazenamento estiver cheio. &#x20;
+2\. Informe a quantidade de níveis de armazenamento que aquele endereço terá e se nesse endereço será determinada a posição exata de caixas e pastas e de quantidade de itens que caberão no local. Se for selecionado que não será preciso definir a posição exata das caixas nem a quantidade de itens que caberão, será preciso informar manualmente no sistema quando o local de armazenamento estiver cheio.
 
 <figure><img src="../.gitbook/assets/endereco20.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-3\. Defina os níveis de armazenamento usando códigos e números ou somente números. Os níveis de armazenamento são uma forma de dividir e organizar os locais que receberão as caixas, como armários, prateleiras, estantes, gavetas, posições etc. É preciso também informar a quantidade de posições de cada um dos níveis de armazenamento.&#x20;
+3\. Defina os níveis de armazenamento usando códigos e números ou somente números. Os níveis de armazenamento são uma forma de dividir e organizar os locais que receberão as caixas, como armários, prateleiras, estantes, gavetas, posições etc. É preciso também informar a quantidade de posições de cada um dos níveis de armazenamento.
 
 <figure><img src="../.gitbook/assets/endereco21.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-Para finalizar, clique em “Concluir”. Os locais criados serão exibidos no lado esquerdo da tela. &#x20;
+Para finalizar, clique em “Concluir”. Os locais criados serão exibidos no lado esquerdo da tela.
 
 <figure><img src="../.gitbook/assets/endereco22.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
-### Aba Edição&#x20;
+### Aba Edição
 
-Na aba Edição é possível editar o nome e o código do endereço e alterar o status dos níveis de armazenamento, se necessário.  &#x20;
+Na aba Edição é possível editar o nome e o código do endereço e alterar o status dos níveis de armazenamento, se necessário.
 
-O status de um nível de armazenamento é “Livre” por padrão, ou seja, pode receber caixas e documentos livremente. &#x20;
+O status de um nível de armazenamento é “Livre” por padrão, ou seja, pode receber caixas e documentos livremente.
 
-Caso seja necessário é possível bloquear um local de armazenamento selecionando o status “Bloqueado”. O bloqueio só pode ocorrem se o nível selecionado for o último nível de armazenamento.&#x20;
+Caso seja necessário é possível bloquear um local de armazenamento selecionando o status “Bloqueado”. O bloqueio só pode ocorrer se o nível selecionado for o último nível de armazenamento.
 
 {% hint style="info" %}
 <mark style="color:blue;">**Status Bloqueado**</mark><mark style="color:blue;">: Deve ser utilizado quando a posição tiver um impedimento físico de uso, como por exemplo, colunas, hidrantes, túneis e etc</mark><mark style="color:blue;">**.**</mark>
 {% endhint %}
 
-O status “Livre/Bloqueado” serve para sinalizar quando um nível intermediário possui tanto locais livres quanto bloqueados.&#x20;
+O status “Livre/Bloqueado” serve para sinalizar quando um nível intermediário possui tanto locais livres quanto bloqueados.
 
 {% hint style="info" %}
-<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Uma estante possui três prateleiras, sendo que uma está livre e as outras duas estão bloqueadas. Neste caso, o status da prateleira será “Livre/Bloqueado”.</mark>
+<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;">Uma estante possui três prateleiras, sendo que uma está livre e as outras duas estão bloqueadas. Neste caso, o status da prateleira será “Livre/Bloqueado”.</mark>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/endereco23.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-### Relatório de Endereços Livres e Bloqueados <a href="#relatorio-de-enderecos-livres-e-bloqueados" id="relatorio-de-enderecos-livres-e-bloqueados"></a>
+### Relatório de Endereços Livres e Bloqueados
 
 Na tela inicial de Endereço do Cliente, é exibida a opção de baixar a listagem dos Endereços Livres e Bloqueados, esse relatório serve para auxiliar na gestão do espaço de armazenamento do cliente.
 
-<figure><img src="https://manual.arquivar.com/guia-do-cliente/~gitbook/image?url=https%3A%2F%2F1023047207-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtM1xGMYoU6wC7tnUUXEo%252Fuploads%252FP2W6Lm6FkfM8kRfKUJRj%252Fimage.png%3Falt%3Dmedia%26token%3Db8f5ef32-bae0-4112-8d8e-62ae56fcb0b7&#x26;width=768&#x26;dpr=3&#x26;quality=100&#x26;sign=889b5546&#x26;sv=2" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (391).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="warning" %}
-Para usar o relatório é importante o entendimento:
-
 Para usar o relatório é importante o entendimento de:
 
 • **Endereços Livres:** Trata-se dos locais ainda disponíveis para alocação de caixas.
@@ -91,7 +89,7 @@ Para usar o relatório é importante o entendimento de:
 
 O relatório contempla somente os endereços disponíveis para uso (posições com ícone de caixa verde) ou bloqueados pelo usuário. Não são exibidos neste relatório os endereços já utilizados (posições com ícone de caixa vermelha).
 
-<p align="center"><img src="https://manual.arquivar.com/guia-do-cliente/~gitbook/image?url=https%3A%2F%2F1023047207-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FtM1xGMYoU6wC7tnUUXEo%252Fuploads%252F6stPK815VJDAPIZwgmO8%252Fimage.png%3Falt%3Dmedia%26token%3D96778c00-1e53-4e02-bf6d-72df84792664&#x26;width=300&#x26;dpr=3&#x26;quality=100&#x26;sign=4f4b0614&#x26;sv=2" alt=""></p>
+<p align="center"><img src="../.gitbook/assets/image.png" alt=""></p>
 
 Outra definição importante, porém não contemplada nesse relatório é:
 
