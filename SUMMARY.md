@@ -147,7 +147,7 @@
   * [📁 Processos - Pastas](arqsign/processos-pastas/README.md)
     * [▫️ Configuração de pastas para clientes que ainda não assinaram processos](arqsign/processos-pastas/untitled.md)
     * [▫️ Configuração de pastas para clientes que já assinaram processos](arqsign/processos-pastas/configuracao-de-pastas-para-clientes-que-ja-assinaram-processos.md)
-  * [⚙️ Administração - Administração](arqsign/administracao-administracao/README.md)
+  * [🏬 Administração - Administração](arqsign/administracao-administracao/README.md)
     * [▫️ Conta](arqsign/administracao-administracao/conta.md)
     * [▫️ Usuários](arqsign/administracao-administracao/usuarios.md)
     * [▫️ Grupo de Usuários](arqsign/administracao-administracao/page-3.md)
