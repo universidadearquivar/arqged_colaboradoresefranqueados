@@ -1,4 +1,4 @@
-# 💡 Novidades do ArqGED
+# 🎥 Novidades do ArqGED
 
 **Campo CNPJ - Maio/2026**
 
